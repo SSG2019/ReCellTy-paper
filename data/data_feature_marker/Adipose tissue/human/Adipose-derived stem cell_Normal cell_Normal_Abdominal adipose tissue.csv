@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Adipose-derived,CD105,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD44,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD90,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD73,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD29,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,THY1,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell

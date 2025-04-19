@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD32,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD16,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,FCGR2A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage

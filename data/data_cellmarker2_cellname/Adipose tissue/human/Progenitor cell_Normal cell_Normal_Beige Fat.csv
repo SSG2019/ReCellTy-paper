@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Beige Fat,,Normal,Normal cell,Progenitor cell,CL_0011026,PDGFRa,
+Human,Adipose tissue,Beige Fat,,Normal,Normal cell,Progenitor cell,CL_0011026,PDGFRα,
+Human,Adipose tissue,Beige Fat,,Normal,Normal cell,Progenitor cell,CL_0011026,CD81,CD81

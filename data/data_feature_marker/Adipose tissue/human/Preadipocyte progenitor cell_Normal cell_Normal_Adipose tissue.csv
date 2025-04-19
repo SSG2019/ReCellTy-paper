@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+progenitor cell,Preadipocyte,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte progenitor cell
+progenitor cell,Preadipocyte,PDGFR-alpha,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte progenitor cell

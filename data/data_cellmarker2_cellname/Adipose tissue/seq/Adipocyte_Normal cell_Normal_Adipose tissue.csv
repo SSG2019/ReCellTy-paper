@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte,CL_0000136,PLIN,PLIN1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte,CL_0000136,RBP4,RBP4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte,CL_0000136,LEP,LEP
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte,CL_0000136,ADIPOQ,ADIPOQ

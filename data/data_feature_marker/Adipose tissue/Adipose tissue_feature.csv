@@ -1,0 +1,442 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte progenitor cell,Progenitor,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,Pdgfra,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,CD166,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,ALCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,LUM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,COL1A2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,MGP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,CFD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,WISP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,APOD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,CCN5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,PLIN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,RBP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,LEP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,ADIPOQ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,PLIN1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipose cell,multilineage-differentiating,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,multilineage-differentiating,SSEA-3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,stress-enduring,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,stress-enduring,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,progenitor,DLK1,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose progenitor cell
+Adipose progenitor cell,,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose progenitor cell
+Adipose progenitor cell,,ITGB1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose progenitor cell
+stem cell,Adipose-derived,CD105,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD44,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD90,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD73,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,CD29,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+stem cell,Adipose-derived,THY1,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD146,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD271,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD106,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,OCT4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,KLF4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,c-Myc,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,NANOG,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,SOX2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,Nestin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD13,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD29,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD44,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD90,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,Adipose-derived,CD105,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,CD200,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,CD142,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,F3,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Adipose-derived stromal cell,,DLK1,Human,Adipose tissue,Abdominal adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,Adipose-derived,CD10,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,Adipose-derived,CD141,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,,MME,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,,THBD,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Adipose-derived stromal cell,,CD142,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Adipose-derived stromal cell,,CD200,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Adipose-derived stromal cell,,F3,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+B cell,,IGKC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,B cell
+B cell,,IGHG3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,B cell
+Adipocyte,,Tnfrsf9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Beige adipocyte
+Adipogenic precursor cell,Beige,EBF2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Beige adipogenic precursor cell
+adipocyte,Brown,Ucp1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Brown adipocyte
+adipogenic precursor cell,Brown,EBF2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Brown adipogenic precursor cell
+Adipocyte,Dedifferentiation,CD106,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Dendritic cell,,HLA-DRA,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DRB1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dendritic cell
+Endoderm progenitor cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,CD133,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,PROM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endothelial cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD146,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD271,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD133,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ABCG2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,vWF,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD144,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NGFR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PDPN,Human,Adipose tissue,Lymph,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Adipose tissue,Lymph,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT4,Human,Adipose tissue,Lymph,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD146,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Thrombomodulin,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ECSCR,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,progenitor,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial progenitor cell
+Epithelial cell,,VE-cadherin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,VWF,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,VEGFR2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CLDN3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KDR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Fat cell,adipocyte,CIDEA,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FABP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,UCP1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,ZIC1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,DLK1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,BSCL2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,ADIPOR1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,DLK2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,ADIPOR2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,VSTM2A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,VSTM2B,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,CD137,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,PPARgamma,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,GLUT4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,CHC22,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,ACRP30,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FATP5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FATP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FATP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FATP6,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,FATP1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,gACRP30,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,Galectin-12,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,Leptin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,Perilipin-2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,PGC-1-alpha,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,TNFRSF9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,PPARG,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC2A4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,CLTCL1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,ADIPOQ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC27A5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC27A4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC27A2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC27A6,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fat cell,adipocyte,SLC27A1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fat cell (adipocyte)
+Fibroblast,,CD91,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,LRP1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Hematopoietic cell,,CD91,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,LRP1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Hematopoietic cell
+Hematopoietic stem cell,,CD45 PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Hematopoietic stem cell
+Endothelial cell,Immature,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell
+Endothelial cell,,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell
+Endothelial cell,,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell
+Innate lymphoid cell,1,IL-2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IFN-γ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBET,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IL2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBX21,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage
+macrophage,M1,TREM2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage
+macrophage,M2,CD163,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+macrophage,M2,FOLR2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD206,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+macrophage,M2,MRC1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+Macrophage,,CD14,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD32,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD16,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,FCGR2A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD45,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Macrophage
+Mast cell,,TPBS2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mast cell
+endothelial cell,Mature,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell
+endothelial cell,Mature,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell
+endothelial cell,,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell
+Megakaryocyte,Progenitor,CD71,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Megakaryocyte progenitor cell
+Megakaryocyte,Progenitor,TFRC,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Megakaryocyte progenitor cell
+Mesenchymal cell,,N-cadherin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,αSMA,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,Twist-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,Snail-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,vimentin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal cell
+Mesenchymal progenitor cell,,CD146 MCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal stem cell,,CD19,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD166,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD13,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD340,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49e,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD51,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD117,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD10,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD56,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD271,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD71,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD120a,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD106,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD140b,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49d,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Ly6A/E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,STRO-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD70,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD14,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NANOG,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,SOX2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,OCT4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TRA-1-60,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TRA-1-81,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,SSEA-4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ALCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ANPEP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ERBB2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGA5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGAV,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,KIT,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MME,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NCAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NGFR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TFRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TNFRSF1A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,POU5F1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PGC-1-alpha,Human,Adipose tissue,Brown adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,UCP1,Human,Adipose tissue,Brown adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,STRO-1,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD56,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD271,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD29,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD13,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NCAM1,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NGFR,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ANPEP,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Adipose tissue,Fat pad,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Leptin,Human,Adipose tissue,White adipose tissue,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stromal cell,Nerve growth factor receptor,CD271,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Ecto-5'-nucleotidase,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Cell adhesion and signaling,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Angiogenesis and proliferation,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Cell adhesion and migration,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,SUSD2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,MSCA-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesenchymal stromal cell
+Mesothelial cell,,Krt19,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Msln,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Upk3b,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Monocyte,,S100A9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Monocyte
+Monocyte,,CD45,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Monocyte
+Monocyte,,PTPRC,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Monocyte
+Mesenchymal stroma cell,Multipotent,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,Multipotent,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,Multipotent,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,NT5E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Natural killer cell,ADCC,CD16,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,ADCC,FCGR3A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,CD56,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,NCAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NKP46,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NCR1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NKG7,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,GNLY,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition,KLRK1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition,KLRD1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Apoptosis,FASL,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Apoptosis,FASLG,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Neuron,,MAP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,Synapsin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,NeuN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,Tuj1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Fibroblast,,vimentin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+Fibroblast,,collagen1a2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+Fibroblast,,collagen3a1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan-macrophage
+Pericyte,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD271,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,NGFR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+progenitor cell,Preadipocyte,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte progenitor cell
+progenitor cell,Preadipocyte,PDGFR-alpha,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte progenitor cell
+Preadipocyte,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte
+Preadipocyte,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte
+Preadipocyte,,Wt1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte
+Preadipocyte,Metabolism,CD36,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Preadipocyte
+Progenitor cell,,PDGFRa,Human,Adipose tissue,Beige Fat,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PDGFRα,Human,Adipose tissue,Beige Fat,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD81,Human,Adipose tissue,Beige Fat,Normal,Normal cell,Progenitor cell
+Smooth muscle cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CD146,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Stem cell,,CD34,Human,Adipose tissue,Adipose tissue,Lipoma,Cancer cell,Stem cell
+Stem cell,,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,P63,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,ABCG2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,FABP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,ITGB1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stem cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Stromal cell,,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,GREM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,NT5E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal cell,,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal cell
+Stromal vascular fraction cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stromal vascular fraction cell
+T cell,Th2,pGR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,pVIPR,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,HLA-B2705,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,pLMP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,T helper 2(Th2) cell
+Vascular smooth muscle cell,VSMC,ACTA2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,MYH11,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+White adipocyte,,Lep,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte
+White adipocyte,,Hoxc9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte
+White adipocyte,,Hoxc8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte
+Preadipocyte,White,IL6,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White preadipocyte
+Preadipocyte,White,CCL2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White preadipocyte
+Adipocyte,progenitor,Pdgfra,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,progenitor,WISP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,Aca-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,LUM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,COL1A2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,MGP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,CFD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,APOD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,CCN5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,PLIN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,RBP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,LEP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,ADIPOQ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,PLIN1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte
+B cell,,IGKC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,B cell
+B cell,,IGHG3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,B cell
+Adipocyte,,Tnfrsf9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Beige adipocyte
+Adipocyte,Brown,Ucp1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Brown adipocyte
+Dendritic cell,,HLA-DRA,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DRB1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dendritic cell
+Endothelial cell,,PECAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CLDN3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Epithelial cell
+Innate lymphoid cell,1,IL-2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IFN-γ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBET,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IL2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBX21,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+macrophage,M1,TREM2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage
+macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage
+Macrophage,M2,CD163,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+Macrophage,M2,FOLR2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M2 macrophage
+Mast cell,,TPBS2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mast cell
+Mesothelial cell,,Krt19,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Msln,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Upk3b,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Monocyte,,S100A9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Monocyte
+Natural killer cell,,NKG7,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+fibroblast,,vimentin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+fibroblast,,collagen1a2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+fibroblast,,collagen3a1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+Stem cell,,FABP4,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Stem cell
+Vascular smooth muscle cell,Vascular,ACTA2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,Vascular,MYH11,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,smooth muscle,ACTA2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,smooth muscle,MYH11,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,smooth muscle,TAGLN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+White adipocyte,,Lep,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte
+White adipocyte,,Hoxc9,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte
+White adipocyte,,Hoxc8,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,White adipocyte

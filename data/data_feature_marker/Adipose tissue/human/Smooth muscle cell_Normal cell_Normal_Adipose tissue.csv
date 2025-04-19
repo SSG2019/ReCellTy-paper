@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Smooth muscle cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CD146,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Smooth muscle cell

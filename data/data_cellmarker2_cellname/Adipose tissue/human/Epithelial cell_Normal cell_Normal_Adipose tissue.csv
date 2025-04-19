@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,VE-cadherin,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,VWF,VWF
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,VEGFR2,KDR
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Epithelial cell,CL_0000066,CLDN3,CLDN3

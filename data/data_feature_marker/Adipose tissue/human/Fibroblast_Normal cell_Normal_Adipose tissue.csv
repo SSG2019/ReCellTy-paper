@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,CD91,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,LRP1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Fibroblast

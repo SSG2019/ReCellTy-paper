@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Mature endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Mature endothelial cell,CL_0000115,CD34,CD34

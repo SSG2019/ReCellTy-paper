@@ -1,0 +1,27 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,CIDEA,CIDEA
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FABP4,FABP4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,UCP1,UCP1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,ZIC1,ZIC1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,DLK1,DLK1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,BSCL2,BSCL2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,ADIPOR1,ADIPOR1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,DLK2,DLK2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,ADIPOR2,ADIPOR2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,VSTM2A,VSTM2A
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,VSTM2B,VSTM2B
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,CD137,TNFRSF9
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,PPARgamma,PPARG
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,GLUT4,SLC2A4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,CHC22,CLTCL1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,ACRP30,ADIPOQ
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FATP5,SLC27A5
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FATP4,SLC27A4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FATP2,SLC27A2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FATP6,SLC27A6
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,FATP1,SLC27A1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,gACRP30,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,Galectin-12,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,Leptin,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,Perilipin-2,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Fat cell (adipocyte),CL_0000136,PGC-1-alpha,

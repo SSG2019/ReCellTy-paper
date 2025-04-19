@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stromal cell,Adipose-derived,CD10,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,Adipose-derived,CD141,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,,MME,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+stromal cell,,THBD,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Adipose-derived stromal cell

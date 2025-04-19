@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,1,IL-2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IFN-γ,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBET,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,IL2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1
+Innate lymphoid cell,1,TBX21,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Innate lymphoid cell 1

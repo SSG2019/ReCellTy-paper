@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,Dedifferentiation,CD106,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD29,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte
+Adipocyte,Dedifferentiation,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Dedifferentiation adipocyte

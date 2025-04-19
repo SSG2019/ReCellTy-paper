@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+endothelial cell,Mature,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell
+endothelial cell,Mature,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell
+endothelial cell,,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Mature endothelial cell

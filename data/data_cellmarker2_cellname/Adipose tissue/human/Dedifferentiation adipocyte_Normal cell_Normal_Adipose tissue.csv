@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,CD106,VCAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,CD29,ITGB1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,HLA-ABC,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,CD45,PTPRC
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Dedifferentiation adipocyte,CL_0000136,CD44,CD44

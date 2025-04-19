@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesothelial cell,,Krt19,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Msln,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,Upk3b,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Mesothelial cell

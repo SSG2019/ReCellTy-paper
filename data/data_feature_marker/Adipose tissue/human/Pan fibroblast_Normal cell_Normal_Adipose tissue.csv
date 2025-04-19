@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,vimentin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+Fibroblast,,collagen1a2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast
+Fibroblast,,collagen3a1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Pan fibroblast

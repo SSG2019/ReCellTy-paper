@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Innate lymphoid cell 1,CL_0001077,IL-2,IL2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Innate lymphoid cell 1,CL_0001077,IFN-γ,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Innate lymphoid cell 1,CL_0001077,TBET,TBX21

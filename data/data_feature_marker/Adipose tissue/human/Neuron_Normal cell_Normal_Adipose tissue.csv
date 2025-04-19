@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,MAP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,Synapsin,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,NeuN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron
+Neuron,,Tuj1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Neuron

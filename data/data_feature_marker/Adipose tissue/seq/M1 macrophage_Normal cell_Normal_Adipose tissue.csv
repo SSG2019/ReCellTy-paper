@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M1,TREM2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage
+macrophage,,CD68,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,M1 macrophage

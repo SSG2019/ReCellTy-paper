@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular smooth muscle cell,VSMC,ACTA2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,MYH11,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Vascular smooth muscle cell(VSMC)

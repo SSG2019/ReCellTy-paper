@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Immature,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell
+Endothelial cell,,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell
+Endothelial cell,,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Immature endothelial cell

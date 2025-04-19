@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipose cell,multilineage-differentiating,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,multilineage-differentiating,SSEA-3,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,stress-enduring,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell
+Adipose cell,stress-enduring,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose multilineage-differentiating stress-enduring cell

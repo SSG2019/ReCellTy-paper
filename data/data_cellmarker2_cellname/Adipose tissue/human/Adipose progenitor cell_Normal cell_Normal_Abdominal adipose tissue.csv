@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose progenitor cell,,DLK1,DLK1

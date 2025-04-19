@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,tissue repair,MERTK,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,anti-inflammatory,MERTK,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,phagocytosis,CD16,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,antibody-dependent cellular cytotoxicity,CD16,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,anti-inflammatory,CD206,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,tissue repair,CD206,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,complement receptor,CRIg,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,immune regulation,CRIg,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,anti-inflammatory,CD163,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,scavenging of hemoglobin,CD163,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,phagocytosis,FCGR3A,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,anti-inflammatory,MRC1,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,tissue repair,MRC1,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,complement receptor,VSIG4,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage
+Macrophage,immune regulation,VSIG4,Human,Abdomen,Abdomen,Normal,Normal cell,Macrophage

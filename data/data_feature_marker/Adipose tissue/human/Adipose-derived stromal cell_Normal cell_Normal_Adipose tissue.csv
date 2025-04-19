@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,Adipose-derived,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD44,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell
+Stromal cell,Adipose-derived,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipose-derived stromal cell

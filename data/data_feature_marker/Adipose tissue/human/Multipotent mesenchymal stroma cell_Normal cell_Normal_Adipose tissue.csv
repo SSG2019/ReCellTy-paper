@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stroma cell,Multipotent,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,Multipotent,CD73,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,Multipotent,CD105,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,CD45,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,NT5E,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell
+Mesenchymal stroma cell,,PTPRC,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Multipotent mesenchymal stroma cell

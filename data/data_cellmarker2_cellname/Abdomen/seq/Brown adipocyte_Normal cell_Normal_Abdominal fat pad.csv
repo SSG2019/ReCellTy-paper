@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Abdomen,Abdominal fat pad,,Normal,Normal cell,Brown adipocyte,CL_0000449,FABP4,FABP4
+Human,Abdomen,Abdominal fat pad,,Normal,Normal cell,Brown adipocyte,CL_0000449,PDGFRα ,
+Human,Abdomen,Abdominal fat pad,,Normal,Normal cell,Brown adipocyte,CL_0000449,UCP1,UCP1

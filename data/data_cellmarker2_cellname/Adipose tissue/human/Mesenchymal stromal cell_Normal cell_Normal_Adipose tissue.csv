@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD271,NGFR
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,SUSD2,SUSD2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,MSCA-1,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD44,CD44
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD105,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD73,NT5E
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD90,THY1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesenchymal stromal cell,CL_0000134,CD44,CD44

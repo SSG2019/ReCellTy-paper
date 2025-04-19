@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,Aca-1,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,Pdgfra,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,LUM,LUM
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,COL1A2,COL1A2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,MGP,MGP
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,CFD,CFD
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,WISP2,CCN5
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Adipocyte progenitor cell,,APOD,APOD

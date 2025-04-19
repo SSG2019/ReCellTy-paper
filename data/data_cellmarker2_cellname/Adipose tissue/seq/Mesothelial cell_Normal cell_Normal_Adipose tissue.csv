@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesothelial cell,CL_0000077,Krt19,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesothelial cell,CL_0000077,Msln,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Mesothelial cell,CL_0000077,Upk3b,

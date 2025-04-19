@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD200,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,CD142,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell
+Stem cell,,F3,Human,Adipose tissue,Visceral adipose tissue,Normal,Normal cell,Adipose-derived stem cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,B cell,CL_0000236,IGKC,IGKC
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,B cell,CL_0000236,IGHG3,IGHG3

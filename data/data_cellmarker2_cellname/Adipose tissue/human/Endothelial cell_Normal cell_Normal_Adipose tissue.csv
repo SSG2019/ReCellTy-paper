@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD271,NGFR
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD45,PTPRC
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD105,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD133,PROM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,ABCG2,ABCG2
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD105,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,vWF,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF

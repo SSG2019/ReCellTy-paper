@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD271,NGFR
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD45,PTPRC
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD105,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM

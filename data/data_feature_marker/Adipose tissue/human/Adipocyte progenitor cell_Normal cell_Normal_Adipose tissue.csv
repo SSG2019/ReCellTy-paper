@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte progenitor cell,Progenitor,CD90,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,THY1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,Pdgfra,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,CD166,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Progenitor,ALCAM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,LUM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,COL1A2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,MGP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,CFD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,WISP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,APOD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte progenitor cell,Adipocyte,CCN5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD105,
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD14,CD14
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD44,CD44
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD90,THY1
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD45,PTPRC
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD90,THY1
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD49d,
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD105,
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD31,PECAM1
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD34,CD34
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD44,CD44
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD29,ITGB1
+Human,Adipose tissue,Abdominal adipose tissue,UBERON_0007808,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD73,NT5E

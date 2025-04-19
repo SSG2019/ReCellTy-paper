@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endoderm progenitor cell,,CD31,PECAM1
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endoderm progenitor cell,,CD34,CD34
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Endoderm progenitor cell,,CD133,PROM1

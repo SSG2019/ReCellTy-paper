@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD31,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,CD34,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,PECAM1,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Adipose tissue,Subcutaneous adipose tissue,Normal,Normal cell,Pericyte

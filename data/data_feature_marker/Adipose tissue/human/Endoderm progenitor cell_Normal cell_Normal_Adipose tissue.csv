@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endoderm progenitor cell,,CD31,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,CD34,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,CD133,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,PECAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell
+Endoderm progenitor cell,,PROM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Endoderm progenitor cell

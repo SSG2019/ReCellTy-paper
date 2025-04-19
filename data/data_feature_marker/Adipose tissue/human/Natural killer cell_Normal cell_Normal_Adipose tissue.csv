@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,ADCC,CD16,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,ADCC,FCGR3A,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,CD56,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,NCAM1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NKP46,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NCR1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,NKG7,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,GNLY,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition,KLRK1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition,KLRD1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Apoptosis,FASL,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Apoptosis,FASLG,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Natural killer cell

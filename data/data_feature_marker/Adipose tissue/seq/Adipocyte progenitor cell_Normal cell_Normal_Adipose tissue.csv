@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,progenitor,Pdgfra,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,progenitor,WISP2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,Aca-1,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,LUM,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,COL1A2,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,MGP,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,CFD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,APOD,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell
+Adipocyte,,CCN5,Human,Adipose tissue,Adipose tissue,Normal,Normal cell,Adipocyte progenitor cell

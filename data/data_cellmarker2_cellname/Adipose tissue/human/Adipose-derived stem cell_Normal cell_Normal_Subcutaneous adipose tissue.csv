@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD13,ANPEP
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD29,ITGB1
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD44,CD44
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD34,CD34
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD31,PECAM1
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD141,THBD
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD10,MME
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD90,THY1
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,OCT4,POU5F1
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,SOX2,SOX2
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,NANOG,NANOG
+Human,Adipose tissue,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipose-derived stem cell,CL_0000034,CD105,

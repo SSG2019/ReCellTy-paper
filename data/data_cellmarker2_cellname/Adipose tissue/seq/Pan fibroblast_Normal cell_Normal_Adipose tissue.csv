@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pan fibroblast,,vimentin,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pan fibroblast,,collagen1a2,
+Human,Adipose tissue,Adipose tissue,UBERON_0001013,Normal,Normal cell,Pan fibroblast,,collagen3a1,
