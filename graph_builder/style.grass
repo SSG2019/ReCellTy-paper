@@ -1,0 +1,151 @@
+node {
+  diameter: 65px;
+  color: #604A0E;
+  border-color: #423204;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+  caption: "<id>";
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 5px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.HAS_TISSUE {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.BELONGS_TO_TISSUE_CLASS {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.IS_LOCATED_IN_TISSUE_TYPE {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.MARK_BROAD {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.MARK {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.BELONGS_TO_BROAD_CELL_TYPE {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+relationship.HAS_FEATURE_FUNCTION {
+  color: #A5ABB6;
+  shaft-width: 2px;
+  font-size: 0px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.BroadCellType {
+  color: #FFBD15;
+  border-color: #E19F01;
+  border-width: 6px;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 95px;
+  font-size: 18px;
+}
+node.Marker {
+  color: #FFDEA8;
+  border-color: #D7B676;
+  border-width: 4px;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 40px;
+  font-size: 13px;
+}
+node.TissueClass {
+  color: #811E6D;
+  border-color: #630A4F;
+  border-width: 8px;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 105px;
+  font-size: 20px;
+}
+node.TissueType {
+  color: #FD7C1A;
+  border-color: #DF5E06;
+  border-width: 8px;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 105px;
+  font-size: 20px;
+}
+node.Species {
+  color: #9D5C39;
+  border-color: #753E1B;
+  border-width: 10px;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 120px;
+  font-size: 23px;
+}
+node.FeatureFunction {
+  color: #BD96C3;
+  border-color: #9F78A5;
+  border-width: 4px;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 60px;
+  font-size: 13px;
+}
+node.CellName {
+  color: #FE5357;
+  border-color: #E03539;
+  border-width: 4px;
+  text-color-internal: #2A2C34;
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+  font-size: 15px;
+}
