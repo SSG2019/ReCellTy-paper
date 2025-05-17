@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,,SYCP3,Human,Gonad,Gonad,Normal,Normal cell,Germ cell
+Germ cell,,OCT4,Human,Gonad,Gonad,Normal,Normal cell,Germ cell
+Germ cell,,POU5F1,Human,Gonad,Gonad,Normal,Normal cell,Germ cell

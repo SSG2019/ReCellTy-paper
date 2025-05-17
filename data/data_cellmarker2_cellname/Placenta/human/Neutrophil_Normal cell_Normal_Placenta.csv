@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,CD66b,CEACAM8
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,CD16,FCGR3A
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,Myeloperoxidase,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,Arginase,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,CD15,FUT4
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,CD10,MME
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Neutrophil,CL_0000775,CD11c,

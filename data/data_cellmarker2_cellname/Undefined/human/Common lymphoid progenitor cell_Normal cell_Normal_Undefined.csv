@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Common lymphoid progenitor cell,CL_0000051,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Common lymphoid progenitor cell,CL_0000051,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Common lymphoid progenitor cell,CL_0000051,CD10,MME
+Human,Undefined,Undefined,,Normal,Normal cell,Common lymphoid progenitor cell,CL_0000051,CD45RA,

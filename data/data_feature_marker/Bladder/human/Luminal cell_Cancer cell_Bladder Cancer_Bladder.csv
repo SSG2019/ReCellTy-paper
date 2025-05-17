@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Luminal cell,Growth factor signaling,ERBB2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Growth factor signaling,ERBB3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Luminal differentiation,GATA3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,UPK2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,UPK1A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,uroplakins,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT18,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT20,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Regulation of gene expression,FOXA1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Lipid metabolism,PPARG,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Lipid metabolism,FABP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Cell growth and differentiation,FGFR3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell

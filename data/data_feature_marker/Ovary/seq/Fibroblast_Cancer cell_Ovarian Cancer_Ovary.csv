@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,FAP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDPN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast

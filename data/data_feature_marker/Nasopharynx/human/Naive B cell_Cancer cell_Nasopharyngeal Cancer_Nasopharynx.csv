@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,TCL1A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,IGHD,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell

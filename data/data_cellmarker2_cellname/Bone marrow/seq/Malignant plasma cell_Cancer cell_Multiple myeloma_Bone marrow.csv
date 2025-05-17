@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple myeloma,Cancer cell,Malignant plasma cell,,FRZB,FRZB
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple myeloma,Cancer cell,Malignant plasma cell,,IFI27,IFI27
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple myeloma,Cancer cell,Malignant plasma cell,,IL6R,IL6R
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple myeloma,Cancer cell,Malignant plasma cell,,DKK1,DKK1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple myeloma,Cancer cell,Malignant plasma cell,,EDNRB,EDNRB

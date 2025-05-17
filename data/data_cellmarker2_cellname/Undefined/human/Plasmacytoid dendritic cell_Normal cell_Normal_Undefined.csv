@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,IRF8,IRF8
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD123,IL3RA
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,E2-2,TCF4
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD283,TLR3
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD304,NRP1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD85g,LILRA4
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD289,TLR9
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD303,CLEC4C
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD370,CLEC9A
+Human,Undefined,Undefined,,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD287,

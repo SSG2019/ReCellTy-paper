@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,NKG2A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD94,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD3,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRD1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell

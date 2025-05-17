@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Basal cell,CL_0000646,KRT14,KRT14
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Basal cell,CL_0000646,KRT5,KRT5

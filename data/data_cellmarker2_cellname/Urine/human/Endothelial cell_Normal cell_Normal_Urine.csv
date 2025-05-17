@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Endothelial cell,CL_0000115,IFI44,IFI44
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Endothelial cell,CL_0000115,IFIT1,IFIT1
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Endothelial cell,CL_0000115,IFIT3,IFIT3

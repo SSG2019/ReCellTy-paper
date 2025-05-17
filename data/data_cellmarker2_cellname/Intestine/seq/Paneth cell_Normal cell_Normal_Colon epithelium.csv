@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Paneth cell,CL_0000510,PLA2G2A,PLA2G2A
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Paneth cell,CL_0000510,DEFA6,DEFA6
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Paneth cell,CL_0000510,ITLN2,ITLN2
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Paneth cell,CL_0000510,DEFA5,DEFA5

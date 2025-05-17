@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD8A,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CCL5,CCL5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD38,CD38

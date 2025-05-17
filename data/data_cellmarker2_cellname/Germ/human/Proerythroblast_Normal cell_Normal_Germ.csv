@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Proerythroblast,CL_0000547,PU.1,SPI1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Proerythroblast,CL_0000547,CD71,TFRC
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Proerythroblast,CL_0000547,CD105,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Proerythroblast,CL_0000547,Glycophorin,

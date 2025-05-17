@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell,,CD52,CD52
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell,,PDL2,PDCD1LG2
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell,,HDAC6,HDAC6
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell,,NOTCH1,NOTCH1
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell,,PDL1,CD274

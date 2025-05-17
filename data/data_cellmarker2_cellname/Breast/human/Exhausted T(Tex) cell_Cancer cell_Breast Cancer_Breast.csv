@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,GPR25,GPR25
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,INPP5F,INPP5F

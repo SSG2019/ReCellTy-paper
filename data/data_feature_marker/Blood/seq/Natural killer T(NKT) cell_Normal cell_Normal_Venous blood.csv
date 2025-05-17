@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,NKG7,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCR3,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRD1,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3D,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD2,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3E,Human,Blood,Venous blood,Normal,Normal cell,Natural killer T(NKT) cell

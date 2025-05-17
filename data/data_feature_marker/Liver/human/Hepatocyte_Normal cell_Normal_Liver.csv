@@ -1,0 +1,35 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatocyte,,Albumin,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Epithelial,CK8,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Epithelial,CK18,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Epithelial,Keratin-8,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Epithelial,Keratin-18,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,CALLA,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Epithelial,CAM 5.2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Liver Development,AFP,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Liver Function,HNF4a,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Bile Secretion,MRP2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Tight Junctions,ZO-1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Drug Metabolism,CYP3A4,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Drug Metabolism,CYP2C9,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Urea Cycle,ARG1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Urea Cycle,CPS1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Amino Acid Metabolism,TAT,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Liver Development,CEBPA,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Stem Cell,Lgr5,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Stem Cell,Prom1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Stem Cell,Axin2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Protease Inhibition,Serpina1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Transport Protein,Ttr,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,Transport Protein,APOA2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,AST,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,HAVCR1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,DUOX2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,FOXA1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,ASGR1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,ASGPR1,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,FGB,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,GATA6,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,A2M,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,GATA4,Human,Liver,Liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,TGM2,Human,Liver,Liver,Normal,Normal cell,Hepatocyte

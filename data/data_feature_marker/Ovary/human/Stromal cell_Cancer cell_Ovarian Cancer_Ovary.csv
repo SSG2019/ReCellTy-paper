@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,Vascular,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Vascular,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Muscle-related,SMA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,Vimentin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,COL1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,FGFR1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,SMN1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell

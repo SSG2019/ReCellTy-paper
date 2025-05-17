@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Germ cell tumor,Cancer cell,Cancer cell,CL_0001064,AFP,AFP
+Human,Blood,Blood,UBERON_0000178,Germ cell tumor,Cancer cell,Cancer cell,CL_0001064,β-HCG,
+Human,Blood,Blood,UBERON_0000178,Germ cell tumor,Cancer cell,Cancer cell,CL_0001064,LDH,

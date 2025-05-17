@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Urothelial cell,CL_0000731,GATA3,GATA3
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Urothelial cell,CL_0000731,p63,RPE65
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Urothelial cell,CL_0000731,uroplakin II,

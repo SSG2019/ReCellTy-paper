@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,A1 astrocyte,,CFB,CFB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,A1 astrocyte,,C3,C3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,A1 astrocyte,,MX1S,

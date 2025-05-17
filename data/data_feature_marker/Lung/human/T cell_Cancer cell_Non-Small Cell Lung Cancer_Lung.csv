@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell
+T cell,,CD8,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell
+T cell,,CD103,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell
+T cell,,ITGAE,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,T cell

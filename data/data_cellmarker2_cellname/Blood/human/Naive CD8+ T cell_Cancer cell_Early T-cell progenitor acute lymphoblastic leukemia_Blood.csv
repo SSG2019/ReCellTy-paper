@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,LEF1,LEF1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,TCF7,TCF7
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,NELL2,NELL2
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,FOXP1,FOXP1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Naive CD8+ T cell,,IL7R,IL7R

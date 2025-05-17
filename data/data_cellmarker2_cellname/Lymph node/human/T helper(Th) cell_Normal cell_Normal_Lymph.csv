@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T helper(Th) cell,,CCR6,CCR6
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T helper(Th) cell,,CD161,KLRB1

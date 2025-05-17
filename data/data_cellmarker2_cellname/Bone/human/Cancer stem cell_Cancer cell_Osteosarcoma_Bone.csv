@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,Sox4,
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,KDR,KDR
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,Sox9,
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,SPARC,SPARC
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1

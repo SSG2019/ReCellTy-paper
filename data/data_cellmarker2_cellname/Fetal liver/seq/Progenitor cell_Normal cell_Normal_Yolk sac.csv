@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetal liver,Yolk sac,UBERON_0001040,Normal,Normal cell,Progenitor cell,CL_0011026,SPINK1,SPINK1

@@ -1,0 +1,89 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+Cancer stem cell,Cancer,c-Myc,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYC,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A1,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,Sox-2,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+T cell,Cytotoxic,NKG7,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cytotoxic T cell
+Endothelial cell,,PECAM1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,ZO-1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TJP1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt19,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+T cell,Exhausted,LAG3,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,LAG3,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Exhausted T(Tex) cell
+Fibroblast,,COL1A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Macrophage,M1,FCGR3A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,M1 macrophage
+Macrophage,M2,CD163,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,M2 macrophage
+Mast cell,,TPSAB1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mast cell
+B cell,Memory,CD27,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+B cell,,TCL1A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+Mesenchymal cell,EMT,snail1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,slug,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ZEB1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ZEB2,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,β-catenin,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,CDH2,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,claudin-1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CLDN7,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+B cell,Mucosa associated,JCHAIN,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,Mucosa associated,IGHA,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,,IGHM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+Myeloid-derived cell,,CD68,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+Myeloid-derived cell,,CSF3R,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+Myeloid-derived cell,,LYZ,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+B cell,Naive,TCL1A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,IGHD,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+T cell,Naive,CCR7,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,CD3G,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Plasma cell,,MZB1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+T cell,Regulatory,FOXP3,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3E,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,KLRF1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+B cell,,CD79A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+T cell,Cytotoxic,NKG7,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cytotoxic T cell
+Endothelial cell,,PECAM1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,Krt19,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+T cell,Exhausted,LAG3,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Exhausted T(Tex) cell
+Fibroblast,,COL1A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Macrophage,M1,FCGR3A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,M1 macrophage
+Macrophage,M2,CD163,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,M2 macrophage
+Mast cell,,TPSAB1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mast cell
+B cell,Memory,CD27,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+B cell,,TCL1A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Memory B cell
+B cell,Mucosa associated,JCHAIN,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,Mucosa associated,IGHA,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,invariant,IGHM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+Myeloid-derived cell,,CD68,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+Myeloid-derived cell,,CSF3R,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+Myeloid-derived cell,,LYZ,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell
+B cell,Naive,TCL1A,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,MS4A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+B cell,,IGHD,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive B cell
+T cell,Naive,CCR7,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,CD3G,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Plasma cell,,MZB1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+T cell,Regulatory,FOXP3,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3E,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,KLRF1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell

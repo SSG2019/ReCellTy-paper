@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD133,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,EpCAM,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD90,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,OV6,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD13,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD54,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD56,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,SOX2,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,OCT4A,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,KLF8,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,AFP,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,GPC3,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Doublecortin-like kinase 1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,OCT4,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD24,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,BIRC5,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CHEK1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PLK1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,THY1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ICAM1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,NCAM1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,POU5F1,Human,Liver,Liver,Liver Cancer,Cancer cell,Cancer stem cell

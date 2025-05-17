@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Macrophage

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Neurogenic,NGN2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,ASCL1,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,DCX,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,GPM6A,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,RTN4,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,GPM6B,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,FZD3,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,NEUROG2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Retinal,EFNB2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell

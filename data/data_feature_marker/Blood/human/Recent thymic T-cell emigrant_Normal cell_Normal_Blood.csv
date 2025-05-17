@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Recent thymic emigrant,CD45RA,Human,Blood,Blood,Normal,Normal cell,Recent thymic T-cell emigrant
+T cell,Recent thymic emigrant,CCR7,Human,Blood,Blood,Normal,Normal cell,Recent thymic T-cell emigrant
+T cell,Recent thymic emigrant,CD31,Human,Blood,Blood,Normal,Normal cell,Recent thymic T-cell emigrant
+T cell,Recent thymic emigrant,PECAM1,Human,Blood,Blood,Normal,Normal cell,Recent thymic T-cell emigrant

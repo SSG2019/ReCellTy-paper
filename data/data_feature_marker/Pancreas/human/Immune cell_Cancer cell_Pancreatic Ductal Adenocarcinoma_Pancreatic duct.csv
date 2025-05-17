@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CTLA4,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,CD39,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,FOXP3,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,ENTPD1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell

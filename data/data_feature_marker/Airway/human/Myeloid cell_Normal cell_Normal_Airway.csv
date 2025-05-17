@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD14,Human,Airway,Airway,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Airway,Airway,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD163,Human,Airway,Airway,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Airway,Airway,Normal,Normal cell,Myeloid cell

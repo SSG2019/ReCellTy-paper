@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+progenitor cell,Lymphoid-primed,FCER1A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP)
+progenitor cell,multipotent,SPINK2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP)
+progenitor cell,multipotent,EGR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP)

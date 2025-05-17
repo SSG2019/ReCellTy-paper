@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tissue resident memory,CCL4L2,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,GZMB,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CCL5,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CCL4,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CXCR6,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Undefined,Undefined,Normal,Normal cell,Tissue resident memory T(TRM) cell

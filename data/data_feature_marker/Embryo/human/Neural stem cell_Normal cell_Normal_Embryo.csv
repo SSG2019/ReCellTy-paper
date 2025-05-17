@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural stem cell,,MAP2,Human,Embryo,Embryo,Normal,Normal cell,Neural stem cell
+Neural stem cell,,SOX1,Human,Embryo,Embryo,Normal,Normal cell,Neural stem cell
+Neural stem cell,,FABP7,Human,Embryo,Embryo,Normal,Normal cell,Neural stem cell

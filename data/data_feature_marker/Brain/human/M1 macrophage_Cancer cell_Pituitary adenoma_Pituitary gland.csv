@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,RANTES,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M1 macrophage
+Macrophage,M1,MCP1,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M1 macrophage
+Macrophage,M1,TNF-α,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M1 macrophage
+Macrophage,M1,CCL5,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M1 macrophage
+Macrophage,M1,CCL2,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M1 macrophage

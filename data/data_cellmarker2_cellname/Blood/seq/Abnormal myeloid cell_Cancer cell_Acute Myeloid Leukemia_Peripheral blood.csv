@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Abnormal myeloid cell,,PRTN3,PRTN3
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Abnormal myeloid cell,,ELANE,ELANE
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Abnormal myeloid cell,,AZU1,AZU1
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Abnormal myeloid cell,,CST7,CST7

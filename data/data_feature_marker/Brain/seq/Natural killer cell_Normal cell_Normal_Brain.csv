@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Natural killer,GNLY,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,KIR2DL3,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,KIR2DL1,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,KIR2DS4,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,GZMB,Human,Brain,Brain,Normal,Normal cell,Natural killer cell

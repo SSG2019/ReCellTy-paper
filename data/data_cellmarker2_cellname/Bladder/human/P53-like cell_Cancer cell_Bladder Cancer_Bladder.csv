@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,PCP4,PCP4
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,ACTC1,ACTC1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,PGM5,PGM5
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,DES,DES
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,ACTG2,ACTG2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,MFAP4,MFAP4
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,MYH11,MYH11
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,CNN1,CNN1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,P53-like cell,,FLNC,FLNC

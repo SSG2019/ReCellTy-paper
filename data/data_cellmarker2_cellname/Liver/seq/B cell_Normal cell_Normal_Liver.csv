@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,CD79B,CD79B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,RALY,RALY
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,HMGB2,HMGB2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,HMGB1,HMGB1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,MS4A127,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,TCL1A,TCL1A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,MZB1,MZB1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,LIX1,LIX1
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,SLC1A3,SLC1A3
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,PTN,PTN
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,TTYH1,TTYH1
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,SPARC,SPARC
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,ASCL1,ASCL1
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,HES1,HES1
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,FABP7,FABP7
+Human,Fetal brain,Ventricular zone,UBERON_0003053,Normal,Normal cell,Progenitor cell,CL_0011026,CLU,CLU

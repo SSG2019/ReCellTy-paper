@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,TAGLN,TAGLN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,TPM1,TPM1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,POSTN,POSTN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,MYL9,MYL9
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,TPM2,TPM2
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,HOPX,HOPX
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF),,MMP11,MMP11

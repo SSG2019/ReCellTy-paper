@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,MKI67,MKI67
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,ACTA2,ACTA2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,HPGD,HPGD
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,GATA6,GATA6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,IL18,IL18
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,MFAP4,MFAP4
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,MYH11,MYH11
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,SOX6,SOX6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,TOP2A,TOP2A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,STX2,STX2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,GINS2,GINS2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,CENPF,CENPF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,TYMS,TYMS
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,ADAMDEC1,ADAMDEC1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,GREM2,GREM2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,PCLAF,PCLAF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,WNT10A,WNT10A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Mesothelial cell,CL_0000077,ADAM28,ADAM28

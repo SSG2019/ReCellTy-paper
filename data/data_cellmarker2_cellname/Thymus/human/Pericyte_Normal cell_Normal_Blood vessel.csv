@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,MCAM,MCAM
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,CSPG4,CSPG4
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB

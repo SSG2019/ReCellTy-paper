@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell,CL_0000844,FOXO1,FOXO1
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell,CL_0000844,BCL6,BCL6
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell,CL_0000844,MEF2B,MEF2B
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell,CL_0000844,MME,MME

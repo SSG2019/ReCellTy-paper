@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Oviduct,UBERON_0000993,Normal,Normal cell,Natural killer cell,CL_0000623,CD3E,CD3E

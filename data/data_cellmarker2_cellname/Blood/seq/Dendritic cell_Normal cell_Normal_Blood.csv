@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CST3,CST3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,LYZ,LYZ
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CST3,CST3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,FLT3,FLT3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DPA1,HLA-DPA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DQA1,HLA-DQA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Pre-B,CD38,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-B cell
+B cell,Pre-B,CD10,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-B cell
+B cell,Pre-B,CD19,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-B cell
+B cell,Pre-B,TCL1A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-B cell
+B cell,Pre-B,MME,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-B cell

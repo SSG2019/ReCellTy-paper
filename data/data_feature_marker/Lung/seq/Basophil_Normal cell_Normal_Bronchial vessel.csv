@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basophil,,TPSAB1,Human,Lung,Bronchial vessel,Normal,Normal cell,Basophil
+Basophil,,CPA3,Human,Lung,Bronchial vessel,Normal,Normal cell,Basophil
+Basophil,,MS4A2,Human,Lung,Bronchial vessel,Normal,Normal cell,Basophil

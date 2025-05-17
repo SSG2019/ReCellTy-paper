@@ -1,0 +1,67 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,Leu-12,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Memory,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Naive,IgM,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD19,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,ZAP70,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Naive,IgD,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activated,CD38,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,CD24,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Mature,CD21,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD20,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,B-1,CD5,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Antigen Presentation,CD74,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,BCR,CD79A,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,BCR,CD79B,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,BCR,BLNK,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Mature,CD37,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD11c,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Apoptosis,CD95,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Antibody Secreting,T-bet,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Marginal Zone,MZB1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,LILRA4,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin,IGJ,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD22,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,HLA-A,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin,IGHG2,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CALR,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Plasma,TNFRSF17,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin,JCHAIN,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Plasma,XBP1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,BACH2,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,CD127,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activated,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD1c,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Mature,CR2,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD81,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activation,CD40,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,CD72,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin Receptor,FCGR2A,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Naive,IGHM,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,PAX5,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,SPIB,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,ITGB1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,BCR,FCRLA,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin,IGHA1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Naive,IGHD,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activation,FCER2,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,TCL1A,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,BCL11A,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,PLPP5,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,BCR,FCRL1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Survival,TNFRSF13C,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,YBX3,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,AHNAK,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,HLA-DPB1,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activation,NFKBIA,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activation,SWAP70,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,AIM2,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activation,IL4R,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Immunoglobulin,IGKC,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Apoptosis,FAS,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Antibody Secreting,TBX21,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Development,IL7R,Human,Blood,Peripheral blood,Normal,Normal cell,B cell
+B cell,Activated,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,B cell

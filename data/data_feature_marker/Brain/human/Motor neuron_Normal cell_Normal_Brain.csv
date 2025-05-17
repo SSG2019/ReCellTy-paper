@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Motor neuron,Cholinergic,VAChT,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,,ALDH1A2,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,,MNX1,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,Cholinergic,SLC5A7,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,Cholinergic,ACHE,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,,PRPH,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,Cholinergic,CHAT,Human,Brain,Brain,Normal,Normal cell,Motor neuron
+Motor neuron,Cholinergic,SLC18A3,Human,Brain,Brain,Normal,Normal cell,Motor neuron

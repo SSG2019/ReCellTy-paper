@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte-monocyte progenitor cell,Granulocyte-monocyte progenitor,MPO,Human,Bone marrow,Bone marrow,Normal,Normal cell,Granulocyte-monocyte progenitor cell(GMP)
+Granulocyte-monocyte progenitor cell,Granulocyte-monocyte progenitor,AZU1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Granulocyte-monocyte progenitor cell(GMP)

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Acan,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Slit2,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Csgalnact1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Cdh2,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Sox9,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Chst11,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Scar-forming astrocyte,,Pcanwas,

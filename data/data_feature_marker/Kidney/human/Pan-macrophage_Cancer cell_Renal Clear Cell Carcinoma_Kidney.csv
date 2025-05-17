@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pan-macrophage,,CD163,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Pan-macrophage
+Pan-macrophage,,CD69,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Pan-macrophage

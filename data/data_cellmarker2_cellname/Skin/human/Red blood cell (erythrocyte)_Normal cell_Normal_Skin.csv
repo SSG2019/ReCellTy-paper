@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235ab,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA2,HBA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA1,HBA1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,HAVCR2,HAVCR2
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,TIM3,HAVCR2
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,CXCL13,CXCL13
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,PD-1,PDCD1

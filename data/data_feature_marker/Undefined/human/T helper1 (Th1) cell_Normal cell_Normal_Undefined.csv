@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th1,CD4,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,CXCR3,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,STAT1,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,STAT4,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,TNF,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,IFN-gamma,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,T-bet,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,IL-12,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,IL-18,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,IL-27,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,TNF-alpha,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,TNF-beta,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,LT-alpha,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,LT-betaR,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell
+T cell,Th1,GM-CSF,Human,Undefined,Undefined,Normal,Normal cell,T helper1 (Th1) cell

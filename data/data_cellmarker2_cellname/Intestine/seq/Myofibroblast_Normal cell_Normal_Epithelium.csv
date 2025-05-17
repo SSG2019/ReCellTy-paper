@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,CENPF,CENPF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,WNT10A,WNT10A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,IL18,IL18
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,STX2,STX2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,GATA6,GATA6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,PCLAF,PCLAF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,GINS2,GINS2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,TYMS,TYMS
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,ADAMDEC1,ADAMDEC1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,GREM2,GREM2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,TOP2A,TOP2A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,HPGD,HPGD
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,ADAM28,ADAM28
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,SOX6,SOX6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,MKI67,MKI67
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,MYH11,MYH11
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Myofibroblast,CL_0000186,MFAP4,MFAP4

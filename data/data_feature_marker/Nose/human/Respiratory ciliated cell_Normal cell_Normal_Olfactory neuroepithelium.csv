@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Respiratory cell,Ciliated,CFAP126,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,Ciliated,FOXJ1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,,STOMl3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell

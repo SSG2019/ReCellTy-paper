@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,CD140b,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD111,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD156b,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD271,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,NECTIN1,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,NGFR,Human,Undefined,Undefined,Renal Clear Cell Carcinoma,Cancer cell,Fibroblast

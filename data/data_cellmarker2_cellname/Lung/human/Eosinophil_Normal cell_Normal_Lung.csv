@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Eosinophil,CL_0000771,ECP,RNASE3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Eosinophil,CL_0000771,CCL13,CCL13
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Eosinophil,CL_0000771,CCL5,CCL5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Eosinophil,CL_0000771,CCL11,CCL11

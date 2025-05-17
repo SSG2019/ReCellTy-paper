@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,ALDH2,ALDH2
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,ABCC3,ABCC3
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,CD3,
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,CD45,PTPRC
+Human,Lymph,Lymph,UBERON_0002391,Mantle cell lymphoma,Cancer cell,Cancer stem cell,,ABCC6,ABCC6

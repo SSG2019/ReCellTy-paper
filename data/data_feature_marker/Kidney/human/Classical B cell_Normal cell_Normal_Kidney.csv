@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD24,Human,Kidney,Kidney,Normal,Normal cell,Classical B cell
+B cell,,CD23,Human,Kidney,Kidney,Normal,Normal cell,Classical B cell
+B cell,,CD38,Human,Kidney,Kidney,Normal,Normal cell,Classical B cell
+B cell,,FCER2,Human,Kidney,Kidney,Normal,Normal cell,Classical B cell

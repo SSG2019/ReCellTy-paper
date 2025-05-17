@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,CD133,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,Nestin,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,OCT4,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,NANOG,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PROM1,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,POU5F1,Human,Gall bladder,Gall bladder,Gallbladder cancer,Cancer cell,Cancer stem cell

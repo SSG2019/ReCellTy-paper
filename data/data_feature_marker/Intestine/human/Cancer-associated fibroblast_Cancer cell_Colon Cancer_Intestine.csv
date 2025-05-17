@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,BRG1,Human,Intestine,Intestine,Colon Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Intestine,Intestine,Colon Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,SMARCA4,Human,Intestine,Intestine,Colon Cancer,Cancer cell,Cancer-associated fibroblast

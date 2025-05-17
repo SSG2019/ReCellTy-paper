@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,CD33,CD33
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,CD4,CD4
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,ITGAM,ITGAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,PTPRC,PTPRC
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,ITGAX,ITGAX
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,LAPTM5,LAPTM5
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Monocyte,CL_0000576,VIM,VIM

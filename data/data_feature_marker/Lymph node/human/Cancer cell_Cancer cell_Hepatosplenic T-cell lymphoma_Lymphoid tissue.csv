@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Cancer,CD56,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell
+cell,Cancer,EBER1,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell
+cell,Cancer,NCAM1,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,EBV+,CD77,Human,Liver,Liver,Lymphoma,Cancer cell,EBV+ B lymphoma cell
+B cell,Lymphoma,CD77,Human,Liver,Liver,Lymphoma,Cancer cell,EBV+ B lymphoma cell

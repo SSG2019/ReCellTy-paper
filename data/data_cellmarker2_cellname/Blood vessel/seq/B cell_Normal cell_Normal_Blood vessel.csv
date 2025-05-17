@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,Cd79a,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,Cd79b,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,Lybd,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,FCER2,FCER2
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,CD22,CD22
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,CD79B,CD79B
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A

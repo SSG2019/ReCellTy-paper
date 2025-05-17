@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,regulatory,FOXP3,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Memory regulatory T cell
+T cell,regulatory,CD25,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Memory regulatory T cell
+T cell,regulatory,IL2RA,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Memory regulatory T cell
+T cell,CD4,CD4,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Memory regulatory T cell
+T cell,,CD3,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Memory regulatory T cell

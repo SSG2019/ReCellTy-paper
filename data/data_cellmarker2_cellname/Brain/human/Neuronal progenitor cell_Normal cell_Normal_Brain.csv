@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neuronal progenitor cell,,TOP2A,TOP2A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neuronal progenitor cell,,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neuronal progenitor cell,,GMNN,GMNN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neuronal progenitor cell,,DLX6-AS1,DLX6-AS1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neuronal progenitor cell,,ASCL1,ASCL1

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,IL6ST,IL6ST
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,KIR2DL4,KIR2DL4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,KIR3DP1,KIR3DP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,pp65,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper(Th) cell,,CD38,CD38

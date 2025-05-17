@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Cancer stem cell,,ALDEFLUOR,
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Cancer stem cell,,CD44,CD44

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Periodontal ligament,CD34,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal ligament stem cell
+stem cell,Periodontal ligament,CD31,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal ligament stem cell
+stem cell,Periodontal ligament,PECAM1,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal ligament stem cell
+stem cell,,CD45,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal ligament stem cell
+stem cell,,PTPRC,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal ligament stem cell

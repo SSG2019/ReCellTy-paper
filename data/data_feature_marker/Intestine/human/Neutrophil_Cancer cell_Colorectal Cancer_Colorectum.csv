@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,FCGR3A,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Neutrophil
+Neutrophil,,CSF3R,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Neutrophil

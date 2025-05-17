@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+fibroblast,Inflammatory cancer‐associated,LMNA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,Inflammatory cancer‐associated,DPT,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,iCAF,PDGFRA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,iCAF,CFD,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)

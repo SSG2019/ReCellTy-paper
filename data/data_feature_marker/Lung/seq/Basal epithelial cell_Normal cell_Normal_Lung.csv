@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial cell,,KRT5,Human,Lung,Lung,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT14,Human,Lung,Lung,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT17,Human,Lung,Lung,Normal,Normal cell,Basal epithelial cell

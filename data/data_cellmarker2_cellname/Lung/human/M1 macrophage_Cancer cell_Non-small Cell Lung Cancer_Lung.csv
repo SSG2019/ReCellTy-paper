@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,CXCL10,CXCL10
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,CXCL11,CXCL11
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,CXCL9,CXCL9
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,STAT1,STAT1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,FAM26F ,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,M1 macrophage,CL_0000863,CXCL12,CXCL12

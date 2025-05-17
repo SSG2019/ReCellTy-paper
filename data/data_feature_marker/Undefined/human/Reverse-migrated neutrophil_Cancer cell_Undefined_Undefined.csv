@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Reverse-migrated,CD54,Human,Undefined,Undefined,Undefined,Cancer cell,Reverse-migrated neutrophil
+Neutrophil,Reverse-migrated,Cxcr1,Human,Undefined,Undefined,Undefined,Cancer cell,Reverse-migrated neutrophil
+Neutrophil,Reverse-migrated,ICAM1,Human,Undefined,Undefined,Undefined,Cancer cell,Reverse-migrated neutrophil

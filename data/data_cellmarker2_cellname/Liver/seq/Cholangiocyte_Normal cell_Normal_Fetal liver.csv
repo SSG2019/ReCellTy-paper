@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Cholangiocyte,CL_1000488,SPP1,SPP1
+Human,Liver,Fetal liver,,Normal,Normal cell,Cholangiocyte,CL_1000488,SOX9,SOX9

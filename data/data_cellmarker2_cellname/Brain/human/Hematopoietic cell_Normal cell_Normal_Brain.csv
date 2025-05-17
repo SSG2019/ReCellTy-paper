@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic cell,CL_0000988,SPINK2,SPINK2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic cell,CL_0000988,GATA2,GATA2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic cell,CL_0000988,CD34,CD34

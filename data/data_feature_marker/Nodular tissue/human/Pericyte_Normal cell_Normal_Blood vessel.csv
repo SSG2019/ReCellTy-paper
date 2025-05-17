@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD29,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,α-SMA,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,ITGB1,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Pericyte

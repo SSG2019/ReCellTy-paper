@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular endothelial cell,,ICAM1,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,PLVAP,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,CD34,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,CDH5,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,EOMES,EOMES
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,GZMK,GZMK
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,CD27,CD27
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,KLRG1,KLRG1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,CD44,CD44
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Effector memory T cell,CL_0000813,CD57,B3GAT1

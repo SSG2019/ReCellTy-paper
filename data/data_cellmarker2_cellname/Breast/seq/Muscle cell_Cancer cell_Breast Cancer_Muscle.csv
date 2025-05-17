@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Muscle cell,CL_0000187,ACTA2,ACTA2
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Muscle cell,CL_0000187,MYH11,MYH11
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Muscle cell,CL_0000187,MCAM,MCAM
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Muscle cell,CL_0000187,MYL9,MYL9

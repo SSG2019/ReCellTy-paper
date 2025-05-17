@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular cell,Pericyte,RGS5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,TM4SF1,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,CD34,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,CDH5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Extracellular matrix,ADAMTS9,Human,Eye,Retina,Normal,Normal cell,Vascular cell

@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,MCAB51,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,ZO-1,TJP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,ZO-2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Occludin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin-18,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,ZO-1,TJP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Vimentin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Beta-catenin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,N-cadherin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,TIE-2,TEK
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,CD34,CD34
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,Claudin-1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,PAX2,PAX2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,CD10,MME
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,CD13,ANPEP
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,CD326,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1

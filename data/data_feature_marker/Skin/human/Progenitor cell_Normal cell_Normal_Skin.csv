@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,EpCAM,Human,Skin,Skin,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PROM1,Human,Skin,Skin,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NCAM2,Human,Skin,Skin,Normal,Normal cell,Progenitor cell

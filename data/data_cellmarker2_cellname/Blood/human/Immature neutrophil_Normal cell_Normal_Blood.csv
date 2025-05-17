@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD15,FUT4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD11b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD101,CD101
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immature neutrophil,CL_0000776,CD66b,CEACAM8

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Epithelial adhesion,EPCAM,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratocyte differentiation,IVL,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial development,TP63,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cornified envelope formation,TGM1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cytokeratin presence,pan-Cytokeratin,Human,Skin,Skin,Normal,Normal cell,Epithelial cell

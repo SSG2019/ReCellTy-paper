@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Melanocyte,,PMEL,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MITF,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ME,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYR,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,APOD,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP2,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,cKit,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TRP-1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,HMB45,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MMP12,Human,Skin,Skin,Normal,Normal cell,Melanocyte

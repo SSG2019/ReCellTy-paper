@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5

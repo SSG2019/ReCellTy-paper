@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Gamma delta(γδ),TRDC,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD3D,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,FFAR4,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,SERTM1,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,STMN2,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,FXYD2,Human,Liver,Liver,Normal,Normal cell,Gamma delta(γδ) T cell

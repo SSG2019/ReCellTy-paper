@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,CLMN,CLMN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,PAH,PAH
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,TRHDE,TRHDE
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,BEND4,BEND4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,COL5A2,COL5A2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,OVOL2,OVOL2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,ADCY8,ADCY8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,PCED1B,PCED1B
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,SYT10,SYT10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex2,CL_0000540,LAMA2,LAMA2

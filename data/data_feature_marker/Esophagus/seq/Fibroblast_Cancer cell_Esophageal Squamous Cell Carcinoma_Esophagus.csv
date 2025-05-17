@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,DCN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast

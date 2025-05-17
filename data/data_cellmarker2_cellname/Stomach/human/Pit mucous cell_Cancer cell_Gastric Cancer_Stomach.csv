@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pit mucous cell,,TFF1,TFF1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pit mucous cell,,MUC5AC,MUC5AC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pit mucous cell,,GKN1,GKN1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pit mucous cell,,MUC5AC,MUC5AC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pit mucous cell,,GKN2,GKN2

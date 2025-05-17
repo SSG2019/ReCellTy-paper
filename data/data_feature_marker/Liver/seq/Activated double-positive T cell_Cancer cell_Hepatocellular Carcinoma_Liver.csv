@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,CD70,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Activated double-positive T cell
+T cell,,GNA15,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Activated double-positive T cell

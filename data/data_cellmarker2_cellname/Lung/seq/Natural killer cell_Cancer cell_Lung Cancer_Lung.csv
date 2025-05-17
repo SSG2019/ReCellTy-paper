@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Natural killer cell,CL_0000623,FCGR3A,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Natural killer cell,CL_0000623,KIR2DL3,KIR2DL3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1

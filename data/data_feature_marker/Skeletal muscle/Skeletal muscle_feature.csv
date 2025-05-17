@@ -1,0 +1,48 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pluripotent stem cell,Pluripotency,POU5F1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,SOX2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,NANOG,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,PAX1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,FOXC2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,COL2A1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,NODAL,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,T,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,TBX18,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,FOXC1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,MEOX1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,PAX3,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,NCAD,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,MEOX2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,HES7,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,F-ACTIN,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,UNCX,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,MIXL1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,SOX9,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,NAAOG,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,RIPPLY1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,TCF15,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,TBXT,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,,CDH2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,POU5F1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,SOX2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,NODAL,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,PAX1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,FOXC2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,COL2A1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,T,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,TBX18,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,FOXC1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,MEOX1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,PAX3,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,NCAD,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,MEOX2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,HES7,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,F-ACTIN,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,UNCX,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,MIXL1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,SOX9,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,NAAOG,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,RIPPLY1,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,TCF15,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,TBXT,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell
+Stem cell,,CDH2,Human,Skeletal muscle,Skeletal muscle,Normal,Normal cell,Pluripotent stem cell

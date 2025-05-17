@@ -1,0 +1,28 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CD34,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD10,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD38,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TBX21,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CASP5,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GSG1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,L1TD1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TP53TG5,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL18RAP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NMUR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PTGDR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD127,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,MME,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL7R,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,CD56,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,NCR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,KLRD1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,KLRF1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,NKG7,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,GNLY,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell
+Natural killer cell,NK function,NCAM1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Natural killer cell

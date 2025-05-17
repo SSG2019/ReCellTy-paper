@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,STAB1,STAB1
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,LYVE-1,LYVE1
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,STAB2,STAB2
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,CD32b,
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,GPR182,GPR182

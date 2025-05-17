@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M1,CD86,Human,Blood,Peripheral blood,Normal,Normal cell,M1 macrophage
+macrophage,M1,TLR2,Human,Blood,Peripheral blood,Normal,Normal cell,M1 macrophage
+macrophage,M1,TLR4,Human,Blood,Peripheral blood,Normal,Normal cell,M1 macrophage
+macrophage,M1,IL-1R-1,Human,Blood,Peripheral blood,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD80,Human,Blood,Peripheral blood,Normal,Normal cell,M1 macrophage

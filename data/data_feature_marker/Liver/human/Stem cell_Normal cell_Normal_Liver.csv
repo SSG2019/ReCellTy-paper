@@ -1,0 +1,34 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Stemness,OCT3/4,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,SOX2,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,NANOG,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LIN28,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LIN28A,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR5,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD133,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD34,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,Nestin,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Stemness,Musashi-1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hepatic,AFP,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hepatic,CK19,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hepatic,GST-P,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hepatic,FAT10,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Neural,NCAM,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Neural,NCAM1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Neural,SOX9,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Neural,DLK1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Epithelial,EpCAM,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Epithelial,Keratin-18,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Epithelial,Keratin-19,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Epithelial,KRT19,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,THY1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD44,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD49f,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,ITGA6,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,OV6,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,c-Kit,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,ALDH,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,PROM1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,ADAM17,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,DCAMKL-1,Human,Liver,Liver,Normal,Normal cell,Stem cell
+Stem cell,General Stem Cell Markers,UBD,Human,Liver,Liver,Normal,Normal cell,Stem cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,ALDH1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD24,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD133,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell

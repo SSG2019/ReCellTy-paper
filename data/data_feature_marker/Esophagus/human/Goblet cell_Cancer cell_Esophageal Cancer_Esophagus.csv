@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,TFF2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC5AC,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell

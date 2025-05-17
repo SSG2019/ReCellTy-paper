@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD44,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,EpCAM,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,LGR5,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,SOX2,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,NANOG,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,OCT3/4,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,DCLK1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,BMI1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,MSI1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1A1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,CD133,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,CD44,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,LGR5,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,SOX2,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,NANOG,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,OCT3/4,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,CD49f,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,CD29,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,BMI1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,MSI1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,PROM1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,ITGA6,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell
+stem cell,stem cell,ITGB1,Human,Intestine,Colorectum,Colorectum Cancer,Cancer cell,Cancer stem cell

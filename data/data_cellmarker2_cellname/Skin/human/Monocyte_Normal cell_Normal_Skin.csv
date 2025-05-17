@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD163,CD163
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,AIF1,AIF1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CSF1R,CSF1R
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,ITGAM,ITGAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,FCGR1A,FCGR1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,HLA-DRA,HLA-DRA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,EREG,EREG
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD88,C5AR1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,S100A9 ,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,THBS1,THBS1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Monocyte,CL_0000576,S100A9,S100A9

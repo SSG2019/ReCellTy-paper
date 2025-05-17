@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular cell,,VWF,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,CCL21,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,PECAM1,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,ADGRL4,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,ACVRL1,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,BMPR2,Human,Lung,Lung,Normal,Normal cell,Vascular cell
+Vascular cell,,FLT1,Human,Lung,Lung,Normal,Normal cell,Vascular cell

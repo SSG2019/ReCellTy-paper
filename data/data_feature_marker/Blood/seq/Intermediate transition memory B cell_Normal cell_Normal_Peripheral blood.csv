@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,IGHD,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate transition memory B cell
+B cell,Memory,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate transition memory B cell

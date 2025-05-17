@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Fabp4,Human,Liver,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD34,Human,Liver,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Esm1,Human,Liver,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Pcdh17,Human,Liver,Blood vessel,Normal,Normal cell,Epithelial cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Central memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,SELL,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD45RO,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,,CD69,Human,Skin,Skin,Normal,Normal cell,Central memory T cell

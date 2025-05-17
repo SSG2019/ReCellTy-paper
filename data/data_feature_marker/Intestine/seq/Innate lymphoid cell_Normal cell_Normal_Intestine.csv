@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,,GZMB,Human,Intestine,Intestine,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,IL7R,Human,Intestine,Intestine,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CSF2,Human,Intestine,Intestine,Normal,Normal cell,Innate lymphoid cell

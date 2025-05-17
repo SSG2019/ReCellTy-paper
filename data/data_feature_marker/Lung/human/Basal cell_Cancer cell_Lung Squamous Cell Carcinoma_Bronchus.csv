@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,,KRT5,Human,Lung,Bronchus,Lung Squamous Cell Carcinoma,Cancer cell,Basal cell
+Basal cell,,P63,Human,Lung,Bronchus,Lung Squamous Cell Carcinoma,Cancer cell,Basal cell

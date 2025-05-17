@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exausted,CTLA4,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,BTLA,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,PDCD1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,LAG3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell

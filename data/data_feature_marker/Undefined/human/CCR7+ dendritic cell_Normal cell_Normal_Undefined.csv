@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,CCR7+,CCR7,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,CCL22,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,CD83,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,LAMP3,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,FSCN1,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,IDO1,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell
+Dendritic cell,,BIRC3,Human,Undefined,Undefined,Normal,Normal cell,CCR7+ dendritic cell

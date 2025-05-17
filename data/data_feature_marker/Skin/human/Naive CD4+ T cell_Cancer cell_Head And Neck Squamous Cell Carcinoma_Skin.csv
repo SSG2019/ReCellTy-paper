@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,Naive,CD45RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell

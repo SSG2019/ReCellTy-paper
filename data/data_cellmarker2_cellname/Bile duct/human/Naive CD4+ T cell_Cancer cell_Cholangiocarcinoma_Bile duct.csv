@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,GZMK,GZMK
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,CD40LG,CD40LG
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,GZMA,GZMA
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,IL9R,IL9R
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,CD69,CD69
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell,CL_0000895,CD3D,CD3D

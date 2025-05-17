@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Epithelium,UBERON_0000483,Lung Carcinoid,Cancer cell,Smooth muscle cell,CL_0000192,PDGRB,
+Human,Lung,Epithelium,UBERON_0000483,Lung Carcinoid,Cancer cell,Smooth muscle cell,CL_0000192,COX4I2,COX4I2
+Human,Lung,Epithelium,UBERON_0000483,Lung Carcinoid,Cancer cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2

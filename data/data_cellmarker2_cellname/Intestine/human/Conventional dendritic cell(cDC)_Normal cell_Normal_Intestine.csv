@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CD1c,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,SLC38A1,SLC38A1

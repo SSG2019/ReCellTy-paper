@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Taste bud,Taste bud,UBERON_0001727,Normal,Normal cell,Stem cell,CL_0000034,LGR6,LGR6

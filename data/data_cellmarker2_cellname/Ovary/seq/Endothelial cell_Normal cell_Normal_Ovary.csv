@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,NNMT,NNMT
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,TXNIP,TXNIP
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CCL14,CCL14
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,RGS5,RGS5
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,SOCS3,SOCS3
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,ANGPT2,ANGPT2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CTGF,CCN2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,TM4SF1,TM4SF1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,EGFL7,EGFL7
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CCL21,CCL21
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,TFF3,TFF3
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5

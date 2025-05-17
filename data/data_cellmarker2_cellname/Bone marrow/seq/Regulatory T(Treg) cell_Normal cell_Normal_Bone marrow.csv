@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD45RA,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IL2RA,IL2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IKZF2,IKZF2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IL10RA,IL10RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3 +,

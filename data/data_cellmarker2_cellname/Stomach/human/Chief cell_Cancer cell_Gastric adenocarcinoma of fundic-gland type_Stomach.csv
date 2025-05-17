@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric adenocarcinoma of fundic-gland type,Cancer cell,Chief cell,,H+K+-ATPase,
+Human,Stomach,Stomach,UBERON_0000945,Gastric adenocarcinoma of fundic-gland type,Cancer cell,Chief cell,,pepsinogen-I,

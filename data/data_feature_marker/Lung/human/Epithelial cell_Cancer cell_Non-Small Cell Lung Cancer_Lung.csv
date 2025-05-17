@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Epithelial,EPCAM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,EpCAM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,CDH1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,E-cadherin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,KRT7,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,KRT18,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,KRT19,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,Cytokeratin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Epithelial,CD326,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell Adhesion,SDC1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell Adhesion,OCLN,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell Adhesion,α-catenin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell Adhesion,γ-catenin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell Adhesion,E-cadherin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TMEM190,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CAPS,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Memory Cell,CD4+,CD4,Human,Blood,Blood,Normal,Normal cell,CD4+ Terminally Differentiated Effector Memory Cell
+Memory Cell,Terminally Differentiated,CD45RA,Human,Blood,Blood,Normal,Normal cell,CD4+ Terminally Differentiated Effector Memory Cell

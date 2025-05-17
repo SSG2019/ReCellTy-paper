@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD144,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Endothelial cell

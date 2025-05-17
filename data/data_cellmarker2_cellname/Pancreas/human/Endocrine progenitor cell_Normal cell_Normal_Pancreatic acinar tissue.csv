@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic acinar tissue,UBERON_0001263,Normal,Normal cell,Endocrine progenitor cell,,CXCR4,CXCR4

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Antibody-dependent cellular cytotoxicity,CD16,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Antibody-dependent cellular cytotoxicity,FCGR3A,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Cytotoxic function,NKp30,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Cytotoxic function,NCR3,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD56,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell

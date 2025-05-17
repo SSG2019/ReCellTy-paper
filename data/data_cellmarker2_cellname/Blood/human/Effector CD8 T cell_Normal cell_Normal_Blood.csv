@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,GZMK,GZMK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,GZMB,GZMB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,GZMA,GZMA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,HLA-DRs,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,ZEB2,ZEB2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,NKG7,NKG7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,CCL5,CCL5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,FGFBP2,FGFBP2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,CX3CR1,CX3CR1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD8 T cell,,GZMH,GZMH

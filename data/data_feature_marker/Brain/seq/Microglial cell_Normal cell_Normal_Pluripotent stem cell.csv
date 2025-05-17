@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial,,P2RY12,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Microglial cell
+Microglial,,IBA1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Microglial cell
+Microglial,,TMEM119,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Microglial cell
+Microglial,,CX3CR1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Microglial cell
+Microglial,,AIF1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Microglial cell

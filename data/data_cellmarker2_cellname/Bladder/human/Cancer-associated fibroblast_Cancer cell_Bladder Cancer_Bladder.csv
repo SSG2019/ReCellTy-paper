@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,CD90,THY1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,PDGFRβ,
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,FAP,FAP
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,ACTA2,ACTA2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,TNC,TNC
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer-associated fibroblast,,FN1,FN1

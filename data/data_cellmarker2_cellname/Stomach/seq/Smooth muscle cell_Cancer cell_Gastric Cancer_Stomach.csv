@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Smooth muscle cell,CL_0000192,ACTN2,ACTN2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Smooth muscle cell,CL_0000192,MYH2,MYH2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Smooth muscle cell,CL_0000192,MYL2,MYL2

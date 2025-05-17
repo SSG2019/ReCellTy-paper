@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,,PDGFRB,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,LEPR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CXCL12,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mesenchymal stromal cell

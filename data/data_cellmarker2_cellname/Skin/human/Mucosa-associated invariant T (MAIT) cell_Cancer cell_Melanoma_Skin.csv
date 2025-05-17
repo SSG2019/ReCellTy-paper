@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD3,
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD28,CD28
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD161,KLRB1

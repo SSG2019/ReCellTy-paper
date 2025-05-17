@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,GrB+ Regulatory B cell,,IgM,
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,GrB+ Regulatory B cell,,CD1d,
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,GrB+ Regulatory B cell,,CD19,CD19
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,GrB+ Regulatory B cell,,CD147,BSG
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,GrB+ Regulatory B cell,,CD38,CD38

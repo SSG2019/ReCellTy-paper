@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,KRAS,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,TP53,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,PDAC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYCHNSCC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell

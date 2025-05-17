@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,CD127,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF4,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF18,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FoxP3,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL7R,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell

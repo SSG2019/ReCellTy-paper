@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CDH1,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell

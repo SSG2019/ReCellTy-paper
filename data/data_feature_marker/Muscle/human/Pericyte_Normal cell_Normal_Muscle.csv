@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD140b,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,NG2 proteoglycan,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,Alkaline phosphatase,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,PDGFR-alpha,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,PDGFR-beta,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Muscle,Muscle,Normal,Normal cell,Pericyte

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,THY1,THY1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,EMCN,EMCN
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,ITGA4,ITGA4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,PROCR,PROCR
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,ACE,ACE
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD34,CD34
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,RAB27B,RAB27B
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,SPINK2,SPINK2

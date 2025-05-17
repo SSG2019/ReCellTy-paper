@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

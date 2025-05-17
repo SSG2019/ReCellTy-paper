@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,ADGRG1,ADGRG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,GPR34,GPR34
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,GPR183,GPR183
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,CX3CR1,CX3CR1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,P2RY13,P2RY13
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Homeostatic microglial cell,,P2RY12,P2RY12

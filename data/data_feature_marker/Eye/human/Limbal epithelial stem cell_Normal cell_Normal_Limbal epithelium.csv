@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial stem cell,Limbal,CD166,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD146,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CXCR4,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD117,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD144,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,ALCAM,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,MCAM,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,KIT,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CDH5,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell

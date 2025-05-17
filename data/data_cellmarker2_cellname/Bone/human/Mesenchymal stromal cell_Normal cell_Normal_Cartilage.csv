@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,VCAM,
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD105,
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD146,MCAM
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD166,ALCAM

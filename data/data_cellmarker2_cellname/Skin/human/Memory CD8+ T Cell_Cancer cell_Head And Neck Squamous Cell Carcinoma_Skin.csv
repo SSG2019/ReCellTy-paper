@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell,CL_0000909,CD8,CD8A
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell,CL_0000909,CD27,CD27
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell,CL_0000909,CD3,

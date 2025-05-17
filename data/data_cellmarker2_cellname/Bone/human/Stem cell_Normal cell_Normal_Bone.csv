@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD146,MCAM
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,STRO-1,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD34,CD34
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD45,PTPRC
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD73,NT5E
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,STRO-1,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,Bone sialoprotein,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,RUNX2,RUNX2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,OSX,MID1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Stem cell,CL_0000034,CD34,CD34

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epiblast cell,,NANOG,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,SOX2,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,NODAL,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,POU5F1,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,PRDM14,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,KLF17,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell
+Epiblast cell,,FGF4,Human,Embryo,Embryo,Normal,Normal cell,Epiblast cell

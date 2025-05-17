@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,TSPO,TSPO
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,NOX1,NOX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,PTGS2,PTGS2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,NOS2,NOS2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,IL12A,IL12A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,M1 macrophage,CL_0000863,TNF,TNF

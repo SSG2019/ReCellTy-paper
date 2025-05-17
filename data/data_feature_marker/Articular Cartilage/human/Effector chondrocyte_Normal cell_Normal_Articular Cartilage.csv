@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+chondrocyte,Effector,KIF9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,CHRDL2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,TF,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,RARRES2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte

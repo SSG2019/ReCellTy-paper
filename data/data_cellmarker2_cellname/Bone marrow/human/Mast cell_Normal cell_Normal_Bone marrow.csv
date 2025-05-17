@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD203c,ENPP3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,c-Kit,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD2,CD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,Fc-epsilon RI-alpha,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,c-Kit,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD25,IL2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD25,IL2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD25,IL2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD2,CD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD203c,ENPP3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,FcRI,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast cell,CL_0000097,CD33,CD33

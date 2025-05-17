@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Epithelial cell,CL_0000066,Np63,
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Epithelial cell,CL_0000066,EZH2,EZH2
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Epithelial cell,CL_0000066,BRD4,BRD4

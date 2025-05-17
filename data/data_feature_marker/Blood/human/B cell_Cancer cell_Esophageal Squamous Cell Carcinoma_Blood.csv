@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGHG3,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell

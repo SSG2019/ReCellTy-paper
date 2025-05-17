@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,MS4A2,MS4A2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,HDC,HDC
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,CTSG,CTSG
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,TPSB2,TPSB2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mast cell,CL_0000097,HPGDS,HPGDS

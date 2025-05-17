@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,IL10,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,CD19,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,CD138,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,APRIL,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,IL6,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,SDC1,Human,Blood,Plasma,Normal,Normal cell,B cell
+B cell,,TNFSF13,Human,Blood,Plasma,Normal,Normal cell,B cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue-like memory B cell,,FCRL4,FCRL4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue-like memory B cell,,CD21,CR2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue-like memory B cell,,CD27,CD27

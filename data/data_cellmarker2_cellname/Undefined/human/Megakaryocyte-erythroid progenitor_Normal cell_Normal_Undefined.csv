@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD7,CD7
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD135,FLT3
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD10,MME
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,CD45RA,
+Human,Undefined,Undefined,,Normal,Normal cell,Megakaryocyte-erythroid progenitor,CL_0000050,IL3R-alpha,

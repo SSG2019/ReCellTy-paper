@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN),,p75NTR,NGFR
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN),,VACHT,SLC18A3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN),,CHAT,CHAT
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN),,ISL1,ISL1

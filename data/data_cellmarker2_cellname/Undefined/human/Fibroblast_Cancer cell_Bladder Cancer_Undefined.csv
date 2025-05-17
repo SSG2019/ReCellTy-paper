@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Bladder Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Undefined,Undefined,,Bladder Cancer,Cancer cell,Fibroblast,CL_0000057,TAGLN,TAGLN
+Human,Undefined,Undefined,,Bladder Cancer,Cancer cell,Fibroblast,CL_0000057,PDPN,PDPN

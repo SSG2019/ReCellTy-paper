@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD271,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD57,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD49d,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,NGFR,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,B3GAT1,Human,Germ,Germ,Normal,Normal cell,Neural crest cell

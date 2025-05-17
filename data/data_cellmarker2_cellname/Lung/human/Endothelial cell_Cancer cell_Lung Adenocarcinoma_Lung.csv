@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD105,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,claudin-1,CLDN7
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,E-cadherin,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,ZO-1,TJP1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,RAMP2,RAMP2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1

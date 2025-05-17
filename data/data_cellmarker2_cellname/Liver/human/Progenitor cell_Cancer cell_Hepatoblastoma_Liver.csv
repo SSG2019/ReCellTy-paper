@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatoblastoma,Cancer cell,Progenitor cell,CL_0011026,GPC3,GPC3
+Human,Liver,Liver,UBERON_0002107,Hepatoblastoma,Cancer cell,Progenitor cell,CL_0011026,AFP,AFP
+Human,Liver,Liver,UBERON_0002107,Hepatoblastoma,Cancer cell,Progenitor cell,CL_0011026,KRT19,KRT19
+Human,Liver,Liver,UBERON_0002107,Hepatoblastoma,Cancer cell,Progenitor cell,CL_0011026,EPCAM,EPCAM

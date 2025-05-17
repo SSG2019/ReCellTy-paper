@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,CD1C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CLEC10A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,CD1C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,CLEC10A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)

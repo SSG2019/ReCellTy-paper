@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD205,LY75
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,SIRPA,SIRPA
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD209,CD209
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD40,CD40
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,AIF1,AIF1
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD14,CD14
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,PD1-L2,
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,LAMP3,LAMP3
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CIITA,CIITA
+Human,Skin,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,PD1-L1,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Smooth muscle cell,,PDGRB,Human,Lung,Epithelium,Lung Carcinoid,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,COX4I2,Human,Lung,Epithelium,Lung Carcinoid,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Lung,Epithelium,Lung Carcinoid,Cancer cell,Smooth muscle cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cholangiocyte,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,FXYD2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte

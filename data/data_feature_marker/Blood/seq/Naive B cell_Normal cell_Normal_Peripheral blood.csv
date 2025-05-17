@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,IgD,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,IgM,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,IGHD,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,IGHM,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,TCL1A,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,Pdgfrb,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,Cspg4,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,Mcam,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,COX4I2,Human,Lung,Lung,Normal,Normal cell,Pericyte
+Pericyte,,Votch3,Human,Lung,Lung,Normal,Normal cell,Pericyte

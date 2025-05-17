@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 1(Th1) cell,CL_0000545,TBX21,TBX21
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 1(Th1) cell,CL_0000545,TNF,TNF
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 1(Th1) cell,CL_0000545,STAT1,STAT1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 1(Th1) cell,CL_0000545,STAT4,STAT4

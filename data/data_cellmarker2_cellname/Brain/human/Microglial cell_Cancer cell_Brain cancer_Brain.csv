@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,ADORA3,ADORA3
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,BIN1,BIN1
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,SALL1,SALL1
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,SALL1,SALL1
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Microglial cell,CL_0000129,TMEM119,TMEM119

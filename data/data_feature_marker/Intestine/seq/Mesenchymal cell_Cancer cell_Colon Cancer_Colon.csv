@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,EMT,VIM,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,CDH2,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Osteogenic differentiation,RUNX2,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Extracellular matrix organization,ECM1,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Extracellular matrix remodeling,MMP7,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Extracellular matrix,COL1A1,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Cell-matrix interactions,SPARC,Human,Intestine,Colon,Colon Cancer,Cancer cell,Mesenchymal cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Club cell,Secretory,SCGB1A,Human,Airway,Epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,GABRP,Human,Airway,Epithelium,Normal,Normal cell,Club cell (Clara cell)

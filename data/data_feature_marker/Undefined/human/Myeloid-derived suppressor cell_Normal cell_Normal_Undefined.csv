@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,suppressor,CD66b,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,VEGFR-1,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,CD124,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,CD11b,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,CEACAM8,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,IL4R,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,,CD33,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,,CD15,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell
+Myeloid cell,,FUT4,Human,Undefined,Undefined,Normal,Normal cell,Myeloid-derived suppressor cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,HIST1H4C,H4C3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,CLEC9A,CLEC9A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,PTTG1,PTTG1

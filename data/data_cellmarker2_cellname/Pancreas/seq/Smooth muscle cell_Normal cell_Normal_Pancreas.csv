@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Smooth muscle cell,CL_0000192,NOTCH3,NOTCH3
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Smooth muscle cell,CL_0000192,CSRP2,CSRP2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Smooth muscle cell,CL_0000192,RGS5,RGS5

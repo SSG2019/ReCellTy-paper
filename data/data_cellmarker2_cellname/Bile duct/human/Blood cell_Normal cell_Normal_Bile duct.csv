@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,PIM2,PIM2
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,OTUD5,OTUD5
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,SLC35A2,SLC35A2
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,GRIPAP1,GRIPAP1
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,PQBP1,PQBP1
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,TIMM17B,TIMM17B
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Blood cell,CL_0000081,KCND1,KCND1

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Megakaryocyte,GATA2,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte-erythroid-mast cell progenitor cell
+Progenitor cell,Megakaryocyte,GATA1,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte-erythroid-mast cell progenitor cell
+Progenitor cell,Erythroid,GATA2,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte-erythroid-mast cell progenitor cell
+Progenitor cell,Erythroid,GATA1,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte-erythroid-mast cell progenitor cell

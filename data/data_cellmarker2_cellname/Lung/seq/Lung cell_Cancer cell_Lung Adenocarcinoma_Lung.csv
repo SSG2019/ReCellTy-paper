@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Lung cell,,SFTPB,SFTPB
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Lung cell,,SFTPA1,SFTPA1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Lung cell,,SFTPA2,SFTPA2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Lung cell,,NAPSA,NAPSA

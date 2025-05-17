@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,CD23,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell
+B cell,Naive,IgM,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell
+B cell,Naive,IgD,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell
+B cell,Naive,FCER2,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell
+B cell,,CD38,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell

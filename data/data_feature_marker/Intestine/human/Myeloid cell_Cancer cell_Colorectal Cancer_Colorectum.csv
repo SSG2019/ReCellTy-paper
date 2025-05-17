@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CST7,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD4,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD63,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,MS4A7,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Myeloid cell

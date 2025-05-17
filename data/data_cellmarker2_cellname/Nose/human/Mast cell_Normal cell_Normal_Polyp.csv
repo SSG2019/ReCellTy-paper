@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,HPGDS,HPGDS
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,ALOX5AP,ALOX5AP
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,HDC,HDC
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,ALOX5,ALOX5
+Human,Nose,Polyp,,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1

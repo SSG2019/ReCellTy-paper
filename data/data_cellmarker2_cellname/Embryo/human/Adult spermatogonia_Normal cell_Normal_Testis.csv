@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Adult spermatogonia,,PLPPR3,PLPPR3
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Adult spermatogonia,,DCAF4L1,DCAF4L1
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Adult spermatogonia,,EGR4,EGR4
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Adult spermatogonia,,SIX1,SIX1

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,,CK19,KRT19
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,,SCA-1,CASP3
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,,CK5,KRT5
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,,ABCG2,ABCG2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,CL_0011026,PD-1,PDCD1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,CL_0011026,CD8,CD8A
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Progenitor cell,CL_0011026,TCF1,HNF1A

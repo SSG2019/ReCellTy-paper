@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Microvillar cell,,CFTR,CFTR
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Microvillar cell,,ASCL3,ASCL3
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Microvillar cell,,FOXL1,FOXL1
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Microvillar cell,,HEPACAM2,HEPACAM2

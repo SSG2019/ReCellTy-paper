@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chief cell,,PGA5,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Chief cell
+Chief cell,,GIF,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Chief cell
+Chief cell,,PGC,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Chief cell
+Chief cell,,CBLIF,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Chief cell

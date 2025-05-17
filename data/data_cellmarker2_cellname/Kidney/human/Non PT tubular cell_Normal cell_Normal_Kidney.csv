@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,UMOD,UMOD
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,SLC24A1,SLC24A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,SLC12A1,SLC12A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,SLC4A1,SLC4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,UPK3A,UPK3A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,AQP2,AQP2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Non PT tubular cell,,KRT17,KRT17

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,PTTG1,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,UBE2C,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,TOP2A,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,CENPF,Human,Urine,Urine,Normal,Normal cell,Fibroblast

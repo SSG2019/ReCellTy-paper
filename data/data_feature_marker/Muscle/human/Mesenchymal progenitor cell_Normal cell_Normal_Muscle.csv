@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,progenitor,CD105,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD73,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD90,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD146,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell

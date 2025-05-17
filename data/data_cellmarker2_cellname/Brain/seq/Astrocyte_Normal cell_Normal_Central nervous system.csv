@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Central nervous system,UBERON_0001017,Normal,Normal cell,Astrocyte,CL_0000127,ALDH1L1,ALDH1L1
+Human,Brain,Central nervous system,UBERON_0001017,Normal,Normal cell,Astrocyte,CL_0000127,S100B,S100B

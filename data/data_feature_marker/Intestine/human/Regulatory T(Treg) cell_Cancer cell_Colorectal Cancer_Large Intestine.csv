@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA-4,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,GITR,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD39,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD73,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,LAG-3,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA-4,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,GITR,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD39,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD73,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,LAG-3,Human,Intestine,Large Intestine,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell

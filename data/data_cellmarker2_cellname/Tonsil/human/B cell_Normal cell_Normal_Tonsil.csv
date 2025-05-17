@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,CD75,
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,CD23,FCER2
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,CD40,CD40
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,CD21,CR2
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,IFI44L,IFI44L
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,XAF1,XAF1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,B cell,CL_0000236,MX1,MX1

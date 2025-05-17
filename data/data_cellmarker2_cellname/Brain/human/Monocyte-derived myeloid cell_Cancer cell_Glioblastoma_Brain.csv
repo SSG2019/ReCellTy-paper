@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell,,CD209,CD209
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell,,CLEC12A,CLEC12A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell,,CLEC4E,CLEC4E

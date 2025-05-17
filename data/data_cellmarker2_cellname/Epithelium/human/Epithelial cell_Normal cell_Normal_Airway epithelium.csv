@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD24,CD24
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD13,ANPEP
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD324,CDH1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD126,IL6R
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD130,IL6ST
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD103,ITGAE
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD141,THBD
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD106,VCAM1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,CD1d,
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Epithelial cell,CL_0000066,iNOS,

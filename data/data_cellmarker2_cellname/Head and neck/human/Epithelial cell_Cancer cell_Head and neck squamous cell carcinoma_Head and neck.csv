@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Head and neck,Head and neck,,Head and neck squamous cell carcinoma,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Head and neck,Head and neck,,Head and neck squamous cell carcinoma,Cancer cell,Epithelial cell,CL_0000066,ZO1,
+Human,Head and neck,Head and neck,,Head and neck squamous cell carcinoma,Cancer cell,Epithelial cell,CL_0000066,β-catenin,

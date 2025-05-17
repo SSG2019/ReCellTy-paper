@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Lymphoid cell,CL_0001065,CD56,NCAM1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Lymphoid cell,CL_0001065,Granzyme B,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Lymphoid cell,CL_0001065,TIA1,TIA1

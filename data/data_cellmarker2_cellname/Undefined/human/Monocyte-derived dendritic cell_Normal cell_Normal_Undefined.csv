@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,Slsp1,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,S100A9,S100A9
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD1c,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,STAB1,STAB1
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CLEC10A,CLEC10A
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,FCER1A,FCER1A
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD226,CD226
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD163,CD163
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,S100A8,S100A8
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD1C,CD1C
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,VCAN,VCAN
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,FCGR2B,FCGR2B

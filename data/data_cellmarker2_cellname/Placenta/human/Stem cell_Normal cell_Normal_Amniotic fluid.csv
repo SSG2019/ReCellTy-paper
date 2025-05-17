@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD29,ITGB1
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD44,CD44
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD13,ANPEP
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,HLA-ABC,
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD73,NT5E
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD166,ALCAM
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,CD117,KIT
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,VEGFR-2,
+Human,Placenta,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Stem cell,CL_0000034,VEGFR-1,FLT1

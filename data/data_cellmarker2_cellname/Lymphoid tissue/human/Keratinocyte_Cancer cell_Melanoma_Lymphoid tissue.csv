@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Melanoma,Cancer cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Melanoma,Cancer cell,Keratinocyte,CL_0000312,KRT14,KRT14
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Melanoma,Cancer cell,Keratinocyte,CL_0000312,KRT10,KRT10
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Melanoma,Cancer cell,Keratinocyte,CL_0000312,KRT1,KRT1

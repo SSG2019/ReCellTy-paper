@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CD3,
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CD4,CD4
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CD11C,ITGAX
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CCR4,CCR4
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CXCR3,CXCR3
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T helper(Th) cell,,CCR6,CCR6

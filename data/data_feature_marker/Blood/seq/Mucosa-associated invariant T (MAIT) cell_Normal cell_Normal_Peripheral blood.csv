@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Mucosa-associated invariant,CD161,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,Mucosa-associated invariant,Vα7.2,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,Mucosa-associated invariant,TRAV1-2,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,SLC4A10,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CCR6,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,KLRB1,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,RORC,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,TRGV9,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD26,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,NCR3,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,GZMK,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,DPP4,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,IL7R,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,TRAV1-2/TRAJ33,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,TRAV1-2/TRAJ20,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,TRAV1-2/TRAJ12,Human,Blood,Peripheral blood,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell

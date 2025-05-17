@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CD40,CD40
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,IBA1,AIF1
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CD88,C5AR1
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CD11b,
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,P2X7R,
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,F4/80,
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,Iba1,
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,PU.1,SPI1
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Undefined,Undefined,,Normal,Normal cell,Microglial cell,CL_0000129,TREM2,TREM2

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper 2 (Th2),IL-10,Human,Lung,Lung,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),PD-1,Human,Lung,Lung,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),IL10,Human,Lung,Lung,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),PDCD1,Human,Lung,Lung,Normal,Normal cell,T helper 2(Th2) cell

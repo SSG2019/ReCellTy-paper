@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Immunoregulatory,CD56,Human,Blood,Peripheral blood,Normal,Normal cell,Immunoregulatory natural killer cell
+Natural killer cell,Immunoregulatory,NCAM1,Human,Blood,Peripheral blood,Normal,Normal cell,Immunoregulatory natural killer cell
+Natural killer cell,,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,Immunoregulatory natural killer cell
+Natural killer cell,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Immunoregulatory natural killer cell

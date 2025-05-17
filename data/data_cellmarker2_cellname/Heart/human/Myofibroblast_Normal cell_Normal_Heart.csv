@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,TGLN,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,Vimentin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,CD44,CD44
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,α-SMA,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,PDGFR,PDGFRB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,Fibronectin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,Collagen-1,

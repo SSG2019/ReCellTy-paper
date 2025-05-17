@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,CRYM,CRYM
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,SOX5,SOX5
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,BCL11B,BCL11B
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,TBR1,TBR1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,CTIP2,BCL11B
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,FOXP2,FOXP2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Deep layer neuron,,FEZF2,FEZF2

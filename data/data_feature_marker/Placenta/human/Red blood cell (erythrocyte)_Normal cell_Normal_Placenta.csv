@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,erythrocyte,HBA1,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBG1,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,ALAS2,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBB,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)

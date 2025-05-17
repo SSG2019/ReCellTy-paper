@@ -1,0 +1,488 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,CD25,Human,Thymus,Thymus,Normal,Normal cell,Activated T cell
+T cell,Activated,CD69,Human,Thymus,Thymus,Normal,Normal cell,Activated T cell
+T cell,Activated,CD44,Human,Thymus,Thymus,Normal,Normal cell,Activated T cell
+T cell,Activated,IL2RA,Human,Thymus,Thymus,Normal,Normal cell,Activated T cell
+B cell,,CD20,Human,Thymus,Thymus,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Thymus,Thymus,Normal,Normal cell,B cell
+Cancer cell,,Acta2,Human,Thymus,Thymus,Thoracic aortic aneurysm,Cancer cell,Cancer cell
+Cancer cell,,Myh11,Human,Thymus,Thymus,Thoracic aortic aneurysm,Cancer cell,Cancer cell
+Fibroblast,Capsular,SEMA3D,Human,Thymus,Thymus,Normal,Normal cell,Capsular fibroblast(Fb2)
+Fibroblast,Capsular,PI16,Human,Thymus,Thymus,Normal,Normal cell,Capsular fibroblast(Fb2)
+thymocyte,CD34+,CD34,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+thymocyte,,CD7,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+thymocyte,,CD123,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+thymocyte,,CD5,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+thymocyte,,CD44,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+thymocyte,,IL3RA,Human,Thymus,Thymus,Normal,Normal cell,CD34+ thymocyte
+T cell,CD4+,CD4,Human,Thymus,Thymus,Normal,Normal cell,CD4+ T cell
+T cell,,CD40LG,Human,Thymus,Thymus,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8B,Human,Thymus,Thymus,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Thymus,Thymus,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8,Human,Thymus,Thymus,Normal,Normal cell,CD8+ T cell
+Ciliated cell,,Prr18,Human,Thymus,Epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,,FOXJ1,Human,Thymus,Thymus,Normal,Normal cell,Ciliated cell
+Ciliated cell,,SOX2,Human,Thymus,Thymus,Normal,Normal cell,Ciliated cell
+Corneocyte-like cell,,IL1RN,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like cell,,LYPD2,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like cell,,FXYD3,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Cortical cell,,LY75,Human,Thymus,Thymus,Normal,Normal cell,Cortical cell
+Cortical thymus epithelial cell,,EpCAM,Human,Thymus,Thymus,Normal,Normal cell,Cortical thymus epithelial cell
+Cortical thymus epithelial cell,,CD45,Human,Thymus,Thymus,Normal,Normal cell,Cortical thymus epithelial cell
+Cortical thymus epithelial cell,,CDR2,Human,Thymus,Thymus,Normal,Normal cell,Cortical thymus epithelial cell
+Cortical thymus epithelial cell,,PTPRC,Human,Thymus,Thymus,Normal,Normal cell,Cortical thymus epithelial cell
+Dendritic cell,,BATF3,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC9A,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD83,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD80,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD141,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC9A,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Thymus,Thymus,Normal,Normal cell,Dendritic cell
+T cell,Early progenitor,CD7,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,LYL1,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,CD34,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+progenitor cell,progenitor,CD90,Human,Thymus,Thymus,Normal,Normal cell,Endodermal progenitor cell
+progenitor cell,Endodermal,THY1,Human,Thymus,Thymus,Normal,Normal cell,Endodermal progenitor cell
+Endothelial cell,,ACKR1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GJA4,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFC,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,APLNR,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Fetal thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Thymus,Fetal thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE1,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Epithelial cell,,KRT8,Human,Thymus,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PBSM11,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,LY75,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD205,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ivl,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Spink5,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Epcam,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT17,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AIRE,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FEZF2,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FZ4,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,WNT4,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,K8,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,NEUROD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DLK2,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXN1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CHGA,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PSMB11,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXI1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CHRNA1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AIRE,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD104,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PDPN,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAN-CK,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,HOXB2,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ITGB4,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Fibroblast,,PI16,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,SEMA3D,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,ALDH1A2,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,FBN1,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,COLEC11,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,GDF10,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,S100A4,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,FAP,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+T cell,γδ,TCRγδ,Human,Thymus,Thymus,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,γδ,Vγ9,Human,Thymus,Thymus,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,γδ,Vδ2,Human,Thymus,Thymus,Normal,Normal cell,Gamma delta(γδ) T cell
+Goblet cell,mucus production,Muc5ac,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,mucosal protection,Tff2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,Gp2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+medullary thymic epithelial cell,GP2-preferred,Cd177,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,GP2-preferred,Ccl9,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,GP2-preferred,Sca‐1,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+thymic epithelial cell,Immature,CTGF,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+thymic epithelial cell,Immature,CCN2,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+thymic epithelial cell,,ZBED2,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+Thymic epithelial cell,Immature,INSM1,Human,Thymus,Thymus,Normal,Normal cell,Immature medullary thymic epithelial cell
+Thymic epithelial cell,Medullary,ASCL1,Human,Thymus,Thymus,Normal,Normal cell,Immature medullary thymic epithelial cell
+Immune cell,,CD7,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,CD3D,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Fibroblast,Intrathymic,GDF10,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Fibroblast,Fb1,COLEC11,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Fibroblast,Intrathymic,ALDH1A2,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Macrophage,,CLEC10A,Human,Thymus,Fetal thymus,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Thymus,Fetal thymus,Normal,Normal cell,Macrophage
+Macrophage,,CD16,Human,Thymus,Thymus,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Thymus,Thymus,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DR,Human,Thymus,Thymus,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Thymus,Thymus,Normal,Normal cell,Macrophage
+Mast cell,,HDC,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+T lymphocyte,Mature,CD57,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,CD57,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Mature,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Mature,B3GAT1,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,B3GAT1,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+thymic epithelial cell,medullary,GP2,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+Medullary cell,,CLDN4,Human,Thymus,Thymus,Normal,Normal cell,Medullary cell
+Epithelial cell,Medullary thymus,EpCAM,Human,Thymus,Thymus,Normal,Normal cell,Medullary thymus epithelial cell
+T cell,Memory,CD45RO,Human,Thymus,Thymus,Normal,Normal cell,Memory T cell
+Mesenchymal cell,,LAMA2,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,LUM,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Thymus,Fetal thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Fetal thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,Pdpn,Human,Thymus,Thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Thymus,Thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Thymus,Normal,Normal cell,Mesenchymal cell
+Mesothelial cell,,MSLN,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,PRG4,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,UPK3B,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Monocyte,,CD14,Human,Thymus,Thymus,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Thymus,Thymus,Normal,Normal cell,Monocyte
+Monocyte,,HLA-DR,Human,Thymus,Thymus,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Thymus,Thymus,Normal,Normal cell,Monocyte
+Myeloid cell,,CD15,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11c,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid dendritic cell,,CD11c,Human,Thymus,Thymus,Normal,Normal cell,Myeloid dendritic cell
+Myoid cell,Myoid,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+Myoid cell,Myoid,MYOG,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+T cell,Naive,CCR7,Human,Thymus,Thymus,Normal,Normal cell,Naive CD4+ T cell
+T cell,Naive,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Naive CD4+ T cell
+T cell,CD4+,CD4,Human,Thymus,Thymus,Normal,Normal cell,Naive CD4+ T cell
+T cell,Naive,CD27,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+T cell,Naive,CCR7,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+T cell,Naive,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+T cell,CD8+,CD27,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+T cell,CD8+,CCR7,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+T cell,CD8+,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Naive CD8+ T cell
+Neuroendocrine cell,Neuroendocrine,CHGA,Human,Thymus,Thymus,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,Neuroendocrine,NEUROD1,Human,Thymus,Thymus,Normal,Normal cell,Neuroendocrine cell
+Pericyte,,MCAM,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Irf8,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Irf7,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Il3ra,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Spib,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Progenitor cell,,SPINK2,Human,Thymus,Fetal thymus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD34,Human,Thymus,Thymus,Normal,Normal cell,Progenitor cell
+Thymic epithelial cell,Proliferating,Mki67,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell
+Thymic epithelial cell,Medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell
+Red blood cell,,HBG1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,HBA1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,GYPA,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,Foxp3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,Helios,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,MIR155HG,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IKZF4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+Secretory cell,Secretory,Gp2,Human,Thymus,Epithelium,Normal,Normal cell,Secretory cell
+Stem cell,,CD34,Human,Thymus,Fetal thymus,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Thymus,Thymus,Normal,Normal cell,Stem cell
+Stromal cell,,IVL,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,PSMB11,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,FOXN1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,MYOD1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,AIRE,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,CLDN4,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,NEUROD1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,LY75,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+T cell,,TRBC2,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD1B,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,LCK,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD5,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD3,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD8,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,THY1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD3ε,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD1a,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CCR6,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD161,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD26,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG2,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD7,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,KLRB1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,DPP4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T helper cell,,Cd4,Human,Thymus,Thymus,Normal,Normal cell,T helper cell
+T helper cell,T follicular helper,Cxcr5,Human,Thymus,Thymus,Normal,Normal cell,T helper cell
+Thymic epithelial cell,,CXCL12,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,KRT5,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,PSMB11,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,CCL25,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,KRT8,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,DLL4,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,PRSS16,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,FOXN1,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,ck5,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CD49f,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,ZBED2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CTGF,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,ck8,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,ITGA6,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CCN2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymus seeding progenitor,,KIAA0087,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,CD53,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,CD164,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,LTB,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,HOXA10,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,HOPX,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,EVL,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,CCR7,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,ARL6IP5,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,HOXA9,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,KIAA0125,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,,FAM30A,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Tuft-like cell,Immune response,IL25,Human,Thymus,Thymus,Normal,Normal cell,Tuft-like cell
+Tuft-like cell,Differentiation,POU2F3,Human,Thymus,Thymus,Normal,Normal cell,Tuft-like cell
+Medullary thymic epithelial cell,Tuft-like,Pou2f3,Human,Thymus,Epithelium,Normal,Normal cell,Tuft-like medullary thymic epithelial cell
+Vascular smooth muscle cell,VSMC,PDGFRB,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,RGS5,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,FBN1,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,ACTA2,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+B cell,,CD20,Human,Thymus,Thymus,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Thymus,Thymus,Normal,Normal cell,B cell
+Cancer cell,,Acta2,Human,Thymus,Thymus,Thoracic aortic aneurysm,Cancer cell,Cancer cell
+Cancer cell,,Myh11,Human,Thymus,Thymus,Thoracic aortic aneurysm,Cancer cell,Cancer cell
+Fibroblast,Capsular,SEMA3D,Human,Thymus,Thymus,Normal,Normal cell,Capsular fibroblast(Fb2)
+Fibroblast,Capsular,FBN1,Human,Thymus,Thymus,Normal,Normal cell,Capsular fibroblast(Fb2)
+Fibroblast,Fb2,PI16,Human,Thymus,Thymus,Normal,Normal cell,Capsular fibroblast(Fb2)
+T cell,CD4+,CD4,Human,Thymus,Thymus,Normal,Normal cell,CD4+ T cell
+T cell,,CD40LG,Human,Thymus,Thymus,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8B,Human,Thymus,Thymus,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Thymus,Thymus,Normal,Normal cell,CD8+ T cell
+Ciliated cell,,Prr18,Human,Thymus,Epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,,FOXJ1,Human,Thymus,Thymus,Normal,Normal cell,Ciliated cell
+Ciliated cell,,SOX2,Human,Thymus,Thymus,Normal,Normal cell,Ciliated cell
+Corneocyte-like,,IL1RN,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like,epithelial differentiation,LYPD2,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like,,FXYD3,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Cortical cell,,LY75,Human,Thymus,Thymus,Normal,Normal cell,Cortical cell
+Dendritic cell,Cross-presentation,BATF3,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune response initiation,CLEC9A,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell
+T cell,Early progenitor,CD7,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,LYL1,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,CD34,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+Endodermal progenitor cell,progenitor,CD90,Human,Thymus,Thymus,Normal,Normal cell,Endodermal progenitor cell
+Endodermal progenitor cell,Endodermal,THY1,Human,Thymus,Thymus,Normal,Normal cell,Endodermal progenitor cell
+Endothelial cell,,ACKR1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GJA4,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFC,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,APLNR,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Fetal thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Thymus,Fetal thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE1,Human,Thymus,Thymus,Normal,Normal cell,Endothelial cell
+Epithelial cell,,KRT8,Human,Thymus,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PBSM11,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,LY75,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD205,Human,Thymus,Cortical thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ivl,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Spink5,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Epcam,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT17,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Thymus,Fetal thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AIRE,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FEZF2,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Neuroendocrine,NEUROD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Neuroendocrine,CHGA,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Thymic,FOXN1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Thymic,AIRE,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Inner ear and kidney,FOXI1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratinized,KRT1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Basal,KRT14,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion,CD104,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion,ITGB4,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DLK2,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PSMB11,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CHRNA1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PDPN,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAN-CK,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Fibroblast,,PI16,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,SEMA3D,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,ALDH1A2,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,FBN1,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,COLEC11,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,GDF10,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,S100A4,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Fibroblast,,FAP,Human,Thymus,Thymus,Normal,Normal cell,Fibroblast
+Goblet cell,,Muc5ac,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,Tff2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,Gp2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+medullary thymic epithelial cell,,Cd177,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ccl9,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Sca‐1,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ceacam10,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ccl20,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ccr5,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ccl6,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+medullary thymic epithelial cell,,Ckm,Human,Thymus,Epithelium,Normal,Normal cell,GP2-preferred medullary thymic epithelial cell
+thymic epithelial cell,Immature,CTGF,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+thymic epithelial cell,Immature,CCN2,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+thymic epithelial cell,,ZBED2,Human,Thymus,Thymus,Normal,Normal cell,Immature cortical thymic epithelial cell
+Thymic epithelial cell,Immature,INSM1,Human,Thymus,Thymus,Normal,Normal cell,Immature medullary thymic epithelial cell
+Thymic epithelial cell,Medullary,ASCL1,Human,Thymus,Thymus,Normal,Normal cell,Immature medullary thymic epithelial cell
+Immune cell,,CD7,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,CD3D,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Fibroblast,Intrathymic,GDF10,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Fibroblast,Intrathymic,ALDH1A2,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Fibroblast,,COLEC11,Human,Thymus,Thymus,Normal,Normal cell,Intrathymic fibroblast(Fb1)
+Macrophage,,CLEC10A,Human,Thymus,Fetal thymus,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Thymus,Fetal thymus,Normal,Normal cell,Macrophage
+Mast cell,,HDC,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Thymus,Fetal thymus,Normal,Normal cell,Mast cell
+thymic epithelial cell,Mature,PGE TRGs,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Mature,Ly6a (Sca‐1),Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,Itga6 (CD49f),Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,GP2,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+Medullary cell,,CLDN4,Human,Thymus,Thymus,Normal,Normal cell,Medullary cell
+Mesenchymal cell,,LAMA2,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,LUM,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Thymus,Fetal thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Fetal thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Thymus,Thymus,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Thymus,Normal,Normal cell,Mesenchymal cell
+Mesothelial cell,,MSLN,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,PRG4,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,UPK3B,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Myeloid cell,,CD15,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11c,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Thymus,Thymus,Normal,Normal cell,Myeloid cell
+Myoid cell,,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+Myoid cell,,BEX1,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+Myoid cell,,MYOG,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+Neuroendocrine cell,,CHGA,Human,Thymus,Thymus,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,,NEUROD1,Human,Thymus,Thymus,Normal,Normal cell,Neuroendocrine cell
+Pericyte,,MCAM,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Thymus,Blood vessel,Normal,Normal cell,Pericyte
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Irf8,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Irf7,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,Spib,Human,Thymus,Thymus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Progenitor cell,,SPINK2,Human,Thymus,Fetal thymus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD34,Human,Thymus,Thymus,Normal,Normal cell,Progenitor cell
+Thymic epithelial cell,Proliferating,Mki67,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell
+Thymic epithelial cell,Medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell
+Red blood cell,erythrocyte,HBG1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBA1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,GYPA,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,Foxp3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,,Cd4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,,CD4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,MIR155HG,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IKZF4,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Thymus,Thymus,Normal,Normal cell,Regulatory T(Treg) cell
+Secretory cell,Secretory,Gp2,Human,Thymus,Epithelium,Normal,Normal cell,Secretory cell
+Stem cell,,CD34,Human,Thymus,Fetal thymus,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Thymus,Thymus,Normal,Normal cell,Stem cell
+Stromal cell,,IVL,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,PSMB11,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,FOXN1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,MYOD1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,AIRE,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,CLDN4,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,NEUROD1,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+Stromal cell,,LY75,Human,Thymus,Blood vessel,Normal,Normal cell,Stromal cell
+T cell,,TRBC2,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD1B,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,,LCK,Human,Thymus,Fetal thymus,Normal,Normal cell,T cell
+T cell,Helper,CD4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8A,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Subset,KLRB1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Activation,DPP4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CCR6,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD161,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD26,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD5,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG2,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD7,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD3,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Helper,Cxcr5,Human,Thymus,Thymus,Normal,Normal cell,T helper cell
+T cell,,Cd4,Human,Thymus,Thymus,Normal,Normal cell,T helper cell
+Thymic epithelial cell,,CXCL12,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,KRT5,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,PSMB11,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,CCL25,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,KRT8,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,DLL4,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,PRSS16,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,,FOXN1,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell (TEC)
+Thymic epithelial cell,Basal epithelial,ck5,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Epithelial,CD49f,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Epithelial,ITGA6,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Simple epithelial,ck8,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,ZBED2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CTGF,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CCN2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymus seeding progenitor,TSP,HOXA10,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,TSP,HOXA9,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Thymus seeding progenitor,TSP,CCR7,Human,Thymus,Thymus,Normal,Normal cell,Thymus seeding progenitor (TSP)
+Tuft-like cell,Tuft-like,IL25,Human,Thymus,Thymus,Normal,Normal cell,Tuft-like cell
+Tuft-like cell,Tuft-like,POU2F3,Human,Thymus,Thymus,Normal,Normal cell,Tuft-like cell
+Medullary thymic epithelial cell,Tuft-like,Pou2f3,Human,Thymus,Epithelium,Normal,Normal cell,Tuft-like medullary thymic epithelial cell
+Vascular smooth muscle cell,Vascular development,PDGFRB,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,Regulation,RGS5,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,Extracellular matrix,FBN1,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,Contractile function,ACTA2,Human,Thymus,Thymus,Normal,Normal cell,Vascular smooth muscle cell(VSMC)

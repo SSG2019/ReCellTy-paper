@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,APOE,APOE
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,CTSD,CTSD
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,PLD3,PLD3
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,MERTK,MERTK
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,GLUL,GLUL
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,ACP5,ACP5
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,C1Qs,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,CTSC,CTSC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,CD11b,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,CD64,FCGR1A
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Macrophage,CL_0000235,CD45,PTPRC

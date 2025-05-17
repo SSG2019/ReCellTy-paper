@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte precursor cell,Precursor,OLIG2,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte precursor cell
+Oligodendrocyte precursor cell,Precursor,PDGFRα,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte precursor cell
+Oligodendrocyte precursor cell,Precursor,SOX10,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte precursor cell

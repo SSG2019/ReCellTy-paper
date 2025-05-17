@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Effector (EMRA) CD8+ T cell,,CD45RA,
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Effector (EMRA) CD8+ T cell,,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Effector (EMRA) CD8+ T cell,,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Effector (EMRA) CD8+ T cell,,CD27,CD27

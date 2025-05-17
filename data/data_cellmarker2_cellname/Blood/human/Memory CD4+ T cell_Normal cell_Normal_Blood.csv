@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD127,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,ANXA1,ANXA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,S1PR1,S1PR1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD69,CD69
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,AQP3,AQP3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD25,IL2RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD4,CD4

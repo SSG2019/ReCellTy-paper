@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Cancer cell,CL_0001064,CCR7,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Cancer cell,CL_0001064,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Cancer cell,CL_0001064,CD3,

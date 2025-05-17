@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD79A,CD79A
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,FCER1G,FCER1G
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,PTPRC,PTPRC

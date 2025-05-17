@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Transit-amplifying cell,Proliferation,PCNA,Human,Intestine,Colon,Normal,Normal cell,Transit-amplifying cell
+Transit-amplifying cell,Cell Cycle,CCNA2,Human,Intestine,Colon,Normal,Normal cell,Transit-amplifying cell
+Transit-amplifying cell,DNA Replication,MCM5,Human,Intestine,Colon,Normal,Normal cell,Transit-amplifying cell
+Transit-amplifying cell,Cell Cycle,TOP2A,Human,Intestine,Colon,Normal,Normal cell,Transit-amplifying cell
+Transit-amplifying cell,Proliferation,KI67,Human,Intestine,Colon,Normal,Normal cell,Transit-amplifying cell

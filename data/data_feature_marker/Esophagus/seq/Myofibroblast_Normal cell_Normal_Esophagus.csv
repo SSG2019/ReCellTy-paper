@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,PLN,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast

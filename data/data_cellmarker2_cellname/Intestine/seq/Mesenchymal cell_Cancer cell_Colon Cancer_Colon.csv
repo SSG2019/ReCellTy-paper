@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,RUNX2,RUNX2
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ECM1,ECM1
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,MMP7,MMP7
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,COL1A1,COL1A1
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Mesenchymal cell,CL_0008019,SPARC,SPARC

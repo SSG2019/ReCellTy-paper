@@ -1,0 +1,31 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PDE9A,PDE9A
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PDE1B,PDE1B
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,S100A1,S100A1
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,HDAC6,HDAC6
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,GABAT,ABAT
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PMCA2,ATP2B2
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,IP3R,ITPR1
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PCA1,ENPP1
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PDE5,PDE5A
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Calbindin,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Calmodulin-dependent phosphodiesterase,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,CAR8,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Cerebellin,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,cGMP-dependent protein kinase,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,clusterin,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,GAD67,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Glial fibrillary acidic protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,HFB-16,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,MAP-120,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Myelin basic protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Myelin protein zero,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,NMDA-NR1,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Olfactory marker protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PCA2,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PCPP260,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PEP19,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,PMCA,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,SERCA,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Spot 35 protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Purkinje cell,CL_0000121,Zebrin II,

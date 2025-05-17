@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell,,CXCL13,CXCL13
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell,,TNFRSF18,TNFRSF18
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell,,TNFRSF4,TNFRSF4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell,,CTLA4,CTLA4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell,,DUSP4,DUSP4

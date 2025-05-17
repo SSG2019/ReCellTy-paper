@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,ENTPD1,ENTPD1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,CTLA4,CTLA4
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,BATF,BATF
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,HAVCR2,HAVCR2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,LAG3,LAG3
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exausted T(Tex) cell,,PDCD1,PDCD1

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,MAC1,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,MAC2,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Prostate,Prostate,Normal,Normal cell,Macrophage

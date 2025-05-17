@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,Mac-1,
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,LFA-1,ITGAL
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,CD11a-d,
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,FCGR3B,FCGR3B
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,CTSS,CTSS
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,CD48,CD48
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,FCGR3A,FCGR3A
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,PTPRC,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,GNLY,GNLY
+Human,Undefined,Undefined,,Normal,Normal cell,Leukocyte,CL_0000738,TRBC2,TRBC2

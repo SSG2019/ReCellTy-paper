@@ -1,0 +1,147 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,CD25,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+T cell,Activated,CD69,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+T cell,Activated,IL2RA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+B cell,,CD74,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,CD20,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,BLA36,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,CD80,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,CD86,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,CD40,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,B cell
+B cell,,CD79a,Human,Lymphoid tissue,Lymphoid tissue,B-cell Lymphoma,Cancer cell,B cell
+B cell,Somatic Hypermutation,AID,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Somatic Hypermutation,AICDA,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Germinal Center,CD10,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Germinal Center,BCL6,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,,MME,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,,CD19,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,B cell
+B cell,,CD19,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,B cell
+B cell,Activation,B-cell-specific activator protein (BSAP),Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Activation,PAX5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Surface Marker,CD20,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Surface Marker,MS4A1,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD74,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD86,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD80,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,BLA36,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD40,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+Cancer cell,,PMEL,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Cancer cell
+T cell,CD8+,TIGIT,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,CD8+ T cell
+T cell,Follicular helper,CXCR5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Follicular helper,CD4,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Circulating,CCR6,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Circulating,CXCR3,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Cytotoxic,GNLY,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+Epithelial cell,,EpCAM,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Epithelial cell
+Fibroblast,,COL1A1,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Fibroblast
+B cell,Germinal center,LMO2,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,HGAL,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,GCSAM,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell
+Keratinocyte,,KRT5,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Keratinocyte
+Keratinocyte,,KRT14,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Keratinocyte
+Keratinocyte,,KRT10,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Keratinocyte
+Macrophage,,CD68,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Macrophage
+Macrophage,,FCGR1A,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Macrophage
+Macrophage,,FCGR1B,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Macrophage
+Melanocyte,,DCT,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Melanocyte
+Melanocyte,,MLANA,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Melanocyte
+B cell,Memory,CD27,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Memory B cell
+B cell,,RB,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Memory B cell
+B cell,,RB1,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Memory B cell
+T cell,Memory,CXCR5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Memory CD4+ T cell
+Myeloid cell,,LYZ,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,Myeloid cell
+T cell,Naive,LEF1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,IL7R,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,GZMA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,GZMK,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+T cell,Treg,IL2RA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,LAG3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF18,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD8,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD3E,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,T cell
+T cell,,CD3D,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,T cell
+T cell,,CD2,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,T cell
+T cell,,CD3G,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,T cell
+T cell,,CD7,Human,Lymphoid tissue,Lymphoid tissue,Melanoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD8,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD3,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD11a,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD127,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD7,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,Follicular helper (Tfh),CXCR5,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),BCL6,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,ICOS,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CCR6,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CXCR3,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Th1,TBX21,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,Th1,IFNG,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,Th17,CCR4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th17,CD161,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th17,KLRB1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th2,IL13,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CRTH2,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,GATA-3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,IL4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,PTGDR2,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Activated,CD25,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+T cell,Activated,CD69,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+T cell,Activated,IL2RA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Activated T cell
+B cell,,CD19,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+T cell,Cytotoxic,GNLY,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+Epithelial cell,,EpCAM,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Epithelial cell
+Macrophage,,CD68,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Macrophage
+T cell,Naive,LEF1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,IL7R,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,GZMA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,GZMK,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Natural killer cell
+T cell,Regulatory,IL2RA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,LAG3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF18,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,T follicular helper,CXCR5,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,BCL6,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Th1,TBX21,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,Th1,IFNG,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,Th17,CCR4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th17,CD161,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th17,KLRB1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 17(Th17) cell
+T cell,Th2,IL13,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CRTH2,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,GATA-3,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,IL4,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,PTGDR2,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T helper 2(Th2) cell

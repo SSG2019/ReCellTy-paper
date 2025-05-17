@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+endothelial cell,Lymphatic,LYVE1,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell
+endothelial cell,Lymphatic,CCL21,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell

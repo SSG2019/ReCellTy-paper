@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen Presentation,HLA-DQB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DPB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DPA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Immune Response,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Subset Identification,CD1C,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Immune Modulation,NRP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell

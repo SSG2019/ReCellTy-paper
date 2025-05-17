@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,FXYD4,FXYD4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,SCNN1G,SCNN1G
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,AQP3,AQP3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,AQP2,AQP2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,FXYD4,FXYD4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,AQP2,AQP2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,AQP3,AQP3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Principal cell,CL_0005009,TMEM213,TMEM213

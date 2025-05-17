@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M1,IL1B,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,NFKB1,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,TNF,Human,Heart,Heart,Normal,Normal cell,M1 macrophage

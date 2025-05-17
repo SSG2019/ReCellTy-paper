@@ -1,0 +1,24 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Pluripotency,OCT3/4,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,OCT4A,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,OCT4B,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,SOX2,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,NANOS2,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,DPPA3,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Pluripotency,PRDM14,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,VASA,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,DDX4,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,Integrin alpha-6,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,EpCAM,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,SSEA-1,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,CD15,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Germ Cell Specific,BLIMP1,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,PRDM1,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,SMAD1,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,SMAD4,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,SMAD5,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,IFITM1,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,IFITM2,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,IFITM3,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,PUM2,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell
+Germ cell,Developmental Signaling,FUT4,Human,Undefined,Undefined,Normal,Normal cell,Primordial germ cell

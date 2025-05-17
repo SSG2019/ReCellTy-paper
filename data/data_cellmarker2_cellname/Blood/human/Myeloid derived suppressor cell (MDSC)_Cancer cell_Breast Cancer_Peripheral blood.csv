@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Breast Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC),CL_0000889,SPARC,SPARC
+Human,Blood,Peripheral blood,UBERON_0005408,Breast Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC),CL_0000889,CD33,CD33
+Human,Blood,Peripheral blood,UBERON_0005408,Breast Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC),CL_0000889,CD11b,

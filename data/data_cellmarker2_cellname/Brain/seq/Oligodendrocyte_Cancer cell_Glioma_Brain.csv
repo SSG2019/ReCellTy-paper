@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Oligodendrocyte,CL_0000128,PLP1,PLP1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Oligodendrocyte,CL_0000128,MAG,MAG
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Oligodendrocyte,CL_0000128,SOX10,SOX10
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Oligodendrocyte,CL_0000128,MBP,MBP

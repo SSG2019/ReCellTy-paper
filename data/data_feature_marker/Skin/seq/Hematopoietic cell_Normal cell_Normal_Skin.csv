@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD69,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CST7,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell

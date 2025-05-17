@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,ZFP36L2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell
+T cell,Naive,CCR7,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell
+T cell,double-positive,GPR183,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell
+T cell,,FTH1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell

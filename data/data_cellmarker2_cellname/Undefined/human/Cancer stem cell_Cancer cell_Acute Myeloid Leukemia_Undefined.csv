@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD38,CD38
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD123,IL3RA
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,TIM-3,
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD71,TFRC
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,HLA-DR,
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD123,IL3RA
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD38,CD38
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD38,CD38
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD38,CD38
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD38,CD38
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD19,CD19
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34

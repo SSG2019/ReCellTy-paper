@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Cell adhesion,E-Cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion,EpCAM,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion,Beta-catenin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural integrity,KRT5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural integrity,KRT8,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,Vimentin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,N-cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,Zeb1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell

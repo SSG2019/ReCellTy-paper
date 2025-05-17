@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,DCLK2,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,STMN2,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,KIF1A,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,EEF1A2,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,SNAP25,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,CALY,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,NEFL,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,KCNIP2,Human,Undefined,Undefined,Normal,Normal cell,Panneuron
+Neuron,,SERPINF1,Human,Undefined,Undefined,Normal,Normal cell,Panneuron

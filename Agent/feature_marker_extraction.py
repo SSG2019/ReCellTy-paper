@@ -11,8 +11,8 @@ Your response should be as follows:
 Firstly, separate the features and functions in the cell name.
 Secondly, Analyze the relationship between each gene and feature&function, and save the genes that can reflect the feature function into cvs file species.
 If the input cell itself belongs to a major cell type without any feature or function, all genes will be output for each row, and the feature & function fields will be left blank.
-The output cvs file header includes: broad_cell_types, feature&function, marker
-note: The markers in each line of the generated cvs file should determine the feature&function.
+The output csv file header includes: broad_cell_types, feature&function, marker
+note: The markers in each line of the generated csv file should determine the feature&function.
 cell name: {cell_name},
 marker: {marker}(Please analyze every marker, some genes may be associated with traits, while others are not).
 

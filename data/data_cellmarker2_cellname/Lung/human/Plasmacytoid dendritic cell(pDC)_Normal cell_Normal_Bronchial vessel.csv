@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRB4,LILRB4
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IRF8,IRF8

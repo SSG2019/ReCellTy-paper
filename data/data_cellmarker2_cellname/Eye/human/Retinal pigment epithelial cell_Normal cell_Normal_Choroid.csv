@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Retinal pigment epithelial cell,,RPE65,RPE65
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Retinal pigment epithelial cell,,BEST1,BEST1

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+von Economo neuron,,ITGA4,Human,Brain,Brain,Normal,Normal cell,von Economo neuron(VEN)
+von Economo neuron,,GABRQ,Human,Brain,Brain,Normal,Normal cell,von Economo neuron(VEN)
+von Economo neuron,,BMP3,Human,Brain,Brain,Normal,Normal cell,von Economo neuron(VEN)
+von Economo neuron,,ADRA1A,Human,Brain,Brain,Normal,Normal cell,von Economo neuron(VEN)
+von Economo neuron,,POU3F1,Human,Brain,Brain,Normal,Normal cell,von Economo neuron(VEN)

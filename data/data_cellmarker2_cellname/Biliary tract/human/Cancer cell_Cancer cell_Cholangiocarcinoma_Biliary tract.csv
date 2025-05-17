@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Biliary tract,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Cancer cell,CL_0001064,pan-keratin,
+Human,Biliary tract,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Cancer cell,CL_0001064,CK-19,

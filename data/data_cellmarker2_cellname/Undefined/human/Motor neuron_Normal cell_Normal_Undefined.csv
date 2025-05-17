@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Motor neuron,CL_0000100,SLIT3,SLIT3
+Human,Undefined,Undefined,,Normal,Normal cell,Motor neuron,CL_0000100,SLIT2,SLIT2
+Human,Undefined,Undefined,,Normal,Normal cell,Motor neuron,CL_0000100,LMO1,LMO1

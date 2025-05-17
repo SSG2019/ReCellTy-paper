@@ -1,0 +1,32 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,stem,CD133,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,ALDH1A1,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,CD44,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,LGR5,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,BMI1,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,Nestin,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,DCLK1,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,ABCG2,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,NANOG,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,Oct3/4,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,PROM1,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,stem,POU5F1,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,CD166,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,ESA,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,CD66c,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,ALCAM,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,FLOT2,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+cell,Cancer,CEACAM6,Human,Colon,Colon,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD166,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD66c,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD24,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALCAM,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CEACAM6,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Colon,Colon,Colorectal Cancer,Cancer cell,Cancer stem cell
+T cell,CD4+,CCR6,Human,Colon,Colon,Normal,Normal cell,CD4+ T cell
+Colonic stem cell,stem cell,PTK7,Human,Colon,Colon,Normal,Normal cell,Colonic stem cell
+Endocrine cell,,Chromogranin,Human,Colon,Colon,Normal,Normal cell,Endocrine cell
+Stem cell,Intestinal,DCLK1,Human,Colon,Colon,Normal,Normal cell,Intestinal stem cell
+endothelial cell,,SBSN,Human,Colon,Colon,Colon Cancer,Cancer cell,Tumor endothelial cell

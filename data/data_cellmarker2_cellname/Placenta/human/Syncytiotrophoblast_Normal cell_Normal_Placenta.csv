@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,CGA,CGA
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,CYP19A1,CYP19A1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,GH2,GH2
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,SDC1,SDC1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,CD63,CD63
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,MUC16 ,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,CGA,CGA
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Syncytiotrophoblast,CL_0000525,S100P,S100P

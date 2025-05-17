@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,CCL23,CCL23
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,CCL13,CCL13
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,MRC1,MRC1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,M2 macrophage,CL_0000890,CCL18,CCL18

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,T2-MZP,CD21,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,T2-MZP,CD23,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,T2-MZP,CR2,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,Regulatory,FCER2,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,B220,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,IgM,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,PTPRC,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell

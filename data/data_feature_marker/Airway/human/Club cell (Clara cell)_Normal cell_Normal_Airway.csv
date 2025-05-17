@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Club cell,Secretory,SCGB1A1,Human,Airway,Airway,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Mucus production,MUC5B,Human,Airway,Airway,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,KRT78,Human,Airway,Airway,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,EPCAM,Human,Airway,Airway,Normal,Normal cell,Club cell (Clara cell)

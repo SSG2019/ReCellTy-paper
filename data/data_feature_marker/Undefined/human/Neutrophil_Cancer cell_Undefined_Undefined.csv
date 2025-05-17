@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,CD62,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,Cxcr4,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,CD16,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,CD66b,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,SELP,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Undefined,Undefined,Undefined,Cancer cell,Neutrophil

@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,PRDM1,PRDM1
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,SMAD1,SMAD1
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,SMAD4,SMAD4
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,SMAD5,SMAD5
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,IFITM1,IFITM1
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,IFITM3,IFITM3
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,IFITM2,IFITM2
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,PUM2,PUM2
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,PRDM14,PRDM14
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,NANOS2,NANOS2
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,DPPA3,DPPA3
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,BLIMP1,PRDM1
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,SSEA-1,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,OCT1,OCT1
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,VASA,DDX4
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,OCT3/4,
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,OCT4A,
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,OCT4B,
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,Integrin alpha-6,
+Human,Undefined,Undefined,,Normal,Normal cell,Primordial germ cell,CL_0000670,EpCAM,

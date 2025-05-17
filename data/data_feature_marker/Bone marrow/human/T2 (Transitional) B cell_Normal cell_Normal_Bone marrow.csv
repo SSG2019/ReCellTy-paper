@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Transitional,IgM,Human,Bone marrow,Bone marrow,Normal,Normal cell,T2 (Transitional) B cell
+B cell,Transitional,IgD,Human,Bone marrow,Bone marrow,Normal,Normal cell,T2 (Transitional) B cell
+B cell,Transitional,CD10,Human,Bone marrow,Bone marrow,Normal,Normal cell,T2 (Transitional) B cell
+B cell,Transitional,MME,Human,Bone marrow,Bone marrow,Normal,Normal cell,T2 (Transitional) B cell

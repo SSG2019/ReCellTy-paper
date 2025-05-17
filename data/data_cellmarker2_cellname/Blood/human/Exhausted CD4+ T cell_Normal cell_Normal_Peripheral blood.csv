@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,CD279,PDCD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,PDCD1,PDCD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,TIM3,HAVCR2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,TIGIT,TIGIT
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,LAG3,LAG3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted CD4+ T cell,CL_0000624,CD3E,CD3E

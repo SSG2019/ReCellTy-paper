@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cholangiocyte,,KRT19,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,SLC4A2,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,CK19,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,CFTR,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,SCTR,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,KRT7,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,ID3,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell
+Progenitor cell,,VIM,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TOP2A,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CENPF,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell
+Progenitor cell,,MKI67,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Progenitor cell

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,TREM2,TREM2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,GPNMB,GPNMB
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,MRC1,MRC1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,HLA-DRA,HLA-DRA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,TYROBP,TYROBP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,C1QC,C1QC
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,FCER1G,FCER1G
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,C1QA,C1QA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,CD74,CD74
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Myeloid cell,CL_0000763,C1QB,C1QB

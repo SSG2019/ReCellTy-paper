@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,Fibroblast,CL_0000057,CD90,THY1
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,Fibroblast,CL_0000057,ISLR,ISLR
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,Fibroblast,CL_0000057,PDPN,PDPN

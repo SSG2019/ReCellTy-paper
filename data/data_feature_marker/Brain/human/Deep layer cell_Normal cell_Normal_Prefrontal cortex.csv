@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Deep layer cell,Deep layer,TBR1,Human,Brain,Prefrontal cortex,Normal,Normal cell,Deep layer cell
+Deep layer cell,Deep layer,CTIP2,Human,Brain,Prefrontal cortex,Normal,Normal cell,Deep layer cell
+Deep layer cell,Deep layer,BCLL11B,Human,Brain,Prefrontal cortex,Normal,Normal cell,Deep layer cell

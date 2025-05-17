@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,,HBM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Red blood cell (erythrocyte)
+Red blood cell,,HBD,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Red blood cell (erythrocyte)
+Red blood cell,,HBA2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Red blood cell (erythrocyte)

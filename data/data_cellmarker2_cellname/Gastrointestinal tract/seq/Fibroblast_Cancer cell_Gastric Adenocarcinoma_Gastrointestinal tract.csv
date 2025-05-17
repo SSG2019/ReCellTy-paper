@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pro-B cell,CL_0000826,RAG1,RAG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pro-B cell,CL_0000826,VPREB1,VPREB1

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,,αActinin,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HADHA,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Ryr2,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Xirp2,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Postn,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TtnISO,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Tgfb1,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Col1a1,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Nppa,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Helper,CD4,Human,Intestine,Rectum,Rectal cancer,Cancer cell,T cell
+T cell,,CD3,Human,Intestine,Rectum,Rectal cancer,Cancer cell,T cell
+T cell,Cytotoxic,CD8,Human,Intestine,Rectum,Rectal cancer,Cancer cell,T cell
+T cell,Regulatory,FOXP3,Human,Intestine,Rectum,Rectal cancer,Cancer cell,T cell
+T cell,Cytotoxic,CD8A,Human,Intestine,Rectum,Rectal cancer,Cancer cell,T cell

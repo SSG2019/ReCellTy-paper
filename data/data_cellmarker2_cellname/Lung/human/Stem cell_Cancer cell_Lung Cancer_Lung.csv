@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,c-Myc,MYC
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,Nanog,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,Klf4,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,CD90,THY1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,CD87,PLAUR
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,EpCAM,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Stem cell,CL_0000034,CD166,ALCAM

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,OCT4,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,Alkaline phosphatase,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,SSEA-4,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,SSEA-3,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,SSEA-1,FUT4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,TRA-1-60,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pluripotent stem cell,CL_0002248,OCT4,POU5F1

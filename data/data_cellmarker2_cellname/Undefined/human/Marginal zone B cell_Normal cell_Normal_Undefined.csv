@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD81,CD81
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,EBF1,EBF1
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD180,CD180
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,NOTCH2,NOTCH2
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,PAX5,PAX5
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD21,CR2
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD103,ITGAE
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,B220,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD307d,FCRL4
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD268,TNFRSF13C
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD1d,
+Human,Undefined,Undefined,,Normal,Normal cell,Marginal zone B cell,CL_0000845,IgM,

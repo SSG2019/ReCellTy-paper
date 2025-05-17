@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,MAIT,CD161,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD28,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell

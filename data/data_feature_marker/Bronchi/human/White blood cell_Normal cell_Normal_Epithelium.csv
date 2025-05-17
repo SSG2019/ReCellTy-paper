@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+White blood cell,,CD45,Human,Bronchi,Epithelium,Normal,Normal cell,White blood cell
+White blood cell,,PTPRC,Human,Bronchi,Epithelium,Normal,Normal cell,White blood cell

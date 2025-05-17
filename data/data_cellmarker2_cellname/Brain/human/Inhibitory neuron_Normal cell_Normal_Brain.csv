@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,Gad2,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,Lhx6,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,Gad1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,LHX5,LHX5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,DLX5,DLX5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,DLX2,DLX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD2,GAD2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,SYT1,SYT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1

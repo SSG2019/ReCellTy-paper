@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,IgA memory B cell,CL_0000973,IgA,LOC102723407
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,IgA memory B cell,CL_0000973,CD20,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,IgA memory B cell,CL_0000973,CD27,CD27

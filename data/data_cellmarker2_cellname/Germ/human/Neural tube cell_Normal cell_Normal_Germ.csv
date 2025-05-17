@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD81,CD81
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,NOTCH1,NOTCH1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,ABCG2,ABCG2
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD95,FAS
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD15,FUT4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD49f,ITGA6
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD146,MCAM
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD271,NGFR
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD184,CXCR4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD349,FZD9
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD57,B3GAT1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,CD288,TLR8
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,Neuroglycan-C,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Neural tube cell,CL_0000047,Neuropilin-2,

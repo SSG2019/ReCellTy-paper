@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Microglial cell,CL_0000129,Pery12,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Microglial cell,CL_0000129,Cx3cr1,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Microglial cell,CL_0000129,Tmem119,

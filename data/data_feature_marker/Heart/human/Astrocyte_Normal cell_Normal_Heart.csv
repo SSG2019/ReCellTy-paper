@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,CDH11,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ID1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,s100b,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,S100B,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,gfap,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,glast,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1A1,Human,Heart,Heart,Normal,Normal cell,Astrocyte

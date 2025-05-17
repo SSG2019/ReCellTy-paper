@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Embryonic cell,,FOXA2,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Embryonic cell
+Embryonic cell,,ISL1,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Embryonic cell
+Embryonic cell,,IPF1,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Embryonic cell
+Embryonic cell,,PDX1,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Embryonic cell

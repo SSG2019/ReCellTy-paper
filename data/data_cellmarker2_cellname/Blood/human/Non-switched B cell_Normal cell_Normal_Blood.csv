@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Non-switched B cell,CL_0000236,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Non-switched B cell,CL_0000236,IgD,

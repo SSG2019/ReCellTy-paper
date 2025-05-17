@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,TGLN,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Myofibroblast,CL_0000186,α-SMA,

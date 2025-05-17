@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Liver cell,Stem,H19,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,Stem,OV6,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,Stem,EGF,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,Stem,HGF,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,Stem,CK19,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,Stem,KRT19,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,,GSTP,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell
+Liver cell,,GSTP1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Liver stem cell

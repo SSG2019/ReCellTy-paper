@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiac cell,Progenitor,SIRPA,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiac progenitor cell
+Cardiac cell,Progenitor,VCAM1,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiac progenitor cell
+Cardiac cell,Progenitor,ALCAM,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiac progenitor cell

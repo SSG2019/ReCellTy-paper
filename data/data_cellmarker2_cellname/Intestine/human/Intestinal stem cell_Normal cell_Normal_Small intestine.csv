@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,ASCL2,ASCL2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,BMI1,BMI1
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,EPHB2,EPHB2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,SOX9,SOX9
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,LGR5,LGR5
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,DCLK1,DCLK1
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,CD24,CD24
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,CD166,ALCAM
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,ALK3,BMPR1A
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,Musashi-1,
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Intestinal stem cell,CL_0000034,Telomerase Inhibitors,

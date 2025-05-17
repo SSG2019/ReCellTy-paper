@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,CD95,FAS
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,CD39,ENTPD1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,RB,RB1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,CD38,CD38
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,CD73,NT5E
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymph node cell,,CD27,CD27

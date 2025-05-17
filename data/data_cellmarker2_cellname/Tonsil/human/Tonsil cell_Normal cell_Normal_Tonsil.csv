@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,CD27,CD27
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,CD95,FAS
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,CD39,ENTPD1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,CD38,CD38
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,RB,RB1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Tonsil cell,,CD73,NT5E

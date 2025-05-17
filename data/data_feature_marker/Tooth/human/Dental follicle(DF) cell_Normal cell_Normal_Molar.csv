@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dental follicle cell,DF,Spon1,Human,Tooth,Molar,Normal,Normal cell,Dental follicle(DF) cell
+Dental follicle cell,DF,Mkx,Human,Tooth,Molar,Normal,Normal cell,Dental follicle(DF) cell
+Dental follicle cell,DF,Acta2,Human,Tooth,Molar,Normal,Normal cell,Dental follicle(DF) cell

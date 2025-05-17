@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,SERPINB4,SERPINB4
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT7,KRT7
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,MUC5AC,MUC5AC
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,FOXJ1,FOXJ1
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,SCGB1A1,SCGB1A1
+Human,Nose,Nasal epithelium,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT15,KRT15

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,PRF9,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,IL14R,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,IFNG,IFNG
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,GZMA,GZMA
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,GZMH,GZMH
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,GZMK,GZMK
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,CD8B,CD8B
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,CD3D,CD3D
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,LAG3,LAG3
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,CD8A,CD8A
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,GZMK+ T cell,,CD69,CD69

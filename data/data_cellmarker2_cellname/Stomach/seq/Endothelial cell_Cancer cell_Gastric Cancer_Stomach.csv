@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,MCAM,MCAM
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,ENG,ENG
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF

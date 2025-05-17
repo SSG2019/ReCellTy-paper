@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,CD20,Human,Blood,Blood,Bone cancer,Cancer cell,Neutrophil
+Neutrophil,,MS4A1,Human,Blood,Blood,Bone cancer,Cancer cell,Neutrophil

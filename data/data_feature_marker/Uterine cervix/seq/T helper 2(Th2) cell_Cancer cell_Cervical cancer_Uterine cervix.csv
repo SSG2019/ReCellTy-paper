@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th2,PD-L1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CXCL12,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CD31,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,AKT,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,ERK,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CXCR4,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CD274,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,PECAM1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,AKT1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,EPHB2,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell

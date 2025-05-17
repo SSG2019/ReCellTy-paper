@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,GJA4,GJA4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,MYH11,MYH11
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,RGS5,RGS5
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,CRYAB,CRYAB
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,PLN,PLN
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Smooth muscle cell,CL_0000192,ADIRF,ADIRF

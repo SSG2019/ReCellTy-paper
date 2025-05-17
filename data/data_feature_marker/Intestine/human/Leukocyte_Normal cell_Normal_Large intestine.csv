@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,CD45,Human,Intestine,Large intestine,Normal,Normal cell,Leukocyte
+Leukocyte,,CD14,Human,Intestine,Large intestine,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Intestine,Large intestine,Normal,Normal cell,Leukocyte

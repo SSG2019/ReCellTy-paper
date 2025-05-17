@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,DCLK2,DCLK2
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,STMN2,STMN2
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,KIF1A,KIF1A
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,EEF1A2,EEF1A2
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,SNAP25,SNAP25
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,CALY,CALY
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,NEFL,NEFL
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,KCNIP2,KCNIP2
+Human,Undefined,Undefined,,Normal,Normal cell,Panneuron,,SERPINF1,SERPINF1

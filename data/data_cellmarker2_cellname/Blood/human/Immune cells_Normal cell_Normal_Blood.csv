@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immune cells,,ARL14,ARL14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immune cells,,KPNA4,KPNA4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immune cells,,NAB1,NAB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Immune cells,,DGKQ,DGKQ

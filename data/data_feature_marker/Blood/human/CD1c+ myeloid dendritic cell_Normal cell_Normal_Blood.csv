@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid dendritic cell,CD1c+,CD1c,Human,Blood,Blood,Normal,Normal cell,CD1c+ myeloid dendritic cell
+myeloid dendritic cell,,CD11c,Human,Blood,Blood,Normal,Normal cell,CD1c+ myeloid dendritic cell
+myeloid dendritic cell,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,CD1c+ myeloid dendritic cell

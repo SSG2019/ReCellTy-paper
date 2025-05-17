@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,IBA1,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte
+Monocyte,,AIF1,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte

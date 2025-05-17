@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,PPY,PPY
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,SOD2,SOD2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,PRSS,
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,GCG,GCG
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,PDK4,PDK4
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Acinar cell,CL_0000622,SST,SST

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,EPCAM,EPCAM
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT7,KRT7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,ACE2,ACE2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,GGT,GGT1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT7,KRT7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,HNF1B,HNF1B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT19,KRT19
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,SOX9,SOX9
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,CFTR,CFTR
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,LCN2,LCN2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,ELF3,ELF3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Cholangiocyte,CL_1000488,FXYD2,FXYD2

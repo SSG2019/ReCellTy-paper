@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Fibroblast,CL_0000057,S100A4,S100A4
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Fibroblast,CL_0000057,ITGB1,ITGB1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Fibroblast,CL_0000057,THY1,THY1

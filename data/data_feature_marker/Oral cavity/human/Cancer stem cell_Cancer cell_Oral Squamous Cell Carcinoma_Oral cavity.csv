@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,SOX2,Human,Oral cavity,Oral cavity,Oral squamous cell carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,SOX2,Human,Oral cavity,Oral cavity,Oral squamous cell carcinoma,Cancer cell,Cancer stem cell

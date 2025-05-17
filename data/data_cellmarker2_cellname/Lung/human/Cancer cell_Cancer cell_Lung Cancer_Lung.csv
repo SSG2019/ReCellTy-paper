@@ -1,0 +1,30 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,CK19,KRT19
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ITGB2 rs3788142,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,VWF rs73049469,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,MSRA,MSRA
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,RUNX3,RUNX3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,AMD1,AMD1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ERBB4,ERBB4
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ANGPTL3,ANGPTL3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,MKI67,MKI67
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ROBO1,ROBO1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,SLIT1,SLIT1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ROS1,ROS1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,MET,MET
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,RET,RET
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,BRAF,BRAF
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ALK,ALK
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,UGT1A9,UGT1A9
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,SULT2A1,SULT2A1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,PLIN2,PLIN2
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,ZAR1,ZAR1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,PTK7,PTK7
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,CD3ζ,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,CD8α,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,CTNNB1 S37C,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,SBS3,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,TERT,TERT
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Cancer cell,CL_0001064,MET,MET

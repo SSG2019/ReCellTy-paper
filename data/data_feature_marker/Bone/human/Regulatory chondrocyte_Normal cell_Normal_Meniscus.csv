@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Regulatory,BMP2,Human,Bone,Meniscus,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,FOSL1,Human,Bone,Meniscus,Normal,Normal cell,Regulatory chondrocyte

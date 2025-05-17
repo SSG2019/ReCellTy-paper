@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Mature,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,GNG13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,CBX8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,RTP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron

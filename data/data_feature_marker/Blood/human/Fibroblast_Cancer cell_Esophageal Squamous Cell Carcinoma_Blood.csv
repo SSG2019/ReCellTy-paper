@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Collagen Production,COL1A1,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Collagen Organization,DCN,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,C1R,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Fibroblast Identity,FSP1,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Cell Migration,PDPN,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Tissue Remodeling,SPARCL1,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Myofibroblast Differentiation,ACTA2,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,Fibroblast Motility,S100A4,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast

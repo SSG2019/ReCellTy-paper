@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatocyte,,ALB,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,CYP3A4,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,TF,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,TAT,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,KRT18,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,ICAM1,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte

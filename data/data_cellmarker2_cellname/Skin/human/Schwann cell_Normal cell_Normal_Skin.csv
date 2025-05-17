@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,PDGDRA,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,Fab7,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,SCN7A,SCN7A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,PLP1,PLP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,CDH19,CDH19
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,S100B,S100B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,Plp1,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,NES,NES
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,SOX10,SOX10
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,NGFR,NGFR
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,S100B,S100B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,LUM,LUM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Schwann cell,CL_0002573,DCN,DCN

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,SST,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,,CUX2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,,LINGO2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,,TUJ,Human,Brain,Cortex,Normal,Normal cell,Neuron

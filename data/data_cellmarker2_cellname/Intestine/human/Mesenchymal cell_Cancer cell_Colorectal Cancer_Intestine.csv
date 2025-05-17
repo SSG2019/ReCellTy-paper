@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,Snail,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,N-cadherin,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,MMP9,MMP9
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,TIMP2,TIMP2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,vimentin,

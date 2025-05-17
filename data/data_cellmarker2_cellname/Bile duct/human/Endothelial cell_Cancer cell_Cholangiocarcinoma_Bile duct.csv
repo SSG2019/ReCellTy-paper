@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD14,CD14
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Endothelial cell,CL_0000115,VMF,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD3D,CD3D
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Endothelial cell,CL_0000115,CD7,CD7
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Endothelial cell,CL_0000115,APOC3,APOC3

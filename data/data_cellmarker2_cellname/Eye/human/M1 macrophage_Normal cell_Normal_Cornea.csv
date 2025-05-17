@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Cornea,UBERON_0000964,Normal,Normal cell,M1 macrophage,CL_0000863,HLA-DR,
+Human,Eye,Cornea,UBERON_0000964,Normal,Normal cell,M1 macrophage,CL_0000863,CD282,TLR2
+Human,Eye,Cornea,UBERON_0000964,Normal,Normal cell,M1 macrophage,CL_0000863,CD284,TLR4
+Human,Eye,Cornea,UBERON_0000964,Normal,Normal cell,M1 macrophage,CL_0000863,CD86,CD86

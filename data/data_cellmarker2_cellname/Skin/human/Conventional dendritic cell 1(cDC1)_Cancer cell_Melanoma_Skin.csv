@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1),,CD4,CD4
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1),,IRF8,IRF8
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1),,CD141,THBD

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,T cell,CL_0000084,Cd3e,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,T cell,CL_0000084,Klrb1c,

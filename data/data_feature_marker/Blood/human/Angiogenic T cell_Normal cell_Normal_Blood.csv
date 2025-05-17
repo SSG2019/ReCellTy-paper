@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Angiogenic,CD31,Human,Blood,Blood,Normal,Normal cell,Angiogenic T cell
+T cell,Angiogenic,CXCR4,Human,Blood,Blood,Normal,Normal cell,Angiogenic T cell
+T cell,Angiogenic,PECAM1,Human,Blood,Blood,Normal,Normal cell,Angiogenic T cell
+T cell,,CD3,Human,Blood,Blood,Normal,Normal cell,Angiogenic T cell

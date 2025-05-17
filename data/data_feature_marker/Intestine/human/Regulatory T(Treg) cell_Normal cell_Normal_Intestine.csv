@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,CD25,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,OX40,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIM3,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,HAVCR2,Human,Intestine,Intestine,Normal,Normal cell,Regulatory T(Treg) cell

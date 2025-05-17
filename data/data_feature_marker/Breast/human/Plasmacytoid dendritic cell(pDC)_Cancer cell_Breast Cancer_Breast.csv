@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)

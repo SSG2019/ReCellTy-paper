@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macula densa cell,,Enox1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macula densa cell,,Nos1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macula densa cell,,Thsd4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macula densa cell,,Avpr1a,

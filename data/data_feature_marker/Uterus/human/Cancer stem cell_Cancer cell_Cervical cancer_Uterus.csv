@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Stemness,OCT3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Sox2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD44,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,POU5F1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1A1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ITGA6,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,PROM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CK-17,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,SLC22A3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell

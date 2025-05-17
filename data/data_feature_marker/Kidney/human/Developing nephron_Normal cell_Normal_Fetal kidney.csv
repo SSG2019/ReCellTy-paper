@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Nephron,Developing,PAX2,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Developing,SIX1,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Developing,CITED1,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Nephron,ATP6V1B1,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Nephron,SLC12A1,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Nephron,CLCNKA,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron
+Nephron,Nephron,GPX3,Human,Kidney,Fetal kidney,Normal,Normal cell,Developing nephron

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulosa cell,CL_0000501,FOXL2,FOXL2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulosa cell,CL_0000501,SPRR2,
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulosa cell,CL_0000501,FOXL2,FOXL2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulosa cell,CL_0000501,INHBA,INHBA
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulosa cell,CL_0000501,AMH,AMH

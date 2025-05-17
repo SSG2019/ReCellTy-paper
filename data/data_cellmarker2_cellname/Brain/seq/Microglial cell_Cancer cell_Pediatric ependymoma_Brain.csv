@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Microglial cell,CL_0000129,CSF1R,CSF1R
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Microglial cell,CL_0000129,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Microglial cell,CL_0000129,FCER1G,FCER1G

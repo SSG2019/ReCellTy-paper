@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Urothelium,UBERON_0000365,Normal,Normal cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Bladder,Urothelium,UBERON_0000365,Normal,Normal cell,Epithelial cell,CL_0000066,CDH3,CDH3
+Human,Bladder,Urothelium,UBERON_0000365,Normal,Normal cell,Epithelial cell,CL_0000066,EGFR,EGFR

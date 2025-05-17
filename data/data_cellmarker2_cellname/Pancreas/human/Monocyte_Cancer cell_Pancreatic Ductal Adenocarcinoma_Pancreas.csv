@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,TLR2,TLR2
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD33,CD33

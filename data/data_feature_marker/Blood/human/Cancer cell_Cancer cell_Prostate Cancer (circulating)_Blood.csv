@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,HER2,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,PSA,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,EpCAM,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CDH1,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,Keratins,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,MUC1,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,KRT8,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,FOLH1,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,KLK3,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Blood,Blood,Prostate Cancer (circulating),Cancer cell,Cancer cell

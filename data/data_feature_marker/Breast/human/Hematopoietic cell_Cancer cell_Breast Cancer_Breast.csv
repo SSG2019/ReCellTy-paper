@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,CD45,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,CD140b,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell

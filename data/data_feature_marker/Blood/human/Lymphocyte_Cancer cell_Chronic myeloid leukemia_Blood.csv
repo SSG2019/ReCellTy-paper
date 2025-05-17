@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,Ly6a,Human,Blood,Blood,Chronic myeloid leukemia,Cancer cell,Lymphocyte
+Lymphocyte,,Lat2,Human,Blood,Blood,Chronic myeloid leukemia,Cancer cell,Lymphocyte
+Lymphocyte,,Lck,Human,Blood,Blood,Chronic myeloid leukemia,Cancer cell,Lymphocyte

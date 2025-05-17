@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,IL1B,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,APOE,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell

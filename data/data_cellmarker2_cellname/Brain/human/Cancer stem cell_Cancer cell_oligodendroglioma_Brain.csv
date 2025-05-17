@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,ASCL1,ASCL1
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,SOX11,SOX11
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,EGFR,EGFR
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,TCF4,TCF4
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,NFIB,NFIB
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,BOC,BOC
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,CHD7,CHD7
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,CCND2,CCND2
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Brain,Brain,UBERON_0000955,oligodendroglioma,Cancer cell,Cancer stem cell,,SOX4,SOX4

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell,,KRT5,KRT5
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell,,KRT14,KRT14
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell,,S100A2,S100A2

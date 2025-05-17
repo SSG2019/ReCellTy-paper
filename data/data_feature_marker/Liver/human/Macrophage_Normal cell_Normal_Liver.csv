@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD64,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD80,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,SLC40A1,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,APOC1,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,FTL,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,FABP5,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD5L,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,LGMN,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,APOE,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,MARCO,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,NUPR1,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,HMOX1,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,SELENOP,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,Timd4,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD32,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,FCGR1A,Human,Liver,Liver,Normal,Normal cell,Macrophage
+Macrophage,,FCGR2A,Human,Liver,Liver,Normal,Normal cell,Macrophage

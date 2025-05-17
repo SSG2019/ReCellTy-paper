@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Esophagus cell,Classical Barrett’s,KRT20,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,KRT7,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,AGR2,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,VIL1,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell

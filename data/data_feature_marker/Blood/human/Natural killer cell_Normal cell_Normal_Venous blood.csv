@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Activation,NCR3,Human,Blood,Venous blood,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,NKG7,Human,Blood,Venous blood,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition,KLRD1,Human,Blood,Venous blood,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,CD56,Human,Blood,Venous blood,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,NCAM1,Human,Blood,Venous blood,Normal,Normal cell,Natural killer cell

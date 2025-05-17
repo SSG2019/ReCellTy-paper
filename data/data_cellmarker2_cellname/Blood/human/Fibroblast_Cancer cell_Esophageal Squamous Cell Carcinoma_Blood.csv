@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,C1R,C1R
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,FSP1,S100A4
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,PDPN,PDPN
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,SPARCL1,SPARCL1
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2

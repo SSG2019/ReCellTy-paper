@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ganglion cell,,NEFM,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,ALCAM,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,CNTN2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,NRN1,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,EBF3,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,EBF1,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,GAP43,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,POU4F2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell

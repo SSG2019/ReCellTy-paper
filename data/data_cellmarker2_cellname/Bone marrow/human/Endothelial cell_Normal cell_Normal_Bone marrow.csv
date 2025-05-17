@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CXCR4,CXCR4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,PLVAP,PLVAP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,EDG1,S1PR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,EDG3,S1PR3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD62E,SELE
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD62P,SELP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,TIE-2,TEK
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD106,VCAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,EDG6,S1PR4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,EDG5,S1PR2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,EDG8,S1PR5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,VE-Cadherin,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFR-2,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1

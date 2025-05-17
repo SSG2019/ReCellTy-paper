@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Neural crest stemlike cell,,GFRA2,GFRA2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Neural crest stemlike cell,,AQP1,AQP1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Neural crest stemlike cell,,NGFR,NGFR
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Neural crest stemlike cell,,GDNF,GDNF

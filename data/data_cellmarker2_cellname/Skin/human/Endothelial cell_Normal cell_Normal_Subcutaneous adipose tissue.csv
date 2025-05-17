@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Endothelial cell,CL_0000115,SERPINE1,SERPINE1
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Endothelial cell,CL_0000115,MMP1,MMP1

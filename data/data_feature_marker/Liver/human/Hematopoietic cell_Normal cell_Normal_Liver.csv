@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,CD34,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD71,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,TER119,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD109,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,TFRC,Human,Liver,Liver,Normal,Normal cell,Hematopoietic cell

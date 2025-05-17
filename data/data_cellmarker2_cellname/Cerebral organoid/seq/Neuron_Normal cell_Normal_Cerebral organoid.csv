@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,RCVRN,RCVRN
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,GNGT1,GNGT1
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,GBN3,
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,NRL,NRL
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,CRX,CRX
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Neuron,CL_0000540,TULIP1,RALGAPA1

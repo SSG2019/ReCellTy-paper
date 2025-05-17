@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,IGD,Human,Salivary gland,Salivary gland,Normal,Normal cell,Naive B cell
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,Naive B cell

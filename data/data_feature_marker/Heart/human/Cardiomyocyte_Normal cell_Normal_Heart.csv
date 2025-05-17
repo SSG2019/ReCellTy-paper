@@ -1,0 +1,46 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,,BMP4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,FABP3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GATA4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GATA6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MEF2C,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH7,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TBX5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HCN4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,LRG1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2.5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,KIR2.1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,ANP,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,alpha-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Beta-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Cripto,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Desmin,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,epsilon-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Myosin Heavy Chain,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Troponin T,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,connexin 43,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Alpha-actinin,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,cTnT,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CX43,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,cTnI,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Myh6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,aMHC,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PCM1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH11,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TTN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYBPC3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CORIN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,POPDC2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CD105,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MB,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,KCNJ2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NPPA,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNI3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte

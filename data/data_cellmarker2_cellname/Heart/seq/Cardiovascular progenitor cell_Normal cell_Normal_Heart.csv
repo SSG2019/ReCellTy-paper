@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiovascular progenitor cell,CL_0000513,PDGFRA,PDGFRA
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiovascular progenitor cell,CL_0000513,HAND1,HAND1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiovascular progenitor cell,CL_0000513,CD13,ANPEP

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,progenitor,PDGFRA,Human,Brain,White matter,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,progenitor,OLIG2,Human,Brain,White matter,Normal,Normal cell,Oligodendrocyte progenitor cell

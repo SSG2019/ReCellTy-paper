@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Renal glomerulus,UBERON_0000074,Normal,Normal cell,Podocyte,CL_0000653,Ezrin,
+Human,Kidney,Renal glomerulus,UBERON_0000074,Normal,Normal cell,Podocyte,CL_0000653,PODXL,PODXL

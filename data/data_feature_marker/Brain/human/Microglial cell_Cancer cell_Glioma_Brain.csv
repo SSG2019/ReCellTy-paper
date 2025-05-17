@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Microglial identity,P2RY12,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,Microglial identity,TMEM119,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,Microglial identity,CX3CR1,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,Macrophage lineage,CD68,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,Microglial identity,SALL1,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell,CL_0000066,OCLN,OCLN
+Human,Uterus,Uterus,UBERON_0000995,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell,CL_0000066,E-CADH,
+Human,Uterus,Uterus,UBERON_0000995,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Uterus,Uterus,UBERON_0000995,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell,CL_0000066,CLDN3,CLDN3

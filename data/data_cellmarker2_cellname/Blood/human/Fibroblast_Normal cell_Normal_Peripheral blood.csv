@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,FAP,FAP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,Pdgfra,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,Gil1,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,Ptch1,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Fibroblast,CL_0000057,Lox,

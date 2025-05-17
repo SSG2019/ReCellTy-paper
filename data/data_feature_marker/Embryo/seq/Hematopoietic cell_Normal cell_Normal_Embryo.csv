@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,RUNX1,Human,Embryo,Embryo,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,SPI1,Human,Embryo,Embryo,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Embryo,Embryo,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CDH5,Human,Embryo,Embryo,Normal,Normal cell,Hematopoietic cell

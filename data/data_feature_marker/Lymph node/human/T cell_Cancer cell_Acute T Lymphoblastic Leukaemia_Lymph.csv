@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,MYC,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,TAL2,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,LMO2,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,USP7,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,TAL1,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,LMO1,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell

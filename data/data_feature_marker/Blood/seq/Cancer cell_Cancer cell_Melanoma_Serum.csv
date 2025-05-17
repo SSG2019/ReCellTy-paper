@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,MCAM,Human,Blood,Serum,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,LNGFR,Human,Blood,Serum,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,MCSP,Human,Blood,Serum,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,CSPG4,Human,Blood,Serum,Melanoma,Cancer cell,Cancer cell

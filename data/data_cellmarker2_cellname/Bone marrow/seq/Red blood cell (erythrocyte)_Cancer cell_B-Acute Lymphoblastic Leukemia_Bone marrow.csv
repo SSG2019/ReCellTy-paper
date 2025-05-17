@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBA1,HBA1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,AHSP,AHSP
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,SLC4A1,SLC4A1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBG2,HBG2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBQ1,HBQ1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,RHCE,RHCE
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBG1,HBG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,GYPA,GYPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBA2,HBA2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,ALAS2,ALAS2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,HBM,HBM
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Red blood cell (erythrocyte),CL_0000232,CA1,CA1

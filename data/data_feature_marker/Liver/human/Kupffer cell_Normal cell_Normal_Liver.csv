@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Kupffer cell,,CD68,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD11b,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD18,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD14,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD32,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD163,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CLEC4F,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,VSIG4,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,Tim4,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,Clec4F,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,CD6824,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,ITGB2,Human,Liver,Liver,Normal,Normal cell,Kupffer cell
+Kupffer cell,,FCGR2A,Human,Liver,Liver,Normal,Normal cell,Kupffer cell

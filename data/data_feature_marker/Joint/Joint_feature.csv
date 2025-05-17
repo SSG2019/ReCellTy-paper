@@ -1,0 +1,24 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD20,Human,Joint,Synovium,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Joint,Synovium,Normal,Normal cell,B cell
+Fibroblast,,COL3A1,Human,Joint,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,VIM,Human,Joint,Synovium,Normal,Normal cell,Fibroblast
+Macrophage,,TIMD-4,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MerTK,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Neutrophil,,CD11b,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD62L,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD66,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD16,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD10,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD14,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,SELL,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,MME,Human,Joint,Synovial fluid,Normal,Normal cell,Neutrophil
+Fibroblast,,COL3A1,Human,Joint,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,VIM,Human,Joint,Synovium,Normal,Normal cell,Fibroblast
+Macrophage,,TIMD-4,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MerTK,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Joint,Synovium,Normal,Normal cell,Macrophage

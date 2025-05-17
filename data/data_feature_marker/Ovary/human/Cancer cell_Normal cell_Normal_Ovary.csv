@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,FAS,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,CA125,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,BRCA2,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,MUC16,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell

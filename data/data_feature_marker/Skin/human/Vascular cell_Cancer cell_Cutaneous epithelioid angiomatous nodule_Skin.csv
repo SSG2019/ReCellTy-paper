@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular cell,,CD34,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,CD31,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,ERG,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,PECAM1,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell

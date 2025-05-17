@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic stem cell,CL_0002322,Normal,Normal cell,PDX1+ pancreatic progenitor cell,,CD24,CD24
+Human,Embryo,Embryonic stem cell,CL_0002322,Normal,Normal cell,PDX1+ pancreatic progenitor cell,,PDX1,PDX1

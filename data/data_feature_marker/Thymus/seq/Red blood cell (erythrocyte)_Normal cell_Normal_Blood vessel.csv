@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,erythrocyte,HBG1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBA1,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,GYPA,Human,Thymus,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)

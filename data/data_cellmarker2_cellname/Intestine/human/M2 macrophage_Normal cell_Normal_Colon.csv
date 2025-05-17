@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,M2 macrophage,CL_0000890,CD200R1,CD200R1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,M2 macrophage,CL_0000890,TLR1,TLR1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,M2 macrophage,CL_0000890,CD206,MRC1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,M2 macrophage,CL_0000890,TLR8,TLR8

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Interstitial,FOXD1,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,Interstitial,GDNF,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,,TYMS,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,,CENPK,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,,KIAA0101,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,,RRM2,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell
+Progenitor cell,,PCLAF,Human,Kidney,Fetal kidney,Normal,Normal cell,Interstitial progenitor cell

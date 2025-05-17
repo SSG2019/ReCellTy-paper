@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Pluripotent cell,,POU5F1,POU5F1
+Human,Undefined,Undefined,,Normal,Normal cell,Pluripotent cell,,NANOG,NANOG
+Human,Undefined,Undefined,,Normal,Normal cell,Pluripotent cell,,SOX2,SOX2

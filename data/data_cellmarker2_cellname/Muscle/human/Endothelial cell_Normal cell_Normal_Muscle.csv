@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD56,NCAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD45,PTPRC
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,ENOS,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,CLEC14A,CLEC14A
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF

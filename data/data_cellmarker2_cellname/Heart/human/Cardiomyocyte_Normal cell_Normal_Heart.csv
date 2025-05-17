@@ -1,0 +1,54 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,BMP4,BMP4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,FABP3,FABP3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,GATA4,GATA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,GATA6,GATA6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,GJA4,GJA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,GJA5,GJA5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MEF2C,MEF2C
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH6,MYH6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH7,MYH7
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TBX5,TBX5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,HCN4,HCN4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,LRG1,LRG1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,NKX2.5,NKX2-5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,KIR2.1,KCNJ2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,ANP,NPPA
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,alpha-Sarcoglycan,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Beta-Sarcoglycan,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Cripto,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Desmin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,epsilon-Sarcoglycan,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Myosin Heavy Chain,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Troponin T,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,connexin 43,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Alpha-actinin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Alpha-actinin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,cTnT,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,SIRPA,SIRPA
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,CX43,GJA1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH6,MYH6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Alpha-actinin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,cTnI,TNNI3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,NKX2.5,NKX2-5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,GATA4,GATA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,Myh6,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,aMHC,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,PCM1,PCM1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH11,MYH11
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH7,MYH7
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TTN,TTN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYBPC3,MYBPC3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,CORIN,CORIN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,POPDC2,POPDC2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYL2,MYL2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH7,MYH7
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,CD105,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MB,MB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH6,MYH6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2

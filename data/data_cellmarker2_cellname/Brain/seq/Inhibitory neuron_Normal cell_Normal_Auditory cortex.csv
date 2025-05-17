@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Auditory cortex,UBERON_0001393,Normal,Normal cell,Inhibitory neuron,CL_0008029,Gad1,

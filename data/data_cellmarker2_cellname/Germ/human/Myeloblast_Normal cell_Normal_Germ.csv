@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD33,CD33
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD13,ANPEP
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD116,CSF2RA
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD114,CSF3R
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD15,FUT4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Myeloblast,CL_0000835,CD91,LRP1

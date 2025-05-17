@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Vascular function,Endocan,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Vascular function,CD146,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Vascular function,VWF,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Vascular function,CD31,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Tight junctions,CLDN5,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Vascular function,MCAM,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell
+Endothelial cell,Vascular function,PECAM1,Human,Lung,Lung,Lung Cancer,Cancer cell,Endothelial cell

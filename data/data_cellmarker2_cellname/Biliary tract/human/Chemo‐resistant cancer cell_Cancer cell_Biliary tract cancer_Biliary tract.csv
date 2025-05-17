@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Biliary tract,Biliary tract,UBERON_0001173,Biliary tract cancer,Cancer cell,Chemo‐resistant cancer cell,,CD133,PROM1

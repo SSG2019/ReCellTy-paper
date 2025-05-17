@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell,,CD8B,CD8B
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell,,HLA-DQA2,HLA-DQA2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell,,XCL2,XCL2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell,,CD69,CD69
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell,,CD8A,CD8A

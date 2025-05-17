@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,DCT2,
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,FILIP1L,FILIP1L
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,AHNAK2,AHNAK2
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,PTGDS,PTGDS
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,CRABP1,CRABP1
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,DKK3,DKK3
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Melanocyte,CL_0000148,BNC2,BNC2

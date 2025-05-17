@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD163,Human,Brain,Brain,Glioma,Cancer cell,M1 macrophage
+Macrophage,,FPR3,Human,Brain,Brain,Glioma,Cancer cell,M1 macrophage
+Macrophage,,SIGLEC1,Human,Brain,Brain,Glioma,Cancer cell,M1 macrophage

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,CD16,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,CD16 monocyte
+Monocyte,,LYZ,Human,Blood,Peripheral blood,Normal,Normal cell,CD16 monocyte

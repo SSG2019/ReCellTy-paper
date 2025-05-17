@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Tumor‐associated macrophage (TAM),,Mar1,SETMAR
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Tumor‐associated macrophage (TAM),,CD163,CD163
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Tumor‐associated macrophage (TAM),,MRC1,MRC1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Tumor‐associated macrophage (TAM),,CX3CR1,CX3CR1

@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD41,ITGA2B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD42b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD11B,ITGAM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,S100A8,S100A8
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,PF4,PF4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,FCN1,FCN1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CLEC4C,CLEC4C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,MS4A6A,MS4A6A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,LST1,LST1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CDKN1C,CDKN1C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CST4,CST4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,SERPINA1,SERPINA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,MNDA,MNDA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD1C,CD1C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Myeloid cell,CL_0000763,CD86,CD86

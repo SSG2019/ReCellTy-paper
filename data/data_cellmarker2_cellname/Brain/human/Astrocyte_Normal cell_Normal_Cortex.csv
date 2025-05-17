@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,KCNJ10,KCNJ10
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,LGR6,LGR6
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,OLIG2,OLIG2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,norrin,
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,SOX9,SOX9
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,GJA1,GJA1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,ALDH1L1,ALDH1L1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,SOX9,SOX9
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,TNC,TNC
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,APOE,APOE
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,HOPX,HOPX
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,FAM107A,FAM107A
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Astrocyte,CL_0000127,ATP1B2,ATP1B2

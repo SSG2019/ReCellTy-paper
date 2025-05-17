@@ -1,0 +1,398 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,FOXL2,Human,Testis,Testis,Testicular Germ Cell Tumor,Cancer cell,CD4+ T cell
+Elongating cell,,TNP1,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,PRM2,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,PRM1,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,SPATA3,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,TSSK6,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Endothelial cell,,VWF,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NOTCH4,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PRSS23,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RBP7,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HES1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Pericyte,,ICFBP5,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,ICFBP7,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,ITGA1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,NR2F2,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,CXCL12,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,STEAP4,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,COL4A1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Germ cell,,FGFR3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,UTF1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,YBX2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,DDX4,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,TEX101,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,ACTL7B,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,SYCP3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,TNP1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,HILS1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,ACRV1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,PRM2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,PRM1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,DMRT1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Gonocyte,,SSEA-4,Human,Testis,Testis,Normal,Normal cell,Gonocyte
+Gonocyte,,c-Kit,Human,Testis,Testis,Normal,Normal cell,Gonocyte
+Gonocyte,,THY1,Human,Testis,Testis,Normal,Normal cell,Gonocyte
+cell,Leydig,IGF1,Human,Testis,Testis,Normal,Normal cell,Leydig and myoid-like cell
+Leydig cell,,HSD3B,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,STAR,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGF2,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,PTGDS,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,DCN,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,LHX9,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,DLK1,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP4,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,LUM,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP5,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,CFD,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,CALB2,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP3,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,INHBA,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,HSD3B1,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,lmm,CFD,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,DLK1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,SFRP1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,NR2F2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,DCN,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Pericyte,,MCAM,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,TAGLN,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,CRIP1,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,MYL9,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,ADIRF,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Macrophage,,CD14,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,LYZ,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,TYROBP,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Mesenchymal cell,,CYP11A1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,IGF1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CSF1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Myeloid cell,,MYL6,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myofibroblast,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myofibroblast
+Myoid cell,,ATCA2,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,DES,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,PTCH1,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,MYL9,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Natural killer cell,,GZMM,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRG1,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMA,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMH,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMK,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRK1,Human,Testis,Testis,Normal,Normal cell,Natural killer cell
+Peritubular myoid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Peritubular myoid cell,,PTCH1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Peritubular myoid cell,,AEBP1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Spermatid cell,Post-meiotic,PRM3,Human,Testis,Testis,Normal,Normal cell,Post-meiotic spermatid cell
+Germ cell,Premeiotic,MAGE-A4,Human,Testis,Testis,Testicular Germ Cell Tumor,Cancer cell,Premeiotic germ cell
+Primordial germ cell,,OCT4,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,NANOG,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,POU5F1,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,MAGE-A4,Human,Testis,Testis,Testicular Germ Cell Tumor,Cancer cell,Primordial germ cell
+Sertoli cell,,Transferrin,Human,Testis,Seminal plasma,Normal,Normal cell,Sertoli cell
+Sertoli cell,Anti-Mullerian Hormone,AMH,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Sertoli cell differentiation,SOX9,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Development,WT1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Intermediate Filament,Vimentin,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Cell Survival,Clusterin,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Intermediate Filament,Cytokeratin-18,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,anti-Mullerian hormone,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,MIS,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,SSEA-4,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CITED,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CLDN11,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,PRND,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,WFDC2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,FATE1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX5,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CITED1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Smooth muscle cell,,NOTCH3,Human,Testis,Testis,Normal,Normal cell,Smooth muscle cell
+Somatic cell,,VIM,Human,Testis,Testis,Normal,Normal cell,Somatic cell
+Spermatogenic cell,Spermatogenesis,CD9,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Spermatogenesis,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Pluripotency,NANOG,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Spermatogenesis,KIT,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Stem cell maintenance,LIN28,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Spermatogenesis,GPR125,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Germ cell,DDX4,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Germ cell,EPCAM,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Pluripotency,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Spermatogenesis,UCHL1,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Sex determination,DMRT,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogenic cell,Stem cell regulation,LIN28A,Human,Testis,Testis,Normal,Normal cell,Spermatogenic cell
+Spermatogonial cell,,SYCP3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,NR6A1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,MORC1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PIWIL1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,CENP1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,YBX2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ACRV1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPACA4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,UCHL1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,DAZL,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPATA16,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,FMR1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,BRDT,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ZBTB43,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SYCP1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,L1TD1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,DMRT1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SYCP2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,H1FNT,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,BEND4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ID4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPACA3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ITGA6,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PLPPR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,KIT,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PIWIL4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,NANOS2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,FGFR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,C19orf84,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,CD9,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,TSPAN33,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PLZF,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,H1-7,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ZBTB16,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Stem cell,Spermatogonial,SSEA-4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,GPR125,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ID4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,UCHL1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,VASA,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ETV5,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,SALL4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,FGFR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,BCL6,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ITGA6,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,THY1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ADGRA3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Spermatogonial stem cell,,Pou5f1,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Nanog,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,OCT4,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Dppa3,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Sox2,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,POU5F1,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonium,,ITGB1,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,stem cell,c-Kit,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,stem cell,KIT,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,differentiation,SOHLH2,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,NR6A1,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SYCP3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SYCE3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SSX3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Stem cell,Pluripotency,SALL4,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Neural,Nestin,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Neural,SOX2,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stromal cell,,RGS5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,IGFBP5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,TPM2,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+T cell,,ITGB2,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,PRF1,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD4,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD8B,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,ID2,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD89,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD52,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,FCAR,Human,Testis,Testis,Normal,Normal cell,T cell
+Testis somatic cell,,THY1,Human,Testis,Testis,Normal,Normal cell,Testis somatic cell
+T cell,,FOXL2,Human,Testis,Testis,Testicular Germ Cell Tumor,Cancer cell,CD4+ T cell
+Elongating cell,,TNP1,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,PRM2,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,PRM1,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,SPATA3,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Elongating cell,,TSSK6,Human,Testis,Testis,Normal,Normal cell,Elongating cell
+Endothelial cell,,VWF,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NOTCH4,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PRSS23,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RBP7,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HES1,Human,Testis,Testis,Normal,Normal cell,Endothelial cell
+Pericyte,F,ICFBP5,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,ICFBP7,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,ITGA1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,NR2F2,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,CXCL12,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,STEAP4,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,F,COL4A1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Germ cell,,YBX1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,H1-9P,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Development,FGFR3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,UTF1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Development,YBX2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DDX4,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Male development,TEX101,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Spermatogenesis,ACTL7B,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Meiosis,SYCP3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin remodeling,TNP1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Spermatid development,HILS1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Acrosome reaction,ACRV1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin condensation,PRM2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin condensation,PRM1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Sex determination,DMRT1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Leydig and myoid-like cell,Leydig,IGF1,Human,Testis,Testis,Normal,Normal cell,Leydig and myoid-like cell
+Leydig cell,,IGF2,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,PTGDS,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,DCN,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,LHX9,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,DLK1,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP4,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,LUM,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP5,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,CFD,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,CALB2,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,IGFBP3,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,,INHBA,Human,Testis,Testis,Normal,Normal cell,Leydig cell
+Leydig cell,lmm,CFD,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,DLK1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,SFRP1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,NR2F2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,DCN,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Pericyte,,MCAM,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,TAGLN,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,CRIP1,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,MYL9,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Pericyte,,ADIRF,Human,Testis,Testis,Normal,Normal cell,m-Pericyte
+Macrophage,,CD14,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,LYZ,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,TYROBP,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Mesenchymal cell,,CYP11A1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,IGF1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CSF1,Human,Testis,Testis,Normal,Normal cell,Mesenchymal cell
+Myeloid cell,,MYL6,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myofibroblast,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myofibroblast
+Myoid cell,,ATCA2,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,DES,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,PTCH1,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Myoid cell,,MYL9,Human,Testis,Testis,Normal,Normal cell,Myoid cell
+Peritubular myoid cell,,PTCH1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Peritubular myoid cell,,AEBP1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Spermatid cell,Post-meiotic,PRM3,Human,Testis,Testis,Normal,Normal cell,Post-meiotic spermatid cell
+Primordial germ cell,,OCT4,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,NANOG,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,POU5F1,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Sertoli cell,,CITED,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,SOX9,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,WT1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CLDN11,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,PRND,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,WFDC2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,FATE1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX5,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CITED1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Smooth muscle cell,,NOTCH3,Human,Testis,Testis,Normal,Normal cell,Smooth muscle cell
+Somatic cell,,VIM,Human,Testis,Testis,Normal,Normal cell,Somatic cell
+Spermatogonial cell,,SYCP3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,NR6A1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,MORC1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PIWIL1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,CENP1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,YBX2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ACRV1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPACA4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,UCHL1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,DAZL,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPATA16,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,FMR1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,BRDT,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ZBTB43,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SYCP1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,L1TD1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,DMRT1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SYCP2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,H1FNT,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,BEND4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ID4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,SPACA3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,NANOS2,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PIWIL4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,FGFR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,C19orf84,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,CD9,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,TSPAN33,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PLPPR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,PLZF,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,H1-7,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Spermatogonial cell,,ZBTB16,Human,Testis,Testis,Normal,Normal cell,Spermatogonial cell
+Stem cell,Spermatogonial,FGFR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ID4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,SSEA4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,ITGA6,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,THY1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Spermatogonial stem cell,,Pou5f1,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Nanog,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,OCT4,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Dppa3,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,Sox2,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Spermatogonial stem cell,,POU5F1,Human,Testis,Seminal plasma,Normal,Normal cell,Spermatogonial stem cell 
+Stromal cell,,RGS5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,IGFBP5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,TPM2,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+T cell,,ID2,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD89,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD52,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,FCAR,Human,Testis,Testis,Normal,Normal cell,T cell

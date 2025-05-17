@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Suppressor,CD8,Human,Blood,Peripheral blood,Normal,Normal cell,Suppressor T cell
+T cell,Suppressor,CD8A,Human,Blood,Peripheral blood,Normal,Normal cell,Suppressor T cell
+T cell,Suppressor,CD62L,Human,Blood,Peripheral blood,Normal,Normal cell,Suppressor T cell
+T cell,Suppressor,SELL,Human,Blood,Peripheral blood,Normal,Normal cell,Suppressor T cell
+T cell,Suppressor,CD11b,Human,Blood,Peripheral blood,Normal,Normal cell,Suppressor T cell

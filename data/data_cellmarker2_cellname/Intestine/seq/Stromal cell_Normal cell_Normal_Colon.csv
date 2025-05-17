@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CD90,THY1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,S100B,S100B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,WNT5B,WNT5B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CHI3L1,CHI3L1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,BMP4,BMP4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,MADCAM1,MADCAM1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CD68,CD68
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CD36,CD36
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,RGS5,RGS5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,RBP7,RBP7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,ACTA2,ACTA2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,SOX17,SOX17
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,VWA1,VWA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,TAGLN,TAGLN
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CDH5,CDH5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,DARC,ACKR1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,XCR1,XCR1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,WNT2B,WNT2B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CLEC9A,CLEC9A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,SOX10,SOX10
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,RSPO3,RSPO3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,CCL11,CCL11
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stromal cell,CL_0000499,PLVAP,PLVAP

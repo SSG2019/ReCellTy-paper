@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,CD41,ITGA2B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,CD41,ITGA2B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,CD42b,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,CD148,PTPRJ
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,CD48,CD48
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4

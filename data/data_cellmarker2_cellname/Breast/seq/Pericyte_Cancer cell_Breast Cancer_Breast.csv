@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,MCAM,MCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,TAGLN,TAGLN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,DCN,DCN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,COL1A2,COL1A2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Pericyte,CL_0000669,MYH11,MYH11

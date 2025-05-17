@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Double-positive Treg cell,,ID3,ID3
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Double-positive Treg cell,,BATF,BATF
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Double-positive Treg cell,,FOXP3,FOXP3

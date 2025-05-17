@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Structural,KRT5,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT8,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT18,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT10,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Identity,EPCAM,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Immune function,PIGR,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Stress response,GDF15,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,FOXJ,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CAPS,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell

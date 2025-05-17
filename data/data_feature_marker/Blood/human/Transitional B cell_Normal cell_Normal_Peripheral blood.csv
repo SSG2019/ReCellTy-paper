@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Transitional,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD38,Human,Blood,Peripheral blood,Normal,Normal cell,Transitional B cell
+B cell,Transitional,IgD,Human,Blood,Peripheral blood,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD24,Human,Blood,Peripheral blood,Normal,Normal cell,Transitional B cell
+B cell,Transitional,IgM,Human,Blood,Peripheral blood,Normal,Normal cell,Transitional B cell

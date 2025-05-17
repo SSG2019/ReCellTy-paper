@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar cell Type 2,CL_0002063,ABCA3,ABCA3
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar cell Type 2,CL_0002063,SFTPB,SFTPB
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar cell Type 2,CL_0002063,SFTPC,SFTPC

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Epithelial cell,CL_0000066,SDC1,SDC1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Epithelial cell,CL_0000066,OCLN,OCLN
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8

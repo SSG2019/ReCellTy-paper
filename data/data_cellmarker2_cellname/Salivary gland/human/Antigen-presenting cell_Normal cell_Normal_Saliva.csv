@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Salivary gland,Saliva,UBERON_0001836,Normal,Normal cell,Antigen-presenting cell,CL_0000145,CD80,CD80
+Human,Salivary gland,Saliva,UBERON_0001836,Normal,Normal cell,Antigen-presenting cell,CL_0000145,CD86,CD86
+Human,Salivary gland,Saliva,UBERON_0001836,Normal,Normal cell,Antigen-presenting cell,CL_0000145,HLA-ABC,
+Human,Salivary gland,Saliva,UBERON_0001836,Normal,Normal cell,Antigen-presenting cell,CL_0000145,CD83,CD83
+Human,Salivary gland,Saliva,UBERON_0001836,Normal,Normal cell,Antigen-presenting cell,CL_0000145,HLA-DR,

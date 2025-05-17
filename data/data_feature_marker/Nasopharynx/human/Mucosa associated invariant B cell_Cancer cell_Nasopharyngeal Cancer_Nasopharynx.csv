@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Mucosa associated,JCHAIN,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,Mucosa associated,IGHA,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell
+B cell,,IGHM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mucosa associated invariant B cell

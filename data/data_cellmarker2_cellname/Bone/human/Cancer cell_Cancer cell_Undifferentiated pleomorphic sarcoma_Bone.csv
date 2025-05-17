@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Undifferentiated pleomorphic sarcoma,Cancer cell,Cancer cell,CL_0001064,FGF23,FGF23

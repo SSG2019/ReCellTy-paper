@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell,,CD33,CD33
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell,,CD15,FUT4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell,,CD11b,

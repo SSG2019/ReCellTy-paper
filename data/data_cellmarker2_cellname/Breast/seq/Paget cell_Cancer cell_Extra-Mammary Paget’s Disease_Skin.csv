@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,KRT7,KRT7
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,MUC1,MUC1
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,GATA3,GATA3
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,VIM,VIM
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,MYD88,MYD88
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,PIP,PIP
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,AR,AR
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,PDPN,PDPN
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,MMP9,MMP9
+Human,Breast,Skin,UBERON_0002097,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell,,KRT8,KRT8

@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,M2,CD163,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Inflammatory,IL8,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Antigen Presentation,HLA-DRA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Immune Response,C1QB,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Immune Response,C1QA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Cell Signaling,SPP1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,Inflammatory,CXCL8,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Macrophage

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Activation and Differentiation,MS4A1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,B cell receptor signaling,CD79A,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,Primary immune response,IgM,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,Memory B cells,CD27,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,Mucosal immunity,IgA,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,Activation and Differentiation,CD20,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell
+B cell,,LOC102723407,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,B cell

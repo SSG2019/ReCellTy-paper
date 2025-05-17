@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glial cell,,GFAP,Human,Brain,Brain,Normal,Normal cell,Glial cell
+Glial cell,,VIMENTIN,Human,Brain,Brain,Normal,Normal cell,Glial cell
+Glial cell,,GLAST,Human,Brain,Brain,Normal,Normal cell,Glial cell
+Glial cell,,MOG,Human,Brain,Brain,Normal,Normal cell,Glial cell
+Glial cell,,SLC1A3,Human,Brain,Brain,Normal,Normal cell,Glial cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Type 17 T cell,,CD161,KLRB1
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Type 17 T cell,,CCR6,CCR6

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+progenitor cell,myeloid-biased,CD44,Human,Blood,Blood,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP)
+progenitor cell,Yolk sac-derived,CD45,Human,Blood,Blood,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP)
+progenitor cell,,CD34,Human,Blood,Blood,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP)
+progenitor cell,,MYB,Human,Blood,Blood,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP)

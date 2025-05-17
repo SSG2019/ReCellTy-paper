@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD86,CD86
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD45,PTPRC
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD13,ANPEP
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD14,CD14
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD209,CD209
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,HLA-DR,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Immune cell,CL_0000738,CD83,CD83

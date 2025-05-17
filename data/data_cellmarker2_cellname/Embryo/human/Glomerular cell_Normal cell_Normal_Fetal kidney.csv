@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Fetal kidney,UBERON_0002120,Normal,Normal cell,Glomerular cell,CL_1000746,Fxyd2,
+Human,Embryo,Fetal kidney,UBERON_0002120,Normal,Normal cell,Glomerular cell,CL_1000746,Wt1,

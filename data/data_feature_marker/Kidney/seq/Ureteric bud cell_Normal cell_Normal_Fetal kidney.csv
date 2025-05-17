@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ureteric bud cell,Epithelial,KRT18,Human,Kidney,Fetal kidney,Normal,Normal cell,Ureteric bud cell
+Ureteric bud cell,Epithelial,KRT8,Human,Kidney,Fetal kidney,Normal,Normal cell,Ureteric bud cell
+Ureteric bud cell,Tissue remodeling,MMP7,Human,Kidney,Fetal kidney,Normal,Normal cell,Ureteric bud cell
+Ureteric bud cell,Development,RET,Human,Kidney,Fetal kidney,Normal,Normal cell,Ureteric bud cell

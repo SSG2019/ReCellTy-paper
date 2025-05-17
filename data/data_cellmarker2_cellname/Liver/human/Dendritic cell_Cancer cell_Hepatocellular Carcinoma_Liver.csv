@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,CLEC4C,CLEC4C
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,CLIC2,CLIC2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,CD1E,CD1E
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,CLEC7A,CLEC7A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Dendritic cell,CL_0000451,WFDC21P,WFDC21P

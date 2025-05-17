@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tendon,Tendon,UBERON_0000043,Normal,Normal cell,Tendon cell,CL_0000388,SCXA,SCX
+Human,Tendon,Tendon,UBERON_0000043,Normal,Normal cell,Tendon cell,CL_0000388,COL1A1,COL1A1
+Human,Tendon,Tendon,UBERON_0000043,Normal,Normal cell,Tendon cell,CL_0000388,TNMD,TNMD
+Human,Tendon,Tendon,UBERON_0000043,Normal,Normal cell,Tendon cell,CL_0000388,DCN,DCN

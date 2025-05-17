@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,VCAN,VCAN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,PLIN2,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,LUN,TOPORS
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,FBN1,FBN1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,CD34,CD34
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,VIT,VIT
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,FBLN2,FBLN2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Fibroblast,CL_0000057,COL3A1,COL3A1

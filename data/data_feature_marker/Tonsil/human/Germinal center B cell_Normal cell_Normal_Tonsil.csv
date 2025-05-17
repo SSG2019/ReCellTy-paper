@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal center,AICDA,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,MKI67,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,,CD9,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,,CD81,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Renal cell,Renal vesicle,PAX8,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,Renal vesicle,LHX1,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,Renal vesicle,SFRP2,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,Comma-shaped body,EMID1,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,Comma-shaped body,PCP4,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,,KLK6,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,,LAMP5,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell
+Renal cell,,CCND1,Human,Kidney,Fetal kidney,Normal,Normal cell,Renal vesicle & comma-shaped body cell

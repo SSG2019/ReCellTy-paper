@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC),CL_0000990,FCER1A,FCER1A
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC),CL_0000990,HLA-DQA1,HLA-DQA1

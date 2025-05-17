@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Memory B cell,CL_0000787,TCL1A,TCL1A
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Memory B cell,CL_0000787,MS4A1,MS4A1

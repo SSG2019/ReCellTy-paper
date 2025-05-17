@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8B,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CD25,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CTLA-4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Effector,CD69,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Effector,KLRG1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,TIM-3,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,TIGIT,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,T cell

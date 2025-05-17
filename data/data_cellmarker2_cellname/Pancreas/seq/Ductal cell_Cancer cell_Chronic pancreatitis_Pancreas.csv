@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Chronic pancreatitis,Cancer cell,Ductal cell,CL_0002079,MMP7,MMP7
+Human,Pancreas,Pancreas,UBERON_0001264,Chronic pancreatitis,Cancer cell,Ductal cell,CL_0002079,CFTR,CFTR
+Human,Pancreas,Pancreas,UBERON_0001264,Chronic pancreatitis,Cancer cell,Ductal cell,CL_0002079,ANXA4,ANXA4
+Human,Pancreas,Pancreas,UBERON_0001264,Chronic pancreatitis,Cancer cell,Ductal cell,CL_0002079,AMBP,AMBP

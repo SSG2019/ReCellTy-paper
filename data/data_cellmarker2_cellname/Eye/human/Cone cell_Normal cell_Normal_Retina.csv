@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone cell,CL_0000573,OPN1SW,OPN1SW
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone cell,CL_0000573,OPN1MW,OPN1MW
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone cell,CL_0000573,GNAT2,GNAT2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone cell,CL_0000573,OPN1LW,OPN1LW

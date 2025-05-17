@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchiole,UBERON_0002186,Normal,Normal cell,Ciliated cell,CL_0000064,DNAI1,DNAI1
+Human,Lung,Bronchiole,UBERON_0002186,Normal,Normal cell,Ciliated cell,CL_0000064,FOXJ1,FOXJ1

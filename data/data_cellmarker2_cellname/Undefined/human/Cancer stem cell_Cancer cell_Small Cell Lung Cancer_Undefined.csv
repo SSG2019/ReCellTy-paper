@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Small Cell Lung Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Small Cell Lung Cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Undefined,Undefined,,Small Cell Lung Cancer,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Undefined,Undefined,,Small Cell Lung Cancer,Cancer cell,Cancer stem cell,,ASCL1,ASCL1
+Human,Undefined,Undefined,,Small Cell Lung Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1

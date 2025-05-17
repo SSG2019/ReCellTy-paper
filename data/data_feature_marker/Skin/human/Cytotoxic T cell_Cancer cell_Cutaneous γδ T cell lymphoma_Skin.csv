@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,TIA-1,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,granzyme B,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,perforin,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD103,ITGAE
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD49a,ITGA1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGAE,ITGAE
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CXCR6,CXCR6

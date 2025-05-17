@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Radial glial cell,CL_0000681,PAX6,PAX6
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Radial glial cell,CL_0000681,SOX2,SOX2

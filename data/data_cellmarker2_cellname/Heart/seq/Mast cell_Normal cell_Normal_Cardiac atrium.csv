@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Mast cell,CL_0000097,MS4A2,MS4A2
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Mast cell,CL_0000097,TPSB2,TPSB2

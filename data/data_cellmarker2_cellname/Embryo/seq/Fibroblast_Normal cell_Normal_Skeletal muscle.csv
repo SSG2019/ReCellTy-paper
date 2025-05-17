@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Embryo,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Embryo,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Fibroblast,CL_0000057,COL3A1,COL3A1

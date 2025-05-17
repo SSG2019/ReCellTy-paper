@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Crypt,FOXQ1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell
+Stem cell,Crypt,LGR5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell
+Stem cell,Crypt,ASCL2,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell
+Stem cell,Crypt,CD133,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell
+Stem cell,Crypt,SOX9,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell
+Stem cell,Crypt,PROM1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Crypt stem cell

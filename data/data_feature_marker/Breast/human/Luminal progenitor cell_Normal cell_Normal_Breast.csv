@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Luminal progenitor cell,Luminal,EpCAM,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Luminal,KRT19,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,c-Kit,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,CD49f,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,PROM1,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,KIT,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell

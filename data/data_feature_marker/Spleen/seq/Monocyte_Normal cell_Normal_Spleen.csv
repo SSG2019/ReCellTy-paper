@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,FCN1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A4,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A6,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LGALS1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,FTL,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Spleen,Spleen,Normal,Normal cell,Monocyte

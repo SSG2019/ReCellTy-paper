@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Intercalated cell,CL_0005010,SLC4A1,SLC4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Intercalated cell,CL_0005010,SLC26A7,SLC26A7
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Intercalated cell,CL_0005010,ATP6V1G3,ATP6V1G3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Intercalated cell,CL_0005010,SLC4A1,SLC4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Intercalated cell,CL_0005010,SLC4A1,SLC4A1

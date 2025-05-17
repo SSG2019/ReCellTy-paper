@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Immune response,VSIG4,Human,Brain,Cortical layer,Normal,Normal cell,Microglial cell
+Microglial cell,Immune response,C1QC,Human,Brain,Cortical layer,Normal,Normal cell,Microglial cell
+Microglial cell,Signaling,ADGRG1,Human,Brain,Cortical layer,Normal,Normal cell,Microglial cell
+Microglial cell,,CACNA1A,Human,Brain,Cortical layer,Normal,Normal cell,Microglial cell

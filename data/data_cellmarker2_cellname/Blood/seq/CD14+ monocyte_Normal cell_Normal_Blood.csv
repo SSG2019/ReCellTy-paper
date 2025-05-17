@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,CD9g,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,IL1R2,IL1R2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,F5,F5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,ALOX5AP,ALOX5AP
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD14+ monocyte,CL_0001054,THBS1,THBS1

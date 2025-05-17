@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,S100A9,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,S100A8,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD163,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,PTPRC,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Myeloid cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD34,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Brain,Brain,Glioblastoma,Cancer cell,Endothelial cell

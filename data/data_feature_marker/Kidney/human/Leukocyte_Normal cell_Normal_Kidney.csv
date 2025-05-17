@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,FcGR2B,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,calpastatin,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,properdin,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,BFL-1,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,peroxiredoxin-6,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,ALCAM,Human,Kidney,Kidney,Normal,Normal cell,Leukocyte

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesoderm cell,,SNAI1,Human,Embryo,Embryo,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,BRACHYURY,Human,Embryo,Embryo,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,GSC,Human,Embryo,Embryo,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,OSR1,Human,Embryo,Embryo,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,PAX2,Human,Embryo,Embryo,Normal,Normal cell,Mesoderm cell

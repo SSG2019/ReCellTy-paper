@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myofibroblast,Idiopathic pulmonary fibrosis,FSTL1,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,Idiopathic pulmonary fibrosis,POSTN,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,Idiopathic pulmonary fibrosis,CTHRC1,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,,RUNX1,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,,CALD1,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,,FBN1,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,,PPIC,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast
+myofibroblast,,SPARC,Human,Undefined,Undefined,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast

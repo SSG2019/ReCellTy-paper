@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,FCER1G,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell

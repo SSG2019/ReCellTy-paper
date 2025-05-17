@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,NEUROG3,NEUROG3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,CHGB,CHGB
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,CHGA,CHGA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,TPH1,TPH1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,TAC1,TAC1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,CHGB,CHGB
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,CHGA,CHGA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,PROX1,PROX1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,CHGA,CHGA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enteroendocrine cell,CL_0000164,GAST,GAST

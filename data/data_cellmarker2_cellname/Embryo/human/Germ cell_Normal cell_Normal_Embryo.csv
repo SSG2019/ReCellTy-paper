@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,ZAR1,ZAR1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,BMP15,BMP15
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,GDF9,GDF9
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,VASA,DDX4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,MATER,NLRP5
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,OCT4,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,OCT4,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,DAZL,DAZL
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,STELLA,DPPA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,DAZL,DAZL
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,NANOG,NANOG
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,PRDM1,PRDM1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,POU5F1,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,TFAP2C,TFAP2C
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Germ cell,CL_0000586,GDF9,GDF9

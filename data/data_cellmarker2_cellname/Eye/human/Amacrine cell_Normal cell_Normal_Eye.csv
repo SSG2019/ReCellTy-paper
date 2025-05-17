@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Amacrine cell,CL_0000561,CRABPI,CRABP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Amacrine cell,CL_0000561,GAD1,GAD1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Amacrine cell,CL_0000561,TFAP2B,TFAP2B
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Amacrine cell,CL_0000561,GAD2,GAD2

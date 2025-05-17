@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular smooth muscle cell,VSMC,ACTA2,Human,Kidney,Kidney,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,MYH11,Human,Kidney,Kidney,Normal,Normal cell,Vascular smooth muscle cell(VSMC)

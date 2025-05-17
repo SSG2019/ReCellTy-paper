@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,Dbx1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,GABA,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,GAD2,GAD2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,ARX,ARX
+Human,Brain,Brain,UBERON_0001844,Normal,Normal cell,Interneuron,CL_0000099,LMO4,LMO4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,LMO3,LMO3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,GAD1,GAD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,ZFHX4,ZFHX4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,GAD2,GAD2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Interneuron,CL_0000099,ZFHX2,ZFHX2

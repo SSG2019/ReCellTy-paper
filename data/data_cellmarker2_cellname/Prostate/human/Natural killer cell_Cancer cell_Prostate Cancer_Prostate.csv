@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRF1,KLRF1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRK1,KLRK1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRC1,KLRC1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,"KLRB1,",
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1

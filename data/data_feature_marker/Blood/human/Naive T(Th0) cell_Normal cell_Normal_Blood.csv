@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,CD45RA,Human,Blood,Blood,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Blood,Blood,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD62L,Human,Blood,Blood,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,TCF7,Human,Blood,Blood,Normal,Normal cell,Naive T(Th0) cell

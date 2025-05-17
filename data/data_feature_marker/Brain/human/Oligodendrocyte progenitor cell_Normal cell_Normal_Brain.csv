@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,Progenitor,NG2,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,PDGFR-alpha,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,A2B5,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,OLIG2,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,VCAN,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,GPR17,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,PTPRZ1,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,,SOX10,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,,ENPP6,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,,RGCC,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,,APOE,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,,PCDH15,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell

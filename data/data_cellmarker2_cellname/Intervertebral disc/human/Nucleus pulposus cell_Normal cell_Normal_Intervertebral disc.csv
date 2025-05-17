@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,FOXF1,FOXF1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,PAX1,PAX1

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,markerA,Human,Undefined,Undefined,Mycosis fungoides,Cancer cell,T cell
+T cell,Effector,markerE,Human,Undefined,Undefined,Mycosis fungoides,Cancer cell,T cell
+T cell,Effector,markerB,Human,Undefined,Undefined,Mycosis fungoides,Cancer cell,T cell
+T cell,Effector,markerC,Human,Undefined,Undefined,Mycosis fungoides,Cancer cell,T cell
+T cell,Effector,markerD,Human,Undefined,Undefined,Mycosis fungoides,Cancer cell,T cell

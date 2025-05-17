@@ -1,0 +1,292 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Antrum gastric epithelial cell,,PDX1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell
+Antrum gastric epithelial cell,,GAST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MZB1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+Cancer cell,,DOG1,Human,Gastrointestinal tract,Gastrointestinal tract,Gastrointestinal stromal tumor,Cancer cell,Cancer cell
+Cancer cell,,KIT,Human,Gastrointestinal tract,Gastrointestinal tract,Gastrointestinal stromal tumor,Cancer cell,Cancer cell
+Cancer cell,,ANO1,Human,Gastrointestinal tract,Gastrointestinal tract,Gastrointestinal stromal tumor,Cancer cell,Cancer cell
+Cancer cell,Stem,CD166,Human,Gastrointestinal tract,Gastrointestinal tract,Colorectal Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ALCAM,Human,Gastrointestinal tract,Gastrointestinal tract,Colorectal Cancer,Cancer cell,Cancer stem cell
+T cell,CD8,CD8B,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,CD8 T cell
+T cell,CD8,CD8A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,CD8 T cell
+Cytotoxic cell,,NKG7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,GZMA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,KLRD1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,PRF1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,GZMB,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,GZMH,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,KLRK1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,CTSW,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,GNLY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,,KLRB1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+T cell,Cytotoxic,CD8,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell
+T cell,,IDO1,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell
+Dendritic cell,,CLEC4C,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD83,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,IRF4,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,ID2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,HLA-DQA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,IL3RA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Endocrine cell,,CHGA,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endocrine cell
+Endothelial cell,,PECAM1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SELP,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SELE,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,SFN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MUC5AC,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PGC,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,MUC6,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Fibroblastic reticular cell,,PDPN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblastic reticular cell
+Fibroblastic reticular cell,,CCL21,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblastic reticular cell
+Fibroblast,,COL1A2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL6A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL14A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,CAV1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Neuroendocrine cell,Gastric,GAST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,Gastric,TFF3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,CHGA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,EPCAM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,SST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Gastric parietal cell,,GIF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric parietal cell
+Gastric parietal cell,,CBLIF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric parietal cell
+Gastric stem cell,stem cell,LGR5,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Gastric stem cell,stem cell,TROY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Gastric stem cell,stem cell,TNFRSF19,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Intestinal epithelial cell,,MUC2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Intestinal epithelial cell
+Intestinal cell,stem,LGR5,Human,Gastrointestinal tract,Gastrointestinal tract,Normal,Normal cell,Intestinal stem cell
+Macrophage,,CD14,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Mast cell,,CPA3,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,MS4A2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Monocyte,,FCGR3A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Monocyte
+Myeloid cell,,IL3RA,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LAMP3,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC4C,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,TPSAB1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myofibroblast,Extracellular Matrix,ACTA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Fibroblast Activation,THY1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Cell Signaling,CAV1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,DCN,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,COL14A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,COL1A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,LUM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Natural killer cell,,GNLY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+T cell,Central Memory,CCR7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Naïve or central memory  T cell
+T cell,Naïve,SELL,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Naïve or central memory  T cell
+Parietal cell,,ATP4A,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Parietal cell
+Pericyte,,RGS5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,ACTA2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,MCAM,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,PDGFRB,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Pericyte
+Pericyte,,RGS5,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Pericyte
+Plasma cell,,SDC1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Plasma cell
+T cell,Regulatory,FOXP3,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Regulatory T(Treg) cell
+Smooth muscle cell,,ACTA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Smooth muscle cell
+Stem cell,,CD133,Human,Gastrointestinal tract,Gastrointestinal tract,Gallbladder Carcinoma,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Gastrointestinal tract,Gastrointestinal tract,Gallbladder Carcinoma,Cancer cell,Stem cell
+Stem cell,,CD166,Human,Gastrointestinal tract,Gastrointestinal tract,Intestinal Cancer,Cancer cell,Stem cell
+Stem cell,,ALCAM,Human,Gastrointestinal tract,Gastrointestinal tract,Intestinal Cancer,Cancer cell,Stem cell
+Stem cell,,BMI1,Human,Gastrointestinal tract,Gastrointestinal tract,Normal,Normal cell,Stem cell
+Stem cell,,SOX9,Human,Gastrointestinal tract,Gastrointestinal tract,Normal,Normal cell,Stem cell
+T cell,,CD3E,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3G,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,Tissue resident,CD69,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+T cell,Tissue resident,ITGAE,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+T cell,Effector,ITGAE,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+T cell,Memory,ITGA1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+Antrum gastric epithelial cell,,PDX1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell
+Antrum gastric epithelial cell,,GAST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MZB1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,B cell
+T cell,CD8,CD8B,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,CD8 T cell
+T cell,CD8,CD8A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,CD8 T cell
+Cytotoxic cell,Cytotoxic,NKG7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRD1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,PRF1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMB,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMH,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRK1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,CTSW,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GNLY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRB1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Dendritic cell,,CLEC4C,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD83,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,IRF4,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,ID2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,HLA-DQA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,IL3RA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Dendritic cell
+Endocrine cell,,CHGA,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endocrine cell
+Endothelial cell,,PECAM1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SELP,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SELE,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,SFN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MUC5AC,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PGC,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,MUC6,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Epithelial cell
+Fibroblastic reticular cell,,PDPN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblastic reticular cell
+Fibroblastic reticular cell,,CCL21,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblastic reticular cell
+Fibroblast,,COL1A2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL6A1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL14A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Fibroblast,,CAV1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Fibroblast
+Neuroendocrine cell,Gastric,GAST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,Gastric,TFF3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,CHGA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,EPCAM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,SST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Gastric parietal cell,,GIF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric parietal cell
+Gastric parietal cell,,CBLIF,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric parietal cell
+Gastric stem cell,,LGR5,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Gastric stem cell,,TROY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Gastric stem cell,,TNFRSF19,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric stem cell
+Intestinal epithelial cell,,MUC2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Intestinal epithelial cell
+Macrophage,,CD14,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Macrophage
+Mast cell,,CPA3,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,MS4A2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Mast cell
+Monocyte,,FCGR3A,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Monocyte
+Myeloid cell,,IL3RA,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LAMP3,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC4C,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,TPSAB1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myofibroblast,,ACTA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,THY1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,CAV1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,DCN,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,COL14A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,LUM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Natural killer cell,,GNLY,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Natural killer cell
+T cell,Central Memory,CCR7,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Naïve or central memory  T cell
+T cell,Naïve,SELL,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Naïve or central memory  T cell
+Parietal cell,,ATP4A,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Parietal cell
+Pericyte,,RGS5,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,ACTA2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,MCAM,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Pericyte
+Pericyte,,PDGFRB,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Pericyte
+Pericyte,,RGS5,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Pericyte
+Plasma cell,,SDC1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Plasma cell
+T cell,Regulatory,IL2RA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Regulatory T(Treg) cell
+Smooth muscle cell,,ACTA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Smooth muscle cell
+Stem cell,,SOX9,Human,Gastrointestinal tract,Gastrointestinal tract,Normal,Normal cell,Stem cell
+T cell,,CD3E,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3G,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,Tissue resident,CD69,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+T cell,Tissue resident,ITGAE,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell
+T cell,,ITGA1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Tissue resident effector memory T cell

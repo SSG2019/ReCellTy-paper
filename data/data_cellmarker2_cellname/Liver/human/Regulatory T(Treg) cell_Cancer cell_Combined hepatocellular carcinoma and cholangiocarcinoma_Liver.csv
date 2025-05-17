@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Combined hepatocellular carcinoma and cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,Foxp3,

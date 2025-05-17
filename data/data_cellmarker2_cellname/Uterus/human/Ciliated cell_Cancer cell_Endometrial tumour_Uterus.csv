@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Endometrial tumour,Cancer cell,Ciliated cell,CL_0000064,CTH,CTH
+Human,Uterus,Uterus,UBERON_0000995,Endometrial tumour,Cancer cell,Ciliated cell,CL_0000064,p73,ARHGAP24
+Human,Uterus,Uterus,UBERON_0000995,Endometrial tumour,Cancer cell,Ciliated cell,CL_0000064,FOXJ1,FOXJ1
+Human,Uterus,Uterus,UBERON_0000995,Endometrial tumour,Cancer cell,Ciliated cell,CL_0000064,DYDC2,DYDC2

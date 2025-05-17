@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Retina cell,,CPODXL,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,SPP1,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,STAC2,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,PCDH9,Human,Eye,Retina,Normal,Normal cell,Retina cell

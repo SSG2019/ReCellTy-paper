@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,P53-like,PCP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,P53-like,ACTC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,PGM5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,DES,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,ACTG2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,MFAP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,MYH11,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,CNN1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,FLNC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell

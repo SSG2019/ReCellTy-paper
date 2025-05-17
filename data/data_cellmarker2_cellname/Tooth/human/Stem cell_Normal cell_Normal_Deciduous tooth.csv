@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD29,ITGB1
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD73,NT5E
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Stem cell,CL_0000034,CD44,CD44

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,IL1B,IL1B
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,OLR1,OLR1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,CCL20,CCL20
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,EREG,EREG
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,CXCL2,CXCL2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,FBP1,FBP1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,MARCO,MARCO
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,CXCL3,CXCL3
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Monocyte,CL_0000576,TIMP1,TIMP1

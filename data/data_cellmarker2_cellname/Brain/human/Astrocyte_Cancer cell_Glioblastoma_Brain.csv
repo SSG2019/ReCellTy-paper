@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GLAST,SLC1A3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,MLC1,MLC1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,S100B,S100B
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,SLC1A3,SLC1A3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,FABP7,FABP7
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,S100β,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,S100B,S100B
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GLUL,GLUL
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,ALDH1A1,ALDH1A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GLT-1,SLC1A2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,SLC1A2,SLC1A2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,HepaCAM,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GLAST,SLC1A3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,CD44,CD44
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,ALDOC,ALDOC
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,CLU,CLU
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,ATP1A2,ATP1A2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Astrocyte,CL_0000127,GFAP,GFAP

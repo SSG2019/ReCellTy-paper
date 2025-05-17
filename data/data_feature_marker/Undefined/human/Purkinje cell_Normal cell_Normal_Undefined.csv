@@ -1,0 +1,35 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,PDE9A,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PDE1B,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,S100A1,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,HDAC6,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,GABAT,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PMCA2,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,IP3R,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PCA1,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PDE5,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Calbindin,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Calmodulin-dependent phosphodiesterase,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,CAR8,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Cerebellin,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,cGMP-dependent protein kinase,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,clusterin,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,GAD67,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,HFB-16,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,MAP-120,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Myelin basic protein,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Myelin protein zero,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,NMDA-NR1,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Olfactory marker protein,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PCA2,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PCPP260,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PEP19,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PMCA,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,SERCA,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Spot 35 protein,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,Zebrin II,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,ABAT,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,ATP2B2,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,ITPR1,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,ENPP1,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell
+Neuron,,PDE5A,Human,Undefined,Undefined,Normal,Normal cell,Purkinje cell

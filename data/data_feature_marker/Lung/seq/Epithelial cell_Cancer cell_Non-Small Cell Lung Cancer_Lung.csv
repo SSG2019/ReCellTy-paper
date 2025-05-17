@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT7,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TMEM190,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CAPS,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Pan monocyte,,CD68,CD68
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Pan monocyte,,LYZ,LYZ
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Pan monocyte,,CD14,CD14

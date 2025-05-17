@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,VIP,VIP
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,CCK,CCK
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,LHX6,LHX6
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,CALB2,CALB2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,SST,SST
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD2,GAD2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,DLX1,DLX1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Inhibitory neuron,CL_0008029,NR2F2,NR2F2

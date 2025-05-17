@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted CD4+ T cell,CL_0000624,PD-1,PDCD1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted CD4+ T cell,CL_0000624,TIGIT,TIGIT
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted CD4+ T cell,CL_0000624,CXCL13,CXCL13
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted CD4+ T cell,CL_0000624,CTLA4,CTLA4

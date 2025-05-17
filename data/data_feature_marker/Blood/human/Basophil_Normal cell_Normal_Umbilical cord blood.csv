@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basophil,,CD45,Human,Blood,Umbilical cord blood,Normal,Normal cell,Basophil
+Basophil,,CD203c,Human,Blood,Umbilical cord blood,Normal,Normal cell,Basophil
+Basophil,,PTPRC,Human,Blood,Umbilical cord blood,Normal,Normal cell,Basophil
+Basophil,,ENPP3,Human,Blood,Umbilical cord blood,Normal,Normal cell,Basophil

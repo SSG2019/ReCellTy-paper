@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,PDX1,PDX1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,ID1-4,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,HNF1B,HNF1B
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,SOX9,SOX9
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,TTYH1,TTYH1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,GP2,GP2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,PDX1,PDX1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Progenitor cell,CL_0011026,PTF1A,PTF1A

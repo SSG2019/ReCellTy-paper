@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,NOTCH1,NOTCH1
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,ARID1A,ARID1A
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,APC,APC
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,TP53,TP53
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,KRAS,KRAS
+Human,Stomach,Stomach,UBERON_0000945,Stomach Cancer,Cancer cell,Cancer cell,CL_0001064,SMARCB1,SMARCB1

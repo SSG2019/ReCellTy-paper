@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Goblet cell,CL_0000160,SPINK4,SPINK4
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Goblet cell,CL_0000160,FCGBP,FCGBP
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Goblet cell,CL_0000160,TFF3,TFF3

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,CD14+ monocyte,CL_0001054,FCGR3A,FCGR3A
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,CD14+ monocyte,CL_0001054,CD14,CD14

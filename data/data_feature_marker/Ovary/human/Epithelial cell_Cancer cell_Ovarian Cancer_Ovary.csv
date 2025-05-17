@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CLDN4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,OCLN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD24,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,DSP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E‐cadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,β‐catenin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK18,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PD-1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TIGIT,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SOX17,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PDCD1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell

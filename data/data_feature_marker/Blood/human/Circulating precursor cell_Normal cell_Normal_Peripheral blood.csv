@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+precursor cell,Circulating,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating precursor cell
+precursor cell,Circulating,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating precursor cell
+precursor cell,,CD34,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating precursor cell
+precursor cell,,CD133,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating precursor cell
+precursor cell,,PROM1,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating precursor cell

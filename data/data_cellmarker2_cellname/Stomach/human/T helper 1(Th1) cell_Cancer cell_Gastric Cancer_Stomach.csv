@@ -1,0 +1,27 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,LRP8,LRP8
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,DPP4,DPP4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,SGCB,SGCB
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,HBEGF,HBEGF
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,LTA,LTA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,IL12RB2,IL12RB2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CCL4,CCL4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CTLA4,CTLA4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,BST2,BST2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,IFNG,IFNG
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CD38,CD38
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CD70,CD70
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,APOD,APOD
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CSF2,CSF2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,DUSP5,DUSP5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,APBB2,APBB2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,SYNGR3,SYNGR3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,BTG3,BTG3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,DOK5,DOK5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,LRRN3,LRRN3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,DGKI,DGKI
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,ATP9A,ATP9A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,ZBTB32,ZBTB32
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,IL22,IL22
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,CMAH,CMAHP
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper 1(Th1) cell,CL_0000545,EGFL6,EGFL6

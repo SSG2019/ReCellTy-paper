@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,Progenitor,VCAN,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,GPR17,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,OLIG2,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,ENPP6,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,CSPG4,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,PDGFRα,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell
+Oligodendrocyte,Progenitor,PDGFRA,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte progenitor cell

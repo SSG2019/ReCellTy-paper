@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,HMMR,HMMR
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,KIAA0101,PCLAF
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TYMS,TYMS
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,UBE2C,UBE2C
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CD38,CD38
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PI3,PI3
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,MKI67,MKI67
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TOP2A,TOP2A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CHI3L2,CHI3L2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,IGLC3,IGLC3

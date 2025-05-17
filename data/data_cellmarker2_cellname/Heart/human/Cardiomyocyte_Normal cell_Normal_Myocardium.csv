@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,αActinin,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,HADHA,HADHA
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Ryr2,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Xirp2,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Postn,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,TtnISO,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Tgfb1,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Col1a1,
+Human,Heart,Myocardium,UBERON_0002349,Normal,Normal cell,Cardiomyocyte,CL_0000746,Nppa,

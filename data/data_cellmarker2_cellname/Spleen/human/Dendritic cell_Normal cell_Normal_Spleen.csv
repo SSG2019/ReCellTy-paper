@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,TCF4,TCF4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CCR7,CCR7
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,SIGLEC6,SIGLEC6
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,XCR1,XCR1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC9A,CLEC9A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dendritic cell,CL_0000451,CD141,THBD

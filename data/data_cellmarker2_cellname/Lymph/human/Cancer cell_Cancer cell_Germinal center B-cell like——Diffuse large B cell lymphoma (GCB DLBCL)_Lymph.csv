@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,NEK6,NEK6
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,MYBL1,MYBL1
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,MAML3,MAML3
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,BCL6#1（exon3-4）,
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,BCL6#1（exon1-2）,
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,S1PR2,S1PR2
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,SERPINA9,SERPINA9
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,LMO2,LMO2
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,ASB13,ASB13
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,CD10,MME
+Human,Lymph,Lymph,UBERON_0002391,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell,CL_0001064,ITPKB,ITPKB

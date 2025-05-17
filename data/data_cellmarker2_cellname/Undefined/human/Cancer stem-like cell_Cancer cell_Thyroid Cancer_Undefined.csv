@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD15,FUT4
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD326,
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD166,ALCAM
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD133,PROM1
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD13,ANPEP
+Human,Undefined,Undefined,,Thyroid Cancer,Cancer cell,Cancer stem-like cell,,CD44,CD44

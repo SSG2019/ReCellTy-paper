@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Aorta,UBERON_0000947,Normal,Normal cell,Osteocyte,CL_0000137,Runx2,
+Human,Heart,Aorta,UBERON_0000947,Normal,Normal cell,Osteocyte,CL_0000137,OPN,SPP1

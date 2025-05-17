@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,TUJ1,Human,Blood,Blood,Normal,Normal cell,Neuron
+Neuron,,S100beta,Human,Blood,Blood,Normal,Normal cell,Neuron
+Neuron,,SMI32,Human,Blood,Blood,Normal,Normal cell,Neuron
+Neuron,Motor Neuron,ISL1,Human,Blood,Blood,Normal,Normal cell,Neuron
+Neuron,Motor Neuron,NKX6.1,Human,Blood,Blood,Normal,Normal cell,Neuron
+Neuron,Motor Neuron,NKX6-1,Human,Blood,Blood,Normal,Normal cell,Neuron

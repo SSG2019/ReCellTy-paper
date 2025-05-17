@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CXCL2,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,IL1B,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,LYZ,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,CST3,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,IL8,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,IL1RN,Human,Intestine,Rectum,Normal,Normal cell,Monocyte
+Monocyte,,CXCL8,Human,Intestine,Rectum,Normal,Normal cell,Monocyte

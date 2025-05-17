@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,S100A4,S100A4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,PECAM1,PECAM1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,EPCAM,EPCAM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,PTPRC,PTPRC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,MFAP5,MFAP5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRB,PDGFRB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRA,PDGFRA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,ACTA2,ACTA2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,WNT2,WNT2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Mesenchymal cell,CL_0008019,LGR6,LGR6

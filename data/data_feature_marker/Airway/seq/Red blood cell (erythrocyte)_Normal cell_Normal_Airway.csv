@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,Erythrocyte,HBA1,Human,Airway,Airway,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,Erythrocyte,HBB,Human,Airway,Airway,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,Erythrocyte,HBA2,Human,Airway,Airway,Normal,Normal cell,Red blood cell (erythrocyte)

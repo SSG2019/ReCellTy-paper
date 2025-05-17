@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Dorsal forebrain,,Normal,Normal cell,Neural progenitor cell,CL_0011020,EMX1,EMX1
+Human,Brain,Dorsal forebrain,,Normal,Normal cell,Neural progenitor cell,CL_0011020,SOX2,SOX2

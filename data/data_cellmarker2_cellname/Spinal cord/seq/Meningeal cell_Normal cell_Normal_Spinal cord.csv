@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Meningeal cell,,COL11A2,COL11A2
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Meningeal cell,,PDGFRB,PDGFRB

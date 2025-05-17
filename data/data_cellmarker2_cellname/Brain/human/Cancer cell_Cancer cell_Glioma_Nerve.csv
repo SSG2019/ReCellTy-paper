@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,ASPM,ASPM
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,CHD5,CHD5
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,RRTM2,
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,TOP2A,TOP2A
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,PCDH9,PCDH9
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,EZH2,EZH2
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,PBK,PBK
+Human,Brain,Nerve,UBERON_0001021,Glioma,Cancer cell,Cancer cell,CL_0001064,AQP4,AQP4

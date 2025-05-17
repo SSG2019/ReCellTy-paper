@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,ACTA2,ACTA2
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,CNN1,CNN1
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,TAGLN,TAGLN
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,RGS5,RGS5

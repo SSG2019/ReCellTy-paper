@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,SOX2,Human,Brain,Brain,Diffuse intrinsic pontine glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Brain,Brain,Diffuse intrinsic pontine glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Brain,Brain,Diffuse intrinsic pontine glioma,Cancer cell,Stem cell
+Stem cell,Neural,Nestin,Human,Brain,Brain,Diffuse intrinsic pontine glioma,Cancer cell,Stem cell
+Stem cell,,Sox2,Human,Brain,Brain,Diffuse intrinsic pontine glioma,Cancer cell,Stem cell

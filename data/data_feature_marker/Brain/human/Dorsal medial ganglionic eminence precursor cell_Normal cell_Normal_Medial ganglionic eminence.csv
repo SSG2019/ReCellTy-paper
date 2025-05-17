@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Precursor cell,Dorsal,ZFHX3,Human,Brain,Medial ganglionic eminence,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell
+Precursor cell,medial ganglionic eminence,NR2F1,Human,Brain,Medial ganglionic eminence,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell
+Precursor cell,,MSEIS2,Human,Brain,Medial ganglionic eminence,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell
+Precursor cell,,ZNF503,Human,Brain,Medial ganglionic eminence,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell

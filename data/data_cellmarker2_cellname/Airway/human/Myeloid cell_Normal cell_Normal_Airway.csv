@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Airway,Airway,,Normal,Normal cell,Myeloid cell,CL_0000763,CD68,CD68

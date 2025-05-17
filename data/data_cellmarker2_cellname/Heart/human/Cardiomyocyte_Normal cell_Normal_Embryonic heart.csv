@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,DCN,DCN
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,PECAM1,PECAM1
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,WT1,WT1
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,CSF1R,CSF1R
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,CD3D,CD3D
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,TPSAB1,TPSAB1
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,COL1A1,COL1A1
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,SOX9,SOX9
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Cardiomyocyte,CL_0000746,ACTN2,ACTN2

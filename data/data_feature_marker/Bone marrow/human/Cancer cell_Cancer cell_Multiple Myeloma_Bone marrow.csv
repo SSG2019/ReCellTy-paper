@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,CD20,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,CD4,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,CD5,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,CD33,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,HJURP,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,SLAMF7,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,TNFRSF17,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,CD38,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,SDC1,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell
+Cancer cell,,MS4A1,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,Cancer cell

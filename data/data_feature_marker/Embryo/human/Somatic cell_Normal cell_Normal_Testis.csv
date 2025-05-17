@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Somatic cell,,SOX9,Human,Embryo,Testis,Normal,Normal cell,Somatic cell
+Somatic cell,,CD31,Human,Embryo,Testis,Normal,Normal cell,Somatic cell
+Somatic cell,,HSD3B1,Human,Embryo,Testis,Normal,Normal cell,Somatic cell
+Somatic cell,,ACTA2,Human,Embryo,Testis,Normal,Normal cell,Somatic cell
+Somatic cell,,NR2F2,Human,Embryo,Testis,Normal,Normal cell,Somatic cell
+Somatic cell,,PECAM1,Human,Embryo,Testis,Normal,Normal cell,Somatic cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,IGHA2,IGHA2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,DPEP1,DPEP1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,IGKC,IGKC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,SDC127,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,CD38,CD38
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1

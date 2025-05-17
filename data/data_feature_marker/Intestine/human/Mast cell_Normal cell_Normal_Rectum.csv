@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,CD9,Human,Intestine,Rectum,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Intestine,Rectum,Normal,Normal cell,Mast cell
+Mast cell,,CD69,Human,Intestine,Rectum,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Intestine,Rectum,Normal,Normal cell,Mast cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Peritubular myoid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Peritubular myoid cell,,PTCH1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell
+Peritubular myoid cell,,AEBP1,Human,Testis,Testis,Normal,Normal cell,Peritubular myoid cell

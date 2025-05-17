@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SLC2A5,SLC2A5
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,GPR34,GPR34
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SIGLEC8,SIGLEC8
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,ADORA3,ADORA3
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SALL1,SALL1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,OLFML3,OLFML3
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,CD68,CD68
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SRGAP28,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,BHLHE41,BHLHE41
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SPRY1,SPRY1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,SORL1,SORL1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12

@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,GFAP,GFAP
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,Nestin,
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,c-Myc,MYC
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,KLF4,KLF4
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,NANOG,NANOG
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,STAT3,STAT3
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,SALL4,SALL4
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,SSEA-1,FUT4
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,Integrin alpha 6,
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,EGFRvIII,
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Glioblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1

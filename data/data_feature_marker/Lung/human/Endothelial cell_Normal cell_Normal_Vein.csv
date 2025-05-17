@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,NR2F2,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HDAC9,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ACKR1,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VCAM1,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RGS5,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELP,Human,Lung,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PTGS1,Human,Lung,Vein,Normal,Normal cell,Endothelial cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD117,Human,Blood,Plasma,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Blood,Plasma,Normal,Normal cell,Stem cell
+Stem cell,,KIT,Human,Blood,Plasma,Normal,Normal cell,Stem cell

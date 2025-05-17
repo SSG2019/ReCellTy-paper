@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD127,IL7R
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD117,KIT

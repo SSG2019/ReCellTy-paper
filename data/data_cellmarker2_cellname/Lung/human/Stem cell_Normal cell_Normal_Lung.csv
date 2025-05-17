@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,ALDH1,ALDH1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,ABCG2,ABCG2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,LGR6,LGR6
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,OCT3,SLC22A3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,Sox2,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stem cell,CL_0000034,SUSD2,SUSD2

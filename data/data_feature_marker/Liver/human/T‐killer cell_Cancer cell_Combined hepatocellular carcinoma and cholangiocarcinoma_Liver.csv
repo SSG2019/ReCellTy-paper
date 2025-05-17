@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,killer,CD8,Human,Liver,Liver,Combined hepatocellular carcinoma and cholangiocarcinoma,Cancer cell,T‐killer cell
+T cell,killer,CD8A,Human,Liver,Liver,Combined hepatocellular carcinoma and cholangiocarcinoma,Cancer cell,T‐killer cell

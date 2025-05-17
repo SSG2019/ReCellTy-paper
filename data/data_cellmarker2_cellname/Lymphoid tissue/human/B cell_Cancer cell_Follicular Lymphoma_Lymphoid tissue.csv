@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Follicular Lymphoma,Cancer cell,B cell,CL_0000236,AID,AICDA
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Follicular Lymphoma,Cancer cell,B cell,CL_0000236,CD10,MME
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Follicular Lymphoma,Cancer cell,B cell,CL_0000236,BCL6,BCL6

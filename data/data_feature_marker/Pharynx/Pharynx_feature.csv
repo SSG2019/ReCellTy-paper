@@ -1,0 +1,500 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+Fibroblast,Cancer-associated,COL3A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL1A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,DCN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Epithelial cell,,E-cadherin,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+B cell,Germinal center,SERPINA9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,RGS13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,BCL7A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,TCL1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,LRMP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SNX29P2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SYNE2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,NEIL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,MARCKSL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,DAAM1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,UCP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMCES,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SUGCT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,RFTN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGN2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,EZR,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,ACTG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,PTTG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SERF2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,LPP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGA1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,GAPDH,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,IRAG2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+Macrophage,,C1QA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,C1QB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ASAH1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,C1QC,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,APOC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD81,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,HES1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,RNASE1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FTL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PLD3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ACP5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,LGALS3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFIT1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,TREM2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,SPP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PSAP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PRDX1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSD,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFI6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CREG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MAFB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFI27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A4A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PLA2G7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,LGMN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSC,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ADAMDEC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,NUPR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CXCL9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MMP9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,SLC40A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,GPNMB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MARCKS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,GLUL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Mesenchymal cell,,FSP-1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vim,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Monocyte,,APOBEC3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,G0S2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,TIMP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,APOBEC3B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,SOD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,C15orf48,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CCL20,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL1RN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A12,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,FPR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CCL2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,FCN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL1B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,EREG,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CXCL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Myeloid cell,,LYZ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,MS4A6A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD1E,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,IL3RA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,LAMP3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Natural killer cell,,IFITM3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,TYROBP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,FCER1G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,PRF1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,HOPX,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CTSW,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Plasma cell,,SPCS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RABAC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ERLEC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC61G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDF2L1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KDELR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SUB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD38,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMEM258,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MZB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KDELR2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC61B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED10,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TRAM1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TXNDC15,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ARF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HM13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,FKBP11,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD59,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NPC2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PRDX4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC11C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SRGN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,DNAJB9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SPCS3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PIM2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELK,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JUN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,GSTP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,LMAN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ITM2C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NUCB2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IFI27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IFI6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PPIB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PDIA6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,P4HB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CRELD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,DERL3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TIMP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMEM59,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD63,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HSPA5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RRBP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,FKBP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,VIMP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HLA-C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,LGALS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MANF,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RPN2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PSAP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMBIM6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KRTCAP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HSP90B1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,C19orf10,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JSRP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NEAT1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGJ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PDIA4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SPCS2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HERPUD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOK,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MYDGF,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+dendritic cell,Plasmacytoid,CLEC4C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,LILRA4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,IRF7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,BCL11A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SMPD3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CCDC50,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SLC15A4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PLAC8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LAMP5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LRRC26,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,GAPT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,ITM2C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,NUCB2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MZB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IL3RA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IGJ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PPP1R14B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CYB561A3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MAP1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,GZMB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MPEG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTCRA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SCT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,HIGD1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TRAF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PLD4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,C12orf75,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TCL1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,ALOX5AP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SPCS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,OFD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LTB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IDH3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,APP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTGDS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTPRS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,UGCG,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SELL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CLIC3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TCF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TSPAN13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SPIB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SEC61B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,C10orf118,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,JCHAIN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CCDC186,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,,CD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+B cell,,CD79B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,B cell
+Fibroblast,Cancer-associated,COL3A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL1A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,DCN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Epithelial cell,,EPCAM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+B cell,Germinal center,BCL7A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,RGS13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,SERPINA9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,TCL1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,LRMP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SNX29P2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SYNE2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,NEIL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,MARCKSL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,DAAM1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,UCP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMCES,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SUGCT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,RFTN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGN2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,EZR,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,ACTG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,PTTG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,SERF2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,LPP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGA1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,GAPDH,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+B cell,,IRAG2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell
+Macrophage,,C1QA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,C1QB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ASAH1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,C1QC,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,APOC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD81,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,HES1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,RNASE1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FTL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PLD3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ACP5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,LGALS3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFIT1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,TREM2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,SPP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PSAP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PRDX1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSD,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFI6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CREG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MAFB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,IFI27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A4A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,PLA2G7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,LGMN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSC,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,ADAMDEC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,NUPR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CXCL9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MMP9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,SLC40A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CCL3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,GPNMB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,MARCKS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,CTSB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Macrophage,,GLUL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Macrophage
+Monocyte,,APOBEC3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,G0S2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,TIMP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,APOBEC3B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,SOD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,C15orf48,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CCL20,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL1RN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,S100A12,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,FPR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CCL2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,FCN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,IL1B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,EREG,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Monocyte,,CXCL8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Monocyte
+Myeloid cell,,LYZ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,MS4A6A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD1E,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,IL3RA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,LAMP3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Myeloid cell
+Natural killer cell,,IFITM3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,TYROBP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,FCER1G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,PRF1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,HOPX,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CTSW,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Natural killer cell
+Plasma cell,,SPCS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RABAC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ERLEC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC61G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDF2L1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KDELR1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SUB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD38,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMEM258,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MZB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KDELR2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC61B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED10,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TRAM1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TXNDC15,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ARF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HM13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,FKBP11,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD59,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NPC2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PRDX4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SEC11C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SRGN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,DNAJB9,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMED2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SPCS3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PIM2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELK,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JUN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,GSTP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,LMAN1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,ITM2C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NUCB2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IFI27,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IFI6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PPIB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PDIA6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,P4HB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CRELD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,DERL3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TIMP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMEM59,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD63,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HSPA5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RRBP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,FKBP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,VIMP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HLA-C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,LGALS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MANF,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,RPN2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PSAP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,TMBIM6,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,KRTCAP2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HSP90B1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,C19orf10,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JSRP1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,NEAT1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGJ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,PDIA4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SPCS2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,HERPUD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOM,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOK,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,SELENOS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,MYDGF,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasma cell
+dendritic cell,Plasmacytoid,CLEC4C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,LILRA4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,IL3RA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,BCL11A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SMPD3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CCDC50,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SLC15A4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PLAC8,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LAMP5,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LRRC26,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,GAPT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,ITM2C,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IRF7,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,NUCB2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MZB1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IGJ,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PPP1R14B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CYB561A3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MAP1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,GZMB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,MPEG1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTCRA,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SCT,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,HIGD1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TRAF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PLD4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,C12orf75,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TCL1A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,ALOX5AP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SPCS1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,OFD1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,LTB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,IDH3A,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,APP,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTGDS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,PTPRS,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,UGCG,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SELL,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CLIC3,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TCF4,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,TSPAN13,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SPIB,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,SEC61B,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,C10orf118,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,JCHAIN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,,CCDC186,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,,CD2,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,T cell

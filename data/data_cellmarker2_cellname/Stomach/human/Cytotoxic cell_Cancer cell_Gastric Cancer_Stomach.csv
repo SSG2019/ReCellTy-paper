@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,APOL3,APOL3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GZMH,GZMH
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,RUNX3,RUNX3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRB1,KLRB1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,CTSW,CTSW
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,APBA2,APBA2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GZMA,GZMA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GNLY,GNLY
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,SIGIRR,SIGIRR
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRD1,KLRD1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,DUSP2,DUSP2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,ZBTB16,ZBTB16
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,RORA,RORA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRF1,KLRF1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,NKG7,NKG7

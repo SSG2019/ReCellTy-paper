@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TGFB3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TGFB1,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,MHCII,Human,Brain,Brain,Glioblastoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Brain,Brain,Glioblastoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD45,Human,Brain,Brain,Glioblastoma,Cancer cell,Dendritic cell
+Dendritic cell,,PTPRC,Human,Brain,Brain,Glioblastoma,Cancer cell,Dendritic cell

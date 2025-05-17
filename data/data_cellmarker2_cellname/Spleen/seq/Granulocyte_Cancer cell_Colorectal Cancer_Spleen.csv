@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Granulocyte,CL_0000094,S100A9,S100A9
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Granulocyte,CL_0000094,S100A8,S100A8
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Granulocyte,CL_0000094,CD66b,CEACAM8

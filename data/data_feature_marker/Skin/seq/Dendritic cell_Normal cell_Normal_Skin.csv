@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,Itgax,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,MHCII,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,Cd209d,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,Cd209a,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Response,Mgl2,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CD1A,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CD1C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Cell Guidance,NRP1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,LILRA4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Coagulation and Inflammation,THBD,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,CLE4C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,IL3RA,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-Presentation,XCR1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,IRF8,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,GZMB,Human,Skin,Skin,Normal,Normal cell,Dendritic cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,T cell,CL_0000084,PHLDA1,PHLDA1
+Human,Undefined,Undefined,,Undefined,Cancer cell,T cell,CL_0000084,LAYN,LAYN
+Human,Undefined,Undefined,,Undefined,Cancer cell,T cell,CL_0000084,SNAP47,SNAP47

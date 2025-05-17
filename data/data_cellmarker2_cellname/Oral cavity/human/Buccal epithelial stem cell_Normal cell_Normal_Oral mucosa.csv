@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Oral cavity,Oral mucosa,UBERON_0003729,Normal,Normal cell,Buccal epithelial stem cell,CL_0000034,P63,

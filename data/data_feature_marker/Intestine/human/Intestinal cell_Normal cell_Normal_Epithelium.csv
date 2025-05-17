@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Intestinal cell,Bicarbonate transport,CA12,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,APOC3,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,AQP8,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal ion transport,BEST4,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,SLC13A2,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Bicarbonate transport,CA7,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,SLC26A2,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,FABP2,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,FABP6,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal metabolism,HMGCS2,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell
+Intestinal cell,Intestinal absorption,FABP1,Human,Intestine,Epithelium,Normal,Normal cell,Intestinal cell

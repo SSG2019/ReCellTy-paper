@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,PRDM1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR4,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,MZB1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell

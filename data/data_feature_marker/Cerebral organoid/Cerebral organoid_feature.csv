@@ -1,0 +1,58 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,AGT,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,HES1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+neuron,Inhibitory,RSPO3,Human,Cerebral organoid,Diencephalon,Normal,Normal cell,Inhibitory neuron
+neuron,,PCP4,Human,Cerebral organoid,Diencephalon,Normal,Normal cell,Inhibitory neuron
+Müller glial cell,,DKK3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Müller glial cell
+Müller glial cell,,SOX9,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Müller glial cell
+Neuroepithelial cell,,KLF4,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VIM,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VCAN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuron,Photoreceptor,RCVRN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Photoreceptor,GNGT1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Rod Photoreceptor,NRL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Neuronal Migration,DCX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Photoreceptor,CRX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,GBN3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,TULIP1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,RALGAPA1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+neural progenitor cell,Proliferative,PAX6,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+neural progenitor cell,Proliferative,SOX2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+neural progenitor cell,Proliferative,TOP2A,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+Radial glial cell,,PAX6,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Radial glial cell
+Radial glial cell,,SOX2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Radial glial cell
+Retinal ganglion cell,,NEFM,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,PCP4,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell
+Astrocyte,,AGT,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,HES1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+neuron,,RSPO3,Human,Cerebral organoid,Diencephalon,Normal,Normal cell,Inhibitory neuron
+neuron,,PCP4,Human,Cerebral organoid,Diencephalon,Normal,Normal cell,Inhibitory neuron
+Müller glial cell,,DKK3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Müller glial cell
+Müller glial cell,,SOX9,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Müller glial cell
+Neuroepithelial cell,,KLF4,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VIM,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VCAN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuron,Photoreceptor,RCVRN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Phototransduction,GNGT1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Rod Photoreceptor Development,NRL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Neuronal Migration,DCX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Photoreceptor Differentiation,CRX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,GBN3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,TULIP1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,RALGAPA1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+neural progenitor cell,Proliferative,TOP2A,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+neural progenitor cell,,PAX6,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+neural progenitor cell,,GLI3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+neural progenitor cell,,SOX2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Proliferative neural progenitor cell
+Radial glial cell,,PAX6,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Radial glial cell
+Radial glial cell,,SOX2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Radial glial cell
+Retinal ganglion cell,,NEFM,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,PCP4,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Retinal ganglion cell

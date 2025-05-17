@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatic,progenitor-like,CD133,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Hepatic progenitor-like cell
+Hepatic,progenitor-like,PROM1,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Hepatic progenitor-like cell
+Hepatic,,CD13,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Hepatic progenitor-like cell
+Hepatic,,ANPEP,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Hepatic progenitor-like cell

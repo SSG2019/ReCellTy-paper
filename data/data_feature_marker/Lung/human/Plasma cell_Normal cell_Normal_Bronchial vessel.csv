@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,CD27,Human,Lung,Bronchial vessel,Normal,Normal cell,Plasma cell
+Plasma cell,,CD79A,Human,Lung,Bronchial vessel,Normal,Normal cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Lung,Bronchial vessel,Normal,Normal cell,Plasma cell

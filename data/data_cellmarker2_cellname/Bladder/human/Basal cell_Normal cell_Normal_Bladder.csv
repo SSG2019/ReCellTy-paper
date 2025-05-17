@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Basal cell,CL_0000646,KRT5,KRT5
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Basal cell,CL_0000646,KRT17,KRT17

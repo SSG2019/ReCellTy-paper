@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Cytokeratin,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Vimentin,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Cytokeratin-7,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Laeverin,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Cytokeratin-7,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,Cytokeratin-7,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,KRT17,KRT17
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,ITGB4,ITGB4
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,CCNB1,CCNB1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,ITGA2,ITGA2
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,ITGA6,ITGA6
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophoblast cell,CL_0000351,KRT23,KRT23

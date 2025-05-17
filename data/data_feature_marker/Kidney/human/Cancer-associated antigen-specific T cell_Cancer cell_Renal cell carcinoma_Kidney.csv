@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cancer-associated,Granzyme B,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell
+T cell,Cancer-associated,Perforin,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell
+T cell,Antigen-specific,CD39,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell
+T cell,Antigen-specific,PD-1,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell

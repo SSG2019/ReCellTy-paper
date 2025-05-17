@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD45,PTPRC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD8,CD8A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD4,CD4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,S100A4,S100A4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,PTPRC,PTPRC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,PTPRC,PTPRC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD247,CD247
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,MSR1,MSR1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,NCAM1,NCAM1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CPA3,CPA3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,GNLY,GNLY
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,VCAN,VCAN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,PPARG,PPARG
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD4,CD4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD74,CD74
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,KIT,KIT
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,MKI67,MKI67
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,CD8A,CD8A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,MZB1,MZB1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,MS4A1,MS4A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,IRF8,IRF8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,IL7R,IL7R
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,BLK,BLK
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Immune cell,CL_0000738,C1gb,

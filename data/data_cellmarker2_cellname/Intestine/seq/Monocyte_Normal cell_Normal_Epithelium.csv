@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Monocyte,CL_0000576,CLEC12A,CLEC12A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1

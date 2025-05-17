@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Malignant cell,,EPCAM,Human,Blood,Blood,Nasopharyngeal Cancer,Cancer cell,Malignant cell
+Malignant cell,,KRT5,Human,Blood,Blood,Nasopharyngeal Cancer,Cancer cell,Malignant cell

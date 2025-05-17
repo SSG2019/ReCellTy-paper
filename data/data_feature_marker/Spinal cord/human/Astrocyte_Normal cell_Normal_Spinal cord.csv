@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GFAP,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte

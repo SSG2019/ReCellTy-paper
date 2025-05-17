@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+natural killer cell,Effector,NKG7,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,,CD2,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,,CD8B,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T Cell,CD8+,CD45RA,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,CD8+,CD27,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,CD8+,CD28,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,Senescent,CD57,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,Senescent,TIGIT,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,Senescent,CD28,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,Senescent,KLRG1,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell
+T Cell,Senescent,B3GAT1,Human,Undefined,Undefined,Normal,Normal cell,Senescent CD8+ T Cell

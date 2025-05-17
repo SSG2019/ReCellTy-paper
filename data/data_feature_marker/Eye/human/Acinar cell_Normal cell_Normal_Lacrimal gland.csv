@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,PRR27,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,HTN1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,LTF,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,SCGB2A1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell

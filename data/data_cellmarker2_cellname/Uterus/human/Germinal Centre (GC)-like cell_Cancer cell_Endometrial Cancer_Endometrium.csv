@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell,,BHLHE40,BHLHE40
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell,,BCL6,BCL6
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell,,HMGB2,HMGB2
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell,,MKI67,MKI67

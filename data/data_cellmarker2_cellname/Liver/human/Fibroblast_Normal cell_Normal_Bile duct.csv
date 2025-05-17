@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Fibroblast,CL_0000057,FAP,FAP
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Fibroblast,CL_0000057,PDGFR-β,

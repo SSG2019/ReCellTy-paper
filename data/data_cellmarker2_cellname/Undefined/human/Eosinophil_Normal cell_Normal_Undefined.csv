@@ -1,0 +1,33 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD53,CD53
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD52,CD52
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,SIGLEC8,SIGLEC8
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD244,CD244
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,C3AR,C3AR1
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD88,C5AR1
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD191,CCR1
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD193,CCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD35,CR1
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD116,CSF2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD23,FCER2
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD64,FCGR1A
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,SSEA-1,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD183,CXCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD123,IL3RA
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD125,IL5RA
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD126,IL6R
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD129,IL9R
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD305,LAIR1
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD43,SPN
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD294,PTGDR2
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CD49d,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,Fc-epsilon RI-alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,Galectin-9,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,MRP-14,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,Siglec-10,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,F4/80,
+Human,Undefined,Undefined,,Normal,Normal cell,Eosinophil,CL_0000771,CLC,CLC

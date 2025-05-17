@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Artery,Artery,UBERON_0001637,Normal,Normal cell,Artery cell,CL_1001045,GJA5,GJA5
+Human,Artery,Artery,UBERON_0001637,Normal,Normal cell,Artery cell,CL_1001045,ELN,ELN
+Human,Artery,Artery,UBERON_0001637,Normal,Normal cell,Artery cell,CL_1001045,ARL15,ARL15
+Human,Artery,Artery,UBERON_0001637,Normal,Normal cell,Artery cell,CL_1001045,IGFBP3,IGFBP3
+Human,Artery,Artery,UBERON_0001637,Normal,Normal cell,Artery cell,CL_1001045,EGR1,EGR1

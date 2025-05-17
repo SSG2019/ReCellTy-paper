@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,STK11,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,CDKN2A,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,FHIT,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,MYCL1,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,CTL,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,TLR-3,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,HTL,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell
+B cell,,MYCL,Human,Lung,Lung,Lung Cancer,Cancer cell,B-2 cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,COL1A1,COL1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,PDGFRA,PDGFRA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,DCN,DCN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,COL1A2,COL1A2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,COL3A1,COL3A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,WT1,WT1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Stromal cell,CL_0000499,ACTA2,ACTA2

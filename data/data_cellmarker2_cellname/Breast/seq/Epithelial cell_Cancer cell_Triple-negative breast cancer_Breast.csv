@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial cell,CL_0000066,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial cell,CL_0000066,ESR1,ESR1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial cell,CL_0000066,KRT14,KRT14

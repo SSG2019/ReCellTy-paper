@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Endothelial cell,CL_0000115,TM4SF1,TM4SF1
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Endothelial cell,CL_0000115,CAV1,CAV1
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Endothelial cell,CL_0000115,IFITM1,IFITM1

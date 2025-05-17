@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,Ecto-5'-nucleotidase,CD73,Human,Kidney,Kidney,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Cell adhesion and migration,CD44,Human,Kidney,Kidney,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Angiogenesis,CD105,Human,Kidney,Kidney,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Cell adhesion and signal transduction,CD90,Human,Kidney,Kidney,Normal,Normal cell,Mesenchymal stromal cell

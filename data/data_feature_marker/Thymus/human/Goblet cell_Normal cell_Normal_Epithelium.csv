@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,mucus production,Muc5ac,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,mucosal protection,Tff2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,Gp2,Human,Thymus,Epithelium,Normal,Normal cell,Goblet cell

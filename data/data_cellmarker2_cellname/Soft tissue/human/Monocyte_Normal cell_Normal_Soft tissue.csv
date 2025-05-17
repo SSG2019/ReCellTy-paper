@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,PLA2G7,PLA2G7
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,RASSF4,RASSF4
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,CSF1R,CSF1R
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,TFEC,TFEC
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,FPR3,FPR3
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,ADAP2,ADAP2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Monocyte,CL_0000576,KYNU,KYNU

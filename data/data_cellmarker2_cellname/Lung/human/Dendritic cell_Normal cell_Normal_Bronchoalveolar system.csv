@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC9A,CLEC9A
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Dendritic cell,CL_0000451,CD1A,CD1A

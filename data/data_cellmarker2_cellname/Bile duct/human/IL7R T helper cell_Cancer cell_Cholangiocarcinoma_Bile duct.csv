@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,GZMH,GZMH
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,GZMA,GZMA
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,PRF8,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,CD3D,CD3D
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,IL14R,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,IFNG,IFNG
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,GZMK,GZMK
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,CD69,CD69
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,IL7R T helper cell,,CD40LG,CD40LG

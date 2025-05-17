@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,PTPRC,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD20,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD3E,CD3E
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,IL7R,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD4D,
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CD5E,
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,CTLA4,CTLA4
+Human,Undefined,Undefined,,Normal,Normal cell,T cell,CL_0000084,FOXP3,FOXP3

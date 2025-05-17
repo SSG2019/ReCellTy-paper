@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Gastric corpus,UBERON_0001161,Normal,Normal cell,Gastric stem cell,CL_0000034,MIST1,BHLHA15
+Human,Stomach,Gastric corpus,UBERON_0001161,Normal,Normal cell,Gastric stem cell,CL_0000034,TROY,TNFRSF19
+Human,Stomach,Gastric corpus,UBERON_0001161,Normal,Normal cell,Gastric stem cell,CL_0000034,RUNX1,RUNX1
+Human,Stomach,Gastric corpus,UBERON_0001161,Normal,Normal cell,Gastric stem cell,CL_0000034,SOX2,SOX2

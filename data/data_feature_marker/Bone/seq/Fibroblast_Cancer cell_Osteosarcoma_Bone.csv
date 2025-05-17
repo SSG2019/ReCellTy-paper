@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,LUM,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast

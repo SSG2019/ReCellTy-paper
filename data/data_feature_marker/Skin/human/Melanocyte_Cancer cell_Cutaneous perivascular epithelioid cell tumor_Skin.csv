@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Melanocyte,,MiTF,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,NKI/C3,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,Melan-A,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,HMB-45,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte

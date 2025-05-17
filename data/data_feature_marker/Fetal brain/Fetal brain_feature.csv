@@ -1,0 +1,60 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Precursor cell,Dorsal,ETV1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,Ganglionic eminence,NRG1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,,PAX6,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Lateral ganglionic eminence cell,,ZFHX3,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Lateral ganglionic eminence cell
+Medial ganglionic eminence cell,,LHX6,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Medial ganglionic eminence cell
+Progenitor cell,,INSM1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,GAD2,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX2,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX5,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX6-AS1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,LIX1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SLC1A3,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTN,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SPARC,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HES1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,FABP7,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CLU,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Subpallium cell,,ANGPT2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NR2F1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NR2F2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NKX2-1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,MEIS2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,ETV1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,ZFHX3,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,LHX6,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Precursor cell,Ventral lateral ganglionic eminence,ISL1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Ventral lateral ganglionic eminence precursor cell
+Precursor cell,Ventral lateral ganglionic eminence,ZNF503,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Ventral lateral ganglionic eminence precursor cell
+Precursor cell,Dorsal lateral ganglionic eminence,NRG1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,Dorsal lateral ganglionic eminence,ETV1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,Dorsal lateral ganglionic eminence,PAX6,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Lateral ganglionic eminence cell,,ZFHX3,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Lateral ganglionic eminence cell
+Medial ganglionic eminence cell,,LHX6,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Medial ganglionic eminence cell
+Progenitor cell,,INSM1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,GAD2,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX2,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX5,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLX6-AS1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Fetal brain,Subventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,LIX1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SLC1A3,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTN,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SPARC,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HES1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,FABP7,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CLU,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Subpallium cell,,ANGPT2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NR2F1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NR2F2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,NKX2-1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,MEIS2,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,ETV1,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,ZFHX3,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Subpallium cell,,LHX6,Human,Fetal brain,Subpallium,Normal,Normal cell,Subpallium cell
+Precursor cell,Ventral lateral ganglionic eminence,ISL1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Ventral lateral ganglionic eminence precursor cell

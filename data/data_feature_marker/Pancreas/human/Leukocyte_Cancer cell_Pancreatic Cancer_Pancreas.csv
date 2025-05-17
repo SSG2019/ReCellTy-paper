@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte
+Leukocyte,,CD4,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte
+Leukocyte,,CD163,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte

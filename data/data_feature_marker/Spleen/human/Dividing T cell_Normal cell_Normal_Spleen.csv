@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Dividing,MK167,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,Dividing,HMGB2,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CORO1A,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,GAPDH,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,ACTG1,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,TUBA1B,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell

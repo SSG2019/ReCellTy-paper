@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,IBA1,Human,Nerve,Optic nerve,Normal,Normal cell,Microglial cell
+Microglial cell,,AIF1,Human,Nerve,Optic nerve,Normal,Normal cell,Microglial cell

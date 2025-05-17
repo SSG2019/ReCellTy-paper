@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,HLA-DR,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)

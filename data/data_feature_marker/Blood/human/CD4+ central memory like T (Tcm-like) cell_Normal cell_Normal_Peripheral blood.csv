@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell
+T cell,Central Memory Like,SELL,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell
+T cell,Central Memory Like,CD28,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell
+T cell,Central Memory Like,CCR7,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell
+T cell,Central Memory Like,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell
+T cell,Central Memory Like,TCF7,Human,Blood,Peripheral blood,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell

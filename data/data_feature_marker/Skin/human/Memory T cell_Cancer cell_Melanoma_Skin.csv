@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,CXCR6,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,ITGAE,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,,KLRB1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,CD39,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,ENTPD1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell

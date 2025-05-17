@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Alpha cell (α cell),CL_0000171,ARX,ARX

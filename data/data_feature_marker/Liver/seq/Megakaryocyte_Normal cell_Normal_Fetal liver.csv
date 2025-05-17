@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Megakaryocyte,,ITGA2B,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,GMFG,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PF4,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,CD45,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PPBP,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PTPRC,Human,Liver,Fetal liver,Normal,Normal cell,Megakaryocyte

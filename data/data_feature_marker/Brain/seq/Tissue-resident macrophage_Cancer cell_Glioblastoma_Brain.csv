@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tissue-resident,CD68,Human,Brain,Brain,Glioblastoma,Cancer cell,Tissue-resident macrophage
+Macrophage,Tissue-resident,CD172ab,Human,Brain,Brain,Glioblastoma,Cancer cell,Tissue-resident macrophage

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,FOXD1,FOXD1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,GDNF,GDNF
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,TYMS,TYMS
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,CENPK,CENPK
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,KIAA0101,PCLAF
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial progenitor cell,,RRM2,RRM2

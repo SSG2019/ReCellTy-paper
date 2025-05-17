@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Skin,UBERON_0002097,Normal,Normal cell,M2-like macrophage,,Arg1,
+Human,Embryo,Skin,UBERON_0002097,Normal,Normal cell,M2-like macrophage,,Retnla,
+Human,Embryo,Skin,UBERON_0002097,Normal,Normal cell,M2-like macrophage,,Fn1,

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+erythroid cell,Immature,HBM,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell
+erythroid cell,Immature,HBD,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell
+erythroid cell,,CA2,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell
+erythroid cell,,CA1,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell

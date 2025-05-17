@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,MS4A2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell

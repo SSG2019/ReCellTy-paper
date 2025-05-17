@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,IL7R,Human,Undefined,Undefined,Gastrointestinal cancer,Cancer cell,Memory T(Tm) cell
+T cell,Memory,CXCL13,Human,Undefined,Undefined,Gastrointestinal cancer,Cancer cell,Memory T(Tm) cell

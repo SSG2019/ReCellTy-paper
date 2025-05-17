@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,LYZ,LYZ
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,SIGLEC1,SIGLEC1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,VCAN,VCAN
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,FCER1G,FCER1G
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,VCAN,VCAN
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Macrophage,CL_0000235,LYZ,LYZ

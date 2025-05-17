@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,CD8+ T helper 17 cell,,CCR6,CCR6
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,CD8+ T helper 17 cell,,CD161,KLRB1

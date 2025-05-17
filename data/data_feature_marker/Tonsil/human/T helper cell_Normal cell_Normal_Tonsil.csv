@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Helper,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,PD-1,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,BTLA,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,CD57,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,ICOS,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,B3GAT1,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell

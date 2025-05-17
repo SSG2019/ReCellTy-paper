@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,TdT,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD8,CD8A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD4,CD4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD2,CD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD4,CD4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD8,CD8A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD11b,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD22,CD22
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,CD3,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphocyte,CL_0000542,SASH3,SASH3

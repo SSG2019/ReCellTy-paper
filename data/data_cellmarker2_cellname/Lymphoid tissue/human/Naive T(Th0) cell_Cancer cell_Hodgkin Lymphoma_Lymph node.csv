@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell,CL_0000898,LEF1,LEF1
+Human,Lymphoid tissue,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell,CL_0000898,IL7R,IL7R
+Human,Lymphoid tissue,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell,CL_0000898,CCR7,CCR7

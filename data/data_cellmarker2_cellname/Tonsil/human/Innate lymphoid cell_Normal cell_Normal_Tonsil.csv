@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CXCR6,CXCR6
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD94,KLRD1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD56,NCAM1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD49a,ITGA1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD335,NCR1
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD336,NCR2

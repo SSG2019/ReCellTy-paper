@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,cDC2,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,HLA-DQA1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,HLA-DQB1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

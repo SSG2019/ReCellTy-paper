@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,S100A8,Human,Liver,Fetal liver,Normal,Normal cell,Macrophage
+Macrophage,,CCR2,Human,Liver,Fetal liver,Normal,Normal cell,Macrophage
+Macrophage,,CD62L,Human,Liver,Fetal liver,Normal,Normal cell,Macrophage
+Macrophage,,SELL,Human,Liver,Fetal liver,Normal,Normal cell,Macrophage

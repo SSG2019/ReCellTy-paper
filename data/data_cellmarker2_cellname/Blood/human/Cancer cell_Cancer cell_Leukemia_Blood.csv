@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Cancer cell,CL_0001064,ILRUN,ILRUN
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Cancer cell,CL_0001064,UHRF1BP1,UHRF1BP1
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Cancer cell,CL_0001064,PLEKHA1,PLEKHA1

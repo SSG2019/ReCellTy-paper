@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,precursor,PDGFRA,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,OLIG2,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,COL20A1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,PRRX1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte precursor cell

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Sustentacular cell,Stem cell maintenance,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,GPX6,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,ERMN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2A13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2J2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell

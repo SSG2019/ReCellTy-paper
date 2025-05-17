@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,CD19,CD19
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,CEACAM8,CEACAM8
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,TPSAP1,
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,CD8A,CD8A
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,NCAM1,NCAM1
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,CD68,CD68
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,CD4,CD4
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Immune cell,CL_0000738,ITGAX,ITGAX

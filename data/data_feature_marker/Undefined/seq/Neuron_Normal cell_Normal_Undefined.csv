@@ -1,0 +1,19 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,neuronal differentiation,Tuj1,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,synaptic function,SNAP25,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,motor neuron identity,MNX1,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,dendritic structure,MAP2,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,neuronal migration,DCX,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,immature neurons and glial cells,VIM,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,neuronal differentiation,NEUROD1,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,,HMGB2,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,neural stem cell maintenance,HES5,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,interneuron development,DLX1,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,neural stem cell maintenance,SOX2,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,interneuron development,LHX6,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,interneuron function,VIP,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,cortical neuron identity,SATB2,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,interneuron function,NDNF,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,synaptic function,NTNG1,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,axonal growth,STMN2,Human,Undefined,Undefined,Normal,Normal cell,Neuron
+Neuron,motor neuron identity,ISL2,Human,Undefined,Undefined,Normal,Normal cell,Neuron

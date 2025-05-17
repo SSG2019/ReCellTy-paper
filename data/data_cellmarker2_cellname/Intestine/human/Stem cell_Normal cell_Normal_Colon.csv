@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,SMOC2,SMOC2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,RGMB,RGMB
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,OLFM4,OLFM4
+Human,Intestine,Colon,UBERON_0001844,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,OLFM4,OLFM4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Stem cell,CL_0000034,SOX9,SOX9

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,IL-6ST,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,Naive,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,Naive,LEF1,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,Naive,SELL,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,CD4+,IL-6ST,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,CD4+,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,CD4+,LEF1,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell
+T cell,CD4+,SELL,Human,Undefined,Undefined,Normal,Normal cell,Naive CD4+ T cell

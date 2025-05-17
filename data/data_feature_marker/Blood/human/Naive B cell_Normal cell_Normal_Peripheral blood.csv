@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,IgD,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,CD38,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,Naive,TCL1A,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,CD19,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,FcRL5,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,CD11c,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,CD20,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,IgM,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,PAX5,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,BCL7A,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,CD79A,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,MS4A1,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,IL4R,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,IGHM,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell
+B cell,,FCER2,Human,Blood,Peripheral blood,Normal,Normal cell,Naive B cell

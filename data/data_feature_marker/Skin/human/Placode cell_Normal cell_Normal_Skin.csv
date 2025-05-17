@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Placode cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX3,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Placode cell

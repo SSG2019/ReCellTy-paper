@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GNLY,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,Cytotoxic T cell

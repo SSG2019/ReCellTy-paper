@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cone cell,,OPN1SW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1MW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone cell

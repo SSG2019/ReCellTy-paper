@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,CLDN4,CLDN4
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,SNAI2,SNAI2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,CLDN7,CLDN7
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,ZEB2,ZEB2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,ZEB1,ZEB1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,VIM,VIM
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,CDH1,CDH1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,CLDN3,CLDN3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Claudin-low cell,,TWIST1,TWIST1

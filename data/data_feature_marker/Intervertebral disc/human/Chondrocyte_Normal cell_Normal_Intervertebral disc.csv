@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,,ACAN,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,SOX9,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,MIA,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte

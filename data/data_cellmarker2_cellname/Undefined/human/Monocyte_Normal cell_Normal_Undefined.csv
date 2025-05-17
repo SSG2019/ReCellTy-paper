@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD172a,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,Iba1,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,TYROBP,TYROBP
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CST3,CST3
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CCL3,CCL3
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,PMo,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,IMo,
+Human,Undefined,Undefined,,Normal,Normal cell,Monocyte,CL_0000576,CMo,

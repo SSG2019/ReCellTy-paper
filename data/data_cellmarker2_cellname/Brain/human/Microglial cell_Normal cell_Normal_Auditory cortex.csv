@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Auditory cortex,UBERON_0001393,Normal,Normal cell,Microglial cell,CL_0000129,Cx3cr1,

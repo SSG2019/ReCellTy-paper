@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,SLA,SLA
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,MAF,MAF
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,NEUROD2,NEUROD2
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,NEUROD6,NEUROD6
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,PLS3,PLS3
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,NEUROD1,NEUROD1
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,PPP2R2B,PPP2R2B
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,B2M,B2M
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,ARX,ARX
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,SOX2-OT,SOX2-OT
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,RBFOX1,RBFOX1
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,IGFBPL1,IGFBPL1
+Human,Embryo,Embryonic prefrontal cortex,,Normal,Normal cell,Neuron,CL_0000540,CSRP2,CSRP2

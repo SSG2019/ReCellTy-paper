@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,H2AFV,H2AZ2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,KIAA0101,PCLAF
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMGB2,HMGB2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,PTTG1,PTTG1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,SLAMF7,SLAMF7
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,STMN1,STMN1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,DERL3,DERL3
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,CCDC144A,CCDC144A
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,JSRP1,JSRP1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,LRMP,IRAG2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMGA1,HMGA1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,HIST1H4C,H4C3
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell,CL_0000844,RGS13,RGS13

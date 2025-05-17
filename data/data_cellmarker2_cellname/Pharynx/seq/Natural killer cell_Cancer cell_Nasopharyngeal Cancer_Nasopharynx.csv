@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,IFITM3,IFITM3
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,TYROBP,TYROBP
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,FCER1G,FCER1G
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRF1,KLRF1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,PRF1,PRF1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,HOPX,HOPX
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRC2,KLRC2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,XCL2,XCL2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRC1,KLRC1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,CTSW,CTSW
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1

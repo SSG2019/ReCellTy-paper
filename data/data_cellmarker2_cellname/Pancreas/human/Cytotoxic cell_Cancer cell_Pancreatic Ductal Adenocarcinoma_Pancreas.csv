@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,GZMH,GZMH
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,GZMA,GZMA
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,GZMB,GZMB
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,PRF1,PRF1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,KLRK1,KLRK1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,KLRD1,KLRD1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell,,KLRB1,KLRB1

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,CD20,MS4A1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,CD4,CD4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,CD5,CD5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,CD33,CD33
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,HJURP,HJURP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,SLAMF7,SLAMF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,TNFRSF17,TNFRSF17
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Multiple Myeloma,Cancer cell,Cancer cell,CL_0001064,SDC1,SDC1

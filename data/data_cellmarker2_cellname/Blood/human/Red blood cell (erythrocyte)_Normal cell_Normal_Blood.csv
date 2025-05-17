@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD24,CD24
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD45,PTPRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,Ter119,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GlyA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD71,TFRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235A,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD49D,ITGA4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD71,TFRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,SPI1,SPI1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,ALAS2,ALAS2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,CD44,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD133,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EpCAM,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,OCT4,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,NANOG,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Sox2,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD133,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,POU5F1,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A1,Human,Lung,Lung,Lung Cancer,Cancer cell,Cancer stem cell

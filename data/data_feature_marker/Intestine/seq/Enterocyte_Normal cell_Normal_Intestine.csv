@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enterocyte,,ANPEP,Human,Intestine,Intestine,Normal,Normal cell,Enterocyte
+Enterocyte,,FABP1,Human,Intestine,Intestine,Normal,Normal cell,Enterocyte
+Enterocyte,,apolipoproteins,Human,Intestine,Intestine,Normal,Normal cell,Enterocyte

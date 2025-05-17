@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,T cell,CL_0000084,HCST,HCST
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,T cell,CL_0000084,TRBC1,TRBC1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,T cell,CL_0000084,TRBC2,TRBC2
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,T cell,CL_0000084,TRAC,TRAC
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,T cell,CL_0000084,CD3E,CD3E

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CD40LG,CD40LG
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,GPR183,GPR183
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,MALAT1,MALAT1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,LTB,LTB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,TNFRSF4,TNFRSF4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,ICOS,ICOS
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,TIGIT,TIGIT
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,MAF,MAF
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CXCL13,CXCL13
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,PDCD1,PDCD1

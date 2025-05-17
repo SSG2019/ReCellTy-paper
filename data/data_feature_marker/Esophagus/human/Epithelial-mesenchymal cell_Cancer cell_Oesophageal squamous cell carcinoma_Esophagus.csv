@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,mesenchymal,CDH11,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,CDH2,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,ZEB1,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,VIM,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell

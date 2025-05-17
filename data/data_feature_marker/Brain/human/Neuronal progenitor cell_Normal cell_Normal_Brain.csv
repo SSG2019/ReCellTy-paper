@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuronal progenitor cell,Neuronal progenitor,TOP2A,Human,Brain,Brain,Normal,Normal cell,Neuronal progenitor cell
+Neuronal progenitor cell,Neuronal progenitor,PAX6,Human,Brain,Brain,Normal,Normal cell,Neuronal progenitor cell
+Neuronal progenitor cell,Neuronal progenitor,GMNN,Human,Brain,Brain,Normal,Normal cell,Neuronal progenitor cell
+Neuronal progenitor cell,Neuronal progenitor,DLX6-AS1,Human,Brain,Brain,Normal,Normal cell,Neuronal progenitor cell
+Neuronal progenitor cell,Neuronal progenitor,ASCL1,Human,Brain,Brain,Normal,Normal cell,Neuronal progenitor cell

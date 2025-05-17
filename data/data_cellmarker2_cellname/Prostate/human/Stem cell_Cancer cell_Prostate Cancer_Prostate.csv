@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,CD49f,ITGA6
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,CD49b,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,CXCR4,CXCR4
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Stem cell,CL_0000034,Nanog,

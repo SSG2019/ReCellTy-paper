@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,VCAN,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,FCN1,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,MNDA,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CYBB,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,LRP1,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,FGR,Human,Blood,Blood,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell

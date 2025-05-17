@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,BEST-1,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MITF,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TYR,Human,Eye,Retina,Normal,Normal cell,Epithelial cell

@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,CD2,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD25,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD3,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD69,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD14,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD8,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD40,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD20,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD1c,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD19,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD86,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD45,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD4,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,IL2RA,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD8A,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,MS4A1,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Heart,Blood,Normal,Normal cell,Leukocyte

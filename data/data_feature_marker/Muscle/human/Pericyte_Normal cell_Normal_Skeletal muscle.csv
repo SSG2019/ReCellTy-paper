@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD146,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD45,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,PTPRC,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte

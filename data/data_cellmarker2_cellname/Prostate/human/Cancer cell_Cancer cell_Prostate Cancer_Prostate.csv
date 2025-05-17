@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,WFDC2,WFDC2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,AMACR,AMACR
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,ATAD2,ATAD2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,PFKFB4,PFKFB4
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,PIAS2,PIAS2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,UBE2T,UBE2T

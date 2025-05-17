@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,KDELR3,KDELR3
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,GPC6,GPC6
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,FAP,FAP
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,SERPINE2,SERPINE2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Mesenchymal cell,CL_0008019,INHBA,INHBA

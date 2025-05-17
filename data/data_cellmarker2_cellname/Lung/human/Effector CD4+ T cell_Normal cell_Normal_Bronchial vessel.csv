@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD4+ T cell,CL_0001044,COTL1,COTL1
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD4+ T cell,CL_0001044,LDHB,LDHB
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD4+ T cell,CL_0001044,CD3E,CD3E
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD4+ T cell,CL_0001044,CD8,CD8A

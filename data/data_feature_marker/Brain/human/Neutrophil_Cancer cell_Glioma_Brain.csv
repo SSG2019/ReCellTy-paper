@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,CCR7,Human,Brain,Brain,Glioma,Cancer cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Brain,Brain,Glioma,Cancer cell,Neutrophil
+Neutrophil,,ITGAM,Human,Brain,Brain,Glioma,Cancer cell,Neutrophil
+Neutrophil,,CD66B,Human,Brain,Brain,Glioma,Cancer cell,Neutrophil
+Neutrophil,,MXRA8,Human,Brain,Brain,Glioma,Cancer cell,Neutrophil

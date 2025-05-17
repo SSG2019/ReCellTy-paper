@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,BIRC3,BIRC3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,IRF4,IRF4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,CCR7,CCR7
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,CD83,CD83
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,CLPTM1,CLPTM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,IL7R,IL7R
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,CD40,CD40
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,IDO1,IDO1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,NUB1,NUB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Migratory langerhans cell,,CCL22,CCL22

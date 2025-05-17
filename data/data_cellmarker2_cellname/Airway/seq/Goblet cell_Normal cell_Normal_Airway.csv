@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway,Airway,,Normal,Normal cell,Goblet cell,CL_0000160,MUC5B,MUC5B
+Human,Airway,Airway,,Normal,Normal cell,Goblet cell,CL_0000160,KRT78,KRT78
+Human,Airway,Airway,,Normal,Normal cell,Goblet cell,CL_0000160,EPCAM,EPCAM
+Human,Airway,Airway,,Normal,Normal cell,Goblet cell,CL_0000160,SCGB1A1,SCGB1A1

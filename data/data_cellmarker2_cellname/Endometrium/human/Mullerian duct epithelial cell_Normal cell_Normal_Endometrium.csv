@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Mullerian duct epithelial cell,,CTH,CTH

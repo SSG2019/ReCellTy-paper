@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NEFL,NEFL
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,SNCG,SNCG
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,GAP43,GAP43
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NEFL,NEFL
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NEFM,NEFM
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,SLC17A6,SLC17A6
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,SNCG,SNCG
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal ganglion cell,CL_0000740,Kcnip2,

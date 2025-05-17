@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Colon,Colon,UBERON_0001155,Normal,Normal cell,Endocrine cell,CL_0000163,Chromogranin,

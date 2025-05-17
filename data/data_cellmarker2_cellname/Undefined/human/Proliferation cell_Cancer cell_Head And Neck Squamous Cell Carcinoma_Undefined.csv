@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Ccl5,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Cxcl10,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Ccl4,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Ccl1,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Mki67,
+Human,Undefined,Undefined,,Head And Neck Squamous Cell Carcinoma,Cancer cell,Proliferation cell,,Ly86,

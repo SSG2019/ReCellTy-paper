@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Suppressor,CD33,Human,Brain,Brain,Glioma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,CD15,Human,Brain,Brain,Glioma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,CD14,Human,Brain,Brain,Glioma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,FUT4,Human,Brain,Brain,Glioma,Cancer cell,Myeloid derived suppressor cell (MDSC)

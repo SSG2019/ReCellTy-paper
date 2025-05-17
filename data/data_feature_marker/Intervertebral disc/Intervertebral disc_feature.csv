@@ -1,0 +1,69 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Blood cell,,MPO,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,PRPRC,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,CD74,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,LYZ,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Chondrocyte,,ACAN,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,SOX9,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,MIA,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Endothelial cell,Vascular,CD34,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Vascular,CD31,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic,LYVE-1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic,Podoplanin,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Vascular,ENG,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Vascular,PECAM1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Vascular,CDH5,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic,LYVE1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Macrophage,,CD68,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Macrophage
+Macrophage,Migration,CCR7,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Macrophage
+Macrophage,M2,CD206,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Macrophage
+Macrophage,M2,CD163,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Macrophage
+Macrophage,M2,MRC1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Macrophage
+Notochord cell,,KRT8,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,SALL3,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,TBXT,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Nucleus pulposus cell,,FOXF1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,PAX1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,PTN,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,KRT19,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,CD24,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,CA12,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,FOXF1,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus cell,,PAX1,Human,Intervertebral disc,Nucleus pulposus,Normal,Normal cell,Nucleus pulposus cell
+Nucleus pulposus progenitor cell,progenitor,PRRX1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Nucleus pulposus progenitor cell,progenitor,PDGFRA,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Nucleus pulposus progenitor cell,progenitor,IGF1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Pericyte,,TAGLN,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,MYL9,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Schwann cell,glial,GFAP,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Schwann cell
+Stromal cell,,COL1A1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,GJA1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,HES4,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,FOXC2,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Blood cell,,MPO,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,PRPRC,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,CD74,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,LYZ,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Chondrocyte,,ACAN,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,SOX9,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Chondrocyte,,MIA,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Chondrocyte
+Endothelial cell,,CD34,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENG,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Endothelial cell
+Notochord cell,,KRT8,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,SALL3,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,TBXT,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Nucleus pulposus progenitor cell,progenitor,PRRX1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Nucleus pulposus progenitor cell,progenitor,PDGFRA,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Nucleus pulposus progenitor cell,progenitor,IGF1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Nucleus pulposus progenitor cell
+Pericyte,,TAGLN,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Pericyte,,MYL9,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Pericyte
+Stromal cell,,COL1A1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,GJA1,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,HES4,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell
+Stromal cell,,FOXC2,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Stromal cell

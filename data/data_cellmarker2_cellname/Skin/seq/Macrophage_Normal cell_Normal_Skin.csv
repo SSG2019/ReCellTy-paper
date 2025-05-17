@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD15,FUT4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CXCR4,CXCR4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,MS4A4A,MS4A4A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,F13A1,F13A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CCL2,CCL2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD1C,CD1C
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,ATP1B1,ATP1B1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD1A,CD1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Macrophage,CL_0000235,ALF1,

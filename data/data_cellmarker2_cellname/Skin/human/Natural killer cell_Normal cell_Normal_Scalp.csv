@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,CD8,CD8A
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,CD4,CD4
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,FASLG,FASLG
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,RAX,RAX
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,LTB,LTB
+Human,Skin,Scalp,UBERON_0000403,Normal,Normal cell,Natural killer cell,CL_0000623,GZMB,GZMB

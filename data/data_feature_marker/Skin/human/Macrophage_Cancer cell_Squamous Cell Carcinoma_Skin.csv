@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD163,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage

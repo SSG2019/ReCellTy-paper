@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYO18B,MYO18B
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYOG,MYOG
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYH3,MYH3
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,ACTA1,ACTA1
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYOD1,MYOD1
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYH1,MYH1
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYH6,MYH6
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYH7,MYH7
+Human,Undefined,Undefined,,Normal,Normal cell,Myocyte,CL_0000187,MYH2,MYH2

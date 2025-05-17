@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastrointestinal stromal tumor,Cancer cell,Cancer cell,CL_0001064,DOG1,ANO1
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastrointestinal stromal tumor,Cancer cell,Cancer cell,CL_0001064,KIT,KIT

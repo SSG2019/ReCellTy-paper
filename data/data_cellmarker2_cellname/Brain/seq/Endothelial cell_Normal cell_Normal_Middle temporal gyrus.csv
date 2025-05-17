@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Endothelial cell,CL_0000115,EBF1,EBF1
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Endothelial cell,CL_0000115,EMCN,EMCN
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Endothelial cell,CL_0000115,ITIH5,ITIH5
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Endothelial cell,CL_0000115,NOSTRIN,NOSTRIN

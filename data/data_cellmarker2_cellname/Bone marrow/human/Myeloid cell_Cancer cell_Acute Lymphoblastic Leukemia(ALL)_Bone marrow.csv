@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell,CL_0000763,CD13,ANPEP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell,CL_0000763,CD65,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell,CL_0000763,CD15,FUT4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell,CL_0000763,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell,CL_0000763,CD33,CD33

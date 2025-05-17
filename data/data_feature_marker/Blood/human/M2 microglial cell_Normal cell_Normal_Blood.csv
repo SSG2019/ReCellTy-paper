@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,M2,CD206,Human,Blood,Blood,Normal,Normal cell,M2 microglial cell
+Microglial cell,M2,Arg,Human,Blood,Blood,Normal,Normal cell,M2 microglial cell
+Microglial cell,M2,MRC1,Human,Blood,Blood,Normal,Normal cell,M2 microglial cell

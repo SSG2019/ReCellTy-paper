@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Chronic Lymphocytic Leukemia,Cancer cell,B cell,CL_0000236,CD23,FCER2
+Human,Undefined,Undefined,,Chronic Lymphocytic Leukemia,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Undefined,Undefined,,Chronic Lymphocytic Leukemia,Cancer cell,B cell,CL_0000236,CD5,CD5

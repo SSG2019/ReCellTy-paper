@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD69,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD247,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Tcf7,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,T cell

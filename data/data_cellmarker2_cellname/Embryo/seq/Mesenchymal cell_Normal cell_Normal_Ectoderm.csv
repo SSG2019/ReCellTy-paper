@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Mesenchymal cell,CL_0008019,FBN1,FBN1
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL1A1,COL1A1
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL1A2,COL1A2

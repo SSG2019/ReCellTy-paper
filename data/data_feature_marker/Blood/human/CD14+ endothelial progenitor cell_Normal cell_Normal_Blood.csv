@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+endothelial progenitor cell,CD14+,CD14,Human,Blood,Blood,Normal,Normal cell,CD14+ endothelial progenitor cell
+endothelial progenitor cell,endothelial progenitor,KDR,Human,Blood,Blood,Normal,Normal cell,CD14+ endothelial progenitor cell

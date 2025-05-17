@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,LAYN,LAYN
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,TIGIT,TIGIT
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,CD25,IL2RA
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,KIAA0101,PCLAF
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,TYMS,TYMS
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,ICOS,ICOS
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,CXCL13,CXCL13
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,TNFRSF18,TNFRSF18
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,TNFRSF4,TNFRSF4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,FOXP3,FOXP3
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,CTLA4,CTLA4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,ENTPD1,ENTPD1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,TNFRSF9,TNFRSF9
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell,,CCR8,CCR8

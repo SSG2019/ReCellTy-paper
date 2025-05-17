@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipocyte,CL_0000136,ADIPOQ,ADIPOQ
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipocyte,CL_0000136,SCD,SCD
+Human,Skin,Subcutaneous adipose tissue,UBERON_0002190,Normal,Normal cell,Adipocyte,CL_0000136,COL1A1,COL1A1

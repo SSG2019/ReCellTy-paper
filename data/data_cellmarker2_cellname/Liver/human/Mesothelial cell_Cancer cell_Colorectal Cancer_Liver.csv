@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Mesothelial cell,CL_0000077,Msln,
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Mesothelial cell,CL_0000077,Upk1b,
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Mesothelial cell,CL_0000077,Up3kb,

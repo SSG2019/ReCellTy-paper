@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Cd3d,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Cd8b1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Cd3g,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Lck,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Hcst,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Ccl5,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Ms4a4b,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Cd8a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,Nkg7,

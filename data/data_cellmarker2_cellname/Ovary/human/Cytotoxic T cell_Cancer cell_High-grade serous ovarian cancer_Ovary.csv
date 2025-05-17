@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell,CL_0000910,GZMA,GZMA
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CD8A,CD8A
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CD3D,CD3D
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell,CL_0000910,PRF1,PRF1

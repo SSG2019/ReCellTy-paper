@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Collecting duct,transitional,Parm1,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,transitional,Atp6v1g3,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,transitional,Aqp2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Rhbg,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Sec23b,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Hsd11b2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Atp6v0d2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Insr,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell
+Collecting duct,,Atp6v1b1,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-transitional cell

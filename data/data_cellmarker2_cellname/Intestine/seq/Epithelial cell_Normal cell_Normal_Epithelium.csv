@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,ENPEP,ENPEP
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,SI,SI
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,FABP7,FABP7
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,APOA1,APOA1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,CHGA,CHGA
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,NEUROD1,NEUROD1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Epithelial cell,CL_0000066,TPH1,TPH1

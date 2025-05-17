@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Glomerular parietal,CD24,Human,Kidney,Kidney,Normal,Normal cell,Glomerular parietal epithelial cell
+Epithelial cell,Glomerular parietal,VCAM1,Human,Kidney,Kidney,Normal,Normal cell,Glomerular parietal epithelial cell
+Epithelial cell,,KRT8,Human,Kidney,Kidney,Normal,Normal cell,Glomerular parietal epithelial cell
+Epithelial cell,,KRT18,Human,Kidney,Kidney,Normal,Normal cell,Glomerular parietal epithelial cell

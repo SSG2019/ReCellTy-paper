@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,PTPRC,PTPRC
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,NKG7,NKG7
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,FCER1G,FCER1G
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,CD53,CD53
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,PTPRC,PTPRC
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,ITGA2B,ITGA2B
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,SPN,SPN
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,UCP2,UCP2
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,TYROBP,TYROBP
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,CD44,CD44
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,ATP5G3,ATP5MC3
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,HCST,HCST
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Hematopoietic cell,CL_0000988,SPN,SPN

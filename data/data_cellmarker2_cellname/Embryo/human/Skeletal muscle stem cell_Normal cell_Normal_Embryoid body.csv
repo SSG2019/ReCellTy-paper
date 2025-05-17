@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Skeletal muscle stem cell,CL_0000355,NGFR,NGFR
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Skeletal muscle stem cell,CL_0000355,PAX7,PAX7
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Skeletal muscle stem cell,CL_0000355,CD34,CD34

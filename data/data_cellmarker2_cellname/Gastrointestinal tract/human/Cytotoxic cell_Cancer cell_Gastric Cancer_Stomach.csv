@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,NKG7,NKG7
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GZMA,GZMA
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRD1,KLRD1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,PRF1,PRF1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GZMB,GZMB
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GZMH,GZMH
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRK1,KLRK1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,CTSW,CTSW
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,GNLY,GNLY
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Cytotoxic cell,,KLRB1,KLRB1

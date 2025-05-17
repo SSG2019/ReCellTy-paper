@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD103,ITGAE
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ZNF683,ZNF683
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,S1PR1,S1PR1
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CRTAM,CRTAM
+Human,Bone,Synovium,UBERON_0007616,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGAE,ITGAE

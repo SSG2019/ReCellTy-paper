@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Glutamatergic,VGLUT2,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,VGLUT1,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,SLC17A6,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,SLC17A7,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,,VMRS,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,,BCL11B,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron
+neuron,,SATB2,Human,Brain,Brain,Normal,Normal cell,Glutamatergic neuron

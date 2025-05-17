@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,CXCL13,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell
+T cell,Exhausted,TNFRSF18,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell
+T cell,Exhausted,CTLA4,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell
+T cell,double-positive,TNFRSF4,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted double-positive T cell

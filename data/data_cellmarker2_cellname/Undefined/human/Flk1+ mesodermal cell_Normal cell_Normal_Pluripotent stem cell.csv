@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Flk1+ mesodermal cell,CL_0000222,Coxsackievirus and adenovirus receptor,

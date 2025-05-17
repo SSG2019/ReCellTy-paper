@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD90,Human,Undefined,Undefined,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD110,Human,Undefined,Undefined,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,THY1,Human,Undefined,Undefined,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,MPL,Human,Undefined,Undefined,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer stem cell

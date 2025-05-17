@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Relapsed/refractory acute lymphoblastic leukemia,Cancer cell,Effector T(Teff) cell,CL_0000911,CD45RA,

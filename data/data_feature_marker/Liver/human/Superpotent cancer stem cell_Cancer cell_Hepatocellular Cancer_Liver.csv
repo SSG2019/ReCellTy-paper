@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,,EPCAM,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Superpotent cancer stem cell
+Cancer stem cell,,ALDH1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Superpotent cancer stem cell
+Cancer stem cell,,ALDH1A1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Superpotent cancer stem cell

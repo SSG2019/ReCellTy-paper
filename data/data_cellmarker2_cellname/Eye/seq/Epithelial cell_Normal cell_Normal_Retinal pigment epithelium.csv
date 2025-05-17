@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,RPE65,RPE65
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,BEST1,BEST1
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,TYR,TYR
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,RLBP1,RLBP1
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,CRX,CRX
+Human,Eye,Retinal pigment epithelium,UBERON_0001782,Normal,Normal cell,Epithelial cell,CL_0000066,RAX,RAX

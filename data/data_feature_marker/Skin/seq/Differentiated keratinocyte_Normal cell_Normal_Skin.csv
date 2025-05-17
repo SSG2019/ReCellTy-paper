@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+keratinocyte,Differentiated,KRT10,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte
+keratinocyte,Differentiated,KRT1,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte

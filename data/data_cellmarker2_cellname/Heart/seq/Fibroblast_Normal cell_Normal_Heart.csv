@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,FN1,FN1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,COL2A1,COL2A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,ALDH1A1,ALDH1A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Fibroblast,CL_0000057,COL2A1,COL2A1

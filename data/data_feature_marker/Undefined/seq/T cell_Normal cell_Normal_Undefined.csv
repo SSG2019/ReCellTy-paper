@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CD20,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CD4D,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CD5E,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,FOXP3,Human,Undefined,Undefined,Normal,Normal cell,T cell
+T cell,,MS4A1,Human,Undefined,Undefined,Normal,Normal cell,T cell

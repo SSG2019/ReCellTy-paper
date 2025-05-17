@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD21,CR2
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD23,FCER2
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD32,FCGR2A
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD80,CD80
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD21,CR2
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD23,FCER2
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,BOB-1,
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,PAX5,PAX5
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,OCT2,SLC22A2
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,IgM,
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD27,CD27
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,B cell,CL_0000236,CD21,CR2

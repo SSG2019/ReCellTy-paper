@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,OCT3/4,
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,SOX9,SOX9
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,PAF1,PAF1
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,PD2,PAF1
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,β-CATENIN,
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Cancer,Cancer cell,Cancer stem cell,,ESA,FLOT2

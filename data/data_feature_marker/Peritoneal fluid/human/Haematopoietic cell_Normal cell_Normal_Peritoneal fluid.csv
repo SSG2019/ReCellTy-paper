@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Haematopoietic cell,,CD9,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,CD45,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,PTPRC,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell

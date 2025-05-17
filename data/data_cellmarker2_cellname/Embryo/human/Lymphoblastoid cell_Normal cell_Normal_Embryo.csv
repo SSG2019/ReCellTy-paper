@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Lymphoblastoid cell,,CD52,CD52
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Lymphoblastoid cell,,ENTPD1,ENTPD1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Lymphoblastoid cell,,FCER2,FCER2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Lymphoblastoid cell,,CD70,CD70
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Lymphoblastoid cell,,LFA3,CD58

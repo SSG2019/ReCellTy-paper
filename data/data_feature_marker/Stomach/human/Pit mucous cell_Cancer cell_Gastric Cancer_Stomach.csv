@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pit mucous cell,,TFF1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Pit mucous cell
+Pit mucous cell,,MUC5AC,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Pit mucous cell
+Pit mucous cell,,GKN1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Pit mucous cell
+Pit mucous cell,,GKN2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Pit mucous cell

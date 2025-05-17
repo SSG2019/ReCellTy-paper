@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,SIGLEC6,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,AXL,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,CD33,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,CD2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,SIRPA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell,,IL3RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell lineage

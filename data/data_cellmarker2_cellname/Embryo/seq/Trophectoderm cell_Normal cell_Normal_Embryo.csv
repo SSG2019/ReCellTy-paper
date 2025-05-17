@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,CDX2,CDX2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA3,GATA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA3,GATA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,KRT8,KRT8
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA3,GATA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,TGFBR3,TGFBR3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,KRT18,KRT18
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,KRT19,KRT19
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,PTGES,PTGES
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA2,GATA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,PDGFA,PDGFA
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,DAB2,DAB2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA2,GATA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA3,GATA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,TFAP2C,TFAP2C
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,CK7,KRT7
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Trophectoderm cell,CL_0002217,CDH1,CDH1

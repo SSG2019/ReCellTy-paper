@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,T helper cell,CL_0000912,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,T helper cell,CL_0000912,CD62L,SELL
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,T helper cell,CL_0000912,Leu-3a,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,T helper cell,CL_0000912,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,T helper cell,CL_0000912,CD3,

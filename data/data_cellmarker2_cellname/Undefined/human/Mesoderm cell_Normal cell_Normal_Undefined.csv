@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Mesoderm cell,CL_0000222,MESDC2,MESD
+Human,Undefined,Undefined,,Normal,Normal cell,Mesoderm cell,CL_0000222,N-Cadherin,
+Human,Undefined,Undefined,,Normal,Normal cell,Mesoderm cell,CL_0000222,Nicalin,
+Human,Undefined,Undefined,,Normal,Normal cell,Mesoderm cell,CL_0000222,FRZB,FRZB

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Marginal zone(MZ)-like B cell,,IgD,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Marginal zone(MZ)-like B cell,,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Marginal zone(MZ)-like B cell,,IgM,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Marginal zone(MZ)-like B cell,,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Marginal zone(MZ)-like B cell,,IgD,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD11c,Human,Undefined,Undefined,Acute Monocytic Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,,CD209,Human,Undefined,Undefined,Acute Monocytic Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,,CD83,Human,Undefined,Undefined,Acute Monocytic Leukemia,Cancer cell,Dendritic cell

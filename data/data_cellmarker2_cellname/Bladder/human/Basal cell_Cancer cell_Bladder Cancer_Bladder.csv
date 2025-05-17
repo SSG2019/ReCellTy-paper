@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT14,KRT14
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT1,KRT1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT16,KRT16
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT6C,KRT6C
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,CDH3,CDH3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT6B,KRT6B
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,CD44,CD44
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT6,KRT72
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT14,KRT14
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT15,KRT15
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT5,KRT5
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT5,KRT5
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,TFAP2C,TFAP2C
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,STAT3,STAT3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Basal cell,CL_0000646,KRT6A,KRT6A

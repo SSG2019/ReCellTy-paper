@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glial cell,Myelination,MBP,Human,Brain,Cortex,Normal,Normal cell,Glial cell
+Glial cell,Glutamate Transport,SLC1A2,Human,Brain,Cortex,Normal,Normal cell,Glial cell
+Glial cell,,CLDN5,Human,Brain,Cortex,Normal,Normal cell,Glial cell

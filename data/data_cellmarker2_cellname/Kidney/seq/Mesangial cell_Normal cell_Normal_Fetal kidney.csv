@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,REN,REN
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,TINAGL1,TINAGL1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,GNAS,GNAS
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,PDGFRB,PDGFRB
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,ACTA2,ACTA2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mesangial cell,CL_0000650,NDUFA4L2,NDUFA4L2

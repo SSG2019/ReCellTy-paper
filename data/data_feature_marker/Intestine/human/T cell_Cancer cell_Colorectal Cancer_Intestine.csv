@@ -1,0 +1,20 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T cell receptor,CD3D,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,T cell receptor,CD3G,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,T cell receptor,CD3,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Exhaustion,PD1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Exhaustion,PDCD1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Exhaustion,LAG3,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Exhaustion,TIM3,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Exhaustion,HAVCR2,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Regulatory,FOXP3,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Activation,CD134,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Activation,TNFRSF4,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Naïve,CD45RA,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Memory,CD45RO,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Senescence,CD57,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Development,TCF7,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Cytotoxic,CD8,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Cytotoxic,CD8A,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Immune checkpoint,Vista,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell
+T cell,Memory,B3GAT1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,T cell

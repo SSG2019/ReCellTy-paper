@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Esophageal cell,stem,KRT15,Human,Intestine,Duodenum,Normal,Normal cell,Esophageal stem cell
+Esophageal cell,,COL17A1,Human,Intestine,Duodenum,Normal,Normal cell,Esophageal stem cell

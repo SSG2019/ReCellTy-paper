@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Colorectal Cancer,Cancer cell,Foxp3+IL-17+ T cell,,FOXP3,FOXP3
+Human,Undefined,Undefined,,Colorectal Cancer,Cancer cell,Foxp3+IL-17+ T cell,,IL-17,IL17A

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Glomerular parietal epithelial cell,,KRT8,KRT8
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Glomerular parietal epithelial cell,,CD24,CD24
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Glomerular parietal epithelial cell,,VCAM1,VCAM1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Glomerular parietal epithelial cell,,KRT18,KRT18

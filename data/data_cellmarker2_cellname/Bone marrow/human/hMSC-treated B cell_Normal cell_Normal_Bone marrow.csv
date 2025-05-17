@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD40,CD40
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD27,CD27
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD5,CD5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD23,FCER2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD1d,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD24,CD24
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD43,SPN
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,IgM,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,hMSC-treated B cell,,CD21,CR2

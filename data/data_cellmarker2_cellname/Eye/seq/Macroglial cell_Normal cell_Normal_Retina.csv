@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Macroglial cell,CL_0000126,COL4A3,COL4A3
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Macroglial cell,CL_0000126,FOS,FOS
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Macroglial cell,CL_0000126,FTL,FTL

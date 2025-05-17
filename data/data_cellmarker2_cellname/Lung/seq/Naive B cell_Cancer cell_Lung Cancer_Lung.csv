@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Naive B cell,CL_0000788,TCL1A,TCL1A
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Naive B cell,CL_0000788,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Naive B cell,CL_0000788,CD19,CD19
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Naive B cell,CL_0000788,CD20,MS4A1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Naive B cell,CL_0000788,CD22,CD22

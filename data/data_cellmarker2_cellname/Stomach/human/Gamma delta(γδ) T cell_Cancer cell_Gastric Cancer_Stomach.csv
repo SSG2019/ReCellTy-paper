@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,CD160,CD160
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,TRD,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,FEZ1,FEZ1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,C1orf61,MIR9-1HG

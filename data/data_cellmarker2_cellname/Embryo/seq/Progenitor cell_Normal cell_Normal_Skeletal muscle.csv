@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Progenitor cell,CL_0011026,PAX7,PAX7

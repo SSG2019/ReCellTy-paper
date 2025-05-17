@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,Vα24,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,Vβ11,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,TYROBP,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3E,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,TRAC,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,STMN1,Human,Blood,Peripheral blood,Normal,Normal cell,Natural killer T(NKT) cell

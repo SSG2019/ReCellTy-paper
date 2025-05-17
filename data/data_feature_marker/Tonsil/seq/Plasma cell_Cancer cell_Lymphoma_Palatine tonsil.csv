@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,MZB1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,SLAMF7,SLAMF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,GZMA,GZMA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD8,CD8A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,GNLY,GNLY
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD8A,CD8A

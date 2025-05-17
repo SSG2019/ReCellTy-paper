@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Migrating,CD110,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Migrating cancer stem cell
+Cancer stem cell,Migrating,CDCP1,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Migrating cancer stem cell
+Cancer stem cell,,MPL,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Migrating cancer stem cell

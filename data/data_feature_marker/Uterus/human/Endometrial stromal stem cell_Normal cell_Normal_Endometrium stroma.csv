@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endometrial stromal stem cell,Stem cell,CD34,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell
+Endometrial stromal stem cell,Mesenchymal,CD29,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell
+Endometrial stromal stem cell,Mesenchymal,CD90,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell

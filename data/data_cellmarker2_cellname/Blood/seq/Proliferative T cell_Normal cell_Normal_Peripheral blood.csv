@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Proliferative T cell,,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Proliferative T cell,,MKI67,MKI67
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Proliferative T cell,,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Proliferative T cell,,MKI67,MKI67

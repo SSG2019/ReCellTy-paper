@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Plasma cell,CL_0000786,PRDM1,PRDM1
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Plasma cell,CL_0000786,SSR4,SSR4
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Plasma cell,CL_0000786,MZB1,MZB1
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Plasma cell,CL_0000786,XBP1,XBP1

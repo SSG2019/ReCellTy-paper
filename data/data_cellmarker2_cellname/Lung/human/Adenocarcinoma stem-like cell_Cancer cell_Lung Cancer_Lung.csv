@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,S100A9,S100A9
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,S100A8,S100A8
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,UNC5C,UNC5C
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,FAM83A,FAM83A
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,CST2,CST2
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,DUSP13,DUSP13
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,HSPA6,HSPA6
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,CBLN4,CBLN4
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,MT-ND2,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,TLL1,TLL1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,SLC22A3,SLC22A3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,OR8B3,OR8B3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Adenocarcinoma stem-like cell,,CPLX2,CPLX2

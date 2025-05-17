@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Mature neuronal,CL_1001582,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Mature neuronal,CL_1001582,TUBB3,TUBB3
+Human,Undefined,Undefined,,Normal,Normal cell,Mature neuronal,CL_1001582,MAPT,MAPT

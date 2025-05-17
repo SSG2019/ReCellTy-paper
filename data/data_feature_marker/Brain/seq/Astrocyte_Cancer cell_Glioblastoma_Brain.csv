@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GLAST,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,GFAP,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,MLC1,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,S100B,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,SLC1A3,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,FABP7,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,CD44,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,ALDOC,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,CLU,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,,ATP1A2,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte

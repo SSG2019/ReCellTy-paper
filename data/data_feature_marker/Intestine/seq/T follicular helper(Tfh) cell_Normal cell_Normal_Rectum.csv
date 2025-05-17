@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular helper,TOX2,Human,Intestine,Rectum,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,ICA1,Human,Intestine,Rectum,Normal,Normal cell,T follicular helper(Tfh) cell

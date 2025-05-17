@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,VCAN,VCAN
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,FCN1,FCN1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,MNDA,MNDA
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,CYBB,CYBB
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,LRP1,LRP1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell,CL_0000763,FGR,FGR

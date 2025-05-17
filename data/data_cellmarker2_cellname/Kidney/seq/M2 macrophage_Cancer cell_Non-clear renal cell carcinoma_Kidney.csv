@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,SIGLEC1,SIGLEC1
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,CD209,CD209
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,TREM2,TREM2
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,CCL2,CCL2
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,C1QB,C1QB
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,FGL2,FGL2
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,CSF1R,CSF1R
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,C1QC,C1QC
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,AXL,AXL
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,MERTK,MERTK
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,C1QA,C1QA
+Human,Kidney,Kidney,UBERON_0002113,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage,CL_0000890,S100A9,S100A9

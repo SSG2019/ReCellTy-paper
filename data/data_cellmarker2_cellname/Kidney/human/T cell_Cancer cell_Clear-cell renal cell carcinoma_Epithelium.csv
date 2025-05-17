@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,TIGIT,TIGIT
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,CTLA-4,CTLA4
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,TIM3,HAVCR2
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,TNFRSF9,TNFRSF9
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,CD27,CD27
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,HAVCR2,HAVCR2
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,PDCD1,PDCD1
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,LAG3,LAG3
+Human,Kidney,Epithelium,UBERON_0000483,Clear-cell renal cell carcinoma,Cancer cell,T cell,CL_0000084,PD-1,PDCD1

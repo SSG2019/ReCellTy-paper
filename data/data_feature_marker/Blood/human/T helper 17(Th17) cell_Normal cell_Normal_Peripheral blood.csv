@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th17,CCR6,Human,Blood,Peripheral blood,Normal,Normal cell,T helper 17(Th17) cell
+T cell,Helper,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,T helper 17(Th17) cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,T helper 17(Th17) cell

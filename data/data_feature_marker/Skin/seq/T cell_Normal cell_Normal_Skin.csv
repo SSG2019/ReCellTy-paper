@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,IL13,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,HAVCR2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TIGIT,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,LAG3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA-4,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PDCD1,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Skin,Skin,Normal,Normal cell,T cell

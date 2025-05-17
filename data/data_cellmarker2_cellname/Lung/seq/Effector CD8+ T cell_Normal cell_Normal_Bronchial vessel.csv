@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,DUSP2,DUSP2
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,GZMK,GZMK
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,CD3E,CD3E
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Effector CD8+ T cell,CL_0001050,CD8A,CD8A

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Endothelial cell,CL_0000115,SELP,SELP
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Endothelial cell,CL_0000115,SELE,SELE
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Endothelial cell,CL_0000115,ENG,ENG

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Myo,KRT5,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Epithelial cell,Myo,KRT17,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Epithelial cell,Myo,KRT14,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell

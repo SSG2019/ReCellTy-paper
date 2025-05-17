@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,IFITM2,IFITM2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,PI3,PI3

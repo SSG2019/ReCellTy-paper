@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,Light zone cell,,CD83,CD83

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar epithelial cell,Type 2,SFTPC,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Alveolar epithelial cell Type 2
+Alveolar epithelial cell,,HHIP,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Alveolar epithelial cell Type 2
+Alveolar epithelial cell,,SFTPA,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Alveolar epithelial cell Type 2

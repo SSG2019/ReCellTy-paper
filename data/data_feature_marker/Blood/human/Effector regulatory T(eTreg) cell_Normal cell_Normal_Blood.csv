@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD45RO,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,Effector,GNLY,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,Effector,PRF1,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,Effector,GZMH,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,Effector,GZMA,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,regulatory,Lag3,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell
+T cell,regulatory,Tox,Human,Blood,Blood,Normal,Normal cell,Effector regulatory T(eTreg) cell

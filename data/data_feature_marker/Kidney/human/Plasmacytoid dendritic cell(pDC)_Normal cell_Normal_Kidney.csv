@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,BDCA2,Human,Kidney,Kidney,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD123,Human,Kidney,Kidney,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,LILRA4,Human,Kidney,Kidney,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Kidney,Kidney,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Kidney,Kidney,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,RUNX3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Effector memory T cell
+T cell,Memory,IL7R,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Effector memory T cell
+T cell,Effector,CXCR3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Effector memory T cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell,CL_0000623,CXCR1,CXCR1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell,CL_0000623,XCL2,XCL2
+Human,Ovary,Ovary,UBERON_0000992,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell,CL_0000623,CR2,CR2
+Human,Ovary,Ovary,UBERON_0000992,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell,CL_0000623,CCR4,CCR4

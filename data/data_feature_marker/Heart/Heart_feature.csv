@@ -1,0 +1,680 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,,PDGFR,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,Lipid Droplet Formation,Perilipin,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,Energy Regulation,LEP,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,Lipid Biosynthesis,GPAM,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,Glucose Regulation,ADIPOQ,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,Fatty Acid Synthesis,FASN,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Astrocyte,,CDH11,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ID1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,s100b,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,S100B,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,gfap,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,glast,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1A1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Atrial cell,,NR2F2,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,KCNJ3,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,MYL7,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,MYH6,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrioventricular canal cell,,MEIS1,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,TGFB2,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,JUN,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,ISL1,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+B cell,,BCL11B,Human,Heart,Heart,Normal,Normal cell,B cell
+Blood cell,,NLRP3,Human,Heart,Heart,Normal,Normal cell,Blood cell
+Cardiac cell,,TNNT2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,MYBPC3,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,Actin,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,TNNT2,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,NPPA,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac precursor cell,,MEF2C,Human,Heart,Heart,Normal,Normal cell,Cardiac precursor cell
+Cardiac progenitor cell,Cardiac,NKX2.5,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Cardiac,GATA4,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Cardiac,TBX18,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Cardiac,ISLET-1,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Cardiac,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,CD34,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,SCA-1,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,ABCG2,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,CD117,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,KIT,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,KITLG,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiac progenitor cell,Progenitor,WT1,Human,Heart,Heart,Normal,Normal cell,Cardiac progenitor cell
+Cardiomyocyte,Progenitor,CD34,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte progenitor cell
+Cardiomyocyte,Progenitor,SSEA-4,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte progenitor cell
+Cardiomyocyte,,MLC2A,Human,Heart,Atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HEPACAM,Human,Heart,Atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NPPA,Human,Heart,Cardiac atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,DCN,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PECAM1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,WT1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CSF1R,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CD3D,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TPSAB1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,COL1A1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SOX9,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,ACTN2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2-5,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MEF2C,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL7,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL4,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,ACTC1,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,MYH7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,TNNT2,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,Myl7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,MYL2,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Development,IRX4,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Conduction,SCN5A,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,BMP4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,FABP3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GATA4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GATA6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MEF2C,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH7,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TBX5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HCN4,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,LRG1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2.5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,KIR2.1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,ANP,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,alpha-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Beta-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Cripto,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Desmin,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,epsilon-Sarcoglycan,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Myosin Heavy Chain,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Troponin T,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,connexin 43,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Alpha-actinin,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,cTnT,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CX43,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,cTnI,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Myh6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,aMHC,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PCM1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH11,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TTN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYBPC3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CORIN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,POPDC2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CD105,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MB,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,KCNJ2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NPPA,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,GJA1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNI3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,αActinin,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HADHA,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Ryr2,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Xirp2,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Postn,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TtnISO,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Tgfb1,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Col1a1,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,Nppa,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MLC2V,Human,Heart,Ventricle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PCDH7,Human,Heart,Ventricular and atrial,Normal,Normal cell,Cardiomyocyte
+Cardiosphere-derived cell,Cardiac Development,TBX5,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,Cardiac Development,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,Cardiac Development,GATA4,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL1,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL6,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,IL1B,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL8,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Progenitor cell,Cardiovascular,FLT1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,FLT4,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,PDGFRA,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,NKX2.5,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,ISL1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,HAND1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+T cell,CD4+,610L,Human,Heart,Heart,Normal,Normal cell,CD4+ T cell
+Central nervous system cell,,PRKG1,Human,Heart,Central nervous system,Normal,Normal cell,Central nervous system cell
+Dendritic cell,,Clec9a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Xcr1,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Irf8,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd103,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd11c,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd26,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Zbtb46,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Endothelial cell,Early,EMCN,Human,Heart,Heart,Normal,Normal cell,Early endothelial cell
+Vascular cell,Early,SHISA3,Human,Heart,Blood,Normal,Normal cell,Early vascular cell
+Endocardial cell,,NFATc,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,GATA5,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,KLF2,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,MSX1,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,CDH5,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,NOTCH4,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,TBX3,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,ENG,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,TBX20,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,PECAM,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,Cdh11,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,Npr3,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,NFATC1,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endothelial cell,,GJA5,Human,Heart,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SEMA3G,Human,Heart,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD105,Human,Heart,Blood,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Heart,Blood,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Blood,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM-1,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Cardiovascular system,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Embryonic heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Endocardium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Endocardium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENG,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NOTCH4,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KLF2,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFI27,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,α-actinin,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Heart,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ACKR1,Human,Heart,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31 PECAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial progenitor cell
+Epicardial cell,,TCF21,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,Heyl,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,Hand2,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,GATA6,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,Foxp2,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,Tbx20,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,GATA4,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,TBX5,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,COL1A1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,WT1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,TBX18,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardium-derived cell,,ACTA2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,VIM,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,DDR2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,SNAI2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Erythroid cell,,HBA1,Human,Heart,Heart,Normal,Normal cell,Erythroid cell
+Fat cell,,CEBPA,Human,Heart,Heart,Normal,Normal cell,Fat cell
+Fat cell,,PPARG,Human,Heart,Heart,Normal,Normal cell,Fat cell
+Fibroblast,,DCN,Human,Heart,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,ADAMTS4,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,AXL,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,VCAN,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,CKAP4,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,Pdgfrα,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,DDR2,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,Tcf21,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,Tcf-21,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,TCF21,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRa,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,CADH2,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,POSTN,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,ITA4,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,LTBP2,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,FN1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL3A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL2A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,ALDH1A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,NRP-1,Human,Heart,Myocardium,Normal,Normal cell,Fibroblast
+Fibroblast,,TGF-β1,Human,Heart,Myocardium,Normal,Normal cell,Fibroblast
+Heart field,First heart field,TBX5,Human,Heart,Heart,Normal,Normal cell,First heart field cell
+T cell,Gamma delta (γδ),Il17a,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta (γδ),Tcrg-V6,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta (γδ),Trdv4,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+Heart cell,,NPPB,Human,Heart,Heart,Normal,Normal cell,Heart cell
+Hematopoietic cell,,LATEXIN,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CARBONIC-ANYDRASE,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CX37,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,FICOLIN3,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,SOX8,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD55,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD40,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,HOXP1,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,C-KIT,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,Isl1,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,Gata6,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,Tbx20,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,GJA4,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Immature glial cell,,GLAST,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+Immature glial cell,,BLBP,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+Immature glial cell,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+Immature glial cell,,FABP7,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+Immune cell,,PTPRC,Human,Heart,Heart,Normal,Normal cell,Immune cell
+Endothelial cell,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Late endothelial cell
+Leukocyte,,CD2,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD25,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD3,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD69,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD14,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD8,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD40,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD20,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD1c,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD19,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD86,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD45,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD4,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,IL2RA,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD8A,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,MS4A1,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Heart,Blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD96,Human,Heart,Cardiac atrium,Normal,Normal cell,Leukocyte
+Endothelial cell,Lymphatic,PDPN,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,FLT4,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,PROX1,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+macrophage,M1,IL1B,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,NFKB1,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,TNF,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+Macrophage,M2,arginase 1,Human,Heart,Cardiovascular system,Normal,Normal cell,M2 macrophage
+Macrophage,M2,retnlb,Human,Heart,Cardiovascular system,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MERTK,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,STAB1,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,,CD68,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,CD20,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Cd163,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Mgl2,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Pf4,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Apoe,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,F13a1,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,MS4A1,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,M2,CD206,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,TIMD4,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,Inflammatory,CCR2,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,MerTK,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,CD64,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,Cd64,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,M2,MRC1,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,FCGR1A,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,Timd4,Human,Heart,Myocardium,Normal,Normal cell,Macrophage
+Macrophage,,Lyve1,Human,Heart,Myocardium,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Heart,Right ventricle,Normal,Normal cell,Macrophage
+Mast cell,,MS4A2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mesenchymal cell,,ENG,Human,Heart,Heart,Normal,Normal cell,Mesenchymal cell
+Mesenchymal stem cell,,CD73,Human,Heart,Heart,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Heart,Heart,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Heart,Heart,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PDGFRb,Human,Heart,Heart,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Heart,Heart,Normal,Normal cell,Mesenchymal stem cell
+Mesoderm,,EOMES,Human,Heart,Mesoblast,Normal,Normal cell,Mesoderm cell
+Mesoderm,,TWIST1,Human,Heart,Mesoblast,Normal,Normal cell,Mesoderm cell
+Monocyte,,FCGR3A,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CD31,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CEBPB,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,MRC1,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Heart,Right ventricle,Normal,Normal cell,Monocyte
+Multipotent progenitor cell,,ISL1,Human,Heart,Heart,Normal,Normal cell,Multipotent progenitor cell
+Myofibroblast,,TGLN,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,Vimentin,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CD44,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,α-SMA,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,PDGFR,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,Fibronectin,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,Collagen-1,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myogenic progenitor cell,Myogenic,ISL1,Human,Heart,Heart muscle,Normal,Normal cell,Myogenic progenitor cell
+Myogenic progenitor cell,Progenitor,PDGFRA,Human,Heart,Heart muscle,Normal,Normal cell,Myogenic progenitor cell
+Natural killer cell,,CD98,Human,Heart,Cardiac atrium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,SLC3A2,Human,Heart,Cardiac atrium,Normal,Normal cell,Natural killer cell
+Neural cell,,NES,Human,Heart,Heart,Normal,Normal cell,Neural cell
+Neural cell,,SOX1,Human,Heart,Heart,Normal,Normal cell,Neural cell
+Neural cell,,PAX6,Human,Heart,Heart,Normal,Normal cell,Neural cell
+Neuron,,SATB2,Human,Heart,Embryonic heart,Normal,Normal cell,Neuron
+Neuron,,NPTX1,Human,Heart,Heart muscle,Normal,Normal cell,Neuron
+Neuron,,NRXN1,Human,Heart,Heart,Normal,Normal cell,Neuron
+Neutrophil,,ELANE,Human,Heart,Heart,Normal,Normal cell,Neutrophil
+Neutrophil,,FUT,Human,Heart,Heart,Normal,Normal cell,Neutrophil
+Normal cell,,RXFP1,Human,Heart,Heart,Normal,Normal cell,Normal cell
+Osteocyte,,Runx2,Human,Heart,Aorta,Normal,Normal cell,Osteocyte
+Osteocyte,,OPN,Human,Heart,Aorta,Normal,Normal cell,Osteocyte
+Osteocyte,,SPP1,Human,Heart,Aorta,Normal,Normal cell,Osteocyte
+Pacemaker cell,,LPMAB-12,Human,Heart,Heart,Normal,Normal cell,Pacemaker cell
+Pericyte,,NG2,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,Pdgfrβ,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,Tbx18,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CD90,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,THY1,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Platelet,,CD62P,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,CD42a,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,CD41b,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,SELP,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,GP9,Human,Heart,Blood,Normal,Normal cell,Platelet
+Progenitor cell,,KDR,Human,Heart,Embryonic heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,MEF2C,Human,Heart,Embryonic heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TAGLN,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,RGS5,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+T cell,Regulatory,ID3,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF18,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,LTB,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+Semilunar valve cell,,MMP-13,Human,Heart,Heart,Normal,Normal cell,Semilunar valve cell
+Semilunar valve cell,,MMP13,Human,Heart,Heart,Normal,Normal cell,Semilunar valve cell
+Smooth muscle cell,,MYOCD,Human,Heart,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SM22α,Human,Heart,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Heart,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Heart,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Heart,Blood,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contractile,alpha-smooth muscle actin,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contractile,ACTA2,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contractile,Calponin 1,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contractile,MYH11,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Differentiation,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CALD1,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,GPR38,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Hexim 1,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Histamine H2 R,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,VE-Cadherin,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SYNPO2,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,RGS5,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MLNR,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Stem cell,,SSEA4,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,Tra-1-60,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,GAL,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,TCL1A,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,LEFTY1,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,SOX2,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,NANOG,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,ZFP42,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,DPPA2,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,GDF3,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,DPPA4,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,CD9,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,PODXL,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,POU5F1,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,DNMT3B,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,TDGF1,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,,GRB7,Human,Heart,Embryonic heart,Normal,Normal cell,Stem cell
+Stem cell,Stem,LGR6,Human,Heart,Vein,Normal,Normal cell,Stem cell
+Smooth muscle cell,Synthetic,TPM4,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+Smooth muscle cell,Synthetic,MYH10,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+Smooth muscle cell,,MGP,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+T cell,,CD97,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,TRAT1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD45,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD53,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD69,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,SKAP1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD2,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,ADGRE5,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,CD4+,markerA,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,CD4+,markerC,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,Effector,markerE,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,Effector,markerB,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,Effector,markerD,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,Naive/Central Memory,CD62L,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Naive/Central Memory,SELL,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Activated,HLA-DR,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Effector Memory,CX3CR1,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD54,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD80,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,ICAM1,Human,Heart,Heart,Normal,Normal cell,T cell
+Vascular cell,,IL-6,Human,Heart,Myocardium,Normal,Normal cell,Vascular cell
+Vascular cell,,IL6,Human,Heart,Myocardium,Normal,Normal cell,Vascular cell
+Vascular progenitor cell,,C-KIT,Human,Heart,Heart,Normal,Normal cell,Vascular progenitor cell
+Vascular smooth muscle cell,VSMC,Myh11,Human,Heart,Heart,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,α-SMA,Human,Heart,Heart,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vein cell,,ACKR1,Human,Heart,Vein,Normal,Normal cell,Vein cell
+Vein cell,,NR2F2,Human,Heart,Vein,Normal,Normal cell,Vein cell
+Ventricular cell,,MYL2,Human,Heart,Heart,Normal,Normal cell,Ventricular cell
+Ventricular cell,,IRX4,Human,Heart,Heart,Normal,Normal cell,Ventricular cell
+Adipocyte,,LEP,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,,GPAM,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,,ADIPOQ,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Adipocyte,,FASN,Human,Heart,Heart,Normal,Normal cell,Adipocyte
+Astrocyte,,CDH11,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ID1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,S100B,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,S100B,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,GLAST,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1A1,Human,Heart,Heart,Normal,Normal cell,Astrocyte
+Atrial cell,,NR2F2,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,KCNJ3,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,MYL7,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrial cell,,MYH6,Human,Heart,Heart,Normal,Normal cell,Atrial cell
+Atrioventricular canal cell,,MEIS1,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,TGFB2,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,JUN,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+Atrioventricular canal cell,,ISL1,Human,Heart,Heart,Normal,Normal cell,Atrioventricular canal cell
+B cell,,BCL11B,Human,Heart,Heart,Normal,Normal cell,B cell
+Blood cell,,NLRP3,Human,Heart,Heart,Normal,Normal cell,Blood cell
+Cardiac cell,,TNNT2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,NPPA,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiomyocyte,,MLC2A,Human,Heart,Atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HEPACAM,Human,Heart,Atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NPPA,Human,Heart,Cardiac atrium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,NKX2-5,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MEF2C,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL7,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL4,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,ACTC1,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,MYH7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,TNNT2,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,Myl7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PCM1,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TTN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYBPC3,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CORIN,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,POPDC2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL2,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH7,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CD105,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYH6,Human,Heart,Heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,αActinin,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,HADHA,Human,Heart,Myocardium,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MLC2V,Human,Heart,Ventricle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PCDH7,Human,Heart,Ventricular and atrial,Normal,Normal cell,Cardiomyocyte
+Cardiosphere-derived cell,,CXCL8,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Progenitor cell,Cardiovascular,PDGFRA,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,HAND1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,,CD13,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,,ANPEP,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+T cell,CD4+,610L,Human,Heart,Heart,Normal,Normal cell,CD4+ T cell
+Central nervous system cell,,PRKG1,Human,Heart,Central nervous system,Normal,Normal cell,Central nervous system cell
+Dendritic cell,,Clec9a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Xcr1,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Irf8,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,CD103+,Cd103,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd11c,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd26,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,Classical,Zbtb46,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Endocardial cell,,KLF2,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,CDH5,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,NOTCH4,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,ENG,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endocardial cell,,PECAM,Human,Heart,Heart,Normal,Normal cell,Endocardial cell
+Endothelial cell,,GJA5,Human,Heart,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SEMA3G,Human,Heart,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM-1,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Cardiac atrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Cardiovascular system,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Embryonic heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Endocardium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Endocardium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENG,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NOTCH4,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KLF2,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFI27,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Heart,Heart,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Heart,Vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ACKR1,Human,Heart,Vein,Normal,Normal cell,Endothelial cell
+Endothelial progenitor cell,,CD31,Human,Heart,Heart,Normal,Normal cell,Endothelial progenitor cell
+Endothelial progenitor cell,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial progenitor cell
+Epicardial cell,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,COL1A1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,WT1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,TBX18,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardium-derived cell,,ACTA2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,VIM,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,DDR2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Epicardium-derived cell,,SNAI2,Human,Heart,Fetal heart,Normal,Normal cell,Epicardium-derived cell
+Erythroid cell,,HBA1,Human,Heart,Heart,Normal,Normal cell,Erythroid cell
+Fat cell,,CEBPA,Human,Heart,Heart,Normal,Normal cell,Fat cell
+Fat cell,,PPARG,Human,Heart,Heart,Normal,Normal cell,Fat cell
+Fibroblast,,ADAMTS4,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,AXL,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,VCAN,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,FN1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL3A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,COL2A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+Fibroblast,,ALDH1A1,Human,Heart,Heart,Normal,Normal cell,Fibroblast
+T cell,Gamma delta(γδ),Il17a,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),Tcrg-V6,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),Trdv4,Human,Heart,Heart muscle,Normal,Normal cell,Gamma delta(γδ) T cell
+Hematopoietic cell,,LATEXIN,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,C-KIT,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+glial cell,,GLAST,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,BLBP,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,FABP7,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+Immune cell,,PTPRC,Human,Heart,Heart,Normal,Normal cell,Immune cell
+Leukocyte,,CD96,Human,Heart,Cardiac atrium,Normal,Normal cell,Leukocyte
+Lymphatic endothelial cell,,PDPN,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,FLT4,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,PROX1,Human,Heart,Cardiac atrium,Normal,Normal cell,Lymphatic endothelial cell
+macrophage,M1,IL1B,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,NFKB1,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+macrophage,M1,TNF,Human,Heart,Heart,Normal,Normal cell,M1 macrophage
+Macrophage,M2,MERTK,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,M2,STAB1,Human,Heart,Heart,Normal,Normal cell,M2 macrophage
+Macrophage,anti-inflammatory,Cd163,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,tissue-resident,Mgl2,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,activation,Pf4,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,lipid handling,Apoe,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,F13a1,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Cd64,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,MerTK,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Heart,Heart,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Heart,Right ventricle,Normal,Normal cell,Macrophage
+Mast cell,,MS4A2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Heart,Cardiac atrium,Normal,Normal cell,Mast cell
+Monocyte,,FCGR3A,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CD31,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,CEBPB,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,MRC1,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Heart,Right ventricle,Normal,Normal cell,Monocyte
+Myofibroblast,,TGLN,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Myofibroblast,,α-SMA,Human,Heart,Heart,Normal,Normal cell,Myofibroblast
+Natural killer cell,,CD98,Human,Heart,Cardiac atrium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,SLC3A2,Human,Heart,Cardiac atrium,Normal,Normal cell,Natural killer cell
+Neuron,,SATB2,Human,Heart,Embryonic heart,Normal,Normal cell,Neuron
+Neuron,,NPTX1,Human,Heart,Heart muscle,Normal,Normal cell,Neuron
+Neuron,,NRXN1,Human,Heart,Heart,Normal,Normal cell,Neuron
+Neutrophil,,ELANE,Human,Heart,Heart,Normal,Normal cell,Neutrophil
+Neutrophil,,FUT,Human,Heart,Heart,Normal,Normal cell,Neutrophil
+Pericyte,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CD90,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,THY1,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Progenitor cell,,KDR,Human,Heart,Embryonic heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,MEF2C,Human,Heart,Embryonic heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TAGLN,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,RGS5,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+T cell,Treg,ID3,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF18,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,LTB,Human,Heart,Heart,Normal,Normal cell,Regulatory T(Treg) cell
+Smooth muscle cell,Contraction,ACTA2,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contraction,MYH11,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Differentiation,TAGLN,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Regulation,RGS5,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Differentiation,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Stem cell,,LGR6,Human,Heart,Vein,Normal,Normal cell,Stem cell
+Smooth muscle cell,,TPM4,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+Smooth muscle cell,,MGP,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+Smooth muscle cell,,MYH10,Human,Heart,Heart,Normal,Normal cell,Synthetic smooth muscle cell
+T cell,,CD97,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,TRAT1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD45,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD53,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD69,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,SKAP1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD2,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,ADGRE5,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD3,Human,Heart,Heart muscle,Normal,Normal cell,T cell
+T cell,CD4+,markerA,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,CD4+,markerC,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Effector,markerE,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Effector,markerB,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Effector,markerD,Human,Heart,Heart,Normal,Normal cell,T cell
+Vascular progenitor cell,,C-KIT,Human,Heart,Heart,Normal,Normal cell,Vascular progenitor cell
+Vein cell,,ACKR1,Human,Heart,Vein,Normal,Normal cell,Vein cell
+Vein cell,,NR2F2,Human,Heart,Vein,Normal,Normal cell,Vein cell
+Ventricular cell,,MYL2,Human,Heart,Heart,Normal,Normal cell,Ventricular cell
+Ventricular cell,,IRX4,Human,Heart,Heart,Normal,Normal cell,Ventricular cell

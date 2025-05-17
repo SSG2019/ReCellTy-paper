@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Macrophage,CL_0000235,CD16,FCGR3A
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Macrophage,CL_0000235,HLA-DR,

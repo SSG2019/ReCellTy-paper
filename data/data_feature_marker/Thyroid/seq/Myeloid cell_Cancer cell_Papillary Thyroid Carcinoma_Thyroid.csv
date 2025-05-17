@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,TYROBP,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCER1G,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell

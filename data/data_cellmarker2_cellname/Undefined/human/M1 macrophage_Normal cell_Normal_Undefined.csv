@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD80,CD80
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD86,CD86
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,IRF5,IRF5
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,STAT1,STAT1
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD64,FCGR1A
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD32,FCGR2A
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD16,FCGR3A
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD369,CLEC7A
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,MerTK,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,MHC class II,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,ROS,ROS1
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD86,CD86
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,IL-12,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,TNF-α,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,IL-6,IL6
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,iNOS,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,Inos,
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,CD86,CD86
+Human,Undefined,Undefined,,Normal,Normal cell,M1 macrophage,CL_0000863,TNFα,

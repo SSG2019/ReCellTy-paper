@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CDH1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,FOXA1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell

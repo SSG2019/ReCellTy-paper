@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Neuron,CL_0000540,SNAP25,SNAP25
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Neuron,CL_0000540,GABRB2,GABRB2

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Endothelial cell,CL_0000115,ENG,ENG

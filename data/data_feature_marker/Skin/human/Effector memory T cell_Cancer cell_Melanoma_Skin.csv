@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Effector memory T cell
+T cell,Effector,T-BET,Human,Skin,Skin,Melanoma,Cancer cell,Effector memory T cell

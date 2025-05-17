@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3E,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,GZMA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CCL5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,CD7,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell
+T cell,,KLRB1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T cell

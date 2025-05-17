@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD4+ memory T (Tem) cell,CL_0000905,CD45RA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector CD4+ memory T (Tem) cell,CL_0000905,CCR7,CCR7

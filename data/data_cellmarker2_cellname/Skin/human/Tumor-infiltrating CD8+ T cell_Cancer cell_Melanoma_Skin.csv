@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell,,CD39,ENTPD1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell,,Tim3,
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell,,PD-1,PDCD1

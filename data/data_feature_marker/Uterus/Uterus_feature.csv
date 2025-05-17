@@ -1,0 +1,361 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Uterus,Ectocervix,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell
+B cell,,IGLC2,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell
+B cell,B10,CD19,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD1d,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD5,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell
+Cancer stem cell,Stemness,OCT3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Sox2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD44,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,POU5F1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1A1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ITGA6,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,PROM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CK-17,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,SLC22A3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Uterus,Myometrium,Fibroid,Cancer cell,Cancer stem cell
+stem cell,,STRO-1,Human,Uterus,Myometrium,Fibroid,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD34,Human,Uterus,Uterus,Uterine Leiomyoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD49b,Human,Uterus,Uterus,Uterine Leiomyoma,Cancer cell,Cancer stem cell
+Fibroblast,Cancer-associated,HB-EGF,Human,Uterus,Uterus,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD4,CD4,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,CD45,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,CD3,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,PTPRC,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,CD4+,CD4,Human,Uterus,Ectocervix,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Uterus,Ectocervix,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,FGFBP2,Human,Uterus,Uterus,Normal,Normal cell,CD8+ T cell
+Ciliated cell,Ciliated,p73,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Ciliated cell,Ciliated,FOXJ1,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Plasma cell,Classical,CD38,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell
+Plasma cell,Classical,SDC1,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell
+T cell,CD8+,CD8,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,Cytotoxic CD8+ T cell
+T cell,CD8+,CD8A,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,Cytotoxic CD8+ T cell
+Dendritic cell,,CD14,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD16,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD19,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD56,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,FCGR3A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,NCAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Dendritic cell
+Stem cell,Endometrial,SUSD2,Human,Uterus,Uterus,Normal,Normal cell,Endometrial stem cell
+Stem cell,,ICAM1,Human,Uterus,Uterus,Normal,Normal cell,Endometrial stem cell
+Endometrial stromal cell,,RGS5,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endometrial stromal cell,,PLN,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endometrial stromal cell,,SUSD2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endometrial stromal stem cell,Stem cell,CD34,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell
+Endometrial stromal stem cell,Mesenchymal,CD29,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell
+Endometrial stromal stem cell,Mesenchymal,CD90,Human,Uterus,Endometrium stroma,Normal,Normal cell,Endometrial stromal stem cell
+Endothelial cell,,PECAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,EMCN,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VMF,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,MYCT1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,AQP1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Epithelial cell,,E-cadherin,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,LAMC2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,UBE2C,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ADH7,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CRABP2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TOP2A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDKN2A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CEACAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,LY6D,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TP63,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CACA4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SEPP1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SELENOP,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PAX8,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK6,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK5,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK17,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,p63,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK7,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,OCLN,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,E-CADH,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN3,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Ectocervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOLR1,Human,Uterus,Uterus,Normal,Normal cell,Epithelial cell
+T cell,Exhausted,PD-1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,Eomes,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,Tim-3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PDCD1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,HAVCR2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PD-1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,Eomes,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,Tim-3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PDCD1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,HAVCR2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+Fibroblast,,APOD,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,VCAM,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,SFRP2,Human,Uterus,Ectocervix,Normal,Normal cell,Fibroblast
+Fibroblast,,APOD,Human,Uterus,Endometrium,Normal,Normal cell,Fibroblast
+Germinal Centre-like cell,GC,BCL6,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+Germinal Centre-like cell,GC,MKI67,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+B cell,GrB+,CD1d,Human,Uterus,Uterus,Cervical cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD1d,Human,Uterus,Uterus,Cervical cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD38,Human,Uterus,Uterus,Cervical cancer,Cancer cell,GrB+ Regulatory B cell
+Lymphatic endothelial cell,,PROX1,Human,Uterus,Ectocervix,Normal,Normal cell,Lymphatic endothelial cell
+endothelial cell,Lymphatic,PROX1,Human,Uterus,Endometrium,Normal,Normal cell,Lymphatic endothelial cell
+endothelial cell,Lymphatic,FLT4,Human,Uterus,Endometrium,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,SPPI,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Lymphocyte
+Lymphocyte,,CD163,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Lymphocyte
+Macrophage,,CD68,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,M1 macrophage
+macrophage,M2,CD163,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,M2 macrophage
+macrophage,,CD68,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,M2 macrophage
+Macrophage,,CD3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Macrophage
+Macrophage,,TIGIT,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A7,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A4A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Uterus,Endometrium,Normal,Normal cell,Macrophage
+Mast cell,,CD117,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Uterus,Uterus,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Uterus,Uterus,Normal,Normal cell,Mast cell
+Mesenchymal cell,,VIMENTIN,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Mesenchymal cell
+Mesenchymal stem cell,,NOTCH3,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,RGS5,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,GUCY1A2,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Monocyte,,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Monocyte
+Stem cell,Myometrial,STRO-1,Human,Uterus,Myometrium,Normal,Normal cell,Myometrial stem cell
+Stem cell,Myometrial,CD44,Human,Uterus,Myometrium,Normal,Normal cell,Myometrial stem cell
+B cell,Naive,SELL,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Naive B cell
+B cell,,TCL1A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Naive B cell
+Natural killer cell,,KLRC1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,TRDC,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3,Human,Uterus,Uterus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD16,Human,Uterus,Uterus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Uterus,Uterus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Uterus,Uterus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Uterus,Uterus,Normal,Normal cell,Natural killer cell
+Neutrophil,,CD16,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Neutrophil,,CD66,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Plasma cell,,PRDM1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR4,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,MZB1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Dendritic cell,Plasmacytoid,SCT,Human,Uterus,Uterus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,CLIC3,Human,Uterus,Uterus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Red blood cell,,HBB,Human,Uterus,Ectocervix,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Uterus,Uterus,Uterine sarcomas,Cancer cell,Regulatory CD8+ T cell
+T cell,Regulatory,IL2R,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP31,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,Foxp3,Human,Uterus,Ectocervix,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FoxP3,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL7R,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF4,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF9,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF18,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+Secretory cell,,MPST,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Secretory cell
+Secretory cell,,PAX8,Human,Uterus,Uterus,Normal,Normal cell,Secretory cell
+Smooth muscle cell,,PRLR,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,SFRP4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,ACTG2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Uterus,Endometrium,Normal,Normal cell,Smooth muscle cell
+Stem cell,,Nanog,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Stem cell
+Stem cell,,ALDH1,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Stem cell
+Stem cell,,ALDH1A1,Human,Uterus,Endometrium stroma,Endometrial Cancer,Cancer cell,Stem cell
+T cell,,CD3D,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,CD8+,CD8A,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,CD8+,GZMB,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,CD4+,markerC,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,CD4+,markerA,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,Effector,markerE,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,Effector,markerB,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,Effector,markerD,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,Tissue resident memory,CD69,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD103,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGB7,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD49a,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+Trophoblast cell,,Cytokeratin,Human,Uterus,Decidua,Normal,Normal cell,Trophoblast cell
+Vascular endothelial cell,,PECAM1,Human,Uterus,Ectocervix,Normal,Normal cell,Vascular endothelial cell
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Uterus,Ectocervix,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+B cell,,CD79A,Human,Uterus,Ectocervix,Normal,Normal cell,B cell
+B cell,2.0,CD79A,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell
+B cell,,IGLC2,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell
+T cell,CD4,CD4,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,CD45,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,CD3,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,,PTPRC,Human,Uterus,Endometrium,Normal,Normal cell,CD4 T cell
+T cell,CD4+,CD4,Human,Uterus,Ectocervix,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Uterus,Ectocervix,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,FGFBP2,Human,Uterus,Uterus,Normal,Normal cell,CD8+ T cell
+T cell,,MYOM2,Human,Uterus,Uterus,Normal,Normal cell,CD8+ T cell
+Ciliated cell,,CTH,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Ciliated cell,,p73,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Ciliated cell,,FOXJ1,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Ciliated cell,,DYDC2,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Ciliated cell,,ARHGAP24,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Ciliated cell
+Plasma cell,Classical,CD38,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell
+Plasma cell,Classical,SDC1,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell
+Dendritic cell,Antigen presentation,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Dendritic cell
+Endometrial stromal cell,,RGS5,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endometrial stromal cell,,PLN,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endometrial stromal cell,,SUSD2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endometrial stromal cell
+Endothelial cell,,PECAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,EMCN,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VMF,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Endothelial cell
+Endothelial cell,,MYCT1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,AQP1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Uterus,Endometrium,Normal,Normal cell,Endothelial cell
+Epithelial cell,,LAMC2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,UBE2C,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ADH7,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CRABP2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TOP2A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDKN2A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CEACAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,LY6D,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TP63,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CACA4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SEPP1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SELENOP,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Ectocervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Uterus,Endometrium,Normal,Normal cell,Epithelial cell
+Fibroblast,,APOD,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,VCAM,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Fibroblast
+Fibroblast,,SFRP2,Human,Uterus,Ectocervix,Normal,Normal cell,Fibroblast
+Fibroblast,,APOD,Human,Uterus,Endometrium,Normal,Normal cell,Fibroblast
+Germinal Centre-like cell,GC-like,BHLHE40,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+Germinal Centre-like cell,GC-like,BCL6,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+Germinal Centre-like cell,GC-like,MKI67,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+Endothelial cell,,PROX1,Human,Uterus,Ectocervix,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,PROX1,Human,Uterus,Endometrium,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,FLT4,Human,Uterus,Endometrium,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,SPPI,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Lymphocyte
+Lymphocyte,,CD163,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Lymphocyte
+Macrophage,,CD3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Macrophage
+Macrophage,,TIGIT,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A7,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,MS4A4A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Macrophage
+Macrophage,,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Uterus,Endometrium,Normal,Normal cell,Macrophage
+Mast cell,,CD117,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Uterus,Uterus,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Uterus,Uterus,Normal,Normal cell,Mast cell
+Mesenchymal stem cell,,NOTCH3,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,RGS5,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,GUCY1A2,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Monocyte,,HLA-DRA,Human,Uterus,Ectocervix,Normal,Normal cell,Monocyte
+B cell,Naive,SELL,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Naive B cell
+B cell,,TCL1A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Naive B cell
+Natural killer cell,,KLRC1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,TRDC,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Natural killer cell
+Neutrophil,,CD16,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Neutrophil,,CD66,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Neutrophil
+Plasma cell,,PRDM1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,SSR4,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,MZB1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Plasma cell
+Dendritic cell,Plasmacytoid,CLIC3,Human,Uterus,Uterus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,SCT,Human,Uterus,Uterus,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Red blood cell,,HBB,Human,Uterus,Ectocervix,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,IL2R,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP31,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,Foxp3,Human,Uterus,Ectocervix,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD127,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF4,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFSRF18,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FoxP3,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL7R,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Uterus,Endometrium,Normal,Normal cell,Regulatory T(Treg) cell
+Secretory cell,,MPST,Human,Uterus,Uterus,Endometrial tumour,Cancer cell,Secretory cell
+Secretory cell,,PAX8,Human,Uterus,Uterus,Normal,Normal cell,Secretory cell
+Smooth muscle cell,,PRLR,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,SFRP4,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,ACTG2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Uterus,Endometrium,Normal,Normal cell,Smooth muscle cell
+T cell,,CD3D,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,T cell
+T cell,,GZMB,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,CD4,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Uterus,Ectocervix,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Uterus,Endometrium,Normal,Normal cell,T cell
+T cell,Tissue resident memory,CD69,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD103,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGB7,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD49a,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+Vascular endothelial cell,,PECAM1,Human,Uterus,Ectocervix,Normal,Normal cell,Vascular endothelial cell
+Vascular smooth muscle cell,smooth muscle,TAGLN,Human,Uterus,Ectocervix,Normal,Normal cell,Vascular smooth muscle cell(VSMC)

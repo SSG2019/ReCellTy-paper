@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,CD206,Human,Gall bladder,Gall bladder,Gallbladder carcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,IL10,Human,Gall bladder,Gall bladder,Gallbladder carcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Gall bladder,Gall bladder,Gallbladder carcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Gall bladder,Gall bladder,Gallbladder carcinoma,Cancer cell,M2 macrophage

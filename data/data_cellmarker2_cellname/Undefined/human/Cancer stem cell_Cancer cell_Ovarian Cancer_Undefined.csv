@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,AMACR,AMACR
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD105,
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,Ovastacin,
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,MYD88,MYD88
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,BCRP1,BCRP1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Ovarian Cancer,Cancer cell,Cancer stem cell,,CD44,CD44

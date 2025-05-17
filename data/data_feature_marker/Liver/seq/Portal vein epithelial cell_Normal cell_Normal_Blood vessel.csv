@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CD63,Human,Liver,Blood vessel,Normal,Normal cell,Portal vein epithelial cell
+Epithelial cell,,Ehd4,Human,Liver,Blood vessel,Normal,Normal cell,Portal vein epithelial cell
+Epithelial cell,,CD200,Human,Liver,Blood vessel,Normal,Normal cell,Portal vein epithelial cell

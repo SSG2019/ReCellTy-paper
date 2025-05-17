@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Basal forebrain,p75NTR,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,Basal forebrain,ISL1,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,Basal forebrain,NGFR,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,VACHT,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,CHAT,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,SLC18A3,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)

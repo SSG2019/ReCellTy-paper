@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,FOXP3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,IL2RA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,CTLA4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,GZMA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,NKG7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,IL32,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell

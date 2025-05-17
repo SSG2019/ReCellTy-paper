@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Quiescent,S1PR1,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Quiescent,KLF2,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Quiescent,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,CD27,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,IL7R,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,LEF1,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell

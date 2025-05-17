@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore),,ESR1,ESR1
+Human,Lung,Lung,UBERON_0002048,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore),,ACTA2,ACTA2
+Human,Lung,Lung,UBERON_0002048,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore),,PMEL,PMEL
+Human,Lung,Lung,UBERON_0002048,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore),,FIGF,VEGFD

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,Anti-inflammatory,CD163,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,Inflammatory,AIF1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage

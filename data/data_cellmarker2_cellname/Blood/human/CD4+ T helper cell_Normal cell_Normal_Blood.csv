@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T helper cell,,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T helper cell,,CD161,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T helper cell,,CRTH2,PTGDR2

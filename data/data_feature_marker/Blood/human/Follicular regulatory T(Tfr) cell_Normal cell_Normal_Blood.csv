@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular regulatory,IL1R2,Human,Blood,Blood,Normal,Normal cell,Follicular regulatory T(Tfr) cell
+T cell,Follicular regulatory,CTLA4,Human,Blood,Blood,Normal,Normal cell,Follicular regulatory T(Tfr) cell

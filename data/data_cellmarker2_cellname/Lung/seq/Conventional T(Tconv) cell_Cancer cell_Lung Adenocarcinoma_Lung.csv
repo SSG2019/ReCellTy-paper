@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Conventional T(Tconv) cell,,CD40LG,CD40LG
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Conventional T(Tconv) cell,,CD3E,CD3E
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Conventional T(Tconv) cell,,IL7R,IL7R

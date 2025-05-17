@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,MCAM,MCAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,JAG1,JAG1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,ACTA2,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,FB,CFB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,MCAM,MCAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,SMA,SMN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,TINAGL1,TINAGL1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,TAGLN,TAGLN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,PHLDA1,PHLDA1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5

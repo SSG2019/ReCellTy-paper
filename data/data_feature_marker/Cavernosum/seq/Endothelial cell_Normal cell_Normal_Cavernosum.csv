@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,VWF,Human,Cavernosum,Cavernosum,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Cavernosum,Cavernosum,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Cavernosum,Cavernosum,Normal,Normal cell,Endothelial cell

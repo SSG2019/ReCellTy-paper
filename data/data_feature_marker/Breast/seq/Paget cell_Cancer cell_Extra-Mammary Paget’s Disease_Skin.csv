@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Paget cell,Epithelial,KRT7,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Epithelial,MUC1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Epithelial,KRT8,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,GATA3,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,PIP,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,AR,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,EMT and Metastasis,VIM,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,EMT and Metastasis,MMP9,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,MYD88,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,PDPN,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell

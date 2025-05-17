@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Osteoblast,Mature,SPARC,Human,Tooth,Molar,Normal,Normal cell,Mature osteoblast
+Osteoblast,Mature,CALR,Human,Tooth,Molar,Normal,Normal cell,Mature osteoblast
+Osteoblast,,MMP9,Human,Tooth,Molar,Normal,Normal cell,Mature osteoblast
+Osteoblast,,NFATC1,Human,Tooth,Molar,Normal,Normal cell,Mature osteoblast

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder cancer,Cancer cell,Cancer stem cell,,Nestin,
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder cancer,Cancer cell,Cancer stem cell,,NANOG,NANOG

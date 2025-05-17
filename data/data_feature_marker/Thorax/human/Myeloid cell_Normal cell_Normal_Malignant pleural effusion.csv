@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,LYZ,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD163,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CSF1R,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Circulating,CX3CR1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell
+Natural killer cell,,TBX21,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell
+Natural killer cell,,FCGR3A,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell

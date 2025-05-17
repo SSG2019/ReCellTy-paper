@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,GPR34,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,TMEM119,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,ADORA3,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,CX3CR1,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,P2RY12,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,SALL1,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell
+Microglial cell,,CD68,Human,Brain,Brain,Glioma,Cancer cell,Microglial cell

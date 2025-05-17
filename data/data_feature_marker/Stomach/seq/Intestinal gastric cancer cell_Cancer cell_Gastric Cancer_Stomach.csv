@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+gastric cancer cell,Intestinal,REG4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell
+gastric cancer cell,Intestinal,MUC13,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell
+gastric cancer cell,Intestinal,CDH17,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell
+gastric cancer cell,Intestinal,CEACAM5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell
+gastric cancer cell,Intestinal,CEACAM,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell
+gastric cancer cell,Intestinal,KRT8,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell

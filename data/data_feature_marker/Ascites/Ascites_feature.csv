@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CD56,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD16,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Natural killer cell
+T cell,Regulatory,FOXP3,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,CD25,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL2RA,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell
+T cell,,CD8,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD4,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Ascites,Ascites,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD4,Human,Ascites,Ascites,Normal,Normal cell,T cell
+T cell,,CD8,Human,Ascites,Ascites,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Ascites,Ascites,Normal,Normal cell,T cell

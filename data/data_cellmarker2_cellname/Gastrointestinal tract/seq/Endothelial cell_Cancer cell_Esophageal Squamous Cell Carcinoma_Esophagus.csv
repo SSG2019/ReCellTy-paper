@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,ENG,ENG
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF

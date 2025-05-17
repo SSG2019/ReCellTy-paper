@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Artery,UBERON_0001637,Normal,Normal cell,Osteocyte,CL_0000137,BMP2,BMP2
+Human,Kidney,Artery,UBERON_0001637,Normal,Normal cell,Osteocyte,CL_0000137,Runx2,

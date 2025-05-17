@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pericyte,CL_0000669,CD45,PTPRC
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pericyte,CL_0000669,CD56,NCAM1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pericyte,CL_0000669,CD34,CD34

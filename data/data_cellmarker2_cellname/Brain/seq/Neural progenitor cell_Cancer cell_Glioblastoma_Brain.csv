@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural progenitor cell,CL_0011020,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural progenitor cell,CL_0011020,SOX11,SOX11
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural progenitor cell,CL_0011020,SOX4,SOX4

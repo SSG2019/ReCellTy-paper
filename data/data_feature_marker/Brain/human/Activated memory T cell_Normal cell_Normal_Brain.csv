@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,GZMB,Human,Brain,Brain,Normal,Normal cell,Activated memory T cell
+T cell,Activated,Ki67,Human,Brain,Brain,Normal,Normal cell,Activated memory T cell
+T cell,Memory,CD45RO,Human,Brain,Brain,Normal,Normal cell,Activated memory T cell

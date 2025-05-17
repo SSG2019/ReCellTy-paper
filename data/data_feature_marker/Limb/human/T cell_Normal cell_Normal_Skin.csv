@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activation,TNFRSF18,Human,Limb,Skin,Normal,Normal cell,T cell
+T cell,Activation,CD69,Human,Limb,Skin,Normal,Normal cell,T cell
+T cell,Tissue-resident memory,CD103,Human,Limb,Skin,Normal,Normal cell,T cell
+T cell,Tissue-resident memory,ITGAE,Human,Limb,Skin,Normal,Normal cell,T cell

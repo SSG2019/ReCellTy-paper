@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper (Th),TOX2,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell
+T cell,T helper (Th),CD200,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell

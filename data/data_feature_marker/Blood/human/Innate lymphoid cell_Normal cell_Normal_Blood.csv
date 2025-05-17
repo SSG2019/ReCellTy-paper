@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,ILC2,CRTH2,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NK,CD161,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,CD127,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,PTGDR2,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NK,KLRB1,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,IL7R,Human,Blood,Blood,Normal,Normal cell,Innate lymphoid cell

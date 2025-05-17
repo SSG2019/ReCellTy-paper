@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tissue resident memory,ITGAE,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD69,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,,CD161,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,,IL7R,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,,KLRB1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell

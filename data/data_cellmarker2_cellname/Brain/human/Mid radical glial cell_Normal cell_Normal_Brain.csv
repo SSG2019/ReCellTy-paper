@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,NES,NES
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,RLBP1,RLBP1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,HES1,HES1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,CYB5R4,CYB5R4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,RPS28,RPS28
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,FOXG1,FOXG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,ISOC1,ISOC1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,NOTCH1,NOTCH1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,HES5,HES5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,PDGFC,PDGFC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,CYP26B1,CYP26B1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,FABP7,FABP7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,PPIG,PPIG
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,SOX1,SOX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,ERBB2,ERBB2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,S100B,S100B
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,CHD3,CHD3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,MCM5,MCM5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,DAB1,DAB1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mid radical glial cell,,CDO1,CDO1

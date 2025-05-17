@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Epithelial cell,CL_0000066,PAX8,PAX8
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Epithelial cell,CL_0000066,CRYAB,CRYAB
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Epithelial cell,CL_0000066,OCIAD2,OCIAD2

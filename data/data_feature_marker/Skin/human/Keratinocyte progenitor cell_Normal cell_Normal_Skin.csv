@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Keratinocyte,Progenitor,CD34,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell
+Keratinocyte,Progenitor,P63,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell
+Keratinocyte,Progenitor,ABCG2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell

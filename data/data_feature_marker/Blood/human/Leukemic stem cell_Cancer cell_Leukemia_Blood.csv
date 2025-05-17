@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Leukemic,CD34,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,CD117,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,CD133,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,CD123,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,CD25,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,CSF3R,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,KIT,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,PROM1,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,IL3RA,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,IL2RA,Human,Blood,Blood,Leukemia,Cancer cell,Leukemic stem cell

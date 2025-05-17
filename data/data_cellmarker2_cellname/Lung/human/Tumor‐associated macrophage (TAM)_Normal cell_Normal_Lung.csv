@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,HLA-DR,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,CD163,CD163
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,MARCO,MARCO
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,TREM2,TREM2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,SPI1,SPI1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Tumor‐associated macrophage (TAM),,CD163,CD163

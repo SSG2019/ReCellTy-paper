@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,ITGAX,ITGAX
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,NRP1,NRP1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,HLA-DPB1,HLA-DPB1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,HLA-DQB1,HLA-DQB1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,HLA-DPA1,HLA-DPA1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,MHC-II,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Dendritic cell,CL_0000451,BATF3,BATF3

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,YAP1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MUC1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Epithelial cell

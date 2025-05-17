@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Melanocyte,,MLANA,Human,Eye,Eye,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Eye,Eye,Normal,Normal cell,Melanocyte

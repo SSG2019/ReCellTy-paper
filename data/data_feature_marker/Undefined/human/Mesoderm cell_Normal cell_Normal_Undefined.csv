@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesoderm cell,Development,MESDC2,Human,Undefined,Undefined,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,Cell Adhesion,N-Cadherin,Human,Undefined,Undefined,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,Nicalin,Human,Undefined,Undefined,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,Patterning,FRZB,Human,Undefined,Undefined,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,Maturation,MESD,Human,Undefined,Undefined,Normal,Normal cell,Mesoderm cell

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid-derived suppressor cell,Polymorphonuclear,CAMP,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,Polymorphonuclear,S100A9,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,Polymorphonuclear,S100A8,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,Polymorphonuclear,MMP8,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,suppressor,ITGAM,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,suppressor,LOX1,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,suppressor,ARG1,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell
+Myeloid-derived suppressor cell,suppressor,LCN2,Human,Blood,Peripheral blood,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell

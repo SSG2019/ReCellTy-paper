@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Terminally differentiated,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Effector,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Terminally differentiated,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Memory,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell

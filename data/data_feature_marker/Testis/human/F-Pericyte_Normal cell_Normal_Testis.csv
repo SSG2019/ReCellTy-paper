@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,ICFBP5,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,ICFBP7,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,ITGA1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,NR2F2,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,CXCL12,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,STEAP4,Human,Testis,Testis,Normal,Normal cell,F-Pericyte
+Pericyte,,COL4A1,Human,Testis,Testis,Normal,Normal cell,F-Pericyte

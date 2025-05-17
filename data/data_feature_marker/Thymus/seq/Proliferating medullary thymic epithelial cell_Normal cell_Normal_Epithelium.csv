@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Thymic epithelial cell,Proliferating,Mki67,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell
+Thymic epithelial cell,Medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Proliferating medullary thymic epithelial cell

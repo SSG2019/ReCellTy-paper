@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ductal cell,Stem cell properties,PROM1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT7,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT8,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Signaling,BMPR1A,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Signaling,BMP,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Differentiation,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Pancreatic development,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Ion transport,SLC4A4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Ion transport,CFTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,BICC1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,SCTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,ANXA4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,MUC6,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Transcription factor,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Renin-angiotensin system,ACE2,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ectoderm cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell
+Ectoderm cell,,NCAM,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell
+Ectoderm cell,,NCAM1,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell

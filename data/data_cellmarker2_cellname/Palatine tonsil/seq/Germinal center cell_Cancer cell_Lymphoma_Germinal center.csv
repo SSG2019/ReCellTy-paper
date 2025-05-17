@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Germinal center cell,,MEF2B,MEF2B
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Germinal center cell,,RSG13,
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Germinal center cell,,BCL6,BCL6

@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,CDH9,CDH9
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,GNAL,GNAL
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,NECAB2,NECAB2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,CCDC88C,CCDC88C
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,LAMP5,LAMP5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,GPR83,GPR83
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,MN1,MN1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,JAG1,JAG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,HPCAL1,HPCAL1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,MDGA1,MDGA1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,SERPINE2,SERPINE2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,GREB1L,GREB1L
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,PCDH8,PCDH8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex1,CL_0000540,PDGFD,PDGFD

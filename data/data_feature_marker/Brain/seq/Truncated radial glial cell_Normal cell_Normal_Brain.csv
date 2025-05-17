@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+radial glial cell,Truncated radial,FOXJ1,Human,Brain,Brain,Normal,Normal cell,Truncated radial glial cell
+radial glial cell,,NR4A1,Human,Brain,Brain,Normal,Normal cell,Truncated radial glial cell
+radial glial cell,,CRYAB,Human,Brain,Brain,Normal,Normal cell,Truncated radial glial cell

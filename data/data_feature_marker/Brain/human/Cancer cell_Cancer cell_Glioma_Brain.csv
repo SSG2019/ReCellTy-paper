@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,IFAP,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,ACYP2,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,SOX2,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,OCT4,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,CD133,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,MBTPS2,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,POU5F1,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell
+Cancer cell,,PROM1,Human,Brain,Brain,Glioma,Cancer cell,Cancer cell

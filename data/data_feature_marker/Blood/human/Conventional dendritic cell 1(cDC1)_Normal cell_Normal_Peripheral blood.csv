@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Conventional dendritic cell,1(cDC1),CD370,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Conventional dendritic cell,1(cDC1),CD141,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Conventional dendritic cell,1(cDC1),CLEC9A,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Conventional dendritic cell,,THBD,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 1(cDC1)

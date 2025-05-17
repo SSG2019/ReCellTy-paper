@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,SLC22A8,SLC22A8
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Slc6a19,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Slc7a9,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Adra1a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Slc5a12,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Slc7a8,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal convoluted tubular cell,,Slc5a2,

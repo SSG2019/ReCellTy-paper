@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Horizontal basal cell,CL_0002169,TP63,TP63
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Horizontal basal cell,CL_0002169,CXCL14,CXCL14
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Horizontal basal cell,CL_0002169,MEG3,MEG3
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Horizontal basal cell,CL_0002169,KRT5,KRT5
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Horizontal basal cell,CL_0002169,SOX2,SOX2

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,BRACHYURY,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,MIXL1,MIXL1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,SOX17,SOX17
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,FOXA2,FOXA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,EOMES,EOMES
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Pdgfra,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Gbx2,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Eomes,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Gata6,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Brachyury,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesendodermal cell,,Mixl1,

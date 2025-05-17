@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Paneth cell,CL_0000510,IL-9,IL9
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Paneth cell,CL_0000510,LYZ,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Paneth cell,CL_0000510,CD24,

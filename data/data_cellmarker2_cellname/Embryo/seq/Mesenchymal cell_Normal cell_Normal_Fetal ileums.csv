@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Fetal ileums,,Normal,Normal cell,Mesenchymal cell,CL_0008019,CXCL15,
+Human,Embryo,Fetal ileums,,Normal,Normal cell,Mesenchymal cell,CL_0008019,CCL21,CCL21
+Human,Embryo,Fetal ileums,,Normal,Normal cell,Mesenchymal cell,CL_0008019,CCL19,CCL19

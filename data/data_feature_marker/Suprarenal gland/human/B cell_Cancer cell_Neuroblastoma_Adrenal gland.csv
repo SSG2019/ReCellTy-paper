@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell
+B cell,,IGHM,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell

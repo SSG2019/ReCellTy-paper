@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,ERBB3,ERBB3
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,NF1,NF1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,POU6F2,POU6F2
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,ASXL3,ASXL3
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,SOX5,SOX5
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,LGR5,LGR5
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,RTTN,RTTN
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,SOX6,SOX6
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Progenitor cell,CL_0011026,BCL11A,BCL11A

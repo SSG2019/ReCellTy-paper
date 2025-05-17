@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,MZB1,Human,Blood,Blood,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Blood,Blood,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,LILRA4,Human,Blood,Blood,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Blood,Blood,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

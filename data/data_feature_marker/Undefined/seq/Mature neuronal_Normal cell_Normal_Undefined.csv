@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mature neuronal,,MAP2,Human,Undefined,Undefined,Normal,Normal cell,Mature neuronal
+Mature neuronal,,TUBB3,Human,Undefined,Undefined,Normal,Normal cell,Mature neuronal
+Mature neuronal,,MAPT,Human,Undefined,Undefined,Normal,Normal cell,Mature neuronal

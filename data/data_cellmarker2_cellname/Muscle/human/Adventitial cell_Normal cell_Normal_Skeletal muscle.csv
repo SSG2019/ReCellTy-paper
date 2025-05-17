@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Adventitial cell,CL_0002503,CD31,PECAM1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Adventitial cell,CL_0002503,CD45,PTPRC
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Adventitial cell,CL_0002503,CD34,CD34
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Adventitial cell,CL_0002503,CD56,NCAM1

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,COL1A2,COL1A2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,S100A,S100A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,COL1A1,COL1A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,TGFB1,TGFB1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,THBS1,THBS1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,DAB2,DAB2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,CD44,CD44
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell,,CHI3L1,CHI3L1

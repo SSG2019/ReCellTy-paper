@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,TCF21,TCF21
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,Heyl,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,Hand2,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,GATA6,GATA6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,Foxp2,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,Tbx20,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,GATA4,GATA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,PDGFRB,PDGFRB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,TBX5,TBX5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,COL1A1,COL1A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,WT1,WT1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,TBX18,TBX18

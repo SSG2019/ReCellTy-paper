@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,LILRA4,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Langerhans,CD207,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Conventional,BATF3,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PTCRA,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,TOP2A,Human,Intestine,Epithelium,Normal,Normal cell,Dendritic cell

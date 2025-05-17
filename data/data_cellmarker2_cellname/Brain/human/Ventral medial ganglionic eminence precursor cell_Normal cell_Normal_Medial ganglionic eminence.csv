@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Ventral medial ganglionic eminence precursor cell,,LHX8,LHX8
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Ventral medial ganglionic eminence precursor cell,,ZIC1,ZIC1
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Ventral medial ganglionic eminence precursor cell,,ZIC2,ZIC2
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Ventral medial ganglionic eminence precursor cell,,ZIC4,ZIC4

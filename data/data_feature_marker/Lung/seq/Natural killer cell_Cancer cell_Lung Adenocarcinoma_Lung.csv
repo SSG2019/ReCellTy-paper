@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,KLRD1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,PRF1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Natural killer cell

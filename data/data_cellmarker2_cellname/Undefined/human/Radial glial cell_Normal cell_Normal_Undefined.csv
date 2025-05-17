@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,GFAP,GFAP
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,HES1,HES1
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,TNC,TNC
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,PAX6,PAX6
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,HES5,HES5
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,BLBP,FABP7
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,GLAST,SLC1A3
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,N-cadherin,
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,Nestin,
+Human,Undefined,Undefined,,Normal,Normal cell,Radial glial cell,CL_0000681,Vimentin,

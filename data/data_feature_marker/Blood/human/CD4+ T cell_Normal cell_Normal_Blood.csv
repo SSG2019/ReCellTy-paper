@@ -1,0 +1,59 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD4,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CCR6,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,rs75862629,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HLA-B*2709,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HLA-B27,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HLA-B*2705,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD79A,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,TRIM21,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IFN-γ,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HERV-H,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IL-10,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HERV-W,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,TNF-α,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,HERV-K,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KHDC3L MII-1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KHDC3L MII-6,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KHDC3L MII-2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KHDC3L MII-3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KHDC3L MII-5,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,TNFSF3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,LRRN3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CCR7,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,SELL,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IL7R,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IL32,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD161,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CRTH2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,LTB,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ALDH1A1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ZFP36L1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ZFP36,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,MEIS2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,FOXO3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,EGFR,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CDKN2A,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,TNFSF13,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IDH1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IRF8,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,RNF43,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,ZNRF3,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CD4+,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD8+,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Klrg1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Tcf7,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Gzma,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Gzmk,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Gzmb,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Zeb2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,Il7r,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,CD27,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,IL10,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,KLRB1,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell
+T cell,,PTGDR2,Human,Blood,Blood,Normal,Normal cell,CD4+ T cell

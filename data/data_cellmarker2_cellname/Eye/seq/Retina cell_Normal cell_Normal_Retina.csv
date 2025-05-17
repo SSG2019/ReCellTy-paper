@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retina cell,,CPODXL,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retina cell,,SPP1,SPP1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retina cell,,STAC2,STAC2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retina cell,,PCDH9,PCDH9

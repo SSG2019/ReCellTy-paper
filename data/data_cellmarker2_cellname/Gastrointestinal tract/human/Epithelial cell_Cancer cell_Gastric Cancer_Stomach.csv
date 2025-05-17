@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Epithelial cell,CL_0000066,MUC5AC,MUC5AC
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Epithelial cell,CL_0000066,TFF2,TFF2
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Epithelial cell,CL_0000066,TFF1,TFF1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Epithelial cell,CL_0000066,PGC,PGC
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Epithelial cell,CL_0000066,MUC6,MUC6

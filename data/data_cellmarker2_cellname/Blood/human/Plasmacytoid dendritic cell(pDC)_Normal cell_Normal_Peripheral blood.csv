@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD19,CD19
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD38,CD38
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD20,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CYTL1,CYTL1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,GATA2,GATA2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL3RA,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,GZMB,GZMB
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD45,PTPRC
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,HLA-DR,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD303,CLEC4C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD2AP,CD2AP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL-3Rα,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL3RA,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4A,CLEC4A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basophil,,CD19,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,CD22,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,CD203c,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,CD123,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,CD63,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,CCR3,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,ENPP3,Human,Blood,Blood,Normal,Normal cell,Basophil
+Basophil,,IL3RA,Human,Blood,Blood,Normal,Normal cell,Basophil

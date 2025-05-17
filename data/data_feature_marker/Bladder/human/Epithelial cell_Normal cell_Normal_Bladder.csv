@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EMA,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ETFA,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Cross-presentation,BATF3,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune response initiation,CLEC9A,Human,Thymus,Fetal thymus,Normal,Normal cell,Dendritic cell

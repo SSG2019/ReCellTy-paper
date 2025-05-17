@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FoxP3,Human,Undefined,Undefined,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA-4,Human,Undefined,Undefined,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Undefined,Undefined,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FoxP3,Human,Undefined,Undefined,Normal,Normal cell,Regulatory T(Treg) cell

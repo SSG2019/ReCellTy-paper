@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ductal cell,,SLC4A9,Human,Kidney,Kidney,Normal,Normal cell,Ductal cell
+Ductal cell,,FXYD4,Human,Kidney,Kidney,Normal,Normal cell,Ductal cell
+Ductal cell,,SLC26A7,Human,Kidney,Kidney,Normal,Normal cell,Ductal cell

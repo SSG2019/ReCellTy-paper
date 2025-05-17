@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Stemness,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD90,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,EpCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD49f,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,LGR5,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD133,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1B1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ID2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,EGFR,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,KLF4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,NANOG,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ABCG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,LGR4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,OCT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,MET,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CD61,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CXCR4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CD29,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell

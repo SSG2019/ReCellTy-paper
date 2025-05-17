@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,DC-LAMP,LAMP3
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,Tryptase,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CSF1R,CSF1R
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD45,PTPRC
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,DC-SIGN,CD209
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD66D,CEACAM3
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Myeloid cell,CL_0000763,MHCII,

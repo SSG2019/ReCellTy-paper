@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Tissue resident cell,,CXCR6,Human,Liver,Liver,Normal,Normal cell,Tissue resident cell
+Tissue resident cell,,CD69,Human,Liver,Liver,Normal,Normal cell,Tissue resident cell
+Tissue resident cell,,CXCR3,Human,Liver,Liver,Normal,Normal cell,Tissue resident cell
+Tissue resident cell,,CD103,Human,Liver,Liver,Normal,Normal cell,Tissue resident cell
+Tissue resident cell,,ITGAE,Human,Liver,Liver,Normal,Normal cell,Tissue resident cell

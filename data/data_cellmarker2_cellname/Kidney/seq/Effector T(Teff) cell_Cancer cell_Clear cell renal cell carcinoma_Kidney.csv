@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,MKI67,MKI67
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,PRF1,PRF1
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,CD27,CD27
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,GZMA,GZMA
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,IFNG,IFNG

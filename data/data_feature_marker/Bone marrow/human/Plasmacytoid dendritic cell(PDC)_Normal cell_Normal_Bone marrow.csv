@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,BDCA2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,BDCA4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Bone marrow,Bone marrow,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

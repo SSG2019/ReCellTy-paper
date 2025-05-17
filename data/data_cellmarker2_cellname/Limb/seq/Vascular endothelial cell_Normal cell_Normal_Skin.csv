@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Vascular endothelial cell,CL_0000115,VWF,VWF
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Vascular endothelial cell,CL_0000115,HEY1,HEY1
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Vascular endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Vascular endothelial cell,CL_0000115,GPIHBP1,GPIHBP1
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Vascular endothelial cell,CL_0000115,ACKR1,ACKR1

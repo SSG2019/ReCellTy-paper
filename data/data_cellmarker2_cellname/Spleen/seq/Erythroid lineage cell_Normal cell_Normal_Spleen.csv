@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,SLC25A37,SLC25A37
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,HBA2,HBA2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,ALAS2,ALAS2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,AHSP,AHSP
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,HBB,HBB
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,SLC4A1,SLC4A1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,HBM,HBM
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,CA1,CA1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,HBD,HBD
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Erythroid lineage cell,CL_0000764,HBA1,HBA1

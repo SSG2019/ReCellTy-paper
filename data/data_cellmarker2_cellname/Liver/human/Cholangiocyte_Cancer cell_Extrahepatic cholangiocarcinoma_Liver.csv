@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,KRT19,KRT19
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,SLC4A2,SLC4A2
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,CK19,KRT19
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,CFTR,CFTR
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,SCTR,SCTR
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Cholangiocyte,CL_1000488,KRT7,KRT7

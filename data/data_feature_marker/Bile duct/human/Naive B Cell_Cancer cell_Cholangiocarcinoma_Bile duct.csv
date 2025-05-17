@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B Cell,,RNA_PNOC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD38,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell

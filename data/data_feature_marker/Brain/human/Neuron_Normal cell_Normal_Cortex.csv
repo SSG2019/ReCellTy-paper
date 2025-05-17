@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Growth and Development,STMN2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Synaptic Function,SYT1,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Inhibitory,GAD1,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Synaptic Function,SYN1,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Neuropeptide,CCK,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Inhibitory,SST,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Cortical Development,CUX2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Differentiation,LINGO2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,Excitatory,SLC17A7,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Brain,Cortex,Normal,Normal cell,Neuron
+Neuron,,TUJ,Human,Brain,Cortex,Normal,Normal cell,Neuron

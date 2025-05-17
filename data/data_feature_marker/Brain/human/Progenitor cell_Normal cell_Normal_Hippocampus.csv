@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,ΕΟΜE,Human,Brain,Hippocampus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,EMX2,Human,Brain,Hippocampus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Brain,Hippocampus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX2,Human,Brain,Hippocampus,Normal,Normal cell,Progenitor cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,,Ter119,Human,Liver,Liver,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,CD71,Human,Liver,Liver,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,TFRC,Human,Liver,Liver,Normal,Normal cell,Red blood cell (erythrocyte)

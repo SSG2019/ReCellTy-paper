@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Smooth muscle cell,CL_0000192,CNN1,CNN1
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN

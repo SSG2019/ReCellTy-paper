@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,CD56 dim,KIR2DS1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,CD56 dim,KIR2DS2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,CD56 dim,KIR2DL3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,CD56 dim,KIR3DL1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,FLJ20699,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,KIR2DS5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,EDG8,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,KIR3DS1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,IL21R,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,KIR3DL3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,GTF3C1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,TMEPAI,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,GZMB,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,S1PR5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell
+Natural killer cell,,PMEPA1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,Identity,CD105,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,CD90,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,CD73,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,THY1,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,CD166,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,ALCAM,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Ecto-5'-nucleotidase,NT5E,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell

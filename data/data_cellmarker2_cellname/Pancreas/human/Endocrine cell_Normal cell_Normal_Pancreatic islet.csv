@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Endocrine cell,CL_0000163,CD99,CD99

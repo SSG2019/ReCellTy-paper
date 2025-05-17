@@ -1,0 +1,36 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Anti-inflammatory,CD163,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Anti-inflammatory,CD206,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Anti-inflammatory,MRC1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Pathogen recognition,TLR2,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Pathogen recognition,FCGR1A,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Pathogen recognition,FCGR3A,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Immune regulation,IL-10,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Immune regulation,IL-12,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Oxidative stress response,HMOX1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,Tissue repair,ARG1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,TYROBP,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,TIE2,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,BST2,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,C3AR1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,MNDA,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,PTPRC,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,C1QA,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,MARCO,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CD80,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,IRF1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,IL-10,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CCR2,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,APOC1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,F13A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CX3CR1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,IFNGR1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,PADI1,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,TEK,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,IL10,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage
+Macrophage,,ABL2,Human,Brain,Brain,Glioblastoma,Cancer cell,Macrophage

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD68,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte

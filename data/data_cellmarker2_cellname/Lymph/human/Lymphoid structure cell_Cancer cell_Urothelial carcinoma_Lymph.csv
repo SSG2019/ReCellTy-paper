@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,CD4,CD4
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,CD8,CD8A
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,CD21,CR2
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,DAPI,
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,CD20,MS4A1
+Human,Lymph,Lymph,UBERON_0002391,Urothelial carcinoma,Cancer cell,Lymphoid structure cell,,FOXP3,FOXP3

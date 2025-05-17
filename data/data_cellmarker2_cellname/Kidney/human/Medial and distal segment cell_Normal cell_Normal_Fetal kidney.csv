@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Medial and distal segment cell,,MITF,MITF
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Medial and distal segment cell,,CD24,CD24
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Medial and distal segment cell,,IRX1,IRX1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Medial and distal segment cell,,TSPAN15,TSPAN15

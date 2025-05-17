@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,,HLA‐DR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell
+Mesenchymal stem cell,,CD19,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell
+Mesenchymal stem cell,,CD11b,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Bone marrow,Bone marrow,Normal,Normal cell,Negative mesenchymal stem cell

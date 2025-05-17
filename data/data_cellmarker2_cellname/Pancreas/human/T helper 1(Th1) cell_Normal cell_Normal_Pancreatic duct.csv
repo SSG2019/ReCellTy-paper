@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Normal,Normal cell,T helper 1(Th1) cell,CL_0000545,CD45,PTPRC
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Normal,Normal cell,T helper 1(Th1) cell,CL_0000545,CD3,
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Normal,Normal cell,T helper 1(Th1) cell,CL_0000545,Tbet,
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Normal,Normal cell,T helper 1(Th1) cell,CL_0000545,CD4,CD4

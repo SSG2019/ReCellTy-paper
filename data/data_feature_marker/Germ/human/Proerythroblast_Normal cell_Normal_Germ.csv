@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Erythroid,,PU.1,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Iron Uptake,CD71,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,,CD105,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Erythroid Lineage,Glycophorin,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,,SPI1,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Iron Uptake,TFRC,Human,Germ,Germ,Normal,Normal cell,Proerythroblast

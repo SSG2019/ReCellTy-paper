@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,stem-like,CD133,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,CD44,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,CD15,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,ALCAM,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,CD326,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,CD13,Human,Undefined,Undefined,Thyroid Cancer,Cancer cell,Cancer stem-like cell

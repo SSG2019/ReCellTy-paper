@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper 2 (Th2),CRTH2,Human,Nasal,Nasal mucosa,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),PTGDR2,Human,Nasal,Nasal mucosa,Normal,Normal cell,T helper 2(Th2) cell

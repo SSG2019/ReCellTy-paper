@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,S100,S100A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,VIMENTIN,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,GLAST,SLC1A3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,GFAP41,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,CD11B,ITGAM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,GFAP43,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glial cell,CL_0000125,MOG,MOG

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+monocyte,OxPhos,MT-ND,Human,Lung,Lung,Normal,Normal cell,OxPhos monocyte
+monocyte,OxPhos,MT-CO,Human,Lung,Lung,Normal,Normal cell,OxPhos monocyte
+monocyte,,MALAT1,Human,Lung,Lung,Normal,Normal cell,OxPhos monocyte
+monocyte,,NEAT1,Human,Lung,Lung,Normal,Normal cell,OxPhos monocyte

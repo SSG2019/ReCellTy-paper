@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,,MBP,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,MOG,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,PLP1,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Oligodendrocyte

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,CD8,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell
+T cell,,IDO1,Human,Gastrointestinal tract,Esophagus,Esophageal Cancer,Cancer cell,Cytotoxic T cell

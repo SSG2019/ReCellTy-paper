@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD4+ T cell,CL_0000624,CD8A,CD8A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3E,CD3E
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD4+ T cell,CL_0000624,Mini80,

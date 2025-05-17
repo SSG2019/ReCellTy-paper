@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Endometrial,SUSD2,Human,Uterus,Uterus,Normal,Normal cell,Endometrial stem cell
+Stem cell,,ICAM1,Human,Uterus,Uterus,Normal,Normal cell,Endometrial stem cell

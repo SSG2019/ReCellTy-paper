@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Unrestricted somatic,CD90,Human,Embryo,Embryo,Normal,Normal cell,Unrestricted somatic stem cell
+Stem cell,Unrestricted somatic,CD105,Human,Embryo,Embryo,Normal,Normal cell,Unrestricted somatic stem cell
+Stem cell,Unrestricted somatic,CD166,Human,Embryo,Embryo,Normal,Normal cell,Unrestricted somatic stem cell
+Stem cell,Unrestricted somatic,CD34,Human,Embryo,Embryo,Normal,Normal cell,Unrestricted somatic stem cell

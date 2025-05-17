@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,SYT11,SYT11
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,CDK1,CDK1
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,SOX4,SOX4
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,RRM2,RRM2
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,ZIC1,ZIC1
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Neuron,CL_0000540,TOP2A,TOP2A

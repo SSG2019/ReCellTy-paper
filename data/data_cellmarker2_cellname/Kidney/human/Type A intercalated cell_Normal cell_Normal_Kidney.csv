@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Type A intercalated cell,CL_0005011,AQP6,AQP6
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Type A intercalated cell,CL_0005011,SLC4A1,SLC4A1

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,LGR5+,TANC1,Human,Intestine,Small intestine,Normal,Normal cell,LGR5+ stem cell
+stem cell,LGR5+,EPYC,Human,Intestine,Small intestine,Normal,Normal cell,LGR5+ stem cell
+stem cell,,FBLN2,Human,Intestine,Small intestine,Normal,Normal cell,LGR5+ stem cell
+stem cell,,CLDN18,Human,Intestine,Small intestine,Normal,Normal cell,LGR5+ stem cell

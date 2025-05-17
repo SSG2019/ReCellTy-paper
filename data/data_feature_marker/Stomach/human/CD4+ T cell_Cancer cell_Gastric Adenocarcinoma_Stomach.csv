@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD4,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,CD40LG,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,IL7R,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,CD3D,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,CD3E,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,PTPRC,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,CD4+ T cell

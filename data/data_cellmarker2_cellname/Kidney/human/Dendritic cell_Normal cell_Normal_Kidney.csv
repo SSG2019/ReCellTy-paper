@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,FLT3,FLT3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,CD1E,CD1E
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DPB1,HLA-DPB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRB1,HLA-DRB1

@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pluripotent stem cell,Naive,TFCP2L1,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,Naive,KLF4,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,Naive,KLF17,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,IL6R,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,PVR,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,F11R,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,CD7,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,CD75,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,CD130,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,SUSD2,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,FOLR1,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,CD53,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,F3,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,GPR64,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,IL6ST,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell
+Pluripotent stem cell,,ADGRG2,Human,Undefined,Undefined,Normal,Normal cell,Naive human pluripotent stem cell

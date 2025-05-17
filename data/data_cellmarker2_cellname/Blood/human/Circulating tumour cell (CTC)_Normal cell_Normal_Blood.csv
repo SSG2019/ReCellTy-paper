@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Circulating tumour cell (CTC),,CD46,CD46
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Circulating tumour cell (CTC),,DAPI,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Circulating tumour cell (CTC),,cytokeratins,

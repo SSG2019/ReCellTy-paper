@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Endothelial cell,CL_0000115,SOX17,SOX17
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1

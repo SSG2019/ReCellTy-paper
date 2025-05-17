@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA,SCN2A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBD,HBD
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA1,HBA1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA2,HBA2

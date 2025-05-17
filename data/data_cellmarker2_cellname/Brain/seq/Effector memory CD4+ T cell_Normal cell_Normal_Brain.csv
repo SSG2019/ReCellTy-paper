@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TSPAN14,TSPAN14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SPATA7,SPATA7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SATB1,SATB1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SKAP2,SKAP2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TEF,TEF
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TMED10,TMED10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,LMAN2,LMAN2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SBNO2,SBNO2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,PRR7-AS1,PRR7-AS1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TBC1D5,TBC1D5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TNFSF15,TNFSF15
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,PRR7,PRR7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,UQCRQ,UQCRQ
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,PHF5A,PHF5A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,HOXA9,HOXA9
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,TRIM25,TRIM25
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,ZFP90,ZFP90
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SLC2A13,SLC2A13
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,MAML2,MAML2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,SPRED2,SPRED2

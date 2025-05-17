@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop of Henle cell,,UMOD,UMOD
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop of Henle cell,,UMOD,UMOD
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop of Henle cell,,UMOD,UMOD
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop of Henle cell,,CLDN16,CLDN16
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop of Henle cell,,SLC12A1,SLC12A1

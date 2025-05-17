@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona fasciculata cell,,CYP11B1,CYP11B1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona fasciculata cell,,CYP11A1,CYP11A1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona fasciculata cell,,CYP17A1,CYP17A1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona fasciculata cell,,STAR,STAR

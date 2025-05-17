@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,medium spiny,TAC1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,ISL1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,EBF1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,hfb_G_000352,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)

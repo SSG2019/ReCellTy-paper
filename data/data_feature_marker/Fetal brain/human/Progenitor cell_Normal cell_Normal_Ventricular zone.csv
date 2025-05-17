@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,LIX1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SLC1A3,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTN,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SPARC,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASCL1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HES1,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,FABP7,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CLU,Human,Fetal brain,Ventricular zone,Normal,Normal cell,Progenitor cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Lymphoid cell,CL_0001065,PTPRC,PTPRC
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Lymphoid cell,CL_0001065,CD247,CD247

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell,,TBX21,TBX21
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell,,FCGR3A,FCGR3A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Circulating natural killer cell,,CX3CR1,CX3CR1

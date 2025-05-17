@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,S100β,Human,Brain,Brain,Brain cancer,Cancer cell,Astrocyte
+Astrocyte,,CLU,Human,Brain,Brain,Brain cancer,Cancer cell,Astrocyte
+Astrocyte,,AQP4,Human,Brain,Brain,Brain cancer,Cancer cell,Astrocyte

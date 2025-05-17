@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,progenitor,CD33,Human,Blood,Blood,Normal,Normal cell,Monocyte progenitor cell
+Monocyte,progenitor,MPEG1,Human,Blood,Blood,Normal,Normal cell,Monocyte progenitor cell
+Monocyte,,CD14,Human,Blood,Blood,Normal,Normal cell,Monocyte progenitor cell

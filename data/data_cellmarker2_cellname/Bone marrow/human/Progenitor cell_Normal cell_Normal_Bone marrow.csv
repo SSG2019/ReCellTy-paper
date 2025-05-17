@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,,BAALC,BAALC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,,CD133,PROM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD49d,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD10-CD45RA-Flt3-CD71,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD10-CD45RA-Flt3,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,Sox2,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,Hes5,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,IRF7,IRF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Progenitor cell,CL_0011026,IRF8,IRF8

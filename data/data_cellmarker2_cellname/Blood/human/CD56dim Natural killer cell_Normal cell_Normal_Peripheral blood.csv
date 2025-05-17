@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CD58,CD58
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CX3CR1,CX3CR1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CD298,ATP1B3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CD147,BSG
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CD57,B3GAT1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,CXCR1,CXCR1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD56dim Natural killer cell,,HLA-E,HLA-E

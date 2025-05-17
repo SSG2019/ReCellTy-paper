@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Stemness,OLFM4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Adult stem cells,LGR5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Cancer stem cells,CD44v9,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Mesenchymal stem cells,CD90,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Epithelial stem cells,EpCAM,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Cancer stem cells,CD133,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Stem cell homing,CXCR4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,Cancer stem cells,CD24,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,General stem cell marker,CD44,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell

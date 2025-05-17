@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD7,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,CD3D,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Thymus,Blood vessel,Normal,Normal cell,Immune cell

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,Nestin,
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,Beta-catenin,
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,Nanog,
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,Sox2,
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Medulloblastoma,Cancer cell,Cancer stem cell,,β-catenin,

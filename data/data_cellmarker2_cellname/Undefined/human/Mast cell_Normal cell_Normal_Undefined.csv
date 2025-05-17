@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD35,CR1
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD116,CSF2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD23,FCER2
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD64,FCGR1A
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD32,FCGR2A
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,IL-2,IL2
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD25,IL2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD123,IL3RA
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD125,IL5RA
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD126,IL6R
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD117,KIT
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD203c,ENPP3
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD43,SPN
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,Fc-epsilon RI-alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,IL-33R,
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,High affinity IgE receptor,
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,TPSB2,TPSB2
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,PTPRC,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Mast cell,CL_0000097,SIGLEC6,SIGLEC6

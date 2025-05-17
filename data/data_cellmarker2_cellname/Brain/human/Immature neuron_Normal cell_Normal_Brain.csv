@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Immature neuron,CL_0000540,TUBB3,TUBB3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Immature neuron,CL_0000540,DCX,DCX

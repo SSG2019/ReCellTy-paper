@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Foam cell,CL_0000891,MMP9,MMP9
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Foam cell,CL_0000891,ABCG1,ABCG1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Foam cell,CL_0000891,ABCA1,ABCA1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Foam cell,CL_0000891,OLR1,OLR1

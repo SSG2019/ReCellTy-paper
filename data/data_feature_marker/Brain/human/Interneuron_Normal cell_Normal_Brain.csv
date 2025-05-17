@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Interneuron,,Dbx1,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,GABA,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,GAD1,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,GAD2,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,ARX,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,LMO4,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,LMO3,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,ZFHX4,Human,Brain,Brain,Normal,Normal cell,Interneuron
+Interneuron,,ZFHX2,Human,Brain,Brain,Normal,Normal cell,Interneuron

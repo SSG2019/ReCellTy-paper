@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Gamma delta(γδ),Vγδ,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRDV2,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRGV9,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRDC,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRGC1,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRGC2,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),CD8aa,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,SLC4A10,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,GNLY,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,NKG7,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CCL5,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD5,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD7,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD2,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD8B,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD8A,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD3D,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,CD3E,Human,Blood,Peripheral blood,Normal,Normal cell,Gamma delta(γδ) T cell

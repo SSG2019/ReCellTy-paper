@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Umbrella cell,,KRT20,KRT20
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Umbrella cell,,UPK2,UPK2
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Umbrella cell,,UPK3A,UPK3A

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+astrocyte,A1,CFB,Human,Brain,Brain,Normal,Normal cell,A1 astrocyte
+astrocyte,,C3,Human,Brain,Brain,Normal,Normal cell,A1 astrocyte
+astrocyte,,MX1S,Human,Brain,Brain,Normal,Normal cell,A1 astrocyte

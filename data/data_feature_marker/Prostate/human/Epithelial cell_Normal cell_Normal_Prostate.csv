@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Androgen receptor,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-8,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,P63,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-18,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-Cadherin,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ESRP2,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ESRP1,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell

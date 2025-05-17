@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,B10,CD19,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD1d,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD5,Human,Uterus,Uterus,Cervical cancer and cervical intraepithelial neoplasia,Cancer cell,B10 Regulatory B cell

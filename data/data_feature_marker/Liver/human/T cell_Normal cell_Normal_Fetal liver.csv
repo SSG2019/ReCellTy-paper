@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD7,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,CD45,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,CD3,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,TCRγδ,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,TCRαβ,Human,Liver,Fetal liver,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Liver,Fetal liver,Normal,Normal cell,T cell

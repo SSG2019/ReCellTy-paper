@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,TGF-beta,Human,Eye,Corneal endothelium,Normal,Normal cell,Fibroblast
+Fibroblast,,alpha-smooth muscle actin,Human,Eye,Corneal endothelium,Normal,Normal cell,Fibroblast

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,MACC1,MACC1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,SLC15A1,SLC15A1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,BACE2,BACE2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,CA2,CA2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,DSC2,DSC2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,ELF3,ELF3
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Epithelial cell,CL_0000066,TJP2,TJP2

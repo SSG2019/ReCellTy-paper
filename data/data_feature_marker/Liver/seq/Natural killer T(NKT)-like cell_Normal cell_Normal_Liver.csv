@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,NKT-like,CD3E,Human,Liver,Liver,Normal,Normal cell,Natural killer T(NKT)-like cell
+T cell,NKT-like,KLRF1,Human,Liver,Liver,Normal,Normal cell,Natural killer T(NKT)-like cell

@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,HOPX,HOPX
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,NCR3,NCR3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,ZBTB16,ZBTB16
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,PLZF,ZBTB16
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,NKG7,NKG7
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,KLGR1,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,CD24,CD24
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,CD38,CD38
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,PROX1,PROX1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,TEK,TEK
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,LYVE1,LYVE1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,NR2F1,NR2F1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,GPR182,GPR182
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,NR2F2,NR2F2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,KDR,KDR
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,PDPN,PDPN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,TBX1,TBX1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,FLT4,FLT4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Lymphocyte,CL_0000542,HOXD3,HOXD3

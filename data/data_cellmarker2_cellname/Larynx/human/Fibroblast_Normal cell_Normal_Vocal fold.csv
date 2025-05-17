@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD34,CD34
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD73,NT5E
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD45,PTPRC
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD31,PECAM1
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD105,
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD44,CD44
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD29,ITGB1
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD14,CD14
+Human,Larynx,Vocal fold,UBERON_0003706,Normal,Normal cell,Fibroblast,CL_0000057,CD90,THY1

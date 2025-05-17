@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,cancer-associated,CXCL12,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+Fibroblast,Inflammatory,IL6,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast

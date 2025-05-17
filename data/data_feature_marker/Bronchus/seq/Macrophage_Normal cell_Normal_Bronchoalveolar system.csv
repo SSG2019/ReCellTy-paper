@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,FCN1,Human,Bronchus,Bronchoalveolar system,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Bronchus,Bronchoalveolar system,Normal,Normal cell,Macrophage

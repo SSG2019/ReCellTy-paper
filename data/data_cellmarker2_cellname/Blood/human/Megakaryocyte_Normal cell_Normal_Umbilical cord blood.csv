@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Megakaryocyte,CL_0000556,CD41,ITGA2B
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Megakaryocyte,CL_0000556,CD61,ITGB3
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Megakaryocyte,CL_0000556,CD61,ITGB3
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Megakaryocyte,CL_0000556,CD34,CD34
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Megakaryocyte,CL_0000556,CD41a,

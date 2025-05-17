@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,MKI67,MKI67
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,ACAN,ACAN
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,PCNA,PCNA
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,CDH11,CDH11
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,COL1A1,COL1A1
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,TOP2,TOP2A
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,RUNX2,RUNX2
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,COL2A1,COL2A1
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Osteoblast,CL_0000062,SOX9,SOX9

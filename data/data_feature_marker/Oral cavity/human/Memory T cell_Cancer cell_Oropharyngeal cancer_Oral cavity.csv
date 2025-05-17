@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,CD103,Human,Oral cavity,Oral cavity,Oropharyngeal cancer,Cancer cell,Memory T cell
+T cell,Memory,ITGAE,Human,Oral cavity,Oral cavity,Oropharyngeal cancer,Cancer cell,Memory T cell

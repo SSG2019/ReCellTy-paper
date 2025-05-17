@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,LYZ,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,TYROBP,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Testis,Testis,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Testis,Testis,Normal,Normal cell,Macrophage

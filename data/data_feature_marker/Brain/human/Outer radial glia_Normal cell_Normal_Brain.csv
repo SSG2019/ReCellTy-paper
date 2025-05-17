@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glia,Outer radial,HOPX,Human,Brain,Brain,Normal,Normal cell,Outer radial glia
+Glia,,MOXD1,Human,Brain,Brain,Normal,Normal cell,Outer radial glia

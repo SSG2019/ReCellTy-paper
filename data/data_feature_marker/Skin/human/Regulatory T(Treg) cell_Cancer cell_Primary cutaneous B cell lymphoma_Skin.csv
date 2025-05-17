@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,TNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,PDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,ICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,PDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell

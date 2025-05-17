@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,Tumor‐associated,CD163,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+macrophage,Tumor‐associated,APOE,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+macrophage,,HLA-DR,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+macrophage,,MARCO,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+macrophage,,TREM2,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+macrophage,,SPI1,Human,Lung,Lung,Normal,Normal cell,Tumor‐associated macrophage (TAM)

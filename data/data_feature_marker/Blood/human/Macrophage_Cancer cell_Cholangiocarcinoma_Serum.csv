@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Blood,Serum,Cholangiocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD206,Human,Blood,Serum,Cholangiocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD115,Human,Blood,Serum,Cholangiocarcinoma,Cancer cell,Macrophage
+Macrophage,,MRC1,Human,Blood,Serum,Cholangiocarcinoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Blood,Serum,Cholangiocarcinoma,Cancer cell,Macrophage

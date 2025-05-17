@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Neuron,CL_0000540,ENO2,ENO2

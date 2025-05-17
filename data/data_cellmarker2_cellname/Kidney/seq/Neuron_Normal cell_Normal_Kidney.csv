@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,ELAVL3,ELAVL3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,ELAVL4,ELAVL4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,NCAM1,NCAM1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,CRABP1,CRABP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,NEUROD1,NEUROD1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neuron,CL_0000540,MSX1,MSX1

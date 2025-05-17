@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Terminal effector memory,CD27,Human,Lung,Lung,Normal,Normal cell,Terminal effector memory T cell
+T cell,Terminal effector memory,CD45RA,Human,Lung,Lung,Normal,Normal cell,Terminal effector memory T cell

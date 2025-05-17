@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Mesenchymal cell,CL_0008019,vimentin,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Mesenchymal cell,CL_0008019,N-cadherin,

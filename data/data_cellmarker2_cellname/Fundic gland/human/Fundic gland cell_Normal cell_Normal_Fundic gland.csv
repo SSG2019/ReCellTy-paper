@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fundic gland,Fundic gland,UBERON_0010038,Normal,Normal cell,Fundic gland cell,,focal H+/K+-ATPase,
+Human,Fundic gland,Fundic gland,UBERON_0010038,Normal,Normal cell,Fundic gland cell,,pepsinogen-I,
+Human,Fundic gland,Fundic gland,UBERON_0010038,Normal,Normal cell,Fundic gland cell,,MUC6,MUC6

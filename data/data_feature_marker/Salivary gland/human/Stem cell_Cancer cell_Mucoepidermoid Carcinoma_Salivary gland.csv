@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD44,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell
+Stem cell,stemness,NANOG,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell
+Stem cell,proliferation,BMI1,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell

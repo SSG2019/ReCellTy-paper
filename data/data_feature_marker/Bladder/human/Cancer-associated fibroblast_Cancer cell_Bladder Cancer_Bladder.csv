@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,CD90,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRβ,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,TNC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FN1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,THY1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast

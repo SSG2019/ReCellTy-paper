@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Antigen-presenting cell,CL_0000145,CD207,CD207
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Antigen-presenting cell,CL_0000145,CD1c,

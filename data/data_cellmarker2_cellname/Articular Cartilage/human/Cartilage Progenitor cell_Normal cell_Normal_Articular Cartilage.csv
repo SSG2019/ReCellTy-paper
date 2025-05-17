@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Cartilage Progenitor cell,CL_0000138,BIRC5,BIRC5
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Cartilage Progenitor cell,CL_0000138,STMN1,STMN1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Cartilage Progenitor cell,CL_0000138,DHFR,DHFR
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Cartilage Progenitor cell,CL_0000138,CENPU,CENPU
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Cartilage Progenitor cell,CL_0000138,UNE2C,

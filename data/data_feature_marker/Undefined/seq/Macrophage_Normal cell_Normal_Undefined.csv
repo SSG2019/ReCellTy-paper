@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,SPI1,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,25F9,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,APOE,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,TREM2,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Undefined,Undefined,Normal,Normal cell,Macrophage
+Macrophage,,SPP1,Human,Undefined,Undefined,Normal,Normal cell,Macrophage

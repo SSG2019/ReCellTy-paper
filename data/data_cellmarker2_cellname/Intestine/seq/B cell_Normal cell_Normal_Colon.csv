@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,B cell,CL_0000236,IGHA1,IGHA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,B cell,CL_0000236,MZB1,MZB1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,B cell,CL_0000236,SELL,SELL
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,B cell,CL_0000236,AICDA,AICDA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,B cell,CL_0000236,CD19,CD19

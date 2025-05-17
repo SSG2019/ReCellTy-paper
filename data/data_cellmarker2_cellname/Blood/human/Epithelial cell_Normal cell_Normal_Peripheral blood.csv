@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Hoechst,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Claudin-4,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,SOX2,SOX2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,CK13,KRT13
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Involucrin,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,PAX9,PAX9
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,CK5,KRT5
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Lor,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Krt5,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Krt10,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,Krt14,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,

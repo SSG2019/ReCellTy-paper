@@ -1,0 +1,27 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,BEST4,BEST4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Intestine,Colon,UBERON_0001844,Normal,Normal cell,Epithelial cell,CL_0000066,LGR5,LGR5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CCL7,CCL7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,RBP2,RBP2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,SLC26A3,SLC26A3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CCL20,CCL20
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,TNFRSF11A,TNFRSF11A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CCL13,CCL13
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,MUC2,MUC2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,TFF1,TFF1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,FABP1,FABP1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,HCK,HCK
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,ASCL2,ASCL2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,SLC26A2,SLC26A2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CDC25C,CDC25C
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,LEFTY1,LEFTY1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,TRPM5,TRPM5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,SCGN,SCGN
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CHGA,CHGA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,CA1,CA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,ATG5,ATG5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,SKAP2,SKAP2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,PPM1G,PPM1G
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,TAGLN2,TAGLN2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Epithelial cell,CL_0000066,PRDX5,PRDX5

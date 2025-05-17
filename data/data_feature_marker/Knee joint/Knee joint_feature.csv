@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD20,Human,Knee joint,Synovium,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Knee joint,Synovium,Normal,Normal cell,B cell
+Macrophage,,CD68,Human,Knee joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CD166,Human,Knee joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,ALCAM,Human,Knee joint,Synovium,Normal,Normal cell,Macrophage
+Neutrophil,,CD15,Human,Knee joint,Synovium,Normal,Normal cell,Neutrophil
+Neutrophil,,FUT4,Human,Knee joint,Synovium,Normal,Normal cell,Neutrophil
+T cell,,CD3,Human,Knee joint,Synovium,Normal,Normal cell,T cell

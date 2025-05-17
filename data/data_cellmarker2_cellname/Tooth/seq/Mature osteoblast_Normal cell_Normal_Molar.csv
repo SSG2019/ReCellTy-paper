@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Mature osteoblast,,SPARC,SPARC
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Mature osteoblast,,CALR,CALR
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Mature osteoblast,,MMP9,MMP9
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Mature osteoblast,,NFATC1,NFATC1

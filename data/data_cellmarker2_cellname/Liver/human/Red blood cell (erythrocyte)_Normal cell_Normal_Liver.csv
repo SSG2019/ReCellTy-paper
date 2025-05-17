@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,Ter119,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD71,TFRC

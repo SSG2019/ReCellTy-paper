@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Oligodendrocyte,CL_0000128,MBP,MBP
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Oligodendrocyte,CL_0000128,OLIG2,OLIG2

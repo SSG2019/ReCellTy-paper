@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M2,ARG1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,CD206,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,CD163,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,,CD68,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,MMP12,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,,CD209,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,,ADORA3,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,IRF4,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,STAT6,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,IL10,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage
+macrophage,M2,SOCS3,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,M2 macrophage

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ionocyte,,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte

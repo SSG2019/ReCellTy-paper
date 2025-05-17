@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,JPH4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,SRRM4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,RBFOX3,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron

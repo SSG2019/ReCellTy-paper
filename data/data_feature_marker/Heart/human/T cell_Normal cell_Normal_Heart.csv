@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive/Central Memory,CD62L,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Naive/Central Memory,SELL,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Activated,HLA-DR,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,Effector Memory,CX3CR1,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD54,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD80,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Heart,Heart,Normal,Normal cell,T cell
+T cell,,ICAM1,Human,Heart,Heart,Normal,Normal cell,T cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T follicular helper,CXCR5,Human,Lung,Lung,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,ICOS,Human,Lung,Lung,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PD-1,Human,Lung,Lung,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,OX40,Human,Lung,Lung,Normal,Normal cell,T follicular helper(Tfh) cell

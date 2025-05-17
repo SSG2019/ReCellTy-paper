@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Macrophage,CL_0000235,MPEG1,MPEG1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Macrophage,CL_0000235,CD74,CD74
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Macrophage,CL_0000235,S100A9,S100A9
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Macrophage,CL_0000235,SAMHD1,SAMHD1

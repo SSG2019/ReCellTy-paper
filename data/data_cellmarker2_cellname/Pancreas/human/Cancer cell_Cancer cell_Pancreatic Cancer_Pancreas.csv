@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,pancreatic cancer,Cancer cell,Cancer cell,CL_0001064,KRAS,KRAS
+Human,Pancreas,Pancreas,UBERON_0001264,pancreatic cancer,Cancer cell,Cancer cell,CL_0001064,MYC,MYC
+Human,Pancreas,Pancreas,UBERON_0001264,pancreatic cancer,Cancer cell,Cancer cell,CL_0001064,TP53,TP53
+Human,Pancreas,Pancreas,UBERON_0001264,pancreatic cancer,Cancer cell,Cancer cell,CL_0001064,PDAC,
+Human,Pancreas,Pancreas,UBERON_0001264,pancreatic cancer,Cancer cell,Cancer cell,CL_0001064,MYCHNSCC,

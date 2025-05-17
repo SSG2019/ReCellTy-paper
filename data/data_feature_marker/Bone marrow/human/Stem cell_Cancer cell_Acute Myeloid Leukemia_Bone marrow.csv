@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,GPR56,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,TIM3,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD123,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CLL-1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD33,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,ADGRG1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,HAVCR2,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,IL3RA,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CLEC12A,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stem cell

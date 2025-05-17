@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,stem-like,CD133,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,PROM1,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,,CXCR4,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell

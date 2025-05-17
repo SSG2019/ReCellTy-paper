@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,CTLA4,CTLA4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,HLA-DPB1,HLA-DPB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,CD74,CD74
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,ITGB1,ITGB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,ANXA2,ANXA2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,HLA-DRB1.1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,HLA-DRB1,HLA-DRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,LGALS3,LGALS3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,IL2RA,IL2RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,VIM,VIM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,LGALS1,LGALS1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Natural regulatory T cell,CL_0000903,FOXP3,FOXP3

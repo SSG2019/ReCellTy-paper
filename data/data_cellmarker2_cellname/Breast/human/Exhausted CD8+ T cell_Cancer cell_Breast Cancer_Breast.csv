@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,HLA-DRB1,HLA-DRB1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,ENTPD1,ENTPD1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,KRT86,KRT86
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,LY6E,LY6E
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFI6,IFI6
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFI27,IFI27
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,HLA-DQA2,HLA-DQA2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFI44,IFI44
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,OAS1,OAS1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,PRF1,PRF1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,HAVCR2,HAVCR2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,CXCL13,CXCL13
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,HLA-DRB5,HLA-DRB5
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,HLA-DRA,HLA-DRA
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,ALOX5AP,ALOX5AP
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,MX1,MX1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,GZMB,GZMB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,ISG15,ISG15
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,CD82,CD82
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFIT3,IFIT3
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFITM3,IFITM3
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,BST2,BST2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,GNLY,GNLY
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,IFI44L,IFI44L
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Exhausted CD8+ T cell,CL_0000625,CCL3,CCL3

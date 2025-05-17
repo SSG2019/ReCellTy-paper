@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,Glutamate Transport,GLAST,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Structural,GFAP,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Megalencephalic Leukoencephalopathy,MLC1,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Calcium Binding,S100B,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Fatty Acid Binding,FABP7,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Glutamine Synthesis,GLUL,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Aldehyde Dehydrogenase Activity,ALDH1A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Glutamate Transport,GLT-1,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Cell Adhesion,HepaCAM,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Cell-Cell Interactions,CD44,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Glycolysis,ALDOC,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Cell Survival,CLU,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte
+Astrocyte,Ion Transport,ATP1A2,Human,Brain,Brain,Glioblastoma,Cancer cell,Astrocyte

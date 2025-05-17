@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,LAMP3,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD40,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PD-L1,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD86,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CCR7,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,I-A/E,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD45,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD274,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PTPRC,Human,Intestine,Intestine,Normal,Normal cell,Dendritic cell

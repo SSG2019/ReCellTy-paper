@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Np63,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell
+Epithelial cell,,EZH2,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell
+Epithelial cell,,BRD4,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell

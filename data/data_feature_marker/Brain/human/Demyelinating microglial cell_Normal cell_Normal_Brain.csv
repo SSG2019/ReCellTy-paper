@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Demyelinating,PLP,Human,Brain,Brain,Normal,Normal cell,Demyelinating microglial cell
+Microglial cell,Demyelinating,PLP1,Human,Brain,Brain,Normal,Normal cell,Demyelinating microglial cell
+Microglial cell,,TMEM119,Human,Brain,Brain,Normal,Normal cell,Demyelinating microglial cell
+Microglial cell,,HLA,Human,Brain,Brain,Normal,Normal cell,Demyelinating microglial cell
+Microglial cell,,CD68,Human,Brain,Brain,Normal,Normal cell,Demyelinating microglial cell

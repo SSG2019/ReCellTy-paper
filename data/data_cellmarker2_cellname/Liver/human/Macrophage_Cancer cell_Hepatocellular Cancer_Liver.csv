@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Macrophage,CL_0000235,CXCL9,CXCL9
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Macrophage,CL_0000235,CXCL10,CXCL10
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Macrophage,CL_0000235,IL1B,IL1B
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Macrophage,CL_0000235,CD169,SIGLEC1

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,NCR1,NCR1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,SH2D1B,SH2D1B
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,CD160,CD160
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,KIR3DL1,KIR3DL1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,PTGDR,PTGDR
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL3,KIR2DL3
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,KIR3DS1,
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL1,KIR2DL1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL4,KIR2DL4

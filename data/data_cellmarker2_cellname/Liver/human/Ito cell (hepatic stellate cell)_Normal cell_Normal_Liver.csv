@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,Synaptophysin,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,FAP,FAP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,GFAP,GFAP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,LRAT,LRAT
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,CD271,NGFR
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Ito cell (hepatic stellate cell),CL_0000632,alpha-smooth muscle actin,

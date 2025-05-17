@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,IVL,IVL
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,PSMB11,PSMB11
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,FOXN1,FOXN1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,MYOD1,MYOD1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,AIRE,AIRE
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,CLDN4,CLDN4
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,NEUROD1,NEUROD1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Stromal cell,CL_0000499,LY75,LY75

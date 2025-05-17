@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,CD103+,Cd103,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd11c,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd26,Human,Heart,Heart,Normal,Normal cell,Dendritic cell
+Dendritic cell,Classical,Zbtb46,Human,Heart,Heart,Normal,Normal cell,Dendritic cell

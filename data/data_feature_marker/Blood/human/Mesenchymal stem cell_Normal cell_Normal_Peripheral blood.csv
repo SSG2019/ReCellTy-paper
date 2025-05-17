@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,,CD29,Human,Blood,Peripheral blood,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Blood,Peripheral blood,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Blood,Peripheral blood,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Blood,Peripheral blood,Normal,Normal cell,Mesenchymal stem cell

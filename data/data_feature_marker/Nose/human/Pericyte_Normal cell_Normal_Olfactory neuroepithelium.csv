@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,SOX17,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte
+Pericyte,,ENG,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte

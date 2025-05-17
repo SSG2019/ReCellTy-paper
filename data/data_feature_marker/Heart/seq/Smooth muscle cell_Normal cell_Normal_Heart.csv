@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Smooth muscle cell,Contraction,ACTA2,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Contraction,MYH11,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Differentiation,TAGLN,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Regulation,RGS5,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,Differentiation,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Smooth muscle cell

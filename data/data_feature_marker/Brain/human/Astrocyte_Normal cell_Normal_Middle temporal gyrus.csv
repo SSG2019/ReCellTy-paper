@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GFAP,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,SLC1A3,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,ID3,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,SLC14A1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,MT1F,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,LINC00982,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,DIO2,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,FPGFR3,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,AOP4,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte
+Astrocyte,,PRDM16-DT,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Astrocyte

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian follicle,UBERON_0001305,Follicular Lymphoma,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Ovary,Ovarian follicle,UBERON_0001305,Follicular Lymphoma,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Ovary,Ovarian follicle,UBERON_0001305,Follicular Lymphoma,Cancer cell,Macrophage,CL_0000235,SIRPα,

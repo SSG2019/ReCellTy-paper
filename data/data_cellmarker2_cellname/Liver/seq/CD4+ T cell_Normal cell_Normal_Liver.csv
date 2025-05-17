@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,LTB,LTB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,TNFRSF4,TNFRSF4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,CCR7,CCR7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,MAL,MAL
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,IL-7R,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,CD45RO,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3D,CD3D
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4

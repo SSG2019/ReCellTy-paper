@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD45,PTPRC
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD44,CD44
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD90,THY1
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD147,BSG
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,HLA-DR,
+Human,Liver,Fetal liver,,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD34,CD34

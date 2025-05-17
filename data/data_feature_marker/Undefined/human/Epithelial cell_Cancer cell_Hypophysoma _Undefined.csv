@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,ERSP1,Human,Undefined,Undefined,Hypophysoma ,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Undefined,Undefined,Hypophysoma ,Cancer cell,Epithelial cell
+Epithelial cell,,CTNNB1,Human,Undefined,Undefined,Hypophysoma ,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Undefined,Undefined,Hypophysoma ,Cancer cell,Epithelial cell

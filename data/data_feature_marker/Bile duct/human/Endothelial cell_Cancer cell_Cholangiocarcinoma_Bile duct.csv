@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VMF,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,APOC3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell

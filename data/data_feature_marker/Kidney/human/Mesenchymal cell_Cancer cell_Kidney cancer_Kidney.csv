@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,EMT,ZEB1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ZEB2,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Mesenchymal,VIM,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Mesenchymal,VIMENTIN,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Mesenchymal,FN1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,CDH2,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ETS1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,SNAI1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Mesenchymal cell

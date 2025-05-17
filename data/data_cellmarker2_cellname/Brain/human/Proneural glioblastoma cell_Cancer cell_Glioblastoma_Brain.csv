@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Proneural glioblastoma cell,,STMN4,STMN4
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Proneural glioblastoma cell,,ERBB3,ERBB3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Proneural glioblastoma cell,,P2RX7,P2RX7
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Proneural glioblastoma cell,,SOX10,SOX10

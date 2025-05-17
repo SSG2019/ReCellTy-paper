@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Monocyte-derived,CD14,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,CD163,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,FCGR2B,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,Slsp1,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,S100A9,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CD1c,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,STAB1,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CLEC10A,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,FCER1A,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CD226,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,S100A8,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CD1C,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,VCAN,Human,Undefined,Undefined,Normal,Normal cell,Monocyte-derived dendritic cell

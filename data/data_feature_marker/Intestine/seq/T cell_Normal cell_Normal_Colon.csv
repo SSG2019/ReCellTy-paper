@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,Ccr5,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,Th17,Ccr6,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,,CD3,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,,CCR7,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,Tissue-resident memory,CXCR6,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,Regulatory,CTLA4,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,CD8+,CD8B,Human,Intestine,Colon,Normal,Normal cell,T cell
+T cell,Regulatory,FOXP3,Human,Intestine,Colon,Normal,Normal cell,T cell

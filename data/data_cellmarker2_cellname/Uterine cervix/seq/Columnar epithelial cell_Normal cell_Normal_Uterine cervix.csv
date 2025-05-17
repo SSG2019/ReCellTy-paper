@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Columnar epithelial cell,CL_1000405,KRT7,KRT7
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Columnar epithelial cell,CL_1000405,AGR2,AGR2
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Columnar epithelial cell,CL_1000405,KRT18,KRT18
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Columnar epithelial cell,CL_1000405,GDA,GDA

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Cortical cell,CL_0002681,TBR1,TBR1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Cortical cell,CL_0002681,BCL11B,BCL11B

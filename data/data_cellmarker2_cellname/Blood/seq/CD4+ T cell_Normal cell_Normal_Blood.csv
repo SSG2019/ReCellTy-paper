@@ -1,0 +1,61 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,rs75862629,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HLA-B*2709,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HLA-B27,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,ERAP1,ERAP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HLA-B*2705,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,ERAP2,ERAP2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD79A,CD79A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IFN-γ,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HERV-H,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL-10,IL10
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HERV-W,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,TNF-α,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,HERV-K,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,KHDC3L MII-1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,KHDC3L MII-6,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,KHDC3L MII-2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,KHDC3L MII-3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,KHDC3L MII-5,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,TNFSF3,LTB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,LRRN3,LRRN3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL32,IL32
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,LTB,LTB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,ALDH1A1,ALDH1A1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,MEIS2,MEIS2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,FOXO3,FOXO3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,EGFR,EGFR
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CDKN2A,CDKN2A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,TNFSF13,TNFSF13
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IDH1,IDH1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IRF8,IRF8
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,RNF43,RNF43
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,ZNRF3,ZNRF3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4+,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD8+,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Klrg1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Tcf7,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Gzma,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Gzmk,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Gzmb,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Zeb2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,Il7r,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ T cell,CL_0000624,CD4,CD4

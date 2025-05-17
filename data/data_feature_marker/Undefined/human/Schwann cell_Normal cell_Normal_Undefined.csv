@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Schwann cell,nerve regeneration,GAP43,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,myelination,MPZ,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,myelination,Myelin basic protein,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,glial function,S100A1,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,glial function,S100,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,glial function,Glial fibrillary acidic protein,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,neuronal support,NCAM,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell
+Schwann cell,neuronal support,NCAM1,Human,Undefined,Undefined,Normal,Normal cell,Schwann cell

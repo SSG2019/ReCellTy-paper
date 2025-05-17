@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Ductal tissue,,Normal,Normal cell,Hepatocyte,CL_0000182,CYP3A4,CYP3A4
+Human,Liver,Ductal tissue,UBERON_0001153,Normal,Normal cell,Hepatocyte,CL_0000182,TTR,TTR
+Human,Liver,Ductal tissue,,Normal,Normal cell,Hepatocyte,CL_0000182,ALB,ALB

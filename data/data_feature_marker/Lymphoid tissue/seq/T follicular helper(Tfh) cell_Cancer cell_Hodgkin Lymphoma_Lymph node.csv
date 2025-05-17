@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T follicular helper,CXCR5,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,BCL6,Human,Lymphoid tissue,Lymph node,Hodgkin Lymphoma,Cancer cell,T follicular helper(Tfh) cell

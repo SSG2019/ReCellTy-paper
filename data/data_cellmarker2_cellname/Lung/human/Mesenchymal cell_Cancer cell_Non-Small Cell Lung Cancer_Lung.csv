@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB2,ZEB2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ETS1,ETS1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,FN1,FN1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,SNAI1,SNAI1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIMENTIN,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,N-cadherin,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,vimentin,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,vimentin,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CD44,CD44

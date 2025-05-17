@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,SEMA5A,SEMA5A
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,NRCAM,NRCAM
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,DCLK1,DCLK1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,OTX2,OTX2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,AP2A,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,NEFL,NEFL
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,ONECUT2,ONECUT2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,TUBB3,TUBB3
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neuron,CL_0000540,POU5F1,POU5F1

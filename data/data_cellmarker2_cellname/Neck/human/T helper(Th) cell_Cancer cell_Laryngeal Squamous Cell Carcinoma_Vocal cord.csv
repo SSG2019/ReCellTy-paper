@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Neck,Vocal cord,UBERON_0003706,Laryngeal Squamous Cell Carcinoma,Cancer cell,T helper(Th) cell,,CXCL13,CXCL13

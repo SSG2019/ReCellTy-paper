@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Cardiovascular,FLT1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,FLT4,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,PDGFRA,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,NKX2.5,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,ISL1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell
+Progenitor cell,Cardiovascular,HAND1,Human,Heart,Heart,Normal,Normal cell,Cardiovascular progenitor cell

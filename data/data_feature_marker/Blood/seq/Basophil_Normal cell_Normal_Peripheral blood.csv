@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basophil,,MS4A2,Human,Blood,Peripheral blood,Normal,Normal cell,Basophil
+Basophil,,CLC,Human,Blood,Peripheral blood,Normal,Normal cell,Basophil
+Basophil,,CPA3,Human,Blood,Peripheral blood,Normal,Normal cell,Basophil
+Basophil,,GATA2,Human,Blood,Peripheral blood,Normal,Normal cell,Basophil

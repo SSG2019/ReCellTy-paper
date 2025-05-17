@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Proliferating,MKI67,Human,Undefined,Undefined,Normal,Normal cell,Proliferating cell
+cell,Proliferating,TOP2A,Human,Undefined,Undefined,Normal,Normal cell,Proliferating cell

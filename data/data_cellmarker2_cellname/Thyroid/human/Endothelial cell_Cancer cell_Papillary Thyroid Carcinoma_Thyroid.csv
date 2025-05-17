@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell,CL_0000115,MGP,MGP
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell,CL_0000115,TFPI,TFPI
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell,CL_0000115,RAMP2,RAMP2
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell,CL_0000115,TIMP3,TIMP3
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CLDN5,CLDN5

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,,NKX2-5,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MEF2C,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL7,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,MYL4,Human,Heart,Fetal heart,Normal,Normal cell,Cardiomyocyte

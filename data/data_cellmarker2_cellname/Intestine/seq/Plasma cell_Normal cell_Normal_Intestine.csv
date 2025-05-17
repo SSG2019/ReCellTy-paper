@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasma cell,CL_0000786,IGHA1,IGHA1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasma cell,CL_0000786,CD45,PTPRC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasma cell,CL_0000786,CD19,CD19

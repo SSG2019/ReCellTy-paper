@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal-epithelial transitioning cell,Mesenchymal,VIM,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Mesenchymal-epithelial transitioning cell
+Mesenchymal-epithelial transitioning cell,Epithelial transitioning,EMT,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Mesenchymal-epithelial transitioning cell
+Mesenchymal-epithelial transitioning cell,Epithelial transitioning,EPCAM,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Mesenchymal-epithelial transitioning cell

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Ependymal cell,CL_0000065,FOXJ1,FOXJ1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Ependymal cell,CL_0000065,CFAP299,CFAP299
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Ependymal cell,CL_0000065,FOXJ1,FOXJ1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Ependymal cell,CL_0000065,FOXJ1,FOXJ1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Ependymal cell,CL_0000065,AQP4,AQP4

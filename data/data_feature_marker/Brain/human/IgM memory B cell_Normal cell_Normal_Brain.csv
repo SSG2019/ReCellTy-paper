@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,IgM,IgM,Human,Brain,Brain,Normal,Normal cell,IgM memory B cell
+B cell,Igκ/Igλ,Igκ/Igλ,Human,Brain,Brain,Normal,Normal cell,IgM memory B cell
+B cell,Memory,CD38,Human,Brain,Brain,Normal,Normal cell,IgM memory B cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CD127,IL7R
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CD8,CD8A
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CD95,FAS
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Etastatic melanoma,Cancer cell,Central memory T cell,CL_0000813,CD4,CD4

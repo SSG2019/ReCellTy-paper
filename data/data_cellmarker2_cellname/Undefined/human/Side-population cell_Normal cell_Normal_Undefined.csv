@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Side-population cell,,CD49f,ITGA6
+Human,Undefined,Undefined,,Normal,Normal cell,Side-population cell,,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Side-population cell,,CD44,CD44

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,pre,NKG7,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ pre-T cell
+T cell,pre,GNLY,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ pre-T cell

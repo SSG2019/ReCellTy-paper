@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Antigen-presenting cell,,HLA-DR,Human,Fetus,Fetus,Normal,Normal cell,Antigen-presenting cell
+Immune cell,,CD31,Human,Fetus,Fetus,Normal,Normal cell,Immune cell
+Immune cell,,PECAM1,Human,Fetus,Fetus,Normal,Normal cell,Immune cell
+Myeloid cell,,CD163,Human,Fetus,Fetus,Normal,Normal cell,Myeloid cell
+Natural killer cell,,CD7,Human,Fetus,Fetus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Fetus,Fetus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Fetus,Fetus,Normal,Normal cell,Natural killer cell
+Pan-endothelial cell,,CD31,Human,Fetus,Heart,Normal,Normal cell,Pan-endothelial cell
+Pan-endothelial cell,,Emcn,Human,Fetus,Heart,Normal,Normal cell,Pan-endothelial cell
+Pan-endothelial cell,,PECAM1,Human,Fetus,Heart,Normal,Normal cell,Pan-endothelial cell
+Stromal cell,,CD31 PECAM1,Human,Fetus,Fetus,Normal,Normal cell,Stromal cell
+T cell,CD4+,CD4,Human,Fetus,Fetus,Normal,Normal cell,T cell
+T cell,CD8+,CD8,Human,Fetus,Fetus,Normal,Normal cell,T cell
+T cell,CD8+,CD8A,Human,Fetus,Fetus,Normal,Normal cell,T cell
+T cell,Memory,CD45RO,Human,Fetus,Fetus,Normal,Normal cell,T cell
+T cell,Naive,CD45RA,Human,Fetus,Fetus,Normal,Normal cell,T cell

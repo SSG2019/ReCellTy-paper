@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,ICAM1,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD224,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL1,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DS4,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,SAMD3,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,DOCK2,Human,Brain,Brain,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GGT1,Human,Brain,Brain,Normal,Normal cell,Natural killer cell

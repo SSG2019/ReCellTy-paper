@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Cancer,CSC,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,EMT,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,BRCA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,BRCA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,ERBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,HER-2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VCAM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,SELE,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,SELP,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,CD36,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,PD-1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,PDCD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,NOTCH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,IGFIR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VEGFR2/KDR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VEGFR3/FLT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell

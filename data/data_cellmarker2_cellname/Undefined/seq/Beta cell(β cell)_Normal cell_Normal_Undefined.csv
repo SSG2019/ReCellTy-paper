@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,ISL1,ISL1
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,G6PC2,G6PC2
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,NPTX2,NPTX2
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,INS,INS
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,NKX6.1,NKX6-1
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,CD49a,ITGA1
+Human,Undefined,Undefined,,Normal,Normal cell,Beta cell(β cell),CL_0000169,PDX1,PDX1

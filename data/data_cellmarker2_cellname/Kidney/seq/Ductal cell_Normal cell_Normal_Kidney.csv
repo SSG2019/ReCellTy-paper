@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Ductal cell,CL_0002079,SLC4A9,SLC4A9
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Ductal cell,CL_0002079,FXYD4,FXYD4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Ductal cell,CL_0002079,SLC26A7,SLC26A7

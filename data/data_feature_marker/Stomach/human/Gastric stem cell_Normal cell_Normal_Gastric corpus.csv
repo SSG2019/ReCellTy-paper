@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Gastric cell,stem,MIST1,Human,Stomach,Gastric corpus,Normal,Normal cell,Gastric stem cell
+Gastric cell,stem,TROY,Human,Stomach,Gastric corpus,Normal,Normal cell,Gastric stem cell
+Gastric cell,stem,SOX2,Human,Stomach,Gastric corpus,Normal,Normal cell,Gastric stem cell
+Gastric cell,stem,TNFRSF19,Human,Stomach,Gastric corpus,Normal,Normal cell,Gastric stem cell

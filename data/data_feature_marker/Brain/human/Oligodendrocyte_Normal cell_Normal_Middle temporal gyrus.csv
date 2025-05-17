@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,,PLP1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,MAG,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,OPALIN,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,KLK6,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Oligodendrocyte

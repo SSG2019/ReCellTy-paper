@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,FREM2,FREM2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,TMEM255A,TMEM255A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,TXK,TXK
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,MYB,MYB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,PDGFD,PDGFD
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,HCRTR2,HCRTR2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In5,CL_0000540,TOX,TOX

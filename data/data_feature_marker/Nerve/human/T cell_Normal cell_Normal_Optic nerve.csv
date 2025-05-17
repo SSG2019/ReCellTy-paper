@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,markerC,Human,Nerve,Optic nerve,Normal,Normal cell,T cell
+T cell,CD4+,markerA,Human,Nerve,Optic nerve,Normal,Normal cell,T cell
+T cell,Effector,markerE,Human,Nerve,Optic nerve,Normal,Normal cell,T cell
+T cell,Effector,markerB,Human,Nerve,Optic nerve,Normal,Normal cell,T cell
+T cell,Effector,markerD,Human,Nerve,Optic nerve,Normal,Normal cell,T cell

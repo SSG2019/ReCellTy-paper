@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,c-Kit,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,EpCAM,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,CD49f,ITGA6
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,SLPI,SLPI
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,PROM1,PROM1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,KRT19,KRT19
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,KIT,KIT
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Luminal progenitor cell,CL_0009116,TNFRSF11A,TNFRSF11A

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Colony-forming cell,,CD49f,Human,Prostate,Prostate,Normal,Normal cell,Colony-forming cell
+Colony-forming cell,,ITGA6,Human,Prostate,Prostate,Normal,Normal cell,Colony-forming cell

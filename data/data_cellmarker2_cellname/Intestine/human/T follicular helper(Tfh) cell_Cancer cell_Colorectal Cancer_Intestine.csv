@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,IL21,IL21
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,BCL6,BCL6

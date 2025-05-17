@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CXCL9,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Macrophage
+Macrophage,,CXCL10,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Macrophage
+Macrophage,,IL1B,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Macrophage

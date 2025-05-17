@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Squamous epithelial cell,,CTSA,CTSA
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Squamous epithelial cell,,KRT5,KRT5

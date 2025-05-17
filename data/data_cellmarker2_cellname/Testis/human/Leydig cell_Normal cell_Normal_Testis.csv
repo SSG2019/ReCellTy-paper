@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,HSD3B,HSD3B1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,HSD3B,HSD3B1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,STAR,STAR
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,IGF2,IGF2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,PTGDS,PTGDS
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,DCN,DCN
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,LHX9,LHX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,DLK1,DLK1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,IGFBP4,IGFBP4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,LUM,LUM
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,IGFBP5,IGFBP5
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,DLK1,DLK1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,CFD,CFD
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,CALB2,CALB2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,IGFBP3,IGFBP3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Leydig cell,CL_0000178,INHBA,INHBA

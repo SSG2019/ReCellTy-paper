@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,CD19,CD19
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,CD1C,CD1C
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,IL3RA,IL3RA
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,KLRD1,KLRD1
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,IGHG1,IGHG1
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,CD3G,CD3G
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,VCAN,VCAN
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,CD68,CD68
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,CD163,CD163
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,KRT5,KRT5
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,SOX2,SOX2
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell,CL_0001064,EPCAM,EPCAM

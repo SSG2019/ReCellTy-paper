@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,CD74,CD74
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,CD20,MS4A1
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,BLA36,
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,CD80,CD80
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,CD86,CD86
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,B cell type MALT lymphoma,Cancer cell,B cell,CL_0000236,CD40,CD40

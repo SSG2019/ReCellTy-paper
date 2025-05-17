@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Venule,Nr2f2,Human,Kidney,Kidney,Normal,Normal cell,Venule endothelial cell
+Endothelial cell,Venule,Plvap,Human,Kidney,Kidney,Normal,Normal cell,Venule endothelial cell
+Endothelial cell,,Cd9,Human,Kidney,Kidney,Normal,Normal cell,Venule endothelial cell
+Endothelial cell,,Bgn,Human,Kidney,Kidney,Normal,Normal cell,Venule endothelial cell

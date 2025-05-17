@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD137,TNFRSF9
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD25,IL2RA
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD7,CD7
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD45RO,
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD8,CD8A
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CCR7,CCR7
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,PD-1,PDCD1
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD69,CD69
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CXCR5,CXCR5
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD28,CD28
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD127,IL7R
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,T cell,CL_0000084,CD27,CD27

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell,CL_0000236,CD79A,CD79A
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell,CL_0000236,MZB1,MZB1
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell,CL_0000236,IGLL1,IGLL1

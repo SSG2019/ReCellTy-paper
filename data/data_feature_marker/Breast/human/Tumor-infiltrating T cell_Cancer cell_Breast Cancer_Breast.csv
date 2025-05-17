@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tumor-infiltrating,CD8,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell

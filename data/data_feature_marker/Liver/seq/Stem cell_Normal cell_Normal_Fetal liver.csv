@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD49f,Human,Liver,Fetal liver,Normal,Normal cell,Stem cell
+Stem cell,,CD29,Human,Liver,Fetal liver,Normal,Normal cell,Stem cell
+Stem cell,,ITGA6,Human,Liver,Fetal liver,Normal,Normal cell,Stem cell
+Stem cell,,ITGB1,Human,Liver,Fetal liver,Normal,Normal cell,Stem cell

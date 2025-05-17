@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Mesenchymal cell,CL_0008019,THY1,THY1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CD90,THY1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Mesenchymal cell,CL_0008019,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Mesenchymal cell,CL_0008019,FN1,FN1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CD57,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,HLA-E,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NGK7,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Natural killer cell

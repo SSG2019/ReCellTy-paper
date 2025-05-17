@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Astrocyte,CL_0000127,S100B,S100B
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Astrocyte,CL_0000127,ΑTP1A2,
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP

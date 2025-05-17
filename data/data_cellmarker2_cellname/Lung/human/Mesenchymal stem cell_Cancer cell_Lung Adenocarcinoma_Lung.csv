@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,ITGB1,ITGB1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,THY1,THY1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,CD44,CD44
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,ISLR,ISLR
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,ALDH1,ALDH1A1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,ABCG2,ABCG2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,CD44,CD44
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,Twist,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,Slug,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell,CL_0000134,CD133,PROM1

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,B cell,CL_0000236,Ms4a1,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,B cell,CL_0000236,Cd19,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,B cell,CL_0000236,Ptprc,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,B cell,CL_0000236,Cd22,

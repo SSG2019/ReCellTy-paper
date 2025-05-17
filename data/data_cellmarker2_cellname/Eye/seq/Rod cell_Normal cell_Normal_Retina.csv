@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,CNGA1,CNGA1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,PDE6A,PDE6A
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,RHO,RHO
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,PPEF2,PPEF2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,PDE6A,PDE6A
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,NR2E3,NR2E3
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Rod cell,CL_0000604,NRL,NRL

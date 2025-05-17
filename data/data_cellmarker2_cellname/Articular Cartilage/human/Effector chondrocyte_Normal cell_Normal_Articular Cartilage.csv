@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,KIF9,KIF9
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,CHRDL2,CHRDL2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,CYSTM1,CYSTM1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,TF,TF
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,TPM4,TPM4
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,RARRES2,RARRES2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Effector chondrocyte,,DSC2,DSC2

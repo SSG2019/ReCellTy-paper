@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Megakaryocyte,Platelet Formation,PPBP,Human,Lung,Bronchial vessel,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,Platelet Formation,PF4,Human,Lung,Bronchial vessel,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,OST4,Human,Lung,Bronchial vessel,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,NRGN,Human,Lung,Bronchial vessel,Normal,Normal cell,Megakaryocyte

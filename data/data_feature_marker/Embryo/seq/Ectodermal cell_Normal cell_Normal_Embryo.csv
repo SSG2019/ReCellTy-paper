@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ectodermal cell,,Gata6,Human,Embryo,Embryo,Normal,Normal cell,Ectodermal cell
+Ectodermal cell,,Gbx2,Human,Embryo,Embryo,Normal,Normal cell,Ectodermal cell
+Ectodermal cell,,Brachyury,Human,Embryo,Embryo,Normal,Normal cell,Ectodermal cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Progenitor cell,CL_0011026,KDR,KDR
+Human,Heart,Embryonic heart,UBERON_0006283,Normal,Normal cell,Progenitor cell,CL_0011026,MEF2C,MEF2C

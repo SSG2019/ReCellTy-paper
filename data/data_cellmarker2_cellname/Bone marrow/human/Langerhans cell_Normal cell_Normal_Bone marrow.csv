@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Langerhans cell,CL_0000453,EpCAM,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Langerhans cell,CL_0000453,TROP2,TACSTD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Langerhans cell,CL_0000453,E-Cadherin,

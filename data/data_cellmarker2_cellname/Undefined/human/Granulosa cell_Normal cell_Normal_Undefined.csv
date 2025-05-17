@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Granulosa cell,CL_0000501,CACNA1F,CACNA1F
+Human,Undefined,Undefined,,Normal,Normal cell,Granulosa cell,CL_0000501,CD146,MCAM
+Human,Undefined,Undefined,,Normal,Normal cell,Granulosa cell,CL_0000501,Fibronectin,
+Human,Undefined,Undefined,,Normal,Normal cell,Granulosa cell,CL_0000501,Follicle regulatory protein,

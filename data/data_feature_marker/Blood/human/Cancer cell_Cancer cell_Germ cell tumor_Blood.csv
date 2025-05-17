@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,AFP,Human,Blood,Blood,Germ cell tumor,Cancer cell,Cancer cell
+Cancer cell,,β-HCG,Human,Blood,Blood,Germ cell tumor,Cancer cell,Cancer cell
+Cancer cell,,LDH,Human,Blood,Blood,Germ cell tumor,Cancer cell,Cancer cell

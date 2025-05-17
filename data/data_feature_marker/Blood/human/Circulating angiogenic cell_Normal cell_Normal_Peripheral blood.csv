@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+angiogenic cell,Angiogenic,CD309,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating angiogenic cell
+angiogenic cell,Angiogenic,KDR,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating angiogenic cell
+angiogenic cell,Circulating,CD133,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating angiogenic cell
+angiogenic cell,Circulating,PROM1,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating angiogenic cell
+angiogenic cell,Circulating,CD34,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating angiogenic cell

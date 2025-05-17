@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,TP63,TP63
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,NGFR,NGFR
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,PLA2G4C,PLA2G4C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,LTBP4,LTBP4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,SPDEF,SPDEF
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,SCGB1A1,SCGB1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,KRT14,KRT14
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,COL1A1,COL1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,KRT5,KRT5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,MUC5AC,MUC5AC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,IL10,IL10
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,PDPN,PDPN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,SLC26A8,SLC26A8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,MUC5B,MUC5B
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Idiopathic pulmonary fibrosis cell,CL_0000066,AKT2,AKT2

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,HP,HP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,APOE,APOE
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,TF,TF
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,ASS1,ASS1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,CYP3A1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,APOB,APOB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,CYP2E1,CYP2E1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,PCK1,PCK1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,ALB,ALB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic cell,,ASGR1,ASGR1

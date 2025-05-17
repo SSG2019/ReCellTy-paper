@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Acute B Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD43,SPN
+Human,Blood,Peripheral blood,UBERON_0005408,Acute B Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,B220,PTPRC
+Human,Blood,Peripheral blood,UBERON_0005408,Acute B Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,BP1,DLX4
+Human,Blood,Peripheral blood,UBERON_0005408,Acute B Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Blood,Peripheral blood,UBERON_0005408,Acute B Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,IgM,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Progenitor,GATA2,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Progenitor cell
+cell,Progenitor,MPO,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Progenitor cell
+cell,Progenitor,SPI1,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Progenitor cell

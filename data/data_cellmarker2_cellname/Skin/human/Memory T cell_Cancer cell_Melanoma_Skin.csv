@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Memory T cell,CL_0000813,CXCR6,CXCR6
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Memory T cell,CL_0000813,ITGAE,ITGAE
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Memory T cell,CL_0000813,KLRB1,KLRB1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Memory T cell,CL_0000813,CD39,ENTPD1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Memory T cell,CL_0000813,ENTPD1,ENTPD1

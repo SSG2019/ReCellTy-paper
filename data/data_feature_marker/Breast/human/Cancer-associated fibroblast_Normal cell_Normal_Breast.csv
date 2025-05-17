@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,PDGFRα/β,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Galectin-1,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Caveolin-1,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,α-SMA,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast

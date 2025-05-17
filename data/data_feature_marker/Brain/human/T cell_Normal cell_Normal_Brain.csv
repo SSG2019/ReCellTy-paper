@@ -1,0 +1,24 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T cell receptor complex,CD3,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell receptor complex,CD3D,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell receptor complex,CD3E,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell receptor complex,CD3G,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Helper T cell,CD4,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Cytotoxic T cell,CD8A,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Regulatory T cell,FOXP3,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Naive T cell,CCR7,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Naive T cell,CD45RA,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Activated T cell,CD25,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Activated T cell,IL2RA,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Exhausted T cell,PD-1,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Exhausted T cell,CTLA-4,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Exhausted T cell,LAG3,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Exhausted T cell,TIM3,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Proliferating cell,Ki-67,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Th17 cell,RORγT,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Activated T cell,ICOS,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Activated T cell,HLA-DR,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,Early activation,CD69,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell trafficking,CXCR3,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell trafficking,CXCR5,Human,Brain,Brain,Normal,Normal cell,T cell
+T cell,T cell trafficking,CCR4,Human,Brain,Brain,Normal,Normal cell,T cell

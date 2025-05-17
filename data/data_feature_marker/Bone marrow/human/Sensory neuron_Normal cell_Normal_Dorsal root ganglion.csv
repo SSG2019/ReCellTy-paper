@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Sensory,vGLUT1,Human,Bone marrow,Dorsal root ganglion,Normal,Normal cell,Sensory neuron
+neuron,Sensory,POU4F1,Human,Bone marrow,Dorsal root ganglion,Normal,Normal cell,Sensory neuron
+neuron,Sensory,P2RX3,Human,Bone marrow,Dorsal root ganglion,Normal,Normal cell,Sensory neuron
+neuron,Sensory,GFRA2,Human,Bone marrow,Dorsal root ganglion,Normal,Normal cell,Sensory neuron
+neuron,Sensory,NRG1,Human,Bone marrow,Dorsal root ganglion,Normal,Normal cell,Sensory neuron

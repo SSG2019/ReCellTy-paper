@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Monocyte-derived,CD49D,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,,ITGA4,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte-derived macrophage

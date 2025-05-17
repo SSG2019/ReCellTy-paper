@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,RORC,RORC
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD40LG,CD40LG
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,ZBTB16,ZBTB16

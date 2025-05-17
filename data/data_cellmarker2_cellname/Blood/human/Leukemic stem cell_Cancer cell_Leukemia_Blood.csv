@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD114,CSF3R
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD34,CD34
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD117,KIT
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD133,PROM1
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Leukemic stem cell,,CD25,IL2RA

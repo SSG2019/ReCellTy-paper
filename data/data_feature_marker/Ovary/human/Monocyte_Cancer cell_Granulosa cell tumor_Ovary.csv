@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte
+Monocyte,,HLA-DR,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte
+Monocyte,,CD11c,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte

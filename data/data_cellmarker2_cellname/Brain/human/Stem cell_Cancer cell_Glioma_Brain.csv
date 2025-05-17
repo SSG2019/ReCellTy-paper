@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,KLF4,KLF4
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,c-Myc,MYC
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,ABCG2,ABCG2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,ALDH1,ALDH1A1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,Nestin,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2

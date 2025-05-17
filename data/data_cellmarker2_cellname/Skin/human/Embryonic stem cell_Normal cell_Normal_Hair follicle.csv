@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Embryonic stem cell,CL_0002322,NANOG,NANOG
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Embryonic stem cell,CL_0002322,OCT4,POU5F1

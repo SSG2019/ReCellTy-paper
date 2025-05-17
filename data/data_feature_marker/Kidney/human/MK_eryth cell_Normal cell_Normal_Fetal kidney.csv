@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+MK/eryth cell,,HBZ,Human,Kidney,Fetal kidney,Normal,Normal cell,MK/eryth cell
+MK/eryth cell,,HBM,Human,Kidney,Fetal kidney,Normal,Normal cell,MK/eryth cell
+MK/eryth cell,,ITGB3,Human,Kidney,Fetal kidney,Normal,Normal cell,MK/eryth cell
+MK/eryth cell,,GP6,Human,Kidney,Fetal kidney,Normal,Normal cell,MK/eryth cell

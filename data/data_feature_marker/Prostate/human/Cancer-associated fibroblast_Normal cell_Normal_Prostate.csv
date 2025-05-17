@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,CD90,Human,Prostate,Prostate,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,THY1,Human,Prostate,Prostate,Normal,Normal cell,Cancer-associated fibroblast

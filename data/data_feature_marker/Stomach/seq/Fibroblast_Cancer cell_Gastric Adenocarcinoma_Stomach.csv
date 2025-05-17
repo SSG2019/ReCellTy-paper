@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,COL1A2,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,ASPN,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,CSPG4,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,RGS5,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDGFA,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,S100A4,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Fibroblast

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CD49f,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,ITGA6,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell

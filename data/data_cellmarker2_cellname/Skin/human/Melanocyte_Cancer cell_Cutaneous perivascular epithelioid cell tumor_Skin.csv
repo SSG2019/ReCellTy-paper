@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte,CL_0000148,MiTF,
+Human,Skin,Skin,UBERON_0002097,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte,CL_0000148,NKI/C3,
+Human,Skin,Skin,UBERON_0002097,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte,CL_0000148,Melan-A,
+Human,Skin,Skin,UBERON_0002097,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte,CL_0000148,HMB-45,PMEL

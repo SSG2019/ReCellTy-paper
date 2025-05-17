@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,Glutamine Synthesis,GLUL,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Lipid Metabolism,APOE,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Structural,GFAP,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Lipid Transport,CLU,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Cell Migration,SPARCL1,Human,Eye,Retina,Normal,Normal cell,Astrocyte

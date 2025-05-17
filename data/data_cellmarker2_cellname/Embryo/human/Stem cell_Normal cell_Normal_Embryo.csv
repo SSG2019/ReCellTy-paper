@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Sox2,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Nanog,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,PAX6,PAX6
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Mct1,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Mct4,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Cdh3,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Krt8,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Tpdpa,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,Tfap2c,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,SSEA-1,FUT4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,TDGF1,TDGF1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,TRA-1-60,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,THY1,THY1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,REX1,REXO1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,L1TD1,L1TD1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1

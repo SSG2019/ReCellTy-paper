@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Prefrontal cortex,UBERON_0000451,Normal,Normal cell,Neural stem cell,CL_0000047,SOX2,SOX2
+Human,Brain,Prefrontal cortex,UBERON_0000451,Normal,Normal cell,Neural stem cell,CL_0000047,PAX6,PAX6

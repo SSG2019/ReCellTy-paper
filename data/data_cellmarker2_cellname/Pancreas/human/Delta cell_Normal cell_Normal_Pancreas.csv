@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,Somatostatin,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,LEDGF,PSIP1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,ETV1,ETV1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,LCORL,LCORL
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,PRBP,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,NEC1,PCSK1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,RGS2,RGS2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,ISL1,ISL1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,CHE1,BCHE
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,PRG4,PRG4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SHARP1,BHLHE41
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SFRP3,FRZB
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,PDLIM4,PDLIM4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,POU3F1,POU3F1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,HER4,ERBB4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,LEPR,LEPR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,GABRG2,GABRG2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,ESE3B,EHF
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SST,SST
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,PPY,PPY
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SST,SST
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SST,SST
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Delta cell,CL_0000173,SST,SST

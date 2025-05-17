@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,PD1,PDCD1
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CD4,CD4
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CD3,
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,ICOS,ICOS

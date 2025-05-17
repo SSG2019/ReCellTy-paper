@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gall bladder,Gall bladder,UBERON_0002110,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

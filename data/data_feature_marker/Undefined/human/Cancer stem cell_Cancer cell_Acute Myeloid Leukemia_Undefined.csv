@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD34,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD38,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD123,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,TIM-3,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD71,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD117,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD90,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,IL3RA,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell

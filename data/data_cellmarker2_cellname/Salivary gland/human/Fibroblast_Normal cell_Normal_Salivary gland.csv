@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Salivary gland,Salivary gland,UBERON_0001044,Normal,Normal cell,Fibroblast,CL_0000057,Col1a1,
+Human,Salivary gland,Salivary gland,UBERON_0001044,Normal,Normal cell,Fibroblast,CL_0000057,Col1a2,

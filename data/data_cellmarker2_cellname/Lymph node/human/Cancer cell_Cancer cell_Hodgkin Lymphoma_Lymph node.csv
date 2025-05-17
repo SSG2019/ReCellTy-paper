@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD15,FUT4
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,LMP1,PDLIM7
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,OCT2,SLC22A2
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD79A,CD79A
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,EBER,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD3,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD21,CR2
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD30,TNFRSF8
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,BOB1,POU2AF1
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD20,MS4A1
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD57,B3GAT1
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,PD1,PDCD1
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,Pax-5,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,IgD,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Cancer cell,CL_0001064,CD45,PTPRC

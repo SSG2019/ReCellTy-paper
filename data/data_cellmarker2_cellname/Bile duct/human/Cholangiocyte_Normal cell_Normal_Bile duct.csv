@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,EPCAM,EPCAM
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT19,KRT19
+Human,Bile duct,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,CFTR,CFTR

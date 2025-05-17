@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,PARP1,PARP1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,DLX1,DLX1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,MKI67,MKI67
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,S100β,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,PDGFRA,PDGFRA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,PTPRZ1,PTPRZ1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,MARCKSL1,MARCKSL1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,GPM6A,GPM6A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,TUBA1A,TUBA1A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,C1orf61,MIR9-1HG
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,TUBB2B,TUBB2B
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,BCAN,BCAN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,PTN,PTN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,CD276,CD276
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,CD161,KLRB1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,TIMP1,TIMP1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR

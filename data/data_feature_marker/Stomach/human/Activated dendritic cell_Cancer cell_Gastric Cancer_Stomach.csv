@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Activated,INDO,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell
+dendritic cell,Activated,OAS3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell
+dendritic cell,Activated,EBI3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell
+dendritic cell,Activated,CCL1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell
+dendritic cell,Activated,IDO1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell
+dendritic cell,,LAMP3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Activated dendritic cell

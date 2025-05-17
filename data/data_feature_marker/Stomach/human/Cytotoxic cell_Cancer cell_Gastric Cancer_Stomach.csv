@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cytotoxic cell,Cytotoxic,GZMH,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,RUNX3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,CTSW,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GNLY,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRD1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRF1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,NKG7,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Cytotoxic cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,GZMM,GZMM
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,KLRG1,KLRG1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,GZMB,GZMB
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,GZMA,GZMA
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,GZMH,GZMH
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,GZMK,GZMK
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,KLRB1,KLRB1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Natural killer cell,CL_0000623,KLRK1,KLRK1

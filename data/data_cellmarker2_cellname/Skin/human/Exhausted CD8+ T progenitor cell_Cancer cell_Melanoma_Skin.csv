@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell,,PD-1,PDCD1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell,,TCF-1,HNF1A

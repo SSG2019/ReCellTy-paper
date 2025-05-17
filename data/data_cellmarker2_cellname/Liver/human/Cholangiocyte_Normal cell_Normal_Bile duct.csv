@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,EpCAM,
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT7,KRT7
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,SOX9,SOX9
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,Epithelial cellular adhesion molecule,
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,Gamma glutamyl transferase,
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,Cytokeratin 19,
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,KRT19,KRT19
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,Anion exchanger 2,
+Human,Liver,Bile duct,UBERON_0002394,Normal,Normal cell,Cholangiocyte,CL_1000488,Cystic fibrosis transmembrane conductance regulator,

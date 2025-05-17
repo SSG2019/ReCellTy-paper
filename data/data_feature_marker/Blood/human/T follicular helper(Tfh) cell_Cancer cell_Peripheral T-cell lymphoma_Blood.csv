@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T follicular helper,CXCL13,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PD1,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,BCL6,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,ICOS,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,CD10,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,MME,Human,Blood,Blood,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell

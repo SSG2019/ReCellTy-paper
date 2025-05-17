@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Activation,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,GZMB,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,GNLY,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,XCL1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,XCL2,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,CCL5,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,CCL4,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Receptor Complex,KLRB1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Receptor Complex,CD94,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Development,EOMES,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,General NK Cell Marker,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell

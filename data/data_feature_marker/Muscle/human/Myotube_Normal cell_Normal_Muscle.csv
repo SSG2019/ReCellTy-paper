@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myotube,,MYBPH,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,MYOG,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,TTN,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,MYH3,Human,Muscle,Muscle,Normal,Normal cell,Myotube

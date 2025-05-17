@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,,DCN,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,PECAM1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,WT1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CSF1R,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,CD3D,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TPSAB1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,COL1A1,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,TNNT2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SOX9,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,ACTN2,Human,Heart,Embryonic heart,Normal,Normal cell,Cardiomyocyte

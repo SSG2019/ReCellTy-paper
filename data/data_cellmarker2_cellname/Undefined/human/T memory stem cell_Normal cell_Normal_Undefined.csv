@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,CD58,CD58
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,IL-2Rβ,
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,CD45RA,
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,CD95,FAS
+Human,Undefined,Undefined,,Normal,Normal cell,T memory stem cell,,CD11a,

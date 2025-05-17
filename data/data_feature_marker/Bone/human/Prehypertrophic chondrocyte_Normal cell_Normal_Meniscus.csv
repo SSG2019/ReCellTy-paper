@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Prehypertrophic,MMP1,Human,Bone,Meniscus,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,TNFAIP6,Human,Bone,Meniscus,Normal,Normal cell,Prehypertrophic chondrocyte

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD45RA,Human,Undefined,Undefined,B-cell malignancies,Cancer cell,Effector T(Teff) cell
+T cell,,CD3,Human,Undefined,Undefined,B-cell malignancies,Cancer cell,Effector T(Teff) cell

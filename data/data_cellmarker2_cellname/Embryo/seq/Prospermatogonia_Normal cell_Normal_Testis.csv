@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,NANOS2,NANOS2
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,PAGE2B,PAGE2B
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,RHOXF1,RHOXF1
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,DDX4,DDX4
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,PIWIL4,PIWIL4
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,TEX15,TEX15
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,MORC1,MORC1
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,MAGEC2,MAGEC2
+Human,Embryo,Testis,UBERON_0000473,Normal,Normal cell,Prospermatogonia,,MAGEB2,MAGEB2

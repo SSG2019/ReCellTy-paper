@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,IB4,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,Pecam1,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,Fabp4,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,Cdh5,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFR2,KDR
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,VEcad,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,TIE1,TIE1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,LYVE-1,LYVE1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,SMActin,

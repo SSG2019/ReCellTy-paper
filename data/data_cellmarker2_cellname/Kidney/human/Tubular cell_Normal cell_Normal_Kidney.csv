@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Tubular cell,,SPP1,SPP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Tubular cell,,LRP2,LRP2

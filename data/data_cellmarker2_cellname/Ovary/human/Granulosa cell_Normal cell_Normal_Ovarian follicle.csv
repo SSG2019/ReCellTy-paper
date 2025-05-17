@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Granulosa cell,CL_0000501,CHST8,CHST8
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Granulosa cell,CL_0000501,MGARP,MGARP
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Granulosa cell,CL_0000501,GLDC,GLDC
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Granulosa cell,CL_0000501,FSHR,FSHR
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Granulosa cell,CL_0000501,GPX3,GPX3

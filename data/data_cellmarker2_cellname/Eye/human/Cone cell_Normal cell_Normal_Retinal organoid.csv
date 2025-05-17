@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retinal organoid,,Normal,Normal cell,Cone cell,CL_0000573,ARR3,ARR3
+Human,Eye,Retinal organoid,,Normal,Normal cell,Cone cell,CL_0000573,PDE6H,PDE6H

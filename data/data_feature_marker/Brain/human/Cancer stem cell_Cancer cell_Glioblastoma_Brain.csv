@@ -1,0 +1,27 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Stemness,Nestin,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD90,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,GD2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Musashi-1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,SOX2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,NANOG,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Sox2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,POU5F1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PROM1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,FUT4,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,HMOX1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,SLC16A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CADM1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,CLCC1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,SCAMP3,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,ASCL1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,Olig2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,POU3F2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,OLIG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,ZNF117,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,NES,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,THY1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer stem cell

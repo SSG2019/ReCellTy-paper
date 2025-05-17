@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Pre,CD34,Human,Liver,Liver,Normal,Normal cell,Pre-B cell
+B cell,Pre,CD19,Human,Liver,Liver,Normal,Normal cell,Pre-B cell
+B cell,Pre,CD10,Human,Liver,Liver,Normal,Normal cell,Pre-B cell
+B cell,Pre,MME,Human,Liver,Liver,Normal,Normal cell,Pre-B cell

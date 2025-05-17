@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell,,PDX1,PDX1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Antrum gastric epithelial cell,,GAST,GAST

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Leiomyoma,Cancer cell,Cancer stem cell,,KLF5,KLF5
+Human,Muscle,Muscle,UBERON_0001630,Leiomyoma,Cancer cell,Cancer stem cell,,ALDH1A2,ALDH1A2
+Human,Muscle,Muscle,UBERON_0001630,Leiomyoma,Cancer cell,Cancer stem cell,,POU5F1,POU5F1
+Human,Muscle,Muscle,UBERON_0001630,Leiomyoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Muscle,Muscle,UBERON_0001630,Leiomyoma,Cancer cell,Cancer stem cell,,NANOG,NANOG

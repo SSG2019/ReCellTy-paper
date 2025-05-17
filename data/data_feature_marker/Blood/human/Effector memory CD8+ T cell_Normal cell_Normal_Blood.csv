@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8A,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8B,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8a,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,CD45RO,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,CXCR3,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,ITGA1,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,CXCR4,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,CD44,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,GZMK,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector memory,FGFBP2,Human,Blood,Blood,Normal,Normal cell,Effector memory CD8+ T cell

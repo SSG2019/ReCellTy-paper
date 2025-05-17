@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,CD204,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,M2,CD206,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,,CD68,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,M2,MS4A4A,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,M2,VSIG4,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,,MSR1,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Brain,Brain,Glioma,Cancer cell,M2 macrophage

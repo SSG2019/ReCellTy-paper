@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,CD301,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M2 macrophage
+Macrophage,M2,ARG1,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M2 macrophage
+Macrophage,M2,CLEC10A,Human,Brain,Pituitary gland,Pituitary adenoma,Cancer cell,M2 macrophage

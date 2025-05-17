@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,GABAergic neuron,CL_0000617,GAD65,GAD2
+Human,Undefined,Undefined,,Normal,Normal cell,GABAergic neuron,CL_0000617,GABAB receptor 2,
+Human,Undefined,Undefined,,Normal,Normal cell,GABAergic neuron,CL_0000617,GABAB receptor 1,
+Human,Undefined,Undefined,,Normal,Normal cell,GABAergic neuron,CL_0000617,GABA transporter 1,
+Human,Undefined,Undefined,,Normal,Normal cell,GABAergic neuron,CL_0000617,GAD67,

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Fat pad,,Breast Cancer,Cancer cell,Adipocyte,CL_0000136,SCARA5,SCARA5
+Human,Breast,Fat pad,,Breast Cancer,Cancer cell,Adipocyte,CL_0000136,APOD,APOD
+Human,Breast,Fat pad,,Breast Cancer,Cancer cell,Adipocyte,CL_0000136,DLK1,DLK1
+Human,Breast,Fat pad,,Breast Cancer,Cancer cell,Adipocyte,CL_0000136,CFD,CFD

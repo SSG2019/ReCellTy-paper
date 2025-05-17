@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,,SCARA5,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,APOD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,DLK1,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,CFD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Vascular,KDR,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,VWF,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,EFNB2,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,DLL4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,FLT1,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,EPHB4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell

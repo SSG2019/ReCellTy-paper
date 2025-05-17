@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,ELAVL3,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,ELAVL4,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,NCAM1,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,STMN2,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,CRABP1,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,NEUROD1,Human,Kidney,Kidney,Normal,Normal cell,Neuron
+Neuron,,MSX1,Human,Kidney,Kidney,Normal,Normal cell,Neuron

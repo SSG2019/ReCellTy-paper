@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,MYL6,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ACTA2,Human,Testis,Testis,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MYH11,Human,Testis,Testis,Normal,Normal cell,Myeloid cell

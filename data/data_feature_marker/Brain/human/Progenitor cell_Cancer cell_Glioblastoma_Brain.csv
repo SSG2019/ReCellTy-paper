@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Neural,Nestin,Human,Brain,Brain,Glioblastoma,Cancer cell,Progenitor cell
+Progenitor cell,Self-renewal,SOX2,Human,Brain,Brain,Glioblastoma,Cancer cell,Progenitor cell
+Progenitor cell,Oligodendrocyte,OLIG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Progenitor cell
+Progenitor cell,Neurogenesis,DCX,Human,Brain,Brain,Glioblastoma,Cancer cell,Progenitor cell

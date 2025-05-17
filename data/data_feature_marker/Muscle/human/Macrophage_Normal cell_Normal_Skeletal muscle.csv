@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,Adgre1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgb1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Csf1r,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage

@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,Stemness,CD29,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD44,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD73,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD105,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,STRO-1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,CD49a,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,CD106,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,VCAM1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Angiogenesis,CD146,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Angiogenesis,MCAM,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Differentiation,alpha-SMA,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Differentiation,ITGA1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,HLA-DR,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,CD45,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,PTPRC,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Wnt Signaling,CD349,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Wnt Signaling,FZD9,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell

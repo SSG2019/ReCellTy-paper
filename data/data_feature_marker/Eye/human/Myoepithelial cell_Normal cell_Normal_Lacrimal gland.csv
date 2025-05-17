@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myoepithelial cell,,MYH11,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,TPM2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,KRT5,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,ACTA2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,MYLK,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell

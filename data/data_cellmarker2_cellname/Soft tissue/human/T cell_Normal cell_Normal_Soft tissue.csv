@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,MAL,MAL
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CD6,CD6
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,FLT3LG,FLT3LG
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,TRAT1,TRAT1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CD5,CD5
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,PBX4,PBX4
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,ICOS,ICOS
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CD28,CD28
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,THEMIS,THEMIS
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,SIRPG,SIRPG
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,TNFRSF25,TNFRSF25
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CTLA4,CTLA4
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,T cell,CL_0000084,CHRM3-AS2,CHRM3-AS2

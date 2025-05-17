@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Crypt cell,CL_0000849,TNFRSF19,TNFRSF19
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Crypt cell,CL_0000849,LGR5,LGR5
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Crypt cell,CL_0000849,EPHB2,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Crypt cell,CL_0000849,OLFM4,OLFM4

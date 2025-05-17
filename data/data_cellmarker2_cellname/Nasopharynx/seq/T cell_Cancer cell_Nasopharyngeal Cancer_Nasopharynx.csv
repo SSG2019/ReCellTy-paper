@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,T cell,CL_0000084,CD3E,CD3E
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,T cell,CL_0000084,KLRF1,KLRF1

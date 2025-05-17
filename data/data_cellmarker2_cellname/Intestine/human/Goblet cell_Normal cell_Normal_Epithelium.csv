@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,MYC,MYC
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,PTGDR,PTGDR
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,PBK,PBK
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,SPDEF,SPDEF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,MKI67,MKI67
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,TRABD2A,TRABD2A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,ATOH1,ATOH1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,UBE2C,UBE2C
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,WFDC2,WFDC2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Goblet cell,CL_0000160,SPINK4,SPINK4

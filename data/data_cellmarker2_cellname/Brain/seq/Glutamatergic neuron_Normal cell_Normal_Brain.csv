@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glutamatergic neuron,CL_0000679,BCL11B,BCL11B
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glutamatergic neuron,CL_0000679,SATB2,SATB2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Glutamatergic neuron,CL_0000679,SLC17A7,SLC17A7

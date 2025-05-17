@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,RA,CD45RA,Human,Respiratory tract,Respiratory tract,Normal,Normal cell,KIR + RA + T cell
+T cell,KIR,KIR,Human,Respiratory tract,Respiratory tract,Normal,Normal cell,KIR + RA + T cell

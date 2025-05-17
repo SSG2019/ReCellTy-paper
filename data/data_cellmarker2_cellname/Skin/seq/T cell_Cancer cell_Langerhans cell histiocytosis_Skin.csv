@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Langerhans cell histiocytosis,Cancer cell,T cell,CL_0000084,CD2,CD2
+Human,Skin,Skin,UBERON_0002097,Langerhans cell histiocytosis,Cancer cell,T cell,CL_0000084,CD3E,CD3E

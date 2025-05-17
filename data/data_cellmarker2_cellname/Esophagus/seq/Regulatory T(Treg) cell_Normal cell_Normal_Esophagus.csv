@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD4,CD4
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IL-10,IL10
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD154,CD40LG
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA-4,CTLA4
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,MAF,MAF
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IFNG,IFNG
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IL17A,IL17A

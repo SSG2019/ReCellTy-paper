@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Cebpb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Lst1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Ifitm3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Tyrobp,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Hp,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Lyz2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Plac8,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,S100a9,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,S100a8,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,Fcer1g,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Neutrophil,CL_0000775,S100a9,

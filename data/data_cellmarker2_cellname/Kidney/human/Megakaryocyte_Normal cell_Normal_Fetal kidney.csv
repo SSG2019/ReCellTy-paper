@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,CTSW,CTSW
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,PLEK,PLEK
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,RASGRP2,RASGRP2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,RAB27B,RAB27B
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,SRGN,SRGN
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Megakaryocyte,CL_0000556,FYB,FYB1

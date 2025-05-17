@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,ICAM1,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Stem cell
+Stem cell,,VCAM1,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Stem cell
+Stem cell,,VIM,Human,Kidney,Kidney,Renal cell carcinoma,Cancer cell,Stem cell

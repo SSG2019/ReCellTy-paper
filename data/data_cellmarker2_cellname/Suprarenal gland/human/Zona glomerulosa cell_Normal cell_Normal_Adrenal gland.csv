@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona glomerulosa cell,,DAB2,DAB2
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona glomerulosa cell,,CYP11B2,CYP11B2
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona glomerulosa cell,,AGTR1,AGTR1

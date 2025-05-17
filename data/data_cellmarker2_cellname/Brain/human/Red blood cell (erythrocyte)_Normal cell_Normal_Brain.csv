@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBG1,HBG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA1,HBA1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBB,HBB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HEMGN,HEMGN

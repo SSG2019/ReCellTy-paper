@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest cell,Cranial,POSTN,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,PLP1,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,TFAP2A,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,MPZ,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,PAX3,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,SOX10,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell

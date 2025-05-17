@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,LGALS1,LGALS1
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,LYZ,LYZ
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,HLA-DRB1,HLA-DRB1
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,HLA-DRA,HLA-DRA
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,FTL,FTL
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CTSL,CTSL
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CTSH,CTSH
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CD74,CD74
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CTSB,CTSB
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CTSS,CTSS
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Mononuclear phagocyte,CL_0000113,CTSZ,CTSZ

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Immature,TCL1A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Immature B cell
+B cell,,PAX5,Human,Bone marrow,Bone marrow,Normal,Normal cell,Immature B cell

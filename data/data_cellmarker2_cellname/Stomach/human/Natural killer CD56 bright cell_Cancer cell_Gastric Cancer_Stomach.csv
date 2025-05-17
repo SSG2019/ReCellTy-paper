@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,MPPED1,MPPED1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,DUSP4,DUSP4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,NIBP,TRAPPC9
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,MUC3B,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,BG255923,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,MADD,MADD
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,PLA2G6,PLA2G6
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,RRAD,RRAD
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,FOXJ1,FOXJ1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell,,XCL1,XCL1

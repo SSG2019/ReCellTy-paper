@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD24,CD24
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,PAX5,PAX5
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Liver,Fetal liver,,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1

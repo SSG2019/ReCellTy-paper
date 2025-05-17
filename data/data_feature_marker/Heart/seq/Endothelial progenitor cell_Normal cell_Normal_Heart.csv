@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial progenitor cell,,CD31,Human,Heart,Heart,Normal,Normal cell,Endothelial progenitor cell
+Endothelial progenitor cell,,PECAM1,Human,Heart,Heart,Normal,Normal cell,Endothelial progenitor cell

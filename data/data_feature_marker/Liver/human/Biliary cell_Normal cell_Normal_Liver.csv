@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Biliary cell,,CFTR,Human,Liver,Liver,Normal,Normal cell,Biliary cell
+Biliary cell,,EPCAM,Human,Liver,Liver,Normal,Normal cell,Biliary cell
+Biliary cell,,KRT7,Human,Liver,Liver,Normal,Normal cell,Biliary cell
+Biliary cell,,KRT19,Human,Liver,Liver,Normal,Normal cell,Biliary cell

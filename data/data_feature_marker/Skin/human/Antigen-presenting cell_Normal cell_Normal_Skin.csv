@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Antigen-presenting cell,Antigen-presenting,HLA-DPB1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DRA,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DQA1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,GITR,TNFRSF18
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,GARP,CNGB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,CD49d,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,CD127,IL7R

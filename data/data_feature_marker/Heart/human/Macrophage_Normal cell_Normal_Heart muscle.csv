@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,CD20,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Cd163,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Mgl2,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Pf4,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,Apoe,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,F13a1,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage
+Macrophage,,MS4A1,Human,Heart,Heart muscle,Normal,Normal cell,Macrophage

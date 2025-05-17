@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Ventricular and atrial,,Normal,Normal cell,Cardiomyocyte,CL_0000746,PCDH7,PCDH7

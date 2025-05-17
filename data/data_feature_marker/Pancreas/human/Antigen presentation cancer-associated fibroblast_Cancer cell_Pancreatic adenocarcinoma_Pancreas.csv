@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Antigen presentation,CD74,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,HLA-DR,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3P,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast

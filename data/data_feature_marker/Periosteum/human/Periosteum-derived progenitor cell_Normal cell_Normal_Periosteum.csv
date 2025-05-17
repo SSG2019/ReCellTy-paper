@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Periosteum-derived,CD166,Human,Periosteum,Periosteum,Normal,Normal cell,Periosteum-derived progenitor cell
+Progenitor cell,Periosteum-derived,CD9,Human,Periosteum,Periosteum,Normal,Normal cell,Periosteum-derived progenitor cell
+Progenitor cell,Periosteum-derived,CD90,Human,Periosteum,Periosteum,Normal,Normal cell,Periosteum-derived progenitor cell
+Progenitor cell,Periosteum-derived,ALCAM,Human,Periosteum,Periosteum,Normal,Normal cell,Periosteum-derived progenitor cell
+Progenitor cell,Periosteum-derived,THY1,Human,Periosteum,Periosteum,Normal,Normal cell,Periosteum-derived progenitor cell

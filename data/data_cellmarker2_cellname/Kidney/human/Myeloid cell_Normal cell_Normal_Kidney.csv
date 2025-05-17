@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Myeloid cell,CL_0000763,CD4,CD4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Myeloid cell,CL_0000763,IL1B,IL1B

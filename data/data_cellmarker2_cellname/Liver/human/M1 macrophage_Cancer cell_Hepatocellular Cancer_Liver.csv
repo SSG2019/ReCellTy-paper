@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,M1 macrophage,CL_0000863,PTGS2,PTGS2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,M1 macrophage,CL_0000863,NOS2,NOS2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,M1 macrophage,CL_0000863,IRF5,IRF5

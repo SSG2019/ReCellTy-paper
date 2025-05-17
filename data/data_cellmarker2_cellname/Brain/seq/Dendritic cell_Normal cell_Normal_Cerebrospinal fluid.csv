@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Leptomeningeal cell,CL_0000708,LUM,LUM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Leptomeningeal cell,CL_0000708,COL1A1,COL1A1

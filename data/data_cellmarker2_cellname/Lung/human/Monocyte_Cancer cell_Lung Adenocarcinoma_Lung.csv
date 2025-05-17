@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD45b,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD11b,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,FCGR1A,FCGR1A
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CSF1R,CSF1R
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CX3CR1,CX3CR1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD163,CD163
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,MARCO,MARCO
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,MRC1,MRC1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,MCEMP1,MCEMP1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CCR2,CCR2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,ITGAM,ITGAM
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,ITGAX,ITGAX
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,MSR1,MSR1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD163,CD163
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,S100A12,S100A12
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte,CL_0000576,FCN1,FCN1

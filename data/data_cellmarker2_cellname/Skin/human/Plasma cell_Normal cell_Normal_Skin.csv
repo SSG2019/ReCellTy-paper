@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Plasma cell,CL_0000786,IGHG1,IGHG1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Plasma cell,CL_0000786,PRDM1,PRDM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1

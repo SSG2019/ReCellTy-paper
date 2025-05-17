@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14 monocyte,,S100A8,S100A8
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14 monocyte,,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14 monocyte,,LYZ,LYZ

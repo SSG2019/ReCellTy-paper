@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,ATOH1,ATOH1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,ISL1,ISL1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,KRT20,KRT20
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,KRT8,KRT8
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,KRT18,KRT18
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Merkel cell,CL_0000242,SOX2,SOX2

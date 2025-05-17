@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD248,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,PDGFRβ,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,αSMA,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,CD13,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,NG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,CD146,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,PDGFR-β,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,ANPEP,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,CSPG4,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte
+Pericyte,,MCAM,Human,Brain,Brain,Glioblastoma,Cancer cell,Pericyte

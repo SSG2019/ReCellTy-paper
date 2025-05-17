@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,Epcam,
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,Krt7,
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,Krt19,

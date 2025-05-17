@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Dopamine,TH,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,SLC6A3,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DRD1,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DRD2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,SLC18A2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DDC,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,NR4A2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,FOXA2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,LMX1A,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,LMX1B,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron

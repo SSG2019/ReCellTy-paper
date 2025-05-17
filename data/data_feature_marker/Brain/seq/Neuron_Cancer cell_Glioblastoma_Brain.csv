@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,CD24,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,PTPRZ1,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,FABP7,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,NCAM2,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,SHISA9,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,NRCAM,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron
+Neuron,,SNAP25,Human,Brain,Brain,Glioblastoma,Cancer cell,Neuron

@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,ITM2C,ITM2C
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,HLA-DPB1,HLA-DPB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,CD79B,CD79B
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,IGHG2,IGHG2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Fcmr,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Ebf1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Cd19,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Fcrl1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Siglecg,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Cd22,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Ly6d,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Ms4a1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Cd79b,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Cd79a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,B cell,CL_0000236,Cd79a,

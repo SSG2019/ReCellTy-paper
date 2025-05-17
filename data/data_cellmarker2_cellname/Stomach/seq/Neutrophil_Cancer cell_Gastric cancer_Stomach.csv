@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,BASP1,BASP1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,FPR1,FPR1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,TNFRSF1A,TNFRSF1A
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,NAMPT,NAMPT
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Neutrophil,CL_0000775,CFLAR,CFLAR

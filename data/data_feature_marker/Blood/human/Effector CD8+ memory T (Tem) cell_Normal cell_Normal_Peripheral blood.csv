@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,GZMB,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,Effector,GNLY,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,Effector,FGFBP2,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,CD8+,GZMB,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,CD8+,GNLY,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,CD8+,CX3CR1,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,CD300A,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,PRSS23,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,SLCO4C1,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,ZEB2,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell
+T cell,memory,PLEKHG3,Human,Blood,Peripheral blood,Normal,Normal cell,Effector CD8+ memory T (Tem) cell

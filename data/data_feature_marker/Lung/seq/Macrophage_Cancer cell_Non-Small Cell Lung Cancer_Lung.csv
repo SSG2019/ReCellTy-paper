@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CSF1R,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Macrophage

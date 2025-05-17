@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,GZMK,GZMK
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,EOMES,EOMES
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell,CL_0000911,KLRG1,KLRG1

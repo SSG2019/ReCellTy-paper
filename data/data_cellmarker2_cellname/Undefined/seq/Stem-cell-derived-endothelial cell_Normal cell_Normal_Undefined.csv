@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-endothelial cell,,TPH1,TPH1
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-endothelial cell,,FEV,FEV
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-endothelial cell,,SLC18A1,SLC18A1
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-endothelial cell,,LMX1A,LMX1A

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast,,CD74,CD74
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast,,SAA3,SAA3P
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast,,HLA-DR,

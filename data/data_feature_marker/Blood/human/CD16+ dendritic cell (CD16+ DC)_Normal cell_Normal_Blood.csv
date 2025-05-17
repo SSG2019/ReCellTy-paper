@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,CD16+,CD16,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)
+Dendritic cell,CD16+,FCGR3A,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)
+Dendritic cell,,CD11c,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)
+Dendritic cell,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)
+Dendritic cell,,CD86,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)
+Dendritic cell,,Slan,Human,Blood,Blood,Normal,Normal cell,CD16+ dendritic cell (CD16+ DC)

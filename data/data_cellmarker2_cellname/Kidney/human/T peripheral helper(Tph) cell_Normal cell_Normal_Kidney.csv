@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,T peripheral helper(Tph) cell,,CXCR3,CXCR3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,T peripheral helper(Tph) cell,,PD-1,PDCD1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,T peripheral helper(Tph) cell,,CCR2,CCR2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,T peripheral helper(Tph) cell,,CD4,CD4

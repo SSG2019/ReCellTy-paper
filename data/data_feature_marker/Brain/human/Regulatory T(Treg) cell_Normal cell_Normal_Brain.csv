@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory T (Treg),FOXP3,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory T (Treg),CTLA4,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory T (Treg),TIGIT,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory T (Treg),IKZF2,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory T (Treg),LAG3,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory T (Treg),HAVCR2,Human,Brain,Brain,Normal,Normal cell,Regulatory T(Treg) cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,COL14A1,COL14A1
+Human,Gastrointestinal tract,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Fibroblast,CL_0000057,CAV1,CAV1

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CTSS,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,Lyz2,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CXCL8,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,IL1B,Human,Skin,Skin,Normal,Normal cell,Myeloid cell

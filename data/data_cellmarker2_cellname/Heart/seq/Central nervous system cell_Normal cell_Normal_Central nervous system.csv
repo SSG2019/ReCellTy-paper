@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Central nervous system,UBERON_0001017,Normal,Normal cell,Central nervous system cell,,PRKG1,PRKG1

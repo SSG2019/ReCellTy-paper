@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,TYROBP,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,C3,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CX3CR1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CSF1R,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Microglial cell

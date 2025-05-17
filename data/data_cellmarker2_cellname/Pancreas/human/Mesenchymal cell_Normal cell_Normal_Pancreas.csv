@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Mesenchymal cell,CL_0008019,THY1,THY1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Mesenchymal cell,CL_0008019,DCN,DCN

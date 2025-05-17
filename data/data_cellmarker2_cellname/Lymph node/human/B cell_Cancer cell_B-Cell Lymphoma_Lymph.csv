@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,RFX7,RFX7
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,RHOA,RHOA
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,HNRNDP,
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,TP53,TP53
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,SMARCA4,SMARCA4
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,FBXO11,FBXO11
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,ID3,ID3
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,TFAP4,TFAP4
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,GNAI2,GNAI2
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,GNA13,GNA13
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,E2F2,E2F2
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,CCND3,CCND3
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,TCF3,TCF3
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,MYC,MYC
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,FOXO1,FOXO1
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,ADNP,ADNP
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,ARID1A,ARID1A
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,DDX3X,DDX3X
+Human,Lymph node,Lymph,UBERON_0002391,B-Cell Lymphoma,Cancer cell,B cell,CL_0000236,PCBP1,PCBP1

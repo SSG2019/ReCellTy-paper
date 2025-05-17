@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD5,CD5
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD14,CD14
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD44,CD44
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD72,CD72
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD13,ANPEP
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD15,FUT4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD54,ICAM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD49f,ITGA6
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD29,ITGB1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD10,MME
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD73,NT5E
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD31,PECAM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD71,TFRC
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD90,THY1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD106,VCAM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD105,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,CD49d,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Mesoderm cell,CL_0000222,STRO-1,

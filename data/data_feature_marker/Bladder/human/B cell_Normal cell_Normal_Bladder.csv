@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Bladder,Bladder,Normal,Normal cell,B cell
+B cell,specific_feature_or_function,MZB1,Human,Bladder,Bladder,Normal,Normal cell,B cell

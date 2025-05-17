@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Zygote,,H1FOO,Human,Embryo,Embryo,Normal,Normal cell,Zygote
+Zygote,,ACCSL,Human,Embryo,Embryo,Normal,Normal cell,Zygote
+Zygote,,CLEC10A,Human,Embryo,Embryo,Normal,Normal cell,Zygote
+Zygote,,H1-8,Human,Embryo,Embryo,Normal,Normal cell,Zygote

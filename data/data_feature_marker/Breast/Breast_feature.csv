@@ -1,0 +1,1294 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,,SCARA5,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,APOD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,DLK1,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,CFD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Fibroblast,Cancer-associated,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Cancer-associated,CLU,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+B cell,,CD20,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,BANK1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD40,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,TMP1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGHD,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD38,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGHM,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD27,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGLL5,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGLL1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGJ,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,SSR4,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,B cell
+B cell,,CD20,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Breast,Breast,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Breast,Breast,Normal,Normal cell,B cell
+B cell,,CCDC50,Human,Breast,Milk,Normal,Normal cell,B cell
+B cell,,TCF4,Human,Breast,Milk,Normal,Normal cell,B cell
+B cell,,SEL1L3,Human,Breast,Milk,Normal,Normal cell,B cell
+B cell,Regulatory,CD24,Human,Breast,Breast,Invasive breast cancer,Cancer cell,B10 Regulatory B cell
+B cell,B10,CD38,Human,Breast,Breast,Invasive breast cancer,Cancer cell,B10 Regulatory B cell
+B cell,,CD19,Human,Breast,Breast,Invasive breast cancer,Cancer cell,B10 Regulatory B cell
+Basal cell,,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KRT14,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KRT17,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,CK14,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,MYLK,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,ACTA2,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,SNAI2,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,KRT14,Human,Breast,Breast,Normal,Normal cell,Basal cell
+epithelial cell,,CK14,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Basal epithelial cell
+epithelial cell,,CD104,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Basal epithelial cell
+epithelial cell,,KRT14,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Basal epithelial cell
+epithelial cell,,ITGB4,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Basal epithelial cell
+Basal epithelial cell,,TP63,Human,Breast,Breast,Normal,Normal cell,Basal epithelial cell
+Basal epithelial cell,,KRT14,Human,Breast,Breast,Normal,Normal cell,Basal epithelial cell
+Basal epithelial cell,,KRT5,Human,Breast,Breast,Normal,Normal cell,Basal epithelial cell
+Basal progenitor cell,,WIF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,ACTA3,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,MYLK,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,ACTG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Progenitor cell,Basal,CD49f,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,Basal,ITGA6,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,CD44,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,CD24,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Breast cancer stem-like cell,stem-like,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Breast cancer stem-like cell
+Breast cancer stem-like cell,Breast cancer,GD2,Human,Breast,Breast,Breast Cancer,Cancer cell,Breast cancer stem-like cell
+Cancer cell,,STAT1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,RIC8A,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,IRF9,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,ISG15,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,STAT2,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,JAK1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CDH1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CTNNA1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,GNA13,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,OAS1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,Cancer,CSC,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,EMT,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,BRCA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,BRCA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,ERBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,HER-2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VCAM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,SELE,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,SELP,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,CD36,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,PD-1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,PDCD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,NOTCH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,IGFIR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VEGFR2/KDR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,Cancer,VEGFR3/FLT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CK19,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,HER2,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,KRT7,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,TTF-1,Human,Breast,Breast,Metastatic breast cancer,Cancer cell,Cancer cell
+Cancer cell,,GATA3,Human,Breast,Breast,Metastatic breast cancer,Cancer cell,Cancer cell
+Cancer cell,,ER,Human,Breast,Breast,Metastatic breast cancer,Cancer cell,Cancer cell
+Cancer cell,,NKX2-1,Human,Breast,Breast,Metastatic breast cancer,Cancer cell,Cancer cell
+Cancer cell,,EREG,Human,Breast,Breast,Metastatic breast cancer,Cancer cell,Cancer cell
+Cancer cell,,MKI67,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer cell
+Cancer stem cell,stem,SOX2,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,Nanog,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,BMI1,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,OCT4,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,POU5F1,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ALDH,Human,Breast,Breast,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD44,Human,Breast,Breast,Breast cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH,Human,Breast,Breast,Breast cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD44,Human,Breast,Mesenchyme,Breast Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,GLI1,Human,Breast,Breast,Ductal Breast Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH2,Human,Breast,Breast,Invasive micropapillary carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,POU5F1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer stem cell
+Fibroblast,Cancer-associated,PDGFRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDPN,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRA,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDPN,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRB,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRα/β,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Galectin-1,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Caveolin-1,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,α-SMA,Human,Breast,Breast,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD4+,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD4+ T cell
+T cell,,CD40LG,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD4+ T cell
+T cell,,IL7R,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD4+ T cell
+T cell,CD8+,CD8,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,HLA-E,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,CXCL10,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,IDO1,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,HLA-DRA,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,CXCL9,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,,STAT1,Human,Breast,Breast,Breast Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMH,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD8+ T cell
+T cell,,IL17,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,IL7R,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,CD45RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,CD127,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,DUSP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,IL17A,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+epithelial,Cycling,MKI67,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Cycling epithelial cell
+T cell,Cytotoxic,PRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,CD8,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,CD8,CD8,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Activation,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+Dendritic cell,Antigen Presentation,HLA-DQB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DPB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DPA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Immune Response,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Subset Identification,CD1C,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Immune Modulation,NRP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,REL,Human,Breast,Milk,Normal,Normal cell,Dendritic cell
+Dendritic cell,,NR4A3,Human,Breast,Milk,Normal,Normal cell,Dendritic cell
+T cell,Effector,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Effector CD8 T cell
+T cell,CD8,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Effector CD8 T cell
+Cancer stem cell,EMT,EPCAM,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT cancer stem cell
+Cancer stem cell,EMT,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT cancer stem cell
+non-cancer stem cell,EMT,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT non-cancer stem cell(EMT non-CSC)
+Endothelial cell,,CD31,Human,Breast,Breast,Breast cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Breast,Breast cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PTPRB,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SOX18,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,KDR,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD36,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Endothelial cell,Progenitor,CD36,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Endothelial progenitor cell
+Eosinophil,,SORL1,Human,Breast,Milk,Normal,Normal cell,Eosinophil
+Eosinophil,,CORO1A,Human,Breast,Milk,Normal,Normal cell,Eosinophil
+Epithelial cell,,EpCAM,Human,Breast,Breast,Breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK,Human,Breast,Breast,Breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CHKA,Human,Breast,Breast,Breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK18,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Epithelial cell
+Epithelial cell,,ACTA2,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ESR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Cytokeratin,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EMA,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,GCDFP15,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-18,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD166,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD117,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SMA,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,P63,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1/E-cadherin,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ZO-1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CK14,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,cytokeratins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,desmoplakins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,S100A9,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MCAM,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ETFA,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PIP,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ALCAM,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KIT,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SMN1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TJP1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Dclk1,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt1,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Fezf2,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Itga6,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ly6a,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ccl21a,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ivl,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Spink5,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Aire,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Avil,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,progenitor,CD44,Human,Breast,Breast,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,progenitor,CD24,Human,Breast,Breast,Normal,Normal cell,Epithelial progenitor cell
+cancer stem cell,Epithelial-mesenchymal transition,ALDH1A3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell
+cancer stem cell,Epithelial-mesenchymal transition,ALDH1A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell
+T cell,Exhausted,HAVCR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,CXCL13,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,GNLY,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,GPR25,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,GPR25,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted T(Tex) cell
+Fibroblast,,DCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,VIM,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,SPARC,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PN1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,POSTN,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,CXCL12,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,MMP11,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,SERPINE2,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,S100A4,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,ITGB1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,POSTN,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK18,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK19,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK8,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,KRT19,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,KRT8,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINH1,Human,Breast,Milk,Normal,Normal cell,Fibroblast
+Fibroblast,,PTN,Human,Breast,Milk,Normal,Normal cell,Fibroblast
+T cell,Gamma delta(γδ),CXCR6,Human,Breast,Breast,Breast Cancer,Cancer cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),CCR5,Human,Breast,Breast,Breast Cancer,Cancer cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TCRγδ,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Gamma delta(γδ) T cell
+B cell,GrB+,CD1d,Human,Breast,Breast,Breast Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD1d,Human,Breast,Breast,Breast Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD38,Human,Breast,Breast,Breast Cancer,Cancer cell,GrB+ Regulatory B cell
+Hematopoietic cell,,CD45,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,CD140b,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Breast,Breast,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Breast,Breast,Normal,Normal cell,Hematopoietic cell
+Hematopoietic stem cell,,CD34,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD133,Human,Breast,Breast,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD34,Human,Breast,Breast,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD117,Human,Breast,Breast,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PROM1,Human,Breast,Breast,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,KIT,Human,Breast,Breast,Normal,Normal cell,Hematopoietic stem cell
+Immune cell,,PTPRC,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Immune cell
+Immune cell,,CD86,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD45,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD13,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD14,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD209,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,HLA-DR,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD83,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,ANPEP,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Leukocyte,,CD45,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Leukocyte
+Leukocyte,,PTPRC,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Leukocyte
+Luminal cell,,KRT8,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT18,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal cell
+Luminal cell,,CK8,Human,Breast,Breast,Normal,Normal cell,Luminal cell
+Luminal cell,,KRT8,Human,Breast,Breast,Normal,Normal cell,Luminal cell
+Luminal cell,,KRT19,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,EPCAM,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,KRT18,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal epithelial cell,,MKI67,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT15,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT23,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT81,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,MUC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ERBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,AR,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CDH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,Cytokeratin-19,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,ESA,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,MUC,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,EMA,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,CK18,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,SYTL2,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,ANKRD30A,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,FLOT2,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal epithelial cell,,ETFA,Human,Breast,Breast,Normal,Normal cell,Luminal epithelial cell
+Luminal progenitor cell,Luminal,GABRP,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,EZH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,Luminal,EpCAM,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Luminal,KRT19,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,c-Kit,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,CD49f,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,PROM1,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,Progenitor,KIT,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Endothelial cell,Lymphatic,LYVE1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Lymphatic endothelial cell
+Lymphocyte,,sTIL,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,PD-L1,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD274,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Macrophage,M1,SOCS3,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+Macrophage,M1,CXCL10,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+Macrophage,M1,CXCL9,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+macrophage,M1,iNOS,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,M1 macrophage
+macrophage,M1,CD40,Human,Breast,Breast,Normal,Normal cell,M1 macrophage
+macrophage,,CD68,Human,Breast,Breast,Normal,Normal cell,M1 macrophage
+Macrophage,M2,MARCO,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,NRP2,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,CD206,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+macrophage,M2,CD163,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,M2 macrophage
+Macrophage,M2,MERTK,Human,Breast,Breast,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Breast,Breast,Normal,Normal cell,M2 macrophage
+Macrophage,M2,ARG1,Human,Breast,Breast,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Breast,Breast,Normal,Normal cell,M2 macrophage
+Macrophage,,MACRO,Human,Breast,Breast,Normal,Normal cell,M2 macrophage
+Macrophage,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,ITGAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LYZ,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,MSR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,IL1B,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CLEC5A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD209,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Macrophage
+Macrophage,,CDH5,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD11c,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Mammary stem cell,,CK5,Human,Breast,Breast,Breast Cancer,Cancer cell,Mammary stem cell
+Mammary stem cell,,KRT5,Human,Breast,Breast,Breast Cancer,Cancer cell,Mammary stem cell
+Mast cell,,TPSD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CMA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CTSG,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,tryptase,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Mast cell
+Mature luminal cell,,ANKRD30A,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,AGR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,FOXA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,AFF6,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,PGR,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Mature luminal cell,,ESR1,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Mature luminal cell,,FOXA1,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Melanocyte,,MLANA,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Melanocyte
+Mesenchymal cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ZEB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,SNAI1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIMENTIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ZEB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ETS1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD90,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Src,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,EGFR,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FAK,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Cav-1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Rac1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TIMP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TGFB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FBN1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PLAT,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TGFBR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,SPARC,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CTSC,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FBLN5,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,MMP2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TWIST1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,N-Cadherin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Fibronectin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Twist,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,vimentin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,proteases,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,collagens,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,MSN,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,fibronectin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Twist1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Slug,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Snail,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PTK2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Zeb-1,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Snail,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD248,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD59,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,fibronectins,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FAP,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,MCAM,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ECM1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal stem cell,,CD105,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NOTCH4,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal stem cell
+Monocyte,,CD33,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,ITGAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Muscle cell,,ACTA2,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MYH11,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MCAM,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MYL9,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Myeloid cell,,CD16,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD86,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD127,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD49f,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,PD-L1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD141,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,IL7R,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,ITGA6,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD274,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,THBD,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD11c,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11b,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid dendritic cell,,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid dendritic cell
+Myeloid dendritic cell,,LAMP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid dendritic cell
+Myo-epithelial cell,,KRT5,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Myo-epithelial cell,,KRT17,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Myo-epithelial cell,,KRT14,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Myoepithelial cell,,CK14,Human,Breast,Breast,Ductal Breast Carcinoma,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,KRT14,Human,Breast,Breast,Ductal Breast Carcinoma,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,p63,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,calponin,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,smooth muscle myosin heavy chain,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,Alkaline phosphatase,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,P63,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,SMA,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,P-cadherin,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,Calponin,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,Galectin-7,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,CD29,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,CD44,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,CD10,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,Cytokeratin-14,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,SMN1,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,ITGB1,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,MME,Human,Breast,Breast,Normal,Normal cell,Myoepithelial cell
+Myofibroblast,,COL3A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,SDC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,SERPINH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+T cell,Naive,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+B cell,Memory,CD38,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive memory B cell
+B cell,Naive,IgD,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive memory B cell
+T cell,Naive,CD45RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Th0,LEF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,KLRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR3DL2,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR2DS4,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR3DL1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR2DL1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR3DL3,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR2DL4,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,CD56,CD56,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic,NKG7,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,Inhibitory receptor,KIR2DL4,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HAVR2C,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,CD56,NCAM1,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,NCR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,Natural killer,GNLY,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRD1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,T,CD3D,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+Neutrophil,,C5aR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Neutrophil
+Neutrophil,,CSF3R,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Neutrophil,,IL8,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCL8,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Paget cell,,KRT7,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,MUC1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,GATA3,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,VIM,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,MYD88,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,PIP,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,AR,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,PDPN,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,MMP9,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,KRT8,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+macrophage,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Pan-macrophage
+Pericyte,,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,DCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,COL1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,MYH11,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,MCAM,Human,Breast,Breast,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Breast,Breast,Normal,Normal cell,Pericyte
+Perivascular cell,,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,ITGB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,RGS5,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,S100A4,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,MYH11,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular-like cell,Perivascular,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular-like cell,Perivascular,CD146,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular-like cell,Perivascular,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular-like cell,Perivascular,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Plasma cell,,IGHG1,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGKC,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD79A,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG4,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Plasma cell
+Plasma cell,,IgLC7,Human,Breast,Breast,Normal,Normal cell,Plasma cell
+Plasma cell,,IgHA1,Human,Breast,Breast,Normal,Normal cell,Plasma cell
+B cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmablast
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Cancer cell,Giant,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell
+Cancer cell,Polyploid,CD133,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell
+Cancer cell,Polyploid,PROM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell
+Progenitor cell,,CD44,Human,Breast,Mammary gland,Breast Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,CD44,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD24,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD29,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD49f,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,P63,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ITGB1,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ITGA6,Human,Breast,Breast,Normal,Normal cell,Progenitor cell
+T cell,Proliferating,MKI67,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Proliferating T cell
+cell,Proliferative,MKI67,Human,Breast,Breast,Breast Cancer,Cancer cell,Proliferative cell
+Red blood cell,erythrocyte,HBB,Human,Breast,Blood,Breast Cancer,Cancer cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBA2,Human,Breast,Blood,Breast Cancer,Cancer cell,Red blood cell (erythrocyte)
+Red blood cell,,CD235a GYPA,Human,Breast,Breast,Breast Cancer,Cancer cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TGFB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,STAT5B,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,Foxp3,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CCR8,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,LAYN,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Breast,Breast,Normal,Normal cell,Regulatory T(Treg) cell
+Stem cell,Stemness,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD90,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,EpCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD49f,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,LGR5,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD133,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1B1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ID2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,EGFR,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,KLF4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,NANOG,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ABCG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,LGR4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,OCT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,MET,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CD61,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CXCR4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,Adhesion,CD29,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,,CDH5,Human,Breast,Breast,Metaplastic breast carcinoma ,Cancer cell,Stem cell
+Stem cell,,OCT4,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,Nanog,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,Notch2,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,KLF4,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,POU5F1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Stem cell
+Stem cell,,LGR6,Human,Breast,Breast,Normal,Normal cell,Stem cell
+Stem cell,,Procr,Human,Breast,Breast,Normal,Normal cell,Stem cell
+Stem cell,,Procr,Human,Breast,Mammary gland,Normal,Normal cell,Stem cell
+Stromal cell,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stromal cell
+Epithelial cell,Suprabasal,KRT10,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Suprabasal epithelial cell
+T cell,,CD3,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD28,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD8,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,ICOC,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,41BB,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,IFIT1,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CCL5,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD7,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CFD,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,GZMK,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,CD4+,markerA,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,CD4+,markerC,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,Effector,markerB,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,Effector,markerD,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,Effector,markerE,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,T cell
+T cell,,CD3,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,,CD5,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8a,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,Helper,CD4,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,,ETS1,Human,Breast,Milk,Normal,Normal cell,T cell
+T cell,T follicular helper,BCL6,Human,Breast,Breast,Breast Cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,IL21,Human,Breast,Breast,Breast Cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Breast,Breast,Breast Cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,CXCL13,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD200,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,T helper 1 (Th1),ZEB2,Human,Breast,Breast,Breast Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,T helper (Th),CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,T helper(Th) cell
+B cell,,CD20,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating B cell
+B cell,,MS4A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating B cell
+T cell,Tumor-infiltrating,CD8,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+T cell,Tumor-infiltrating,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor-infiltrating T cell
+cell,Tumor-initiating,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Tumor-initiating cell
+Macrophage,Tumor-associated,SIGLEC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,CD163,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,PLOD2,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,LOX,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,CCL2,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,IL10,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,APOE,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,MARCO,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,TREM2,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CD163,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,MRC1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CX3CR1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Adipocyte,,SCARA5,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,APOD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,DLK1,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Adipocyte,,CFD,Human,Breast,Fat pad,Breast Cancer,Cancer cell,Adipocyte
+Fibroblast,Cancer-associated,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Cancer-associated,CLU,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+B cell,,CD19,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,BANK1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD40,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,TMP1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD20,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGHD,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD38,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGHM,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD27,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGLL5,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGLL1,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,IGJ,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,SSR4,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,B cell
+B cell,,CD19,Human,Breast,Breast,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Breast,Breast,Normal,Normal cell,B cell
+B cell,,CCDC50,Human,Breast,Milk,Normal,Normal cell,B cell
+B cell,,TCF4,Human,Breast,Milk,Normal,Normal cell,B cell
+B cell,,SEL1L3,Human,Breast,Milk,Normal,Normal cell,B cell
+Basal cell,,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KRT14,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,KRT17,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal cell
+Basal cell,,MYLK,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,ACTA2,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,SNAI2,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Breast,Breast,Normal,Normal cell,Basal cell
+Basal progenitor cell,,WIF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,ACTA3,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,MYLK,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Basal progenitor cell,,ACTG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Basal progenitor cell
+Cancer cell,,STAT1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,RIC8A,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,IRF9,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,ISG15,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,STAT2,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,JAK1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CDH1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CTNNA1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,GNA13,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,OAS1,Human,Breast,Breast,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,ARHGAP10,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,EDNRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SELP,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TLL1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SEMA6A,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CDH5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CPNE1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TPST2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,FASLG (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CRYBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SULF2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KLRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SELE,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ALPI,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,FAM177A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ADH1B,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,AKR1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CAMK1D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CHST15,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,GOLM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ISLR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD36,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PRDM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,B3GNT2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TMPRSS11D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VEGFR3/FLT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,STOM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TNS2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,MET,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VCAM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VEGFR2/KDR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,JAG1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IGFIR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,THSD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PSD,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IL3RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,LIFR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TIE1 (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,C1GALT1C1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ENG,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,RSPO3,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,DOCK9,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,NOTCH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT8,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PBCS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,pKARMA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CPS-II,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,MCCS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,UKBGS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A7,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,KRT7,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Breast,Breast,Ductal carcinoma in situ,Cancer cell,Cancer cell
+Cancer cell,,MKI67,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer cell
+Cancer stem cell,,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,ALDH,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,BMI1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,GTAT3,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,SOX9,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,ALDH6A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,ALDH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Breast,Mesenchyme,Breast Cancer,Cancer cell,Cancer stem cell
+Fibroblast,Cancer-associated,PDGFRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDPN,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,COL1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRA,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDPN,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRB,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,COL1A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,THY1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Cancer-associated fibroblast
+T cell,,CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,CD4+ T cell
+T cell,,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD40LG,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,IL7R,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD4+ T cell
+T cell,CD8+,GZMH,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,CD8+ T cell
+T cell,Conventional T (Tconv),IL7R,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD127,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),DUSP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+Epithelial cell,Cycling,MKI67,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Cycling epithelial cell
+T cell,Cytotoxic,PRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3E,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD28,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+Dendritic cell,,REL,Human,Breast,Milk,Normal,Normal cell,Dendritic cell
+Dendritic cell,,NR4A3,Human,Breast,Milk,Normal,Normal cell,Dendritic cell
+T cell,Effector,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Effector CD8 T cell
+T cell,CD8,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Effector CD8 T cell
+Cancer stem cell,EMT,EPCAM,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT cancer stem cell
+Cancer stem cell,EMT,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT cancer stem cell
+non-cancer stem cell,EMT,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT non-cancer stem cell(EMT non-CSC)
+Endothelial cell,,CDH5,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,EMCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PTPRB,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SOX18,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,KDR,Human,Breast,Muscle,Breast Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD36,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Breast,Breast,Normal,Normal cell,Endothelial cell
+Eosinophil,,SORL1,Human,Breast,Milk,Normal,Normal cell,Eosinophil
+Eosinophil,,CORO1A,Human,Breast,Milk,Normal,Normal cell,Eosinophil
+Epithelial cell,,KRT8,Human,Breast,Breast,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Breast,Breast,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Epithelial cell
+Epithelial cell,,ACTA2,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ESR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial cell
+Epithelial cell,,cytokeratins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,desmoplakins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,S100A9,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Dclk1,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt1,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Fezf2,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Itga6,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ly6a,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ccl21a,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Ivl,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Spink5,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Aire,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Avil,Human,Breast,Thymus,Normal,Normal cell,Epithelial cell
+Cancer stem cell,Epithelial-mesenchymal transition,ALDH1A3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell
+Cancer stem cell,Epithelial-mesenchymal transition,ALDH1A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell
+T cell,Exhausted,HAVCR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,CXCL13,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,ENTPD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,GPR25,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,,INPP5F,Human,Breast,Breast,Breast Cancer,Cancer cell,Exhausted T(Tex) cell
+Fibroblast,,DCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,VIM,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,SPARC,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PN1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,POSTN,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,CXCL12,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,MMP11,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,SERPINE2,Human,Breast,Muscle,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,S100A4,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,ITGB1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Fibroblast
+Fibroblast,,POSTN,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINH1,Human,Breast,Milk,Normal,Normal cell,Fibroblast
+Fibroblast,,PTN,Human,Breast,Milk,Normal,Normal cell,Fibroblast
+Hematopoietic cell,,CD140b,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Breast,Breast,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Breast,Breast,Normal,Normal cell,Hematopoietic cell
+Immune cell,,PTPRC,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Immune cell
+Luminal cell,,KRT8,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT18,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT19,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,EPCAM,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,KRT18,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal epithelial cell,,MKI67,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT15,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT23,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KRT81,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CD24,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,MUC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ERBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,AR,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CDH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal epithelial cell
+Progenitor cell,Luminal,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Progenitor cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Progenitor cell,,EZH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,,KIT,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Luminal progenitor cell,,TNFRSF11A,Human,Breast,Breast,Normal,Normal cell,Luminal progenitor cell
+Lymphatic endothelial cell,,LYVE1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Lymphatic endothelial cell
+Lymphocyte,,sTIL,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,PD-L1,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD274,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+macrophage,M1,SOCS3,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+macrophage,M1,CXCL10,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+macrophage,,CXCL9,Human,Breast,Breast,Breast Cancer,Cancer cell,M1 macrophage
+Macrophage,M2,MARCO,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,NRP2,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,CD276,Human,Breast,Breast,Breast Cancer,Cancer cell,M2 macrophage
+Macrophage,,ITGAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LYZ,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,MSR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,IL1B,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CLEC5A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD11c,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Breast,Breast,Normal,Normal cell,Macrophage
+Mast cell,,TPSD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CMA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CTSG,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+luminal cell,Mature,ANKRD30A,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+luminal cell,Mature,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+luminal cell,Mature,AGR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+luminal cell,Mature,FOXA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+luminal cell,,AFF6,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+luminal cell,Mature,PGR,Human,Breast,Breast,Breast Cancer,Cancer cell,Mature luminal cell
+Mature luminal cell,,PGR,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Mature luminal cell,,ESR1,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Mature luminal cell,,FOXA1,Human,Breast,Breast,Normal,Normal cell,Mature luminal cell
+Melanocyte,,MLANA,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Melanocyte
+Mesenchymal cell,,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD90,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,Extracellular matrix, fibronectins FN1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Cell migration, Vimentin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Cell-cell adhesion, N-cadherin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Tissue remodeling, FAP,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Cell-cell adhesion, CDH2,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Monocyte,,CD33,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,ITGAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Breast,Breast,Normal,Normal cell,Monocyte
+Muscle cell,,ACTA2,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MYH11,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MCAM,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Muscle cell,,MYL9,Human,Breast,Muscle,Breast Cancer,Cancer cell,Muscle cell
+Myeloid cell,,CD16,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD86,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD127,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD49f,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,PD-L1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD141,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,IL7R,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,ITGA6,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD274,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,THBD,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD11c,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11b,Human,Breast,Breast,Normal,Normal cell,Myeloid cell
+Myeloid dendritic cell,,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid dendritic cell
+Myeloid dendritic cell,,LAMP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Myeloid dendritic cell
+Epithelial cell,Myo,KRT5,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Epithelial cell,Myo,KRT17,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Epithelial cell,Myo,KRT14,Human,Breast,Muscle,Breast Cancer,Cancer cell,Myo-epithelial cell
+Myofibroblast,,COL3A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,SDC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,SERPINH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Myofibroblast
+T cell,Naive,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive CD4 T cell
+T cell,Naive,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Th0,LEF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,KLRB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HAVR2C,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,NCR1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,Natural killer,GNLY,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRD1,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+T cell,,CD3D,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Natural killer T(NKT) cell
+Neutrophil,,CSF3R,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Neutrophil,,IL8,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCL8,Human,Breast,Milk,Normal,Normal cell,Neutrophil
+Paget cell,Epithelial,KRT7,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Epithelial,MUC1,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Epithelial,KRT8,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,GATA3,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,PIP,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,Breast cancer,AR,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,EMT and Metastasis,VIM,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,EMT and Metastasis,MMP9,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,MYD88,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Paget cell,,PDPN,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Paget cell
+Pericyte,,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,DCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,COL1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,MYH11,Human,Breast,Breast,Breast Cancer,Cancer cell,Pericyte
+Pericyte,,MCAM,Human,Breast,Breast,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Breast,Breast,Normal,Normal cell,Pericyte
+cell,Perivascular,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,RGS5,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,MYH11,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+Perivascular cell,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular cell,,CD146,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular cell,,MCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Perivascular cell,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular-like cell
+Plasma cell,,IGHG1,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGKC,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD79A,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG2,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG4,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Plasma cell
+Plasma cell,,IgLC7,Human,Breast,Breast,Normal,Normal cell,Plasma cell
+Plasma cell,,IgHA1,Human,Breast,Breast,Normal,Normal cell,Plasma cell
+Plasmablast,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmablast
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,JCHAIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,Proliferating,MKI67,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Proliferating T cell
+cell,Proliferative,MKI67,Human,Breast,Breast,Breast Cancer,Cancer cell,Proliferative cell
+Red blood cell,,HBB,Human,Breast,Blood,Breast Cancer,Cancer cell,Red blood cell (erythrocyte)
+Red blood cell,,HBA2,Human,Breast,Blood,Breast Cancer,Cancer cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CCR8,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,LAYN,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,BATF,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,Regulatory T(Treg) cell
+Stem cell,,ALDH1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,,ID2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,,EGFR,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,,KLF4,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stem cell,,LEPR,Human,Breast,Breast,Breast Cancer,Cancer cell,Stem cell
+Stromal cell,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Stromal cell
+Epithelial cell,,KRT10,Human,Breast,Skin,Extra-Mammary Paget’s Disease,Cancer cell,Suprabasal epithelial cell
+T cell,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD28,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CCL5,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD7,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CFD,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,GZMK,Human,Breast,Breast,Breast Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T cell
+T cell,,CD8a,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,,CD4,Human,Breast,Breast,Normal,Normal cell,T cell
+T cell,,ETS1,Human,Breast,Milk,Normal,Normal cell,T cell
+T cell,T follicular helper,IL21,Human,Breast,Breast,Breast Cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Breast,Breast,Breast Cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CXCL13,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD200,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,T follicular helper(Tfh) cell
+T cell,T helper 1 (Th1),ZEB2,Human,Breast,Breast,Breast Cancer,Cancer cell,T helper 1(Th1) cell
+Macrophage,Tumor-associated,CD163,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,MRC1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,,Mar1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,,CX3CR1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,,SETMAR,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)

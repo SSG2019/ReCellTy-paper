@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,Endocan,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Endothelial cell,CL_0000115,CLDN5,CLDN5

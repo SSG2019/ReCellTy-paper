@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Muscle,UBERON_0005090,Normal,Normal cell,Progenitor cell,CL_0011026,HAPLN1,HAPLN1
+Human,Embryo,Muscle,UBERON_0001630,Normal,Normal cell,Progenitor cell,CL_0011026,S100A11,S100A11
+Human,Embryo,Muscle,UBERON_0005090,Normal,Normal cell,Progenitor cell,CL_0011026,S100A11,S100A11
+Human,Embryo,Muscle,UBERON_0001630,Normal,Normal cell,Progenitor cell,CL_0011026,HAPLN1,HAPLN1

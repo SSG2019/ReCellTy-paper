@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD19,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD24,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD38,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,B10 Regulatory B cell
+B cell,Regulatory,CD27,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,B10 Regulatory B cell

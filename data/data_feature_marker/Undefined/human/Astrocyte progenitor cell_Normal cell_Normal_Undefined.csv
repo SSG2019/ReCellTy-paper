@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,Progenitor,WIF1,Human,Undefined,Undefined,Normal,Normal cell,Astrocyte progenitor cell
+Astrocyte,,AGXT2L1,Human,Undefined,Undefined,Normal,Normal cell,Astrocyte progenitor cell
+Astrocyte,,ETNPPL,Human,Undefined,Undefined,Normal,Normal cell,Astrocyte progenitor cell

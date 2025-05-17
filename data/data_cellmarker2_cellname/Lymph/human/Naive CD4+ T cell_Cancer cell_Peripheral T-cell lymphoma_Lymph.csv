@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell,CL_0000895,PD1,PDCD1
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell,CL_0000895,CXCR5,CXCR5
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell,CL_0000895,GATA3,GATA3
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell,CL_0000895,TBX21,TBX21

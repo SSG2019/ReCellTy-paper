@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,Classical,CD38,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell
+Plasma cell,Classical,SDC1,Human,Uterus,Uterus,Normal,Normal cell,Classical plasma cell

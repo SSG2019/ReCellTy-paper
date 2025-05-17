@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,CCL22,CCL22
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,CD83,CD83
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,LAMP3,LAMP3
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,FSCN1,FSCN1
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,IDO1,IDO1
+Human,Undefined,Undefined,,Normal,Normal cell,CCR7+ dendritic cell,,BIRC3,BIRC3

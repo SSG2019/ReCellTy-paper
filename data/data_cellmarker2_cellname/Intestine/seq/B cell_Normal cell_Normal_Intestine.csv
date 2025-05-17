@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,B cell,CL_0000236,MEF2B,MEF2B
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,B cell,CL_0000236,CD45,PTPRC

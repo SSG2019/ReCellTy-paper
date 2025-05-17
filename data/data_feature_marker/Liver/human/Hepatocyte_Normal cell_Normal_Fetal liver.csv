@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatocyte,,Cytokeratin-19,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,Albumin,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,c-Met,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,a-fetoprotein (AFP),Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,HNF4A,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,FXYD1,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,GJB1,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,PPARG,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,SMAD1,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,NR1H2,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte
+Hepatocyte,,MET,Human,Liver,Fetal liver,Normal,Normal cell,Hepatocyte

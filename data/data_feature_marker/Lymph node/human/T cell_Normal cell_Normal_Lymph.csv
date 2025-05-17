@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD103,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,TRAV1-2,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,LAG3,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,PRF1,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMB,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,ENTPD1,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,HAVCR2,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,ITGAE,Human,Lymph node,Lymph,Normal,Normal cell,T cell

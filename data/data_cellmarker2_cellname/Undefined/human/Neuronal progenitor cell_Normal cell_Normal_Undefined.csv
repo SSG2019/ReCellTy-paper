@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neuronal progenitor cell,,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuronal progenitor cell,,PAX6,PAX6
+Human,Undefined,Undefined,,Normal,Normal cell,Neuronal progenitor cell,,MAP2,MAP2

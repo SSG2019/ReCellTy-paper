@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,AIF1,AIF1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CD53,CD53
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CD209,CD209
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68

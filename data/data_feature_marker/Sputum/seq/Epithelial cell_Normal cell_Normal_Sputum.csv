@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,SCEL,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT80,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT78,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell

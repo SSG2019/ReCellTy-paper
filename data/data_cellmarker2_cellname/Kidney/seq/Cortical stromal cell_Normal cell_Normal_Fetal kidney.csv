@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Cortical stromal cell,,SERPINE2,SERPINE2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Cortical stromal cell,,DES,DES
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Cortical stromal cell,,COL3A1,COL3A1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Cortical stromal cell,,DCN,DCN

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal cell,CL_0008019,CSF1,CSF1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal cell,CL_0008019,CCL2,CCL2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal cell,CL_0008019,CXCL2,CXCL2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Mesenchymal cell,CL_0008019,HIF1A,HIF1A

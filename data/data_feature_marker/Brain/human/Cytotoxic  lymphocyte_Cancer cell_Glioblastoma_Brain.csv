@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,Cytotoxic,ITK,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,CD27,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,CD3G,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,TNFRSF9,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,HSH2D,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,ZNF683,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,ICOS,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte
+Lymphocyte,Cytotoxic,LAX1,Human,Brain,Brain,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte

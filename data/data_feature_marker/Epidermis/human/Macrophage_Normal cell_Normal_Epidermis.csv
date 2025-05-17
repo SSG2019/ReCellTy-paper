@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CSF1R,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD87,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD83,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,PLAUR,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage

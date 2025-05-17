@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Periodontium,Periodontium,UBERON_0001758,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PDPN,PDPN

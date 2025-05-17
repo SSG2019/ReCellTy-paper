@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Plasma cell,CL_0000786,CD138,SDC1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Plasma cell,CL_0000786,IGHM,IGHM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Plasma cell,CL_0000786,CD38,CD38
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Plasma cell,CL_0000786,IGHG1,IGHG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Plasma cell,CL_0000786,IGHA,

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CCR7,CCR7
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD45RA,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD4,CD4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD27,CD27
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD127,IL7R
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD31,PECAM1

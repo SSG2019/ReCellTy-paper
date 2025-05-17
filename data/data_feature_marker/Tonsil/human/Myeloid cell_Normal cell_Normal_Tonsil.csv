@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CDw32,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD16,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD35,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR2A,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CR1,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell

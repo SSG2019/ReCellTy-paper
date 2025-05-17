@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,CD133,Human,Larynx,Larynx,Larynx Cancer,Cancer cell,Cancer stem cell
+Epithelial,stem cell,P75,Human,Larynx,Laryngeal squamous epithelium,Normal,Normal cell,Epithelial stem cell
+Fibroblast,,CD34,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD73,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD45,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD31,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD105,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD44,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD29,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD14,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,CD90,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,NT5E,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,PTPRC,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,PECAM1,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,ITGB1,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Larynx,Vocal fold,Normal,Normal cell,Fibroblast

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,CD57,B3GAT1
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,OX40,TNFRSF4
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,CD160,CD160
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,CD5,CD5
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,CD69,CD69
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Paediatric cancer,Cancer cell,CD4+ T cell,CL_0000624,LAG3,LAG3

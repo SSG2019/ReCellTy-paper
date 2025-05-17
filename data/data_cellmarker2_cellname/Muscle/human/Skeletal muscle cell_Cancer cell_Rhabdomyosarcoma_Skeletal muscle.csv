@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell,CL_0000188,MYL1,MYL1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell,CL_0000188,MYBPH,MYBPH
+Human,Muscle,Skeletal muscle,UBERON_0014892,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell,CL_0000188,TNNC2,TNNC2
+Human,Muscle,Skeletal muscle,UBERON_0014892,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell,CL_0000188,TNNI1,TNNI1

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,BCL2A1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,M1 macrophage
+Macrophage,M1,CXCL9,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,M1 macrophage
+Macrophage,M1,CCL5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,M1 macrophage

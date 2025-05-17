@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,CD355,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,CRTAM,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell

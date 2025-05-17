@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,COL3A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL1A1,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,DCN,Human,Pharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Cancer-associated fibroblast

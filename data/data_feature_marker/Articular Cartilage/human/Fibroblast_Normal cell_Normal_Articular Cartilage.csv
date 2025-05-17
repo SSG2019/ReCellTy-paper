@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Collagen production,COL5A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen production,COL3A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen production,COL1A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Activation and motility,S100A4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast

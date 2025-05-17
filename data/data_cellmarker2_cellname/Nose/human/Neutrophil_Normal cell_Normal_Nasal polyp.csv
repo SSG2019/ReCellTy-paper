@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCL1,CXCL1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,IL-8,
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,FPR3,FPR3
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,VNN2,VNN2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCL3,CXCL3
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3A,FCGR3A
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCL2,CXCL2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCR1,CXCR1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCL6,CXCL6
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CXCR2,CXCR2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,FPR1,FPR1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CSF3,CSF3
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,CD177,CD177
+Human,Nose,Nasal polyp,,Normal,Normal cell,Neutrophil,CL_0000775,FPR2,FPR2

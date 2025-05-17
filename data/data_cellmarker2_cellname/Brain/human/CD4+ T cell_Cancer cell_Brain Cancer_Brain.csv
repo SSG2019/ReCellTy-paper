@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Brain Cancer,Cancer cell,CD4+ T cell,CL_0000624,GLRX,GLRX
+Human,Brain,Brain,UBERON_0000955,Brain Cancer,Cancer cell,CD4+ T cell,CL_0000624,TCR Vβ,
+Human,Brain,Brain,UBERON_0000955,Brain Cancer,Cancer cell,CD4+ T cell,CL_0000624,CDR3,CDR3

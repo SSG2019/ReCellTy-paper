@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myoblast,Muscle Differentiation,MYOG,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MYOD1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Structure,TTN,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,PCNA,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,CDC20,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,ID1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,CDK1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,ID3,Human,Muscle,Muscle,Normal,Normal cell,Myoblast

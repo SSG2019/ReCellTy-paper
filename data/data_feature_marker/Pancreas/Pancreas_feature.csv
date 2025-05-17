@@ -1,0 +1,1312 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,CTRB1,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,Trypsin,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Acinar cell
+Acinar cell,,CTRB1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Acinus,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,CTRC,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,CPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,AMY2B,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,REG3A,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,Cpa1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,DUOX2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,C15orf48,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SDC4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SPINK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PLA2G1B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CXCL17,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,FGL1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,REG3G,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CTRB1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,C4B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TPD52L1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS3P2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,NFKBIA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PDIA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,RP6-149D17.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GALNT7,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AQP8,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AKR1C2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AMYP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AMY2B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AMY2A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PNLIPRP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PNLIPRP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CELA3B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,FAM129A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CTRL,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,REG3A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,U66061.39,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GNL3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,MAT1A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CA12,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,DUOXA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TRIB2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ZDHHC9,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AZGP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CBS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CUZD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,LGALS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SLC25A37,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CELA3A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CELA2A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PTGR1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TIFA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AKR1B10,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AKR7A3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GSTA1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,REG1A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TMEM97,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,EFHD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PNLIP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SERPINA4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,MGST1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,RP11-520H11.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CEL,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CLPS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ECE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,DPEP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SOD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,YBX3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,BCAT1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SLC43A1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PLTP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CTRC,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AKR1C1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ALB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SGK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,LYZ,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TMPRSS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,MUC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CPB1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SYCN,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CPA1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,RNASE1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AKR1C3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,CPA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SLC38A5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,HAMP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,NUPR1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,RARRES2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SLC39A5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,KCTD14,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ERP27,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GSTA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,KLK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PSAT1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PPIF,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SERPINI2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,TPST2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GPT2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,IL32,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,AADAC,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ANPEP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,ALDOB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,UGDH,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PDK4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SST,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,NIBAN1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Alpha cell,,HMGB3,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FEV,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,RGP4,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PGE2-R,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,LOXL4,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,RFX6,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SMARCA1,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ARX,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,KRP1,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GBA,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ILTMP,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CRYBA2,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PGR,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CLIM1,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,IRX2,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MAFB,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PLCE1,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PAX6,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,RGS4,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PTGER3,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TM4SF4,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,LDB2,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,Glucagon,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SRBD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TTR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HTR1F,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HIGD1A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GADD45G,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,KPNA6,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TMCO3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GC,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TBC1D30,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SGCZ,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PDZK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SREK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HPS1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAM110B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ASXL3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SLC38A4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,C21orf58,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SORT1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,POPDC3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,RAB3C,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SETD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CTA-246H3.8,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MRC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,AC140481.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,EPG5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,DPP4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ATG7,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,OGT,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CERCAM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FXYD5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GRIA3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ASPH,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ARRDC4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,UQCC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,F10,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,C19orf77,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAM84A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ELL2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FADS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MCOLN3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ADORA2A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,KL,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TTC39A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ARX,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,NAA20,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,NHP2L1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,EGFL7,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,C4orf29,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PTPN2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,KLHL41,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TMEM236,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PRKCE,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,BSCL2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,EPHX2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MRC1L1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CLU,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PDE4DIP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GPR119,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PLCE1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FGF12,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAM46A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PLOD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,EGFEM1P,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,C18orf42,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GLS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,LOXL4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FSTL5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAM178A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ATL2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HMGB3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HSD17B14,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,C11orf24,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SPATC1L,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MBOAT2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HMGB2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CD36,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ITPK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,HNRNPA3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,IRX2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,UBQLN1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MLLT11,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,BAZ2B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PNISR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,AC018865.8,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ETFDH,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PALLD,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,VGF,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CDS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,CAMK2G,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,RSAD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,YIPF2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SPOCK3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PMM1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PLA2G16,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,WDR37,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,STARD3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,MYBPHL,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,KCNMA1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SMIM24,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,LRATD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SNU13,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ABHD18,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TENT5A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,AKAIN1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,SLF2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,PLAAT3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Fibroblast,Antigen presentation,CD74,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,HLA-DR,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3P,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Antigen-presenting cell,,CD86,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Antigen-presenting cell
+Antigen-presenting cell,,CD80,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Antigen-presenting cell
+Apical cell,,ZO1,Human,Pancreas,Pancreas,Normal,Normal cell,Apical cell
+Apical cell,,AcTUB,Human,Pancreas,Pancreas,Normal,Normal cell,Apical cell
+B cell,,CD79A,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,B cell
+B cell,,CD52,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD20,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,BLK,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD22,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,TTR,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,REG1A,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,IAPP,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,INS,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+Basal cell,,COL4A1,Human,Pancreas,Pancreas,Normal,Normal cell,Basal cell
+Basal cell,,ARL13B,Human,Pancreas,Pancreas,Normal,Normal cell,Basal cell
+Basal-like cell,,KRT5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell
+Basal-like cell,,KRT14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell
+Basal-like cell,,S100A2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell
+Beta cell,Insulin Production,INS,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin Production,C-peptide,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin Production,MAFA,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin Production,MafA,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Glucose Transport,Glucose transporter type 2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Glucose Transport,Glut2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Developmental Markers,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Developmental Markers,NKX6.1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Developmental Markers,Nkx6.1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Developmental Markers,NKX6-1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,Islet amyloid polypeptide,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,FXYD2-gamma,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,FXYD2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,Tetraspanin-7,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,HEPACAM2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,GPR44,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,CD99,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,SYT13,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,CDKN1C,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,PFKFB2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,BMP-5,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,SIX2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,TGFBR3,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,NPTX2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,PACAP,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,CRTR1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,SMAD9,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,SIX3,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,PIR,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,DLK1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,BMPR1A,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,BMP,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,PTGDR2,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,ADCYAP1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Other Functions,TFCP2L1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,Insulin,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,NKX6-1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,PDX1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,MAFA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,G6PC2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,SLC30A8,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Insulin production,IAPP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CNTN4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RRNAD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,FAM222A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RNF130,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CDH18,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,VAT1L,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CGRRF1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GNAS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SGCB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ALOX5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CYYR1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,WSCD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SCD5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SGK3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CAPN13,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CDK5R1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,KLHDC8A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,BMP5,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,EFCAB14,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SYT13,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CTSV,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SUSD4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,INS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ZNF776,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,FAM76A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RASGRF1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,WNT4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GPSM1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,OXLD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ERO1LB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TSPAN1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ATP2A3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,AL117190.2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SLC43A2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CADM1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CD72,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,HSPD1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SRD5A1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SORL1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SEMA5A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,C1orf127,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TDRP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,LRRTM3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NPTX2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GUSB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,AC009041.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ENTPD3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SALL2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TMEM37,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ELMO1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RAPH1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CYP2U1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GREM1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GCC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SIAH1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GYG1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,GPM6A,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NECAB1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PIGV,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CSDE1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PFKFB2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SFTPA1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,C21orf119,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NMRK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,AP3B1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ADCYAP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RGS16,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RASA4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RRAGB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ZNF441,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,MRAP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RASA4B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NTPCR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ALCAM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ABI2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PCSK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,MTSS1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SLC25A34,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TERF2IP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,DLK1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PIK3IP1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TBCC,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CASR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ROBO2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,IGF2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,APLP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,EDARADD,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ELOVL4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ENPP4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,MXRA7,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SOCS2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RBP4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,FFAR1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,APCDD1L,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,LGMN,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,LIFR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PAX6,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,MAFB,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CD49a,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,NKX6.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,PIR,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,MNX1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TFCP2L1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,TGFBR3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SIX3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,CDKN1C,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,SMAD9,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,METTL25B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ERO1B,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,URB1-AS1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ITGA1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta-like cell,,CD9,Human,Pancreas,Pancreas,Normal,Normal cell,Beta-like cell
+Blood cell,,ALAS2,Human,Pancreas,Pancreas,Normal,Normal cell,Blood cell
+Blood cell,,HBG1,Human,Pancreas,Pancreas,Normal,Normal cell,Blood cell
+Fibroblast,Cancer associated,FAP,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer associated fibroblast(CAF)
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer associated fibroblast(CAF)
+Fibroblast,,DCN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer associated fibroblast(CAF)
+Cancer cell,,KRAS,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,TP53,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,PDAC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYCHNSCC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+stem cell,Cancer,CD90,Human,Pancreas,Pancreas,Malignant Insulinoma,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD44,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ESA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD24,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD133,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,c-Met,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,DCLK1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,PROM1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,MET,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,OCT3/4,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD133,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,SOX9,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PAF1,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PD2,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,β-CATENIN,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ESA,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PROM1,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD9,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ALDH1A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD44,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell
+Cancer cell,Stem,NOTCH2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell
+Cancer cell,stem,LGR5,Human,Pancreas,Pancreas,Normal,Normal cell,Cancer stem cell
+Cancer cell,stem,NANOG,Human,Pancreas,Pancreas,Normal,Normal cell,Cancer stem cell
+Cancer cell,stem-like,ALDH1A1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer stem-like cell
+Fibroblast,Cancer-associated,DCN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDPN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Cancer-associated fibroblast
+T cell,CD4+,CD4,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,,SELL,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD103,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,ITGAE,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,CD8+ T cell
+Fibroblast,Cancer Associated,MMP11,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,Cancer Associated,SFRP2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,Cancer Associated,FAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+fibroblast,Complement-secreting,CFI,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+fibroblast,Complement-secreting,C3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+fibroblast,Complement-secreting,CFD,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+fibroblast,Complement-secreting,CFH,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+fibroblast,Cancer associated,CT,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+fibroblast,Cancer associated,CALCA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Complement-secreting cancer associated fibroblast
+Conventional dendritic cell,1(cDC1),XCR1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Conventional dendritic cell,,BTLA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,ITGAX,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,ITGAM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,ITGAX,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,ITGAM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Cytotoxic cell,Cytotoxic,GZMH,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,GZMB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,PRF1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRK1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRD1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Cytotoxic cell,Cytotoxic,KLRB1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cytotoxic cell
+Lymphocyte,Cytotoxic,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte
+Lymphocyte,Cytotoxic,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte
+Lymphocyte,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte
+Delta cell,,Somatostatin,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,LEDGF,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,ETV1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,LCORL,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PRBP,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,NEC1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,RGS2,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,ISL1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,CHE1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PRG4,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,SHARP1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,SFRP3,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PDLIM4,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,POU3F1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,HER4,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,LEPR,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,GABRG2,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,ESE3B,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PSIP1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,PCSK1,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,BCHE,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,BHLHE41,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,FRZB,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,ERBB4,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,EHF,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Dendritic cell,,CD21,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,myeloid,BDCA-1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,myeloid,CD1C,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,Langerhans,CD1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD34,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Ductal cell,,MMP7,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,ANXA4,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,AMBP,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,Krt19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,SLC4A4,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,Sox9,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,Hnf1β,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,SOX9,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Ductal cell
+Ductal cell,Stem cell properties,PROM1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT7,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Structural integrity,KRT8,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Signaling,BMPR1A,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Signaling,BMP,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Differentiation,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Pancreatic development,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Ion transport,SLC4A4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Ion transport,CFTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,BICC1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,SCTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,ANXA4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Secretion,MUC6,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Transcription factor,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,Renin-angiotensin system,ACE2,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,KRT7,Human,Pancreas,Pancreatic duct,Normal,Normal cell,Ductal cell
+epithelial cell,,S100A14,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell
+epithelial cell,,CLDN1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell
+Cell,EMT-like,ZEB1,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Cell,EMT-like,CDH2,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Cell,EMT-like,SNAI2,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Endocrine cell,,CHGA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,CHGB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,IAPP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,INS,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,CHGA,Human,Pancreas,Endocrine,Normal,Normal cell,Endocrine cell
+Endocrine cell,,LRP11,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,SLC30A8,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,SEZ6L2,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Solute carrier family 30,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,DISP2,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Somatostatin,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Somatostatin,Sst,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Glucagon,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Glucagon,Gcg,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Insulin,INS,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Insulin,Ins1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Pancreatic polypeptide,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Pancreatic polypeptide,Ppy,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,ISL1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Neuroendocrine,CHGA,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,CD99,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Endocrine cell
+Endocrine cell,Progenitor,DDR1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine progenitor cell
+Endocrine cell,,DNER,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine progenitor cell
+Endocrine cell,Progenitor,CXCR4,Human,Pancreas,Pancreatic acinar tissue,Normal,Normal cell,Endocrine progenitor cell
+Endothelial cell,,ENG,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,HEV,markerHEV,Human,Pancreas,Vein,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,B2M,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD36,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLCO2A1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Epithelial cell,,α-catenin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Cytokeratin AE1,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,Cytokeratin AE3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,Abcam,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ab9221,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Epcam,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt7,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt19,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Pancreas,Pancreas,Pancreatic ductal adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,FOXA1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,p63,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Glucagon,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Insulin,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-Cadherin,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CK19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PanCK,Human,Pancreas,Pancreatic duct,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MACC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SLC15A1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BACE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DSC2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ELF3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TJP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial,Ductal,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial,Ductal,AQP5,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial,Ductal,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial,,CDH1,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+T cell,Exhausted,PDCD1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,LAG3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,TIGIT,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Exhausted CD8+ T cell
+Exocrine cell,,Cpa1,Human,Pancreas,Pancreas,Normal,Normal cell,Exocrine cell
+Fibroblast,,COL11A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDPN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A4,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,SPARC,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+B cell,Follicular,CR2,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,Follicular,FCER2,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,,CD22,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+Gamma cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Gamma cell
+Gamma cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Gamma cell
+Hematopoietic stem cell,,CD34,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Hematopoietic stem cell
+Immature endocrine cell,,Ghrl,Human,Pancreas,Pancreas,Normal,Normal cell,Immature endocrine cell
+Immune cell,,CTLA4,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,CD39,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,FOXP3,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,ENTPD1,Human,Pancreas,Pancreatic duct,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell
+Immune cell,,CD20,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,CD3,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,CD163,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,MS4A1,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD11B,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,HLA-DR,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Fibroblast,cancer-associated,CXCL12,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+Fibroblast,Inflammatory,IL6,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+fibroblast,Inflammatory cancer‐associated,LMNA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,Inflammatory cancer‐associated,DPT,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,iCAF,PDGFRA,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+fibroblast,iCAF,CFD,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+monocyte,Inflammatory,CCR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Inflammatory monocyte
+Leukocyte,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte
+Leukocyte,,CD4,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte
+Leukocyte,,CD163,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Leukocyte
+Lymphatic endothelial cell,,PROX1,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,FLT4,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,PDPN,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,LYVE1,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,CD3D,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD3G,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+Lymphocyte,,IL7R,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+macrophage,M1,IRF1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,M1 macrophage
+macrophage,,CD86,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,M1 macrophage
+macrophage,M2,CD163,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,M2 macrophage
+macrophage,M2,CD206,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,M2 macrophage
+macrophage,,MRC1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,CD206,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,M2 macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,M2,CD206,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,M1,CD86,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,M1,IRF5,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,M2,CD163,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,M2,MRC1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Macrophage
+Macrophage,,CD64,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,FCGR2A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,FCGR1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,M2,CD206,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,M2,CD163,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,M1,CD86,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,G-CSF,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CSF2RA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,ZEB2,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Mast cell,,TPSAB1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,MS4A2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Pancreas,Pancreas,Normal,Normal cell,Mast cell
+Mesenchymal cell,,N-cadherin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Fibronectin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,vimentin,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Pancreas,Pancreas,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Twist,Human,Pancreas,Pancreas,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Slug,Human,Pancreas,Pancreas,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Snail,Human,Pancreas,Pancreas,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,THY1,Human,Pancreas,Pancreas,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Pancreas,Pancreas,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,DCN,Human,Pancreas,Pancreas,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,KDELR3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,GPC6,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FAP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,SERPINE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,INHBA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Dendritic cell,Monocyte derived,HLA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1E,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1C,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CLEC10A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,FCER1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+macrophage,Monocyte-derived,CD63,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,IL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,MARCO,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,APOE,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CCL2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CCL3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CXCL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Monocyte,,CD14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,FCN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,TLR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD33,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD68,Human,Pancreas,Pancreas,Normal,Normal cell,Monocyte
+Monocyte,,G-CSF,Human,Pancreas,Pancreas,Normal,Normal cell,Monocyte
+Myeloid cell,,CD68,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DR,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,ARG1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD33,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD15,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,FCER1G,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD11B,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11C,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,HLA-DR,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ITGAM,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,suppressor,FOXP3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Fibroblast,Myofibroblastic,TAGLN,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myofibroblastic cancer-associated fibroblast
+Fibroblast,Myofibroblastic,ACTA2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myofibroblastic cancer-associated fibroblast
+Fibroblast,Myofibroblastic,TAGLN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,TPM1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,MYL9,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,TPM2,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Cancer‐associated,POSTN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Cancer‐associated,MMP11,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Natural Killer cell,,KIR3DL1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Natural Killer CD56+ dim cell
+Natural killer cell,,NCR1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD161,Human,Pancreas,Pancreas,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Pancreas,Pancreas,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,CD56 NCAM1,Human,Pancreas,Pancreas,Normal,Normal cell,Natural killer T(NKT) cell
+Neuroendocrine cell,,Neuron-specific enolase,Human,Pancreas,Fetal pancreas,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,Neuroendocrine,SV2,Human,Pancreas,Pancreas,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,Neuroendocrine,SV2A,Human,Pancreas,Pancreas,Normal,Normal cell,Neuroendocrine cell
+Neuron,,GAP43,Human,Pancreas,Pancreas,Normal,Normal cell,Neuron
+Neuron,,PRPH,Human,Pancreas,Pancreas,Normal,Normal cell,Neuron
+Neutrophil,,FCGR3A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Neutrophil
+Neutrophil,,CSF3R,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Neutrophil
+T cell,tissue-resident,CD103,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,CD49a,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,memory,PD-1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,ITGAE,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,ITGA1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,memory,PDCD1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+Endocrine cell,Non-β,PRSS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+Endocrine cell,Non-β,SST,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+Endocrine cell,Non-β,PPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+Fibroblast,Pan-cancer associated,FN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Pan-cancer associated fibroblast
+Fibroblast,Pan-cancer associated,TAGLN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Pan-cancer associated fibroblast
+Fibroblast,Pan-cancer associated,ACTA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Pan-cancer associated fibroblast
+Pancreatic cell,,GATA6,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Pancreatic cell
+Pancreatic cell,ductal,CK19,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic ductal stem cell
+Pancreatic cell,ductal,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic ductal stem cell
+Pancreatic polypeptide cell,,MEIS2,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,ENTPD2,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,ETV1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,BHLHB26,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,RBTN3,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,ZNF506,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PAX6,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,BHLHB27,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,THSD7A,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,AQP3,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,CARTPT,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,EGR3,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,MEIS1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,SERTM1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,ARHGAP3,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,ARX,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,SLITRK6,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PTGFR,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PP,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,FOLR1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,LMO3,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,CHN2,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic,Progenitor,AC133,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic,Progenitor,PROM1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic,Progenitor,NKX6.1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic,Progenitor,NKX6-1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic,Progenitor,CD24,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic stellate cell,,COL1A2,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stellate cell
+Pancreatic stem cell,stem cell,AC133,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic stem cell,stem cell,NANOG,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic stem cell,stem cell,LGR5,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic stem cell,stem cell,SSEA-4,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic stem cell,stem cell,c-Kit,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic stem cell,stem cell,PROM1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stem cell
+Pancreatic cell,stem,CXCR4,Human,Pancreas,Pancreatic acinar tissue,Normal,Normal cell,Pancreatic stem cell
+Pericyte,,RGS5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Pericyte
+Plasma cell,,CD38,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+PP cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,PP cell
+Macrophage,Pro-inflammatory,IL1B,Human,Pancreas,Pancreas,Normal,Normal cell,Pro-inflammatory macrophage
+Progenitor cell,,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ID1-4,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,GP2,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ONECUT2,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTF1A,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+cell,Proliferative,MKI67,Human,Pancreas,Pancreas,Normal,Normal cell,Proliferative cell
+Ductal cell,Proliferative,PLK1,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+Ductal cell,Proliferative,AURKA,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+Ductal cell,Proliferative,CDK1,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+macrophage,Proliferative,MK167,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative macrophage
+B cell,Regulatory,CD5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory B(Breg) cell
+B cell,Breg,CD1D,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory B(Breg) cell
+T cell,Regulatory,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,CD25,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL2RA,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,Granzyme B,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD8,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FoxP3,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,CD4,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,Regulatory T(Treg) cell
+Schwann cell,,S100B,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,PMP22,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,SCN7A,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CRYAB,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Smooth muscle cell,,NOTCH3,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CSRP2,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,RGS5,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Stellate cell,,ADIRF,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,PDGFRB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,RGS5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,ACTA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,NOTCH3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,COL1A2,Human,Pancreas,Pancreas,Normal,Normal cell,Stellate cell
+Stem cell,,LGR5,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Stem cell
+Stem cell,,ALDH‐1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stem cell
+Stem cell,Pluripotency,SSEA4,Human,Pancreas,Pancreas,Normal,Normal cell,Stem cell
+Stem cell,,Procr,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Stem cell
+T cell,,CD2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD8B,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD4,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD40LG,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,PD-1,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,LAG-3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,4-1BB,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,TIM-3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,PDCD1,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,TNFRSF9,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,HHLA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD4,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3G,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD6,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,SH2D1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD69,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CXCR4,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD45,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD69,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD247,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Tcf7,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,T helper 1 (Th1),TBX21,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T helper 1(Th1) cell
+T cell,Th1,Tbet,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 1(Th1) cell
+T cell,CD4,CD4,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 1(Th1) cell
+T cell,Th2,CD4,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,Gata3,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,CD3,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,CD45,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,PTPRC,Human,Pancreas,Pancreatic duct,Normal,Normal cell,T helper 2(Th2) cell
+T helper cell,Th17,CCR6,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,Memory,CD45RO,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,Th1,CXCR3,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+Macrophage,,AMY2A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,CELA3A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,INS,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,PRSS1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Pancreatic progenitor cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Undifferentiated pancreatic progenitor cell
+White blood cell,,CD45,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,White blood cell
+White blood cell,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,White blood cell
+δ cell,somatostatin production,SST,Human,Pancreas,Pancreas,Normal,Normal cell,δ cell
+Acinar cell,,CTRB1,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Acinar cell
+Acinar cell,,CTRB1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Acinus,Normal,Normal cell,Acinar cell
+Acinar cell,,AMY2B,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,REG3A,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,Cpa1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,PPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SOD2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,PDK4,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Acinar cell,,SST,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Acinar cell
+Alpha cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,ARX,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Alpha cell (α cell)
+Fibroblast,Antigen presentation,CD74,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,HLA-DR,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,cancer-associated,SAA3P,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Antigen presentation cancer-associated fibroblast
+Apical cell,,ZO1,Human,Pancreas,Pancreas,Normal,Normal cell,Apical cell
+Apical cell,,AcTUB,Human,Pancreas,Pancreas,Normal,Normal cell,Apical cell
+B cell,,CD79A,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,B cell
+B cell,,CD52,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,B cell
+B cell,,TTR,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,REG1A,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,IAPP,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,INS,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+Basal cell,,COL4A1,Human,Pancreas,Pancreas,Normal,Normal cell,Basal cell
+Basal cell,,ARL13B,Human,Pancreas,Pancreas,Normal,Normal cell,Basal cell
+Beta cell,β cell,INS,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,MAFA,Human,Pancreas,Pancreas,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,INS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,MAFA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,PDX1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,NKX6.1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,NKX6-1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,IAPP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Beta-like,CD9,Human,Pancreas,Pancreas,Normal,Normal cell,Beta-like cell
+Cancer cell,,KRAS,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,TP53,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,PDAC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Cancer cell,,MYCHNSCC,Human,Pancreas,Pancreas,pancreatic cancer,Cancer cell,Cancer cell
+Delta cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Delta cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Delta cell
+Dendritic cell,,CD34,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,BDCA-1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Ductal cell,,MMP7,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,ANXA4,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,AMBP,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,BMPR1A,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,BMP,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,SLC4A4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,BICC1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,SCTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,ANXA4,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,MUC6,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,Krt19,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,KRT8,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal cell
+Ductal cell,,KRT7,Human,Pancreas,Pancreatic duct,Normal,Normal cell,Ductal cell
+Epithelial cell,Ductal,S100A14,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell
+Epithelial cell,,CLDN1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell
+Cell,EMT-like,ZEB1,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Cell,EMT-like,CDH2,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Cell,EMT-like,SNAI2,Human,Pancreas,Pancreas,Normal,Normal cell,EMT-like cell
+Endocrine cell,,CHGA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,CHGB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,IAPP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,INS,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,CHGA,Human,Pancreas,Endocrine,Normal,Normal cell,Endocrine cell
+Endocrine cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,INS,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,ISL1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Gcg,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Ins1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Sst,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Ppy,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,B2M,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD36,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLCO2A1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Epithelial cell,,Abcam CK19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Epcam,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt7,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt19,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MUC1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CK19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MACC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SLC15A1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BACE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DSC2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ELF3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TJP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial ductal cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial ductal cell,,AQP5,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial ductal cell,,CDH1,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Epithelial ductal cell,,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial ductal cell
+Exocrine cell,,Cpa1,Human,Pancreas,Pancreas,Normal,Normal cell,Exocrine cell
+Fibroblast,,LUM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A4,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+Fibroblast,,SPARC,Human,Pancreas,Pancreas,Normal,Normal cell,Fibroblast
+B cell,Follicular,CR2,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,Follicular,FCER2,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+B cell,,CD22,Human,Pancreas,Pancreas,Normal,Normal cell,Follicular B cell
+Gamma cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Gamma cell
+Gamma cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Gamma cell
+Hematopoietic stem cell,,CD34,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Hematopoietic stem cell
+Endocrine cell,Immature,Ghrl,Human,Pancreas,Pancreas,Normal,Normal cell,Immature endocrine cell
+Immune cell,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD11B,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,HLA-DR,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+fibroblast,Inflammatory,CXCL12,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+fibroblast,Inflammatory,IL6,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+fibroblast,cancer-associated,IL6,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+fibroblast,,ACTA2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Inflammatory cancer-associated fibroblast
+Endothelial cell,Lymphatic,PROX1,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,FLT4,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,PDPN,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,LYVE1,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,CD3D,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD3G,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+Lymphocyte,,IL7R,Human,Pancreas,Pancreas,Normal,Normal cell,Lymphocyte
+Macrophage,Activation,CD64,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Inflammation,AIF1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Innate Immune Response,CD14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Phagocytosis,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Survival and Proliferation,CSF1R,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Immune Response,CD86,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,Phagocytosis,FCGR1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,G-CSF,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CSF2RA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,ZEB2,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Mast cell,,KIT,Human,Pancreas,Pancreas,Normal,Normal cell,Mast cell
+Mesenchymal cell,,KDELR3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,GPC6,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FAP,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,SERPINE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,INHBA,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Mesenchymal cell
+Dendritic cell,Monocyte derived,HLA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1E,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1C,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CLEC10A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,FCER1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Macrophage,Monocyte-derived,CD63,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,IL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,MARCO,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,APOE,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,CCL2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,CCL3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,CXCL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+Monocyte,,VCAN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,FCN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD68,Human,Pancreas,Pancreas,Normal,Normal cell,Monocyte
+Monocyte,,G-CSF,Human,Pancreas,Pancreas,Normal,Normal cell,Monocyte
+Myeloid cell,,CD68,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCER1G,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD11B,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11C,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,HLA-DR,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ITGAM,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Pancreas,Pancreas,Normal,Normal cell,Myeloid cell
+Fibroblast,Myofibroblastic,TAGLN,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myofibroblastic cancer-associated fibroblast
+Fibroblast,Myofibroblastic,ACTA2,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,Myofibroblastic cancer-associated fibroblast
+T cell,Natural killer,CD56,Human,Pancreas,Pancreas,Normal,Normal cell,Natural killer T(NKT) cell
+endocrine cell,Non-β,PRSS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,SST,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,PPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+Pancreatic polypeptide cell,Pancreatic polypeptide,PP,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,FOLR1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic cell,progenitor,NKX6.1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic cell,progenitor,NKX6-1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic progenitor cell
+Pancreatic stellate cell,,COL1A2,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic stellate cell
+Macrophage,Pro-inflammatory,IL1B,Human,Pancreas,Pancreas,Normal,Normal cell,Pro-inflammatory macrophage
+Progenitor cell,,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ID1-4,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,GP2,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTF1A,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Proliferative cell,Proliferative,MKI67,Human,Pancreas,Pancreas,Normal,Normal cell,Proliferative cell
+Ductal cell,Proliferative,PLK1,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+Ductal cell,Proliferative,AURKA,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+Ductal cell,Proliferative,CDK1,Human,Pancreas,Pancreatic islet,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell
+Macrophage,Proliferative,MK167,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative macrophage
+Schwann cell,,S100B,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,PMP22,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,SCN7A,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CRYAB,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Smooth muscle cell,,NOTCH3,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CSRP2,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,RGS5,Human,Pancreas,Pancreas,Normal,Normal cell,Smooth muscle cell
+Stellate cell,,ADIRF,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,PDGFRB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,RGS5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,ACTA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Stellate cell
+Stellate cell,,COL1A2,Human,Pancreas,Pancreas,Normal,Normal cell,Stellate cell
+T cell,CD4+,markerC,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,CD4+,markerA,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,Effector,markerE,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,Effector,markerB,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,Effector,markerD,Human,Pancreas,Pancreas,Pancreatic adenocarcinoma,Cancer cell,T cell
+T cell,,HHLA2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD4,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD3G,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD69,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CXCR4,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD45,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,CD8A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,CD8+,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,CD8+,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD247,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,Tcf7,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+T cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,T cell
+Macrophage,,AMY2A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,CELA3A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,INS,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Macrophage,,PRSS1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Tissue resident macrophage
+Pancreatic progenitor cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Undifferentiated pancreatic progenitor cell
+White blood cell,,CD45,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,White blood cell
+White blood cell,,PTPRC,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,White blood cell
+δ cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,δ cell

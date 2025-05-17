@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD26,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD69,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD38,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,DPP4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell

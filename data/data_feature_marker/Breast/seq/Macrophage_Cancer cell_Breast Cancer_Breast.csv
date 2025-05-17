@@ -1,0 +1,20 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,ITGAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,FCGR3A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LYZ,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,ITGAX,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,MSR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,IL1B,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage
+Macrophage,,CLEC5A,Human,Breast,Breast,Breast Cancer,Cancer cell,Macrophage

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,CD56 bright,XCL1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,CD56 bright,FOXJ1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,MPPED1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,DUSP4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,NIBP,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,MUC3B,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,BG255923,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,MADD,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,PLA2G6,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,RRAD,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell
+Natural killer cell,,TRAPPC9,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Natural killer CD56 bright cell

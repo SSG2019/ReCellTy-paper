@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Enterocyte,CL_0000584,ALPI,ALPI
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Enterocyte,CL_0000584,SLC26A3,SLC26A3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Enterocyte,CL_0000584,FABP2,FABP2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Enterocyte,CL_0000584,TMEM37,TMEM37

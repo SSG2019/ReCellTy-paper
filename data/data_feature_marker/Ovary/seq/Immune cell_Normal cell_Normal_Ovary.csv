@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CXCR4,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD53,Human,Ovary,Ovary,Normal,Normal cell,Immune cell

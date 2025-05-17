@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,G-CSF,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CSF2RA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,ZEB2,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRA,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DRB1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,HLA-DPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Macrophage

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Proliferative neural progenitor cell,,PAX6,PAX6
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Proliferative neural progenitor cell,,GLI3,GLI3
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Proliferative neural progenitor cell,,SOX2,SOX2
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Proliferative neural progenitor cell,,TOP2A,TOP2A

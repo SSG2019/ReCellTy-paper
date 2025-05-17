@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,SFTPC,SFTPC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,LAMP3,LAMP3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,MUC1,MUC1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,ABCA3,ABCA3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,SFTPC,SFTPC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar type II (ATII) cell,CL_0002063,SFTPB,SFTPB

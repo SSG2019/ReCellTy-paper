@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CRTH2,PTGDR2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD161,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD127,IL7R

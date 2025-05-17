@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD19,CD19
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD81,CD81
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,IRF4,IRF4
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD269,TNFRSF17
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,BLIMP1,PRDM1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD20,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD31,PECAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD138,SDC1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD252,TNFSF4
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD184,CXCR4
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD138,SDC1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD79B,CD79B
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD79A,CD79A
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD19,CD19
+Human,Undefined,Undefined,,Normal,Normal cell,Plasma cell,CL_0000786,CD38,CD38

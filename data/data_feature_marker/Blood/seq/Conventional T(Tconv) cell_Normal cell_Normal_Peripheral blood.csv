@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Conventional,ITGA4,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,IKZF2,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,FOXP3,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,CD127,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell
+T cell,Conventional,IL7R,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional T(Tconv) cell

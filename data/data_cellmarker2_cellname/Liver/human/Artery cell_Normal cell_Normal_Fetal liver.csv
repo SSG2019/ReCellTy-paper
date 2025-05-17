@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Artery cell,CL_1001045,ITGA2,ITGA2
+Human,Liver,Fetal liver,,Normal,Normal cell,Artery cell,CL_1001045,ITGB4,ITGB4

@@ -1,0 +1,31 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD1a,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,MHC Class II,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD303,CLEC4C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD141,THBD
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD209,CD209
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CCR6,CCR6
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,PCD1,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,PCX3CR1,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,PFLT3,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD303,CLEC4C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD141,THBD
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,HLADR/DQ/DP,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,TYROBP,TYROBP
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1G,FCER1G
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD137,TNFRSF9
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,IL3RA,IL3RA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,IRF7,IRF7
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD74,CD74
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CCL20,CCL20
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,LAMP3,LAMP3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209a,

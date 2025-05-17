@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Pericyte,CL_0000669,TRPC6,TRPC6
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Pericyte,CL_0000669,CSPG4,CSPG4
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB

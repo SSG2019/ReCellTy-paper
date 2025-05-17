@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,AXIN2,AXIN2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,LGR5,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,SP5 ,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,ASCL2,ASCL2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,CD24,CD24
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,EpCAM,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,CD166,ALCAM
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,OLFM4,OLFM4
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,KLF5,KLF5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,Lgr5,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Stem cell,CL_0000034,EpCAM,

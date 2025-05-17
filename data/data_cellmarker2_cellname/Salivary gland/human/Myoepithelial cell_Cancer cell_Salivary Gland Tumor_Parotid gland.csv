@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Salivary gland,Parotid gland,UBERON_0001831,Salivary Gland Tumor,Cancer cell,Myoepithelial cell,CL_0000185,Podoplanin,

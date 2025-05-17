@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,CSF1R,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Microglial cell
+Microglial cell,,CD14,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Microglial cell
+Microglial cell,,FCER1G,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Microglial cell

@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,CD33,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,CD13,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,CD32,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,CD15,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,CD11b,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,S100A8,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,LILRA5,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,S100A1210,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,AZU1,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,PRNT3,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,ANPEP,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,FCGR2A,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte
+Granulocyte,,FUT4,Human,Undefined,Undefined,Normal,Normal cell,Granulocyte

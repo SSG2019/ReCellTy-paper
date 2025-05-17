@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD123,IL3RA
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD14,CD14
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DR,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,MHCII,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD303,CLEC4C
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Dendritic cell,CL_0000451,CD141,THBD

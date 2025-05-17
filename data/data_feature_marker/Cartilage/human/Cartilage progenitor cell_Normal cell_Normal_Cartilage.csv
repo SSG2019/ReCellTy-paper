@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cartilage cell,Progenitor,CD146,Human,Cartilage,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,MCAM,Human,Cartilage,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,,COL2,Human,Cartilage,Cartilage,Normal,Normal cell,Cartilage progenitor cell

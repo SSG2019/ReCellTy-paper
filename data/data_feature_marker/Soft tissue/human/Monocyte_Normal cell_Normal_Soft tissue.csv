@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,PLA2G7,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,RASSF4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,CSF1R,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,TFEC,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,FPR3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,ADAP2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,KYNU,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte

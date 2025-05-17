@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Diffuse gastric,SPARC19,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell
+Cancer cell,Diffuse gastric,COL1A1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell
+Cancer cell,Diffuse gastric,COL1A2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell

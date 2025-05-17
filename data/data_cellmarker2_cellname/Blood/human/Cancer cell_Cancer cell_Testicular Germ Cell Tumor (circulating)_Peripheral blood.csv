@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell,CL_0001064,SALL4,SALL4
+Human,Blood,Peripheral blood,UBERON_0005408,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell,CL_0001064,OCT3/4,
+Human,Blood,Peripheral blood,UBERON_0005408,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell,CL_0001064,EpCAM,

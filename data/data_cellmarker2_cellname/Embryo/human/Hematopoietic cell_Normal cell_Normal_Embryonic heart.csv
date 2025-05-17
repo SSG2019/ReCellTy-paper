@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic heart,UBERON_0006283,Normal,Normal cell,Hematopoietic cell,CL_0000988,HBE1,HBE1
+Human,Embryo,Embryonic heart,UBERON_0006283,Normal,Normal cell,Hematopoietic cell,CL_0000988,HBB,HBB

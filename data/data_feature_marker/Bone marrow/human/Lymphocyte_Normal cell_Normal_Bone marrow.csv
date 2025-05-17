@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,TdT,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD11b,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD19,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD22,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,SASH3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Lymphocyte

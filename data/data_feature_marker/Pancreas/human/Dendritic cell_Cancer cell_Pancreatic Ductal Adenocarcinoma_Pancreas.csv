@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD21,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Dendritic cell

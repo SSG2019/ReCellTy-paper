@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer-associated fibroblast,,ACTA2,ACTA2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cancer-associated fibroblast,,PDGFRB,PDGFRB

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,alveolar,APOC1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,alveolar,MARCO,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,alveolar,FABP4,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,,LYZ,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,,CD68,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,,C1QA,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage
+macrophage,,MCEMP1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage

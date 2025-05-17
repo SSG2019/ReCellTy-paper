@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Horizontal cell,,ONECUT1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,LHX1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell

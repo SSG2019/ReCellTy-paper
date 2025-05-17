@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Endothelial cell,CL_0000115,SPARC,SPARC
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34

@@ -1,0 +1,40 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Nestin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD49b,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,BMI1,BMI1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,NANOG,NANOG
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Jagged-1,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD49f,ITGA6
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Patched,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,deltaNp63,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Smoothened,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD201,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,HES1,HES1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,α2β1hi,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CK8,KRT8
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,α2β1 Integrin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CK5,KRT5
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD40,CD40
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,LEF1,LEF1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,FAM65B,RIPOR2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,MFI2,MELTF
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD166,ALCAM
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1

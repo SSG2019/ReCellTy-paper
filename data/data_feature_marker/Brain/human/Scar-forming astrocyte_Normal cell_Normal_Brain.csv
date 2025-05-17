@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,Scar-forming,Acan,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte
+Astrocyte,Scar-forming,Slit2,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte
+Astrocyte,Scar-forming,Csgalnact1,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte
+Astrocyte,Scar-forming,Cdh2,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte
+Astrocyte,Scar-forming,Sox9,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte
+Astrocyte,Scar-forming,Chst11,Human,Brain,Brain,Normal,Normal cell,Scar-forming astrocyte

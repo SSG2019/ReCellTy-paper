@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,Malignant,FRZB,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Malignant plasma cell
+Plasma cell,Malignant,IFI27,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Malignant plasma cell
+Plasma cell,Malignant,IL6R,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Malignant plasma cell
+Plasma cell,Malignant,DKK1,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Malignant plasma cell
+Plasma cell,Malignant,EDNRB,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Malignant plasma cell

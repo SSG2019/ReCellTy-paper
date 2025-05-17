@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD14,CD14
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD20,MS4A1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD19,CD19
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD56,NCAM1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD3,
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,CD79A,CD79A
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,FCER1G,FCER1G
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Immune cell,CL_0000738,PTPRC,PTPRC

@@ -1,0 +1,19 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,OCT4,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,CD133,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,SOX2,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,NANOG,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,ABCB1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,ALDH,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,ALDH1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,Cancer,POU5F1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,CD166,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,CD15,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,CD24,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,CD34,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,BMI1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,ALCAM,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,FUT4,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell
+Stem cell,,PROM1,Human,Undefined,Undefined,Normal,Normal cell,Cancer stem cell

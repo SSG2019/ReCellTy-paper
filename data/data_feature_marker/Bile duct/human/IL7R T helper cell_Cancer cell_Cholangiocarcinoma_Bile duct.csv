@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,T helper,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,PRF8,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,IL14R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell

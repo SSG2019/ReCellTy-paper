@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,T cell,CL_0000084,GZMB,GZMB
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,T cell,CL_0000084,CD4,CD4
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,T cell,CL_0000084,CD8A,CD8A
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,T cell,CL_0000084,IFNG,IFNG

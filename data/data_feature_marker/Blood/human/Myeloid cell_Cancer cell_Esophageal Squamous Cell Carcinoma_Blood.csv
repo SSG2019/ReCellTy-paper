@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD86,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell

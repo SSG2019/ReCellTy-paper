@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,NCR3,NCR3
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,CD160,CD160
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,ZNF683,ZNF683
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMA,GZMA
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,CD96,CD96
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMB,GZMB
+Human,Nose,Nasal polyp,,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMH,GZMH

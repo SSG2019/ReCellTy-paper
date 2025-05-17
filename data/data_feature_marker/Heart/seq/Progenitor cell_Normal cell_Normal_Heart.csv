@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,TAGLN,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NOTCH3,Human,Heart,Heart,Normal,Normal cell,Progenitor cell
+Progenitor cell,,RGS5,Human,Heart,Heart,Normal,Normal cell,Progenitor cell

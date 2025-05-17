@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Infiltrated mononuclear cell,CL_0000860,Renin receptor,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Infiltrated mononuclear cell,CL_0000860,CD68,CD68
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Infiltrated mononuclear cell,CL_0000860,CD3,

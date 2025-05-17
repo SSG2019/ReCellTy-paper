@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Fetal umbilical cord,UBERON_0002331,Normal,Normal cell,Osteoblast,CL_0000062,OPN,SPP1
+Human,Embryo,Fetal umbilical cord,UBERON_0002331,Normal,Normal cell,Osteoblast,CL_0000062,Col1al,
+Human,Embryo,Fetal umbilical cord,UBERON_0002331,Normal,Normal cell,Osteoblast,CL_0000062,OCN,BGLAP
+Human,Embryo,Fetal umbilical cord,UBERON_0002331,Normal,Normal cell,Osteoblast,CL_0000062,ALP,ALPP

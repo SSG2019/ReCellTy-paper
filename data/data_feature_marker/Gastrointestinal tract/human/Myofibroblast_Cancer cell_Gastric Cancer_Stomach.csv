@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,Extracellular Matrix,ACTA2,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Fibroblast Activation,THY1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Cell Signaling,CAV1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,DCN,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,COL14A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,COL1A1,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast
+Myofibroblast,Extracellular Matrix,LUM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Myofibroblast

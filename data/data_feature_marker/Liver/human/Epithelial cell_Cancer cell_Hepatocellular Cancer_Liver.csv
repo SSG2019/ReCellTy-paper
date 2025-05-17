@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CK,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,ZO-1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,keratins,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CHKA,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TJP1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Epithelial cell

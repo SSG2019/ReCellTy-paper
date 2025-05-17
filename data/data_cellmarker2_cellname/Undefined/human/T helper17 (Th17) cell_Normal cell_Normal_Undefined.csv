@@ -1,0 +1,33 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,AHR,AHR
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD4,CD4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CCR6,CCR6
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IRF4,IRF4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CCL20,CCL20
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,STAT3,STAT3
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,TNF,TNF
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,BATF,BATF
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,NFKBIZ,NFKBIZ
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD194,CCR4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD196,CCR6
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-1,IL1B
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-6,IL6
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD212,IL12RB1
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-17A,IL17A
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD161,KLRB1
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-23,IL37
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD360,IL21R
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-21,IL22
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-22,IL22
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-26,IL26
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-17F,IL17F
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,ROR-alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,ROR gamma T,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,TGF-beta,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-1R,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,c-Maf,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD121a,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,IL-23R,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper17 (Th17) cell,CL_0000899,CD161,KLRB1

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL11A1,COL11A1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,PDPN,PDPN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,FAP,FAP
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,FN1,FN1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1

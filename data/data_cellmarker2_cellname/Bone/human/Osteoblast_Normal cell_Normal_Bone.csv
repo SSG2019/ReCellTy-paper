@@ -1,0 +1,38 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,RUNX2,RUNX2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD44,CD44
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,DLX5,DLX5
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,PTH1R,PTH1R
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,TBX2,TBX2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,TBX5,TBX5
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,TBX3,TBX3
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,TNFRSF11A,TNFRSF11A
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,TCIRG1,TCIRG1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,WDR5,WDR5
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,EBF2,EBF2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,SP7,SP7
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,OSCAR,OSCAR
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD166,ALCAM
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD51,ITGAV
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,E4BP4,NFIL3
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD73,NT5E
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,B220,PTPRC
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD45,PTPRC
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,OC-STAMP,OCSTAMP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,Additional GABA Compounds,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,Calcitonin and Related Receptor Agonists,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,Calcitonin and Related Receptor Antagonists,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,Calcitonin R,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD45.1,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD45.2,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD45RO,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,DC-STAMP,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA-B R1,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA-B Receptor Agonists,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA-B Receptor Antagonists,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA B Receptor Compounds,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA-B Receptor Modulators,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,GABA Transporter Inhibitors,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoblast,CL_0000062,CD105,

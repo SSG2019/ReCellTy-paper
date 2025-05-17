@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Glial cell,CL_0000125,Mbp,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Glial cell,CL_0000125,S100b,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Glial cell,CL_0000125,Kcna1,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Glial cell,CL_0000125,Plp1,

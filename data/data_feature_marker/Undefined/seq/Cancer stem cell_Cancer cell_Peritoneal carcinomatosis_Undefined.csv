@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD133,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD49f,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,HES1,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ITGA6,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A1,Human,Undefined,Undefined,Peritoneal carcinomatosis,Cancer cell,Cancer stem cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Decidual cell,,IGFBP1,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell
+Decidual cell,,PRL,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell
+Decidual cell,,DKK1,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Contractile,ACTA2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Activation,PDPN,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL1A2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL1A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL3A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Activation,FAP,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast

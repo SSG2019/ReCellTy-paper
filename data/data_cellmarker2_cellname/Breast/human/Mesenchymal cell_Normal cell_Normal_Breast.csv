@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,fibronectins,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,FN1,FN1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,Vimentin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,N-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,FAP,FAP
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,MCAM,MCAM
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Mesenchymal cell,CL_0008019,ECM1,ECM1

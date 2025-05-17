@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,DCX,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,SEMA5A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NRCAM,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,DCLK1,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,OTX2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,AP2A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NEFL,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,TUBB3,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,POU5F1,Human,Eye,Retina,Normal,Normal cell,Neuron

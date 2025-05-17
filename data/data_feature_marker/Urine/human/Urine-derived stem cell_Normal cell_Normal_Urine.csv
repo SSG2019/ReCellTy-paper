@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,urine-derived,CD14,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD133,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD45,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD146,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,STRO-1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD24,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD117,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD31,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,OCT3/4,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PROM1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PTPRC,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,MCAM,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,THY1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,NT5E,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,ITGB1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,KIT,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PECAM1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD34,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD105,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD44,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,SSEA-4,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD90,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD73,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD29,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell

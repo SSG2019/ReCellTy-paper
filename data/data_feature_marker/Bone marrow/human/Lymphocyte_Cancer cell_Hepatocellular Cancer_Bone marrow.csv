@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,CD14,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,CD45,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,PTPRC,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Lymphocyte

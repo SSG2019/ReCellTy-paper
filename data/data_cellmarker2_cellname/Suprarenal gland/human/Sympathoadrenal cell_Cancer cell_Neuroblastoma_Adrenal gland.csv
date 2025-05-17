@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,PHOX2A,PHOX2A
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,GATA3,GATA3
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,PHOX2B,PHOX2B
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,ISL1,ISL1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,CARTPT,CARTPT
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,HAND1,HAND1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Sympathoadrenal cell,,STMN2,STMN2

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Recent thymic T-cell emigrant,,CD45RA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Recent thymic T-cell emigrant,,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Recent thymic T-cell emigrant,,CD31,PECAM1

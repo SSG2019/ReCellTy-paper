@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell

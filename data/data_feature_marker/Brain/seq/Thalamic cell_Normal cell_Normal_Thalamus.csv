@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Thalamic cell,,PAX6,Human,Brain,Thalamus,Normal,Normal cell,Thalamic cell
+Thalamic cell,,TCF7L2,Human,Brain,Thalamus,Normal,Normal cell,Thalamic cell
+Thalamic cell,,OTX2,Human,Brain,Thalamus,Normal,Normal cell,Thalamic cell
+Thalamic cell,,GBX2,Human,Brain,Thalamus,Normal,Normal cell,Thalamic cell

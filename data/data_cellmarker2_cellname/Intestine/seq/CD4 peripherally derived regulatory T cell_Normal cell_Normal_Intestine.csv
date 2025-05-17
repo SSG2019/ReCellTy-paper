@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,CD4 peripherally derived regulatory T cell,,CD161,KLRB1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,CD4 peripherally derived regulatory T cell,,CD69,CD69
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,CD4 peripherally derived regulatory T cell,,CD38,CD38
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,CD4 peripherally derived regulatory T cell,,LAG3,LAG3

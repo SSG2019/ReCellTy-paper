@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,GNG11,GNG11
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,PIG6B,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,NRGN,NRGN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,MYL9,MYL9
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,SPARC,SPARC
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,CAVIN2,CAVIN2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,TUBB1,TUBB1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B

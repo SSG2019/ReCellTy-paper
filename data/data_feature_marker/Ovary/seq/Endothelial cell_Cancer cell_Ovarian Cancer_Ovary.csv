@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SPARCL1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,IGFBP7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell

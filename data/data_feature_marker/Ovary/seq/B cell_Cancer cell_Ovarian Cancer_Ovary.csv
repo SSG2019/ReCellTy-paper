@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79B,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGHG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell

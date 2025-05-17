@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,,Nestin,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD133,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,SOX2,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,NES,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,NOTCH1,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,HES1,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell
+Cancer stem cell,,PROM1,Human,Brain,Brain,Ependymoma,Cancer cell,Cancer stem cell

@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Neutrophil,MPO,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Monocyte/Macrophage,CD14,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Granulocyte,CD15,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Myeloid,CD13,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Myeloid,CD33,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Endothelial/Myeloid,CD31,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Monocyte/Macrophage,LYZ,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Granulocyte,FUT4,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Myeloid,ANPEP,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell
+Myeloid cell,Endothelial/Myeloid,PECAM1,Human,Undefined,Undefined,Normal,Normal cell,Myeloid cell

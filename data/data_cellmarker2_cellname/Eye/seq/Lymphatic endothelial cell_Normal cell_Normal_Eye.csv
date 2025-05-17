@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PECAM1,PECAM1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,LYVE1,LYVE1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,MMRN1,MMRN1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,FLT4,FLT4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PROX1,PROX1

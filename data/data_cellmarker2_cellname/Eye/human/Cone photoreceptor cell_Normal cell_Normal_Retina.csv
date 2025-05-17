@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,PDE6C,PDE6C
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,GNAT2,GNAT2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,CNBG3,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,PDE6H,PDE6H
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,GUCA1C,GUCA1C
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,THRB,THRB
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,GRK7,GRK7
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,GNGT2,GNGT2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,RXRG,RXRG
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,OPN1LW,OPN1LW
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Cone photoreceptor cell,CL_0000287,ARR3,ARR3

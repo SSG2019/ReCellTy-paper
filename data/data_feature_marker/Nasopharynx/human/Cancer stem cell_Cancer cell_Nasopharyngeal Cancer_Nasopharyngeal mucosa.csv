@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,c-Myc,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYC,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A1,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,Sox-2,Human,Nasopharynx,Nasopharyngeal mucosa,Nasopharyngeal Cancer,Cancer cell,Cancer stem cell

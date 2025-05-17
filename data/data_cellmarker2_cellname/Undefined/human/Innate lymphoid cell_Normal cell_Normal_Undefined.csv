@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CRTH2,PTGDR2
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,GATA3,GATA3
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,IL7Rα,
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,ST2,ST2
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD161,KLRB1
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD127,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD161,KLRB1
+Human,Undefined,Undefined,,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD337,NCR3

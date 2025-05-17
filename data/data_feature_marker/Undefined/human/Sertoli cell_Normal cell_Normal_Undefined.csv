@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Sertoli cell,,GATA1,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,,GATA4,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,,Calretinin,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,,Cyclic protein-2,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,,M2A,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,,Serotonin receptor 1A,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Differentiation,SOX9,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Androgen-binding,Androgen-binding protein,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Anti-Mullerian hormone,anti-Mullerian hormone,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Inhibin B,Inhibin B,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Structural,Vimentin,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Development,Desert hedgehog,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Survival,Clusterin,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Structural,Cytokeratin-18,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell
+Sertoli cell,Development,Stem cell factor,Human,Undefined,Undefined,Normal,Normal cell,Sertoli cell

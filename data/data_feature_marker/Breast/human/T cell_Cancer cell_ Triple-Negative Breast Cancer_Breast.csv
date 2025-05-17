@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3D,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Breast,Breast, Triple-Negative Breast Cancer,Cancer cell,T cell

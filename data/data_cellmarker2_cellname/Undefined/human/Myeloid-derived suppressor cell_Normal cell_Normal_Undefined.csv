@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,CD66b,CEACAM8
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,VEGFR-1,FLT1
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,CD124,IL4R
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid-derived suppressor cell,CL_0000889,CD11b,

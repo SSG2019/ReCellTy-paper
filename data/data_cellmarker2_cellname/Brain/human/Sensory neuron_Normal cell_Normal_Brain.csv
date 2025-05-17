@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,Peripherin,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,BRN3a,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,P2RX3,P2RX3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,NEFM,NEFM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Sensory neuron,CL_0000101,POU4F1,POU4F1

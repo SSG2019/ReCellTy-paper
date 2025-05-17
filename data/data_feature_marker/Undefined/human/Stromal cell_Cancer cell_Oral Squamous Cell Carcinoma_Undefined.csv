@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,,CD117,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Stromal cell
+Stromal cell,,CD133,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Stromal cell
+Stromal cell,,KIT,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Stromal cell
+Stromal cell,,PROM1,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Stromal cell

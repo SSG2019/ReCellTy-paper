@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,NANOG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell

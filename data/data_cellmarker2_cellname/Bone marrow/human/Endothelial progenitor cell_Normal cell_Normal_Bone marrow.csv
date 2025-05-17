@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD133,PROM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,NANOG,NANOG
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,VE-Cadherin,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD31,PECAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD133,PROM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,VEGFR-2,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD31,PECAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD90,THY1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,CD135,FLT3

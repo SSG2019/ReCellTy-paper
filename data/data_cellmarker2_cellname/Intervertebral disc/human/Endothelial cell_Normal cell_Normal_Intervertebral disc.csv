@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,LYVE-1,LYVE1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,Podoplanin,
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,ENG,ENG
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5

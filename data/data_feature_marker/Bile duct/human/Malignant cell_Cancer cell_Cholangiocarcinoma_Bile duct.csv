@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Malignant cell,,FXYD2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,Malignant,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell

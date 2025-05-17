@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,PAX1,PAX1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,FOXC2,FOXC2
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,COL2A1,COL2A1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,NODAL,NODAL
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,T,TBXT
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,TBX18,TBX18
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,FOXC1,FOXC1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,MEOX1,MEOX1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,PAX3,PAX3
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,NCAD,CDH2
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,MEOX2,MEOX2
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,HES7,HES7
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,POU5F1,POU5F1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,F-ACTIN,
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,UNCX,UNCX
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,SOX2,SOX2
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,MIXL1,MIXL1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,SOX9,SOX9
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,NAAOG,
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,RIPPLY1,RIPPLY1
+Human,Skeletal muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Pluripotent stem cell,CL_0002248,TCF15,TCF15

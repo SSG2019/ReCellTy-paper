@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD200,Human,Blood,Peripheral blood,Non-small Cell Lung Cancer,Cancer cell,CD4+ tumor antigen-specific T (Tas) cell
+T cell,tumor antigen-specific,CXCL13,Human,Blood,Peripheral blood,Non-small Cell Lung Cancer,Cancer cell,CD4+ tumor antigen-specific T (Tas) cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Excitatory,Tbr1,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,Slc17a7,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,CAMK2A,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,SYT1,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,NEUROD1,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,NEUROD2,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,BCL11B,Human,Brain,Brain,Normal,Normal cell,Excitatory neuron

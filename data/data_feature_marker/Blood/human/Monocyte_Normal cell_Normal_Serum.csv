@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,IL-1β,Human,Blood,Serum,Normal,Normal cell,Monocyte
+Monocyte,,IL-18,Human,Blood,Serum,Normal,Normal cell,Monocyte
+Monocyte,,IL18,Human,Blood,Serum,Normal,Normal cell,Monocyte

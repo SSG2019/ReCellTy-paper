@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,CD45RO,Human,Lung,Lung,Normal,Normal cell,Effector memory T cell
+T cell,,CD28,Human,Lung,Lung,Normal,Normal cell,Effector memory T cell

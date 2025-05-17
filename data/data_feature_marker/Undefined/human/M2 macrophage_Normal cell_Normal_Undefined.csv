@@ -1,0 +1,44 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,IRF4,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,STAT6,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,VSIG4,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD209,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,IL-10,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Arg1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CCL22,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD11b,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD68,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD124,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,IL10,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,IL4R,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MSR1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CD115,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CD204,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,Fc-epsilon RI-alpha,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,HLA-DR,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CXCR,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,MARCO,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CLEC10A,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CXCR1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,scavenger receptor A,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,MGL12,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,scavenger receptor B1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,Dectin-1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,Lectin,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,DC-SIGN,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CD301,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CCL12,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CXCR4,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CX3CR1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,FcRIV,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,Fc,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CCR2,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,Ly6c,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,F4/80,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CD14,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CD169,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,CSF1R,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage
+Macrophage,,SIGLEC1,Human,Undefined,Undefined,Normal,Normal cell,M2 macrophage

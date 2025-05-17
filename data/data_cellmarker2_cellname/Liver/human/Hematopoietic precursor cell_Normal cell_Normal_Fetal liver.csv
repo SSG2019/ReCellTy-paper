@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,GlycophorinA,
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD117,KIT
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD45,PTPRC
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD34,CD34
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD14,CD14
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD90,THY1
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic precursor cell,CL_0008001,CD123,IL3RA

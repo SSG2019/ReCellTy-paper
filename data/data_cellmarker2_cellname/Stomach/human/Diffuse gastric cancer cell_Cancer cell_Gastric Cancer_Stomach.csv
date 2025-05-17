@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell,,SPARC19,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell,,COL1A1,COL1A1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell,,S100A4,S100A4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Diffuse gastric cancer cell,,COL1A2,COL1A2

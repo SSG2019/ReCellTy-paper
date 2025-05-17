@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell,CL_0000622,CTRB1,CTRB1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell,CL_0000622,PRSS1,PRSS1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell,CL_0000622,REG1B,REG1B
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell,CL_0000622,CTRB2,CTRB2

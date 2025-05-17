@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adrenal Cortex Cell,Zona fasciculata,CYP11B1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,CYP11A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,CYP17A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,STAR,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell

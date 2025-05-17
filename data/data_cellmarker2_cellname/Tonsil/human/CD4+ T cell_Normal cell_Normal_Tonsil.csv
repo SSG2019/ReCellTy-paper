@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,CD4+ T cell,CL_0000624,HLADR,
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,CD4+ T cell,CL_0000624,CXCR5,CXCR5
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,CD4+ T cell,CL_0000624,CD25,IL2RA
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,CD4+ T cell,CL_0000624,CD69,CD69

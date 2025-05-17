@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,FGFBP2,FGFBP2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,EOMES,EOMES
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,KLRD1,KLRD1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,KLRC4,KLRC4
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,GNLY,GNLY
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,CD8A,CD8A
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Cytotoxic lymphocyte,,KLRC3,KLRC3

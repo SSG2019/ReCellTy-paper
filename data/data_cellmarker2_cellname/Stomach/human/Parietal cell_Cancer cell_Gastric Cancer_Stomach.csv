@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Parietal cell,CL_0000162,ATP4B,ATP4B
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Parietal cell,CL_0000162,GIF,CBLIF
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Parietal cell,CL_0000162,ATP4A,ATP4A

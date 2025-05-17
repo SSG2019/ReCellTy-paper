@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,CLEC9A+,CLEC9A,Human,Blood,Blood,Normal,Normal cell,CD141+CLEC9A+ dendritic cell

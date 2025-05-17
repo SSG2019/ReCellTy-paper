@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Fetal thymus,,Normal,Normal cell,T cell,CL_0000084,TRBC2,TRBC2
+Human,Thymus,Fetal thymus,,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D
+Human,Thymus,Fetal thymus,,Normal,Normal cell,T cell,CL_0000084,CD1B,CD1B
+Human,Thymus,Fetal thymus,,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Thymus,Fetal thymus,,Normal,Normal cell,T cell,CL_0000084,LCK,LCK

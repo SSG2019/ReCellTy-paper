@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Cancer cell,CL_0001064,EPCAM,EPCAM
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Cancer cell,CL_0001064,NAPSA,NAPSA
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Cancer cell,CL_0001064,TTF-1,NKX2-1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Cancer cell,CL_0001064,CEACAM5,CEACAM5

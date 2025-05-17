@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Conventional dendritic cell 2(cDC2),,CLEC10A,CLEC10A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Conventional dendritic cell 2(cDC2),,FCER1A,FCER1A
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Conventional dendritic cell 2(cDC2),,CD1C,CD1C

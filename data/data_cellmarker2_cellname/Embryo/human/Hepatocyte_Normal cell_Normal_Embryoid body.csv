@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Hepatocyte,CL_0000182,FGB,FGB
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Hepatocyte,CL_0000182,AFP,AFP
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Hepatocyte,CL_0000182,TTR,TTR

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Myoepithelial cell,CL_0000185,MYH11,MYH11
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Myoepithelial cell,CL_0000185,TPM2,TPM2
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Myoepithelial cell,CL_0000185,KRT5,KRT5
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Myoepithelial cell,CL_0000185,ACTA2,ACTA2
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Myoepithelial cell,CL_0000185,MYLK,MYLK

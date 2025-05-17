@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Stem memory T cell,,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,Stem memory T cell,,IL-15Rb,
+Human,Undefined,Undefined,,Normal,Normal cell,Stem memory T cell,,CD95,FAS
+Human,Undefined,Undefined,,Normal,Normal cell,Stem memory T cell,,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,Stem memory T cell,,LFA-1,ITGAL

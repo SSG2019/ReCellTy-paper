@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1High progenitor cell,,ARMC9,ARMC9
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1High progenitor cell,,CCBE1,CCBE1

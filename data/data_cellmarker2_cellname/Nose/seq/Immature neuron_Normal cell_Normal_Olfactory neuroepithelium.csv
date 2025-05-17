@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Immature neuron,CL_0000540,GNG8,GNG8
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Immature neuron,CL_0000540,CBX8,CBX8
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Immature neuron,CL_0000540,OLIG2,OLIG2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Immature neuron,CL_0000540,LHX2,LHX2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Immature neuron,CL_0000540,EBF2,EBF2

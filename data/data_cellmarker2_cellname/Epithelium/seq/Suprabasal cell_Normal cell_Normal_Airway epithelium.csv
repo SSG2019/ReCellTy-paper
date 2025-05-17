@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Suprabasal cell,,NOTCH3,NOTCH3
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Suprabasal cell,,KRT19,KRT19
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Suprabasal cell,,KRT5,KRT5
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Suprabasal cell,,TP63 low,

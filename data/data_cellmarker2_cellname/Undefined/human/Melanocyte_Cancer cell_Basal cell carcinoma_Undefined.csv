@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Melanocyte,CL_0000148,MLANA,MLANA

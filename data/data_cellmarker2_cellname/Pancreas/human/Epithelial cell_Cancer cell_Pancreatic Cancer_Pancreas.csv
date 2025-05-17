@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,Abcam,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,CK19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,ab9221,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Epithelial cell,CL_0000066,EpCAM,

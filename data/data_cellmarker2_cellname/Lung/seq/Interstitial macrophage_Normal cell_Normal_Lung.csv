@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Interstitial macrophage,,CXCL11,CXCL11
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Interstitial macrophage,,CXCL10,CXCL10
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Interstitial macrophage,,CCL4,CCL4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Interstitial macrophage,,ISG20,ISG20
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Interstitial macrophage,,ISG15,ISG15

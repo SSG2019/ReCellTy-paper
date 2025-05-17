@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pluripotency cell,Pluripotency,NANOG,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pluripotency cell
+Pluripotency cell,Pluripotency,SOX2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pluripotency cell
+Pluripotency cell,Pluripotency,OCT4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pluripotency cell
+Pluripotency cell,Pluripotency,C-MYC,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pluripotency cell
+Pluripotency cell,Pluripotency,POU5F1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pluripotency cell

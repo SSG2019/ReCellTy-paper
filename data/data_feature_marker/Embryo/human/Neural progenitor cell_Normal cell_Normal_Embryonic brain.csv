@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural cell,Progenitor,NKX2-1,Human,Embryo,Embryonic brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,Progenitor,TOP2A,Human,Embryo,Embryonic brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,Progenitor,HES5,Human,Embryo,Embryonic brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,,LHX6,Human,Embryo,Embryonic brain,Normal,Normal cell,Neural progenitor cell

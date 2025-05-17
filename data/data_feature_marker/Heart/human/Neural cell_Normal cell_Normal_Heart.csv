@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural cell,,NES,Human,Heart,Heart,Normal,Normal cell,Neural cell
+Neural cell,,SOX1,Human,Heart,Heart,Normal,Normal cell,Neural cell
+Neural cell,,PAX6,Human,Heart,Heart,Normal,Normal cell,Neural cell

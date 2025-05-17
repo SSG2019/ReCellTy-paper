@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+LOH cell,Descending thin limb,Slc12a1,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb of LOH cell
+LOH cell,Descending thin limb,Clcnka,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb of LOH cell
+LOH cell,Descending thin limb,Cldn10,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb of LOH cell
+LOH cell,Descending thin limb,Aqp1,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb of LOH cell

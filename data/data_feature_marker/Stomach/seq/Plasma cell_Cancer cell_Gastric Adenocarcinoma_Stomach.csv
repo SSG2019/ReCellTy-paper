@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,Plasma,CD38,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,Plasma,XBP1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,Plasma,SDC1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,Plasma,SLAMF7,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,Plasma,IRF4,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Plasma cell

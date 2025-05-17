@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,CLEC4A,CLEC4A
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,CD1c,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,CLEC10A,CLEC10A
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,FCER1A,FCER1A
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,AREG,AREG
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,CD1C,CD1C
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,LTB,LTB
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell 2A,,CD3E,CD3E

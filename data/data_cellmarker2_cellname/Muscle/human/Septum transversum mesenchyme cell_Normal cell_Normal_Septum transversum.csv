@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Septum transversum,UBERON_0004161,Normal,Normal cell,Septum transversum mesenchyme cell,,PDGFRB,PDGFRB
+Human,Muscle,Septum transversum,UBERON_0004161,Normal,Normal cell,Septum transversum mesenchyme cell,,HLX,HLX
+Human,Muscle,Septum transversum,UBERON_0004161,Normal,Normal cell,Septum transversum mesenchyme cell,,PDGFRA,PDGFRA
+Human,Muscle,Septum transversum,UBERON_0004161,Normal,Normal cell,Septum transversum mesenchyme cell,,LHX2,LHX2
+Human,Muscle,Septum transversum,UBERON_0004161,Normal,Normal cell,Septum transversum mesenchyme cell,,FOXF1,FOXF1

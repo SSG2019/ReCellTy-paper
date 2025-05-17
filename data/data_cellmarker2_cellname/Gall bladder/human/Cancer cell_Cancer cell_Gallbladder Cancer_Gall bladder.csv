@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder Cancer,Cancer cell,Cancer cell,CL_0001064,APOBEC3A,APOBEC3A

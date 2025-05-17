@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper,CD4,Human,Undefined,Undefined,Undefined,Cancer cell,T helper(Th) cell
+T cell,T helper,CD25,Human,Undefined,Undefined,Undefined,Cancer cell,T helper(Th) cell
+T cell,T helper,FasL,Human,Undefined,Undefined,Undefined,Cancer cell,T helper(Th) cell
+T cell,T helper,IL2RA,Human,Undefined,Undefined,Undefined,Cancer cell,T helper(Th) cell

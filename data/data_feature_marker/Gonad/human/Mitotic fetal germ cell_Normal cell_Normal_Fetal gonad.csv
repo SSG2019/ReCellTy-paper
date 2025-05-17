@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Mitotic,TUBA1A,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Mitotic,CENPA,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Mitotic,CDK4,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Mitotic,NUSAP1,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Fetal,SOX4,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Fetal,NANOG,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Fetal,POU5F1,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell
+Germ cell,Fetal,LIN28A,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic fetal germ cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Beta cell,,INS,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,RBP4,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ENTPD3,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,IAPP,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,HADH,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,DLK1,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)
+Beta cell,,ADCYAP1,Human,Liver,Liver,Normal,Normal cell,Beta cell(β cell)

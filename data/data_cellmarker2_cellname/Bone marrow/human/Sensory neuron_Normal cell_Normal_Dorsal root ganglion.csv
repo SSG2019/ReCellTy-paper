@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,vGLUT1,
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,POU4F1,POU4F1
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,PTPRT,PTPRT
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,P2RX3,P2RX3
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,GFRA2,GFRA2
+Human,Bone marrow,Dorsal root ganglion,,Normal,Normal cell,Sensory neuron,CL_0000101,NRG1,NRG1

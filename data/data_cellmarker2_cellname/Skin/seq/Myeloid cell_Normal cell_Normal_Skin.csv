@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,CTSS,CTSS
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,Lyz2,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,CXCL8,CXCL8
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myeloid cell,CL_0000763,IL1B,IL1B

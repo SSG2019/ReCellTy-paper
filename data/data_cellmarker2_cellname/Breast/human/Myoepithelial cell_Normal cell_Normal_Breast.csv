@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,Alkaline phosphatase,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,SMA,SMN1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,Calponin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,Galectin-7,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,CD29,ITGB1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,CD10,MME
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,Calponin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,SMA,SMN1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Myoepithelial cell,CL_0000185,Cytokeratin-14,

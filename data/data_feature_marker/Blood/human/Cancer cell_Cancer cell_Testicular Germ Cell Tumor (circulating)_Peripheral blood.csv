@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,SALL4,Human,Blood,Peripheral blood,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell
+Cancer cell,,OCT3/4,Human,Blood,Peripheral blood,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell
+Cancer cell,,EpCAM,Human,Blood,Peripheral blood,Testicular Germ Cell Tumor (circulating),Cancer cell,Cancer cell

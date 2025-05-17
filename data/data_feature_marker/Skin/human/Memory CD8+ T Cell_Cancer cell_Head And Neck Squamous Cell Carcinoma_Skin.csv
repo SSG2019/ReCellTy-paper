@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T Cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell
+T Cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell
+T Cell,Memory,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,PLA2G2A,Human,Intestine,Epithelium,Normal,Normal cell,Proximal stem cell
+Stem cell,,CASP1,Human,Intestine,Epithelium,Normal,Normal cell,Proximal stem cell
+Stem cell,,GRIA4,Human,Intestine,Epithelium,Normal,Normal cell,Proximal stem cell

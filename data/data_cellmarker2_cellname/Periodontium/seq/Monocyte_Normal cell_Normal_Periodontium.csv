@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Periodontium,Periodontium,UBERON_0001758,Normal,Normal cell,Monocyte,CL_0000576,MS4A6A,MS4A6A
+Human,Periodontium,Periodontium,UBERON_0001758,Normal,Normal cell,Monocyte,CL_0000576,S100A9,S100A9

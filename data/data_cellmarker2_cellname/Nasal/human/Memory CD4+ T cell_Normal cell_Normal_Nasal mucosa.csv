@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD38,CD38
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD127,IL7R
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,HLA-DR,
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD69,CD69
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD7,CD7

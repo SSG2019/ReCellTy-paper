@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,MPO,MPO
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,CD13,ANPEP
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,CD31,PECAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Myeloid cell,CL_0000763,LYZ,LYZ

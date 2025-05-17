@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Cycling transient-amplifying cell,,MKI67,MKI67
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Cycling transient-amplifying cell,,TUBA1B,TUBA1B
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Cycling transient-amplifying cell,,PCNA,PCNA

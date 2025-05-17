@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,,TF,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,TNR,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,MBP,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,OLIG1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,ALCAM,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,PLLP,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,MOG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,OMG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,PLP1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,MAG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,CLDN11,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,OLIG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,OSP,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,GRIA1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,GRIA2,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,MYT1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,ERMN,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,PPP1R14A,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,EDIL3,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,,CNDP1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte

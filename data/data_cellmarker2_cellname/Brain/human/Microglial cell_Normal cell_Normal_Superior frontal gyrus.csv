@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,TREM2,TREM2
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,SPP1,SPP1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,APOE,APOE
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CD9,CD9
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,B2M,B2M
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,LPL,LPL
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CSF1,CSF1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,ITGAX,ITGAX
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CD33,CD33
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CST7,CST7
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,AXL,AXL
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,TYROBP,TYROBP
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Microglial cell,CL_0000129,CD74,CD74

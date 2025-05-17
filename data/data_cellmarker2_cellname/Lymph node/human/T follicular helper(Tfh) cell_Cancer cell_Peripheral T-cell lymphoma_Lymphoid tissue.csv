@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,ICOS,ICOS
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,BCL6,BCL6
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCL13,CXCL13

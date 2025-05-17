@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Luminal progenitor cell,Luminal,GABRP,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,ALDH1A3,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell
+Luminal progenitor cell,progenitor,EZH2,Human,Breast,Breast,Breast Cancer,Cancer cell,Luminal progenitor cell

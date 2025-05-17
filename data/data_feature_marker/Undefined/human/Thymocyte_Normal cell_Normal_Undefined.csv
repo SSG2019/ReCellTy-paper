@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Thymocyte,,CD150,Human,Undefined,Undefined,Normal,Normal cell,Thymocyte
+Thymocyte,,SLAMF1,Human,Undefined,Undefined,Normal,Normal cell,Thymocyte

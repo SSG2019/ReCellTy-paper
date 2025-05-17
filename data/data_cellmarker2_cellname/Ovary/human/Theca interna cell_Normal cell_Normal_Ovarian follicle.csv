@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Theca interna cell,,CYP17,CYP17A1
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Theca interna cell,,OGN,OGN
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Theca interna cell,,RAMP2,RAMP2
+Human,Ovary,Ovarian follicle,UBERON_0001305,Normal,Normal cell,Theca interna cell,,FBLN5,FBLN5

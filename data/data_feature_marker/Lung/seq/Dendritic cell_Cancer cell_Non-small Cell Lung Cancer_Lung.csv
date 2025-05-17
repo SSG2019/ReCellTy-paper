@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD74,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD11C,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,MHC-II,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Dendritic cell

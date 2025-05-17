@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,IL2RB,IL2RB
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL3,KIR2DL3
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,CTSW,CTSW
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,KLRC1,KLRC1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,CD7,CD7
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,TMIGD2,TMIGD2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,TESC,TESC
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,CHST12,CHST12
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,XCL2,XCL2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,TNFRSF18,TNFRSF18
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,TRDC,TRDC
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Natural killer cell,CL_0000623,GZMB,GZMB

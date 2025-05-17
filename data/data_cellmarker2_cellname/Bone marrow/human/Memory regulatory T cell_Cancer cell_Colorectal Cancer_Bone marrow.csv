@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Memory regulatory T cell,CL_0002678,FOXP3,FOXP3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Memory regulatory T cell,CL_0002678,CD4,CD4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Memory regulatory T cell,CL_0002678,CD3,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Memory regulatory T cell,CL_0002678,CD25,IL2RA

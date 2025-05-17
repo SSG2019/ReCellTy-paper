@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Inhibitory neuron,CL_0008029,PAX6,PAX6
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Inhibitory neuron,CL_0008029,CDH12,CDH12

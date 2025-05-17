@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesoderm cell,Posterior presomitic mesoderm (pPSM),TBX6,Human,Embryo,Posterior presomitic mesoderm,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell
+Mesoderm cell,Posterior presomitic mesoderm (pPSM),RSPO3,Human,Embryo,Posterior presomitic mesoderm,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell
+Mesoderm cell,Posterior presomitic mesoderm (pPSM),MSGN1,Human,Embryo,Posterior presomitic mesoderm,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell

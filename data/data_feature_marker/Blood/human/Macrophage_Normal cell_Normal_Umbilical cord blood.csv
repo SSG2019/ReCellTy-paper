@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Blood,Umbilical cord blood,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood,Umbilical cord blood,Normal,Normal cell,Macrophage

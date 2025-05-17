@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colon Cancer,Cancer cell,Cancer stem cell,,KLF5,KLF5
+Human,Intestine,Intestine,UBERON_0000160,Colon Cancer,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Intestine,Intestine,UBERON_0000160,Colon Cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1

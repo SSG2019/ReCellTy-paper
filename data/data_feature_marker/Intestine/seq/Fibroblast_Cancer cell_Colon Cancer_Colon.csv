@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,ACTA2,Human,Intestine,Colon,Colon Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Intestine,Colon,Colon Cancer,Cancer cell,Fibroblast
+Fibroblast,,ENG,Human,Intestine,Colon,Colon Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Intestine,Colon,Colon Cancer,Cancer cell,Fibroblast

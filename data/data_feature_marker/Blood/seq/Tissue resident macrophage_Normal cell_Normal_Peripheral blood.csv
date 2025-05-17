@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tissue resident,KLF4,Human,Blood,Peripheral blood,Normal,Normal cell,Tissue resident macrophage
+Macrophage,Tissue resident,SIGLEC1,Human,Blood,Peripheral blood,Normal,Normal cell,Tissue resident macrophage
+Macrophage,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Tissue resident macrophage

@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,S1PR1,S1PR1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,ITGA5,ITGA5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,ROBO4,ROBO4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,CAV2,CAV2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,AKT3,AKT3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,CALCRL,CALCRL
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,CAVIN2,CAVIN2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,CAVIN1,CAVIN1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,CAV1,CAV1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,ST6GALNAC3,ST6GALNAC3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,TIE1,TIE1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,TJP1,TJP1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,MYL12B,MYL12B
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,RAMP3,RAMP3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,PXN,PXN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,GALNT18,GALNT18
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,PTPRM,PTPRM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,PRK2,PKN2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,MYL12A,MYL12A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,PODXL,PODXL
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,LAMB2,LAMB2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,ITGB1,ITGB1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,AFDN,AFDN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pan-endothelial cell,,RAMP2,RAMP2

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adventitial cell,,CD31,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD45,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,PECAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,PTPRC,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell

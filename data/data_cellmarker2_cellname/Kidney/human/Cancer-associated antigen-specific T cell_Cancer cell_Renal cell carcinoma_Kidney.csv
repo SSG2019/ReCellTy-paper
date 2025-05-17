@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell,,Granzyme B,
+Human,Kidney,Kidney,UBERON_0002113,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell,,Perforin,
+Human,Kidney,Kidney,UBERON_0002113,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell,,CD39,ENTPD1
+Human,Kidney,Kidney,UBERON_0002113,Renal cell carcinoma,Cancer cell,Cancer-associated antigen-specific T cell,,PD-1,PDCD1

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,T cell
+T cell,,NGK7,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,T cell
+T cell,,HLA-E,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,T cell
+T cell,,CD39,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,T cell
+T cell,,ENTPD1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,T cell

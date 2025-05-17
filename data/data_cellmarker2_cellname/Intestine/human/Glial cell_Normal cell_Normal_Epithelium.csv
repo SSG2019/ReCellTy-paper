@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,GFRA3,GFRA3
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,RXRG,RXRG
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,APOE,APOE
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,PHOX2B,PHOX2B
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,LAMP5,LAMP5
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,ZFP36,ZFP36
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,CTGF,CCN2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,ENTPD2,ENTPD2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,BCAN,BCAN
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,FGL2,FGL2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,HMGA2,HMGA2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Glial cell,CL_0000125,SPRY1,SPRY1

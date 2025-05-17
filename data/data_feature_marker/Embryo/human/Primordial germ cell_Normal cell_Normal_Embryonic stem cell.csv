@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Primordial germ cell,,CD38,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,TNAP,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,ALPL,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Primordial germ cell

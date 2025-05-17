@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,HMGB3,HMGB3
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,FEV,FEV
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,RGP4,RGS4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,PGE2-R,PTGER3
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,LOXL4,LOXL4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,RFX6,RFX6
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,SMARCA1,SMARCA1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,ARX,ARX
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,KRP1,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GBA,GBA
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,ILTMP,TM4SF4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,CRYBA2,CRYBA2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,PGR,PGR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,CLIM1,LDB2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,IRX2,IRX2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,MAFB,MAFB
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,PLCE1,PLCE1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Alpha cell (α cell),CL_0000171,PAX6,PAX6

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,OLFM4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,,LGR5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell
+Stem cell,,CCKBR,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Stem cell

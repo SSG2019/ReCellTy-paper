@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,KRAS,KRAS
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,COSMIC v89,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,GTPase,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,UCB(s),
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,RNU,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Cancer cell,Cancer cell,CL_0001064,UTUC,

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,CL_0000843,TCL1A,TCL1A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,CL_0000843,FCER2,FCER2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,CL_0000843,IL4R,IL4R
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,CL_0000843,IGHD,IGHD
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,CL_0000843,YBX3,YBX3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,YBX3,YBX3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,IGHD,IGHD
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,TCL1A,TCL1A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,CD79A,CD79A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,CD19,CD19
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,MS4A1,MS4A1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Follicular B cell,,CD79B,CD79B

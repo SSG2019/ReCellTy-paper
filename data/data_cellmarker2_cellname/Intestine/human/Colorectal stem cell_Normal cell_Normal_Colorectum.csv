@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Normal,Normal cell,Colorectal stem cell,CL_0000034,CD29,ITGB1
+Human,Intestine,Colorectum,UBERON_0012652,Normal,Normal cell,Colorectal stem cell,CL_0000034,ALDH1,ALDH1A1
+Human,Intestine,Colorectum,UBERON_0012652,Normal,Normal cell,Colorectal stem cell,CL_0000034,LGR5,LGR5
+Human,Intestine,Colorectum,UBERON_0012652,Normal,Normal cell,Colorectal stem cell,CL_0000034,DCLK1,DCLK1
+Human,Intestine,Colorectum,UBERON_0012652,Normal,Normal cell,Colorectal stem cell,CL_0000034,MSI1,MSI1

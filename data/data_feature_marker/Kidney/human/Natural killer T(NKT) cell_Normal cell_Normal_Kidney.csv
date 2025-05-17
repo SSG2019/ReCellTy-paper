@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,NKG7,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,GNLY,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,Ctsw,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,Gimap4,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,Cxcr6,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,Ly6c2,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,CD3D,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,CD3E,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,Cd3g,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,IL7R,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,CD8A,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,Tmsb10,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,Gimap3,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,Ltb,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,T,Hcst,Human,Kidney,Kidney,Normal,Normal cell,Natural killer T(NKT) cell

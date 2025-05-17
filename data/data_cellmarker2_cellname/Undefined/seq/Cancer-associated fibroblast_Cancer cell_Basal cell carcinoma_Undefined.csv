@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Cancer-associated fibroblast,,PDPN,PDPN
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Cancer-associated fibroblast,,FAP,FAP
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Cancer-associated fibroblast,,VWF,VWF
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Cancer-associated fibroblast,,FAP,FAP

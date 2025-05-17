@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,MBP,MBP
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,MOG,MOG
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,SOX10,SOX10
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,OSP,CLDN11
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,Olig 1,
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,Olig 2,
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,Olig 3,
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,Pdgfra,
+Human,Undefined,Undefined,,Normal,Normal cell,Oligodendrocyte,CL_0000128,Mog,

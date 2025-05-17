@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,FREM2,FREM2
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,CDH3,CDH3
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,TRPV6,TRPV6
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,ELF3,ELF3
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,CLDN6,CLDN6
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,ERBB3,ERBB3
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,ESRP1,ESRP1
+Human,Brain,Microvascular endothelium,UBERON_0008339,Normal,Normal cell,Epithelial cell,CL_0000066,CLDN4,CLDN4

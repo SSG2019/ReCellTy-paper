@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EPCAM,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Epithelial cell
+Epithelial cell,,VIL1,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN7,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Epithelial cell

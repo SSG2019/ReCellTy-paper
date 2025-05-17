@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,NCAMs,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,NFASC,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,L1CAM,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,NPTN,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,SNAP91,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,SYN1,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,NRXNs,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,NRCAM,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,NPTXs,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron
+Neuron,,Nestin,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Neuron

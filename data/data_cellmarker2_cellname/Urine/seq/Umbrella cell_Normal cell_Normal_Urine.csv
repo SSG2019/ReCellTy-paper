@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Umbrella cell,,TSPAN1,TSPAN1
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Umbrella cell,,PLAT,PLAT
+Human,Urine,Urine,UBERON_0001088,Normal,Normal cell,Umbrella cell,,FXYD3,FXYD3

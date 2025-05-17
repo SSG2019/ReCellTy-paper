@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,NKG7,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,PTPRC,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,IFNG,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD3E,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,Natural killer cell

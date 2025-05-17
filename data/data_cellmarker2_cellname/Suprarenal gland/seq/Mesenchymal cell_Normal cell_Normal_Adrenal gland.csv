@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL1A2,COL1A2
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,CXCL12,CXCL12
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,DCN,DCN
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL6A3,COL6A3
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRA,PDGFRA
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,PRRX1,PRRX1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRB,PDGFRB
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL12A1,COL12A1

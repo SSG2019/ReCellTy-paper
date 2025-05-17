@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,SLC4A11,SLC4A11
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,AQP1,AQP1
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,TJP1,TJP1
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,CDH2,CDH2
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,ATP1A1,ATP1A1
+Human,Eye,Corneal endothelium,,Normal,Normal cell,Endothelial cell,CL_0000115,COL8A1,COL8A1

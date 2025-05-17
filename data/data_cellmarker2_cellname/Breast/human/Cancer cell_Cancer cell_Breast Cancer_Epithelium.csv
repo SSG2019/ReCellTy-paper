@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Epithelium,UBERON_0000483,Breast Cancer,Cancer cell,Cancer cell,CL_0001064,CK19,KRT19
+Human,Breast,Epithelium,UBERON_0000483,Breast Cancer,Cancer cell,Cancer cell,CL_0001064,HER2,ERBB2

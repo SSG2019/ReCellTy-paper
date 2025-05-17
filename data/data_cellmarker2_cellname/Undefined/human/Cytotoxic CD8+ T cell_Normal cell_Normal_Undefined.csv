@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD178,FASLG
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD8,CD8A
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD107a,LAMP1
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,TNF-alpha,TNF
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD253,TNFSF10
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,Granzyme B,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,IFN-gamma,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,Perforin,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic CD8+ T cell,CL_0000794,GZMA,GZMA

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,synaptic function,SYT11,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,neuronal growth and regeneration,STMN2,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,neuronal differentiation,SOX4,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,cerebellar development,ZIC1,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,,CDK1,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,,RRM2,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron
+Neuron,,TOP2A,Human,Brain,Brain,Medulloblastoma,Cancer cell,Neuron

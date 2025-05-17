@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,CD32B,FCGR2B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,STAB2,STAB2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,CLEC4M,CLEC4M
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,DNASE1L3,DNASE1L3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,CLEC4G,CLEC4G
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,FCGR2B,FCGR2B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,F8,F8
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,CLEC1B,CLEC1B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,MRC1,MRC1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,FCN2,FCN2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,LYVE1,LYVE1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,GPR182,GPR182
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,OIT3,OIT3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,FCN3,FCN3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,Gpr182,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Sinusoidal endothelial cell,CL_1000398,Fcgr2b,

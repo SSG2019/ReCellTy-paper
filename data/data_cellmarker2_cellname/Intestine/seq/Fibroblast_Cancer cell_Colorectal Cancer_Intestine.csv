@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN

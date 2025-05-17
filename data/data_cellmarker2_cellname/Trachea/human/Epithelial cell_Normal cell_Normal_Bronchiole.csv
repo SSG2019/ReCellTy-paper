@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CLDN1,CLDN1
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CFTR,CFTR
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,DSP,DSP
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,ZO1,
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CK18,
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CTNNB1,CTNNB1
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,GJB3,GJB3
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CX26,GJB2
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,β-catenin,
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,CX43,GJA1
+Human,Trachea,Bronchiole,UBERON_0002186,Normal,Normal cell,Epithelial cell,CL_0000066,occludin,

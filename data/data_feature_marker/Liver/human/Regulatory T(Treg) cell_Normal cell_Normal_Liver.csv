@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CD27,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TIGIT,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,ENTPD1,Human,Liver,Liver,Normal,Normal cell,Regulatory T(Treg) cell

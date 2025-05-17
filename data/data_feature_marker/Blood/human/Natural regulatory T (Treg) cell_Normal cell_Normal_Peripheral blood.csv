@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural regulatory,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Natural regulatory,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Natural regulatory,HELIOS,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Natural regulatory,IKZF2,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Treg,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Treg,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Treg,HELIOS,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell
+T cell,Treg,IKZF2,Human,Blood,Peripheral blood,Normal,Normal cell,Natural regulatory T (Treg) cell

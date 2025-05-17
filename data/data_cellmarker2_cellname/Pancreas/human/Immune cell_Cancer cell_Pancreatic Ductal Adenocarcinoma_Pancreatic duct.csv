@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell,CL_0000738,CTLA4,CTLA4
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell,CL_0000738,CD39,ENTPD1
+Human,Pancreas,Pancreatic duct,UBERON_0007329,Pancreatic Ductal Adenocarcinoma,Cancer cell,Immune cell,CL_0000738,FOXP3,FOXP3

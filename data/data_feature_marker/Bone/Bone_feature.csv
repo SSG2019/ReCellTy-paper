@@ -1,0 +1,370 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD19,Human,Bone,Bone,Normal,Normal cell,B cell
+Cancer cell,,AHA1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer cell
+Cancer cell,,AHSA1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer cell
+Cancer cell,,FGF23,Human,Bone,Bone,Undifferentiated pleomorphic sarcoma,Cancer cell,Cancer cell
+Cancer stem cell,Stemness,ABCG2,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1A1,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD19,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD20,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD27,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Cancer stem cell,,MS4A1,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Sox4,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,KDR,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Sox9,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD24,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,SPARC,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD133,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Cartilage cell,Progenitor,CENPF,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,UBE2C,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,KIAA0101,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,CDC20,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,,TMMN1,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,CDKN3,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,BIRC5,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,CKAP2,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,Progenitor,PCLAF,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage progenitor Cell,,CDK1,Human,Bone,Meniscus,Normal,Normal cell,Cartilage progenitor Cell
+Cartilage progenitor Cell,,BIRC5,Human,Bone,Meniscus,Normal,Normal cell,Cartilage progenitor Cell
+Endothelial cell,,VWF,Human,Bone,Bone,Osteosarcoma,Cancer cell,Endothelial cell
+Endothelial cell,,MYL1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Bone,Meniscus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD93,Human,Bone,Meniscus,Normal,Normal cell,Endothelial cell
+Epithelial cell,,CDH1,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Epithelial cell
+Epithelial cell,,CD105,Human,Bone,Bone,Normal,Normal cell,Epithelial cell
+Fibroblast,,LUM,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+chondrocyte,Fibrocartilage,SH3BGRL3,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+chondrocyte,Fibrocartilage,IGFBP5,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+chondrocyte,Fibrocartilage,S100A6,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+chondrocyte,Fibrocartilage,LMCD1,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+chondrocyte,Fibrocartilage,MYL9,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Fibrochondrocyte progenitor cell,,COL3A1,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte progenitor cell
+Fibrochondrocyte progenitor cell,,COL1A1,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte progenitor cell
+Fibrochondrocyte progenitor cell,,MYLK,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte progenitor cell
+Fibrochondrocyte progenitor cell,,MCAM,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte progenitor cell
+Fibrochondrocyte,,COL6A1,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte
+Fibrochondrocyte,,COL1A1,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte
+Fibrochondrocyte,,COL3A1,Human,Bone,Meniscus,Normal,Normal cell,Fibrochondrocyte
+Hematopoietic stem cell,,CD34,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Hematopoietic stem cell
+Chondrocyte,Homeostatic,TIMP1,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,TXNIP,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Innate lymphoid cell,,GATA3,Human,Bone,Spinal cord,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CXCR4,Human,Bone,Spinal cord,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CXCR3,Human,Bone,Spinal cord,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CXCR5,Human,Bone,Spinal cord,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CCR6,Human,Bone,Spinal cord,Normal,Normal cell,Innate lymphoid cell
+Langerhans cell,,CD1A,Human,Bone,Bone,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Bone,Bone,Normal,Normal cell,Langerhans cell
+stem cell,Leukemic,CD96,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+stem cell,Leukemic,IL1RAP,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+stem cell,,CD47,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Lymphocyte,,SET,Human,Bone,Bone,Normal,Normal cell,Lymphocyte
+Macrophage,M2,IL-10,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,IL10,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD204,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MSR1,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,M2,(CCL)-22,Human,Bone,Bone,Normal,Normal cell,M2 macrophage
+Macrophage,,CD68,Human,Bone,Bone,Normal,Normal cell,Macrophage
+Macrophage,,TSPO,Human,Bone,Bone,Normal,Normal cell,Macrophage
+Macrophage,,CD32,Human,Bone,Bone,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Bone,Bone,Normal,Normal cell,Macrophage
+Macrophage,,FCGR2A,Human,Bone,Bone,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Bone,Lumbar vertebra,Normal,Normal cell,Macrophage
+Macrophage,,CCR7,Human,Bone,Lumbar vertebra,Normal,Normal cell,Macrophage
+Macrophage,Antigen Presentation,HLA-DRA,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,MARCO,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Innate Immune Response,CD14,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,CD68,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Survival and Proliferation,CSF1R,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,,NR4A3,Human,Bone,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,TNF,Human,Bone,Synovium,Normal,Normal cell,Macrophage
+Mesenchymal cell,,CDH2,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Bone,Bone,Multiple Myeloma,Cancer cell,Mesenchymal cell
+Mesenchymal progenitor cell,,CD146,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,PDGFR,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,NG2,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,CD29,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,MCAM,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,PDGFRB,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,CSPG4,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,ITGB1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal stem cell,,CD19,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD166,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD13,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD340,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49e,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD51,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD29,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD117,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD10,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD56,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD271,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD31,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD71,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD120a,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD106,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD140b,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49d,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Ly6A/E,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD146,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ADSCs,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,HLA-DR,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ALCAM,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ANPEP,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ERBB2,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGA5,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGAV,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,KIT,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MME,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NCAM1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NGFR,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PECAM1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TFRC,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TNFRSF1A,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MCAM,Human,Bone,Bone,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MCAM,Human,Bone,Meniscus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stromal cell,,VCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD146,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD166,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,MCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,ALCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Monocyte,,CD14,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Multipotent postnatal progenitor cell,,STRO-1,Human,Bone,Bone,Normal,Normal cell,Multipotent postnatal progenitor cell
+Stem cell,Multipotent,STRO-1,Human,Bone,Bone,Normal,Normal cell,Multipotent postnatal stem cell
+Myeloid cell,,MRC1,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD206,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD163,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD74,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myoblast,,MYL1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myoblast
+Myoblast,,MYLPF,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myoblast
+Myofibroblast,,MYLK,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,MYL9,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast
+Natural killer cell,,IL7R,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Neutrophil,Inflammation,S100A8/A9,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Activation,CD66b,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Biology,BioNeu,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Extracellular Traps,NETs,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Inflammation,ACPA-S100,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Function,PRTN3,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Activation,CEACAM8,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Osteoblast,Proliferation,MKI67,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,PCNA,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,TOP2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,TOP2A,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage Formation,ACAN,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage Formation,COL2A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage Formation,SOX9,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Differentiation,CDH11,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Differentiation,RUNX2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Bone Formation,COL1A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Osteoblast Differentiation,RUNX2,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Osteoblast Differentiation,DLX5,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Osteoblast Differentiation,SP7,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,PTH1R,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,Calcitonin and Related Receptor Agonists,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,Calcitonin and Related Receptor Antagonists,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,TNFRSF11A,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD44,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD73,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD105,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoclast,,MMP9,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoclast
+Osteoclast,,CTSK,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoclast
+Osteoclast,function,TRAP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,CTR,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,CTSK,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,CD56,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,RUNX2,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,differentiation,RANK,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,SOFAT,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,ACP5,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,fusion,DCSTAMP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,differentiation,TNFRSF11A,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,MMP9,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,fusion,OCSTAMP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,SIGLEC15,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,NCAM1,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,THNSL2,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteocyte,,SOST,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteocyte
+Osteocyte,,DMP1,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,SPARC,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,FGF23,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,SOST,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,MEPE,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,Biglycan,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,Fibronectin,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,Anastellin,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,Podoplanin,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,CD44,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,E11,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,PHEX,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,CX43,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,OPN,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,RUNX2,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,ALP,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,BGLAP,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,BMP2,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,COL1A1,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,SP7,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,IBSP,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,SPP1,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,MMP9,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,GJA1,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,ALPL,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,LOC111674475,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Osteocyte,,ALPP,Human,Bone,Bone,Normal,Normal cell,Osteocyte
+Pericyte,,ACTA2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Pericyte
+Pericyte,,RGS5,Human,Bone,Bone,Osteosarcoma,Cancer cell,Pericyte
+Plasma cell,,CD138,Human,Bone,Bone,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Bone,Bone,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Bone,Bone,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Chondrocyte,Prehypertrophic,COL11A1,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,COL9A3,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SOX9,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,MMP1,Human,Bone,Meniscus,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,TNFAIP6,Human,Bone,Meniscus,Normal,Normal cell,Prehypertrophic chondrocyte
+Progenitor cell,,CD34,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Progenitor cell
+Progenitor cell,,STRO-1,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD90,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD105,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD44,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD73,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD29,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,THY1,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NT5E,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ITGB1,Human,Bone,Bone,Normal,Normal cell,Progenitor cell
+Fibrochondrocyte,Proliferative,GTGF,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte
+Fibrochondrocyte,Proliferative,FGF7,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte
+Fibrochondrocyte,,COL1A1,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte
+Chondrocyte,Regulatory,ANXA1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,EIF5A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,TUBA1A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,PGK1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,BMP2,Human,Bone,Meniscus,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,FOSL1,Human,Bone,Meniscus,Normal,Normal cell,Regulatory chondrocyte
+Stem cell,Mesenchymal,CD146,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,STRO-1,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD73,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD105,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Osteogenic,Bone sialoprotein,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Osteogenic,RUNX2,Human,Bone,Bone,Normal,Normal cell,Stem cell
+Stem cell,Osteogenic,OSX,Human,Bone,Bone,Normal,Normal cell,Stem cell
+T cell,,CD3,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,T cell
+T cell,,CD69,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,T cell
+T cell,,CD3D,Human,Bone,Bone,Normal,Normal cell,T cell
+T cell,17,CXCR6,Human,Bone,Synovium,Normal,Normal cell,Tc 17 cell
+T cell,Tissue resident memory,CD69,Human,Bone,Synovium,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD103,Human,Bone,Synovium,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ZNF683,Human,Bone,Synovium,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CRTAM,Human,Bone,Synovium,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Bone,Synovium,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Type 17,CD161,Human,Bone,Synovium,Normal,Normal cell,Type 17 T cell
+T cell,Type 17,CCR6,Human,Bone,Synovium,Normal,Normal cell,Type 17 T cell
+T cell,,KLRB1,Human,Bone,Synovium,Normal,Normal cell,Type 17 T cell
+B cell,,CD19,Human,Bone,Bone,Normal,Normal cell,B cell
+stem cell,Cancer,CD133,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Cancer stem cell
+Cartilage cell,progenitor,CENPF,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,UBE2C,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,KIAA0101,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,CDC20,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,CDKN3,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,BIRC5,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,CKAP2,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Cartilage cell,progenitor,PCLAF,Human,Bone,Cartilage,Normal,Normal cell,Cartilage progenitor cell
+Endothelial cell,,VWF,Human,Bone,Bone,Osteosarcoma,Cancer cell,Endothelial cell
+Endothelial cell,,MYL1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Endothelial cell
+Fibroblast,,LUM,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Fibroblast
+Chondrocyte,Fibrocartilage,S100A6,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,SH3BGRL3,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,IGFBP5,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,LMCD1,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,MYL9,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Hematopoietic stem cell,,CD34,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Hematopoietic stem cell
+Chondrocyte,Homeostatic,TIMP1,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,TXNIP,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,GDF15,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,,IFITM3,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Langerhans cell,,CD1A,Human,Bone,Bone,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Bone,Bone,Normal,Normal cell,Langerhans cell
+Stem cell,Leukemic,CD96,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,IL1RAP,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CD47,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Lymphocyte,,SET,Human,Bone,Bone,Normal,Normal cell,Lymphocyte
+Macrophage,,CD163,Human,Bone,Lumbar vertebra,Normal,Normal cell,Macrophage
+Macrophage,,CCR7,Human,Bone,Lumbar vertebra,Normal,Normal cell,Macrophage
+Macrophage,,NR4A3,Human,Bone,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,TNF,Human,Bone,Synovium,Normal,Normal cell,Macrophage
+Mesenchymal cell,Progenitor,PDGFR,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,NG2,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,PDGFRB,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,CSPG4,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,,CD29,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,,ITGB1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Monocyte,,CD14,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Myeloid cell,,MRC1,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD206,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD163,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD74,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myeloid cell
+Myoblast,,MYL1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myoblast
+Myoblast,,MYLPF,Human,Bone,Bone,Osteosarcoma,Cancer cell,Myoblast
+Natural killer cell,,IL7R,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Bone,Bone,Osteosarcoma,Cancer cell,Natural killer cell
+Osteoblast,Proliferation,MKI67,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,PCNA,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,TOP2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Proliferation,TOP2A,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage,ACAN,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage,COL2A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Cartilage,SOX9,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Adhesion,CDH11,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Bone Matrix,COL1A1,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoblast,Differentiation,RUNX2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoblast
+Osteoclast,,MMP9,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoclast
+Osteoclast,,CTSK,Human,Bone,Bone,Osteosarcoma,Cancer cell,Osteoclast
+Pericyte,,ACTA2,Human,Bone,Bone,Osteosarcoma,Cancer cell,Pericyte
+Pericyte,,RGS5,Human,Bone,Bone,Osteosarcoma,Cancer cell,Pericyte
+Plasmacytoid dendritic cell,pDC,IL3RA,Human,Bone,Bone,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Chondrocyte,Prehypertrophic,COL11A1,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,COL9A3,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SOX9,Human,Bone,Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Progenitor cell,,CD34,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Progenitor cell
+Chondrocyte,Regulatory,EIF5A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,ANXA1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,TUBA1A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,PGK1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+T cell,,CD3,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,T cell
+T cell,,CD69,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,T cell
+T cell,,CD3D,Human,Bone,Bone,Normal,Normal cell,T cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,RUNX1,RUNX1
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,FSTL1,FSTL1
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,CALD1,CALD1
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,FBN1,FBN1
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,PPIC,PPIC
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,POSTN,POSTN
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,SPARC,SPARC
+Human,Undefined,Undefined,,Normal,Normal cell,Idiopathic pulmonary fibrosis myofibroblast,,CTHRC1,CTHRC1

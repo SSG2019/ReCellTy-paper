@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A

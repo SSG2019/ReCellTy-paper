@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Melanoma (circulating),Cancer cell,Proangiogenic B cell,,CD73,NT5E
+Human,Undefined,Undefined,,Melanoma (circulating),Cancer cell,Proangiogenic B cell,,CD49B,ITGA2

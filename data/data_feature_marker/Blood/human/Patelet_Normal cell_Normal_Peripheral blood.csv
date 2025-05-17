@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Platelet,,PF4,Human,Blood,Peripheral blood,Normal,Normal cell,Patelet
+Platelet,,TUBB1,Human,Blood,Peripheral blood,Normal,Normal cell,Patelet
+Platelet,,PPBP,Human,Blood,Peripheral blood,Normal,Normal cell,Patelet

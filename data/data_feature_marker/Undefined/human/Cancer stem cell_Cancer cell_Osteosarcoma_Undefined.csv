@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD44,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCG2,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD105,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,Nestin,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,STRO-1,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD271,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCA5,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,NANOG,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,OCT3/4,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CBX3,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,SOX2,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD117,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,NGFR,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,KIT,Human,Undefined,Undefined,Osteosarcoma,Cancer cell,Cancer stem cell

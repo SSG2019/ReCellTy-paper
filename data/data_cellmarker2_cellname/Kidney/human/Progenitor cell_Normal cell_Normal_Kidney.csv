@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,CD133,PROM1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,CD24,CD24
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,Pax2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,Notch1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,CD24,CD24
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Progenitor cell,CL_0011026,B1B2,

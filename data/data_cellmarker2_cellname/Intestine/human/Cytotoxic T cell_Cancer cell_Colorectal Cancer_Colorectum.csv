@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,IFNG,IFNG
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,GZMA,GZMA
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CCL4,CCL4
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CCL3,CCL3
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,PRF1,PRF1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,GZMB,GZMB
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CST7,CST7
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,NKG7,NKG7

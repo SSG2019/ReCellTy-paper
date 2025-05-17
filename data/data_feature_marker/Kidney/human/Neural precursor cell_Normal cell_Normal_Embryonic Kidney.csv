@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural precursor cell,Neural precursor,DCX,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Neural precursor cell
+Neural precursor cell,Neural precursor,NES,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Neural precursor cell
+Neural precursor cell,Neural precursor,PAX6,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Neural precursor cell
+Neural precursor cell,Neural precursor,SOX2,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Neural precursor cell

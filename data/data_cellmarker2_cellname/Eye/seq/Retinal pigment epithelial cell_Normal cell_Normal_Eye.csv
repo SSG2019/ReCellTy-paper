@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,RPE65,RPE65
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,RBP1,RBP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,CSTV,
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,CRYAB,CRYAB
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,CRABP1,CRABP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,TIMP3,TIMP3
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,BEST1,BEST1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,RLBP1,RLBP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,CST3,CST3
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,ENPP2,ENPP2
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,VEGFA,VEGFA
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,RGR,RGR
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,HNRNPH1,HNRNPH1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,SERPINF1,SERPINF1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,TYRP1,TYRP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,TYR,TYR
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,PMEL,PMEL
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,PLTP,PLTP
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,TTR,TTR
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,BEST1,BEST1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Retinal pigment epithelial cell,CL_0002586,RPE65,RPE65

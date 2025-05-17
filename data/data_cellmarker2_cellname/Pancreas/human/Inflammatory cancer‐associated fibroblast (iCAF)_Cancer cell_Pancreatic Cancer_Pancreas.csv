@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF),,LMNA,LMNA
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF),,PDGFRA,PDGFRA
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF),,DPT,DPT
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF),,CFD,CFD

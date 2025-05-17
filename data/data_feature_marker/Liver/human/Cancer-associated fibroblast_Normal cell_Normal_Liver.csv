@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,COL1A1,Human,Liver,Liver,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,SFRP4,Human,Liver,Liver,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,,FBLN1,Human,Liver,Liver,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,,DCN,Human,Liver,Liver,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,,LUM,Human,Liver,Liver,Normal,Normal cell,Cancer-associated fibroblast

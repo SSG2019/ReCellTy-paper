@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,CDH11,CDH11
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,ID1,ID1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,ALDH1L1,ALDH1L1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,SLC1A3,SLC1A3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,s100b,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,GLUL,GLUL
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,S100B,S100B
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,gfap,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,glast,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Astrocyte,CL_0000127,ALDH1A1,ALDH1A1

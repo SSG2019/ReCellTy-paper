@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,LYZ,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,LRP1,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,CYBB,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,FGR,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,VCAN,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,MNDA,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell
+Myeloid cell,,FCN1,Human,Bone marrow,Bone marrow,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Myeloid cell

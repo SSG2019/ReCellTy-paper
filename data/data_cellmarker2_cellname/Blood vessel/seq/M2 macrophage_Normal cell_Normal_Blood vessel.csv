@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,M2 macrophage,CL_0000890,Egr2,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,M2 macrophage,CL_0000890,Il10,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,M2 macrophage,CL_0000890,Il1r2,

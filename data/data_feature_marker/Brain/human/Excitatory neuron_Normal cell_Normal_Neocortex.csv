@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Excitatory neuron,,BCL11B,Human,Brain,Neocortex,Normal,Normal cell,Excitatory neuron
+Excitatory neuron,,SATB2,Human,Brain,Neocortex,Normal,Normal cell,Excitatory neuron

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Regulatory CD4+ T cell,,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Regulatory CD4+ T cell,,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Regulatory CD4+ T cell,,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Regulatory CD4+ T cell,,FOXP3,FOXP3

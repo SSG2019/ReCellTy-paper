@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,metalloproteinases,Human,Blood,Blood,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast
+Fibroblast,,LOX,Human,Blood,Blood,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Blood,Blood,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Blood,Blood,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TGFB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,STAT5B,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,Foxp3,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CCR8,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,LAYN,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Regulatory T(Treg) cell

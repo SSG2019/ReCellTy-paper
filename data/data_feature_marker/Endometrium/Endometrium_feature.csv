@@ -1,0 +1,73 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial cell,progenitor,CD15,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Basal epithelial progenitor cell
+epithelial cell,,FUT4,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Basal epithelial progenitor cell
+Cancer cell,Stem,CD44,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD133,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PROM1,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell
+Cancer cell,stem-like,CD133,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,stem-like,PROM1,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,,CXCR4,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Cancer stem-like cell
+Ciliated cell,,RSPH4A,Human,Endometrium,Endometrium,Normal,Normal cell,Ciliated cell
+Ciliated cell,,CTH,Human,Endometrium,Endometrium,Normal,Normal cell,Ciliated cell
+Cytotrophoblast,,CEACAM1,Human,Endometrium,Endometrium,Normal,Normal cell,Cytotrophoblast
+Endometrial cell,Progenitor,IPO13,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Endometrial progenitor cell
+Stem cell,Endometrial,IPO13,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Endometrial stem cell
+Stem cell,Endometrial,CD105,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD90,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD44,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,Nestin,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD133,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD73,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD166,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD29,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,SOX2,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,OCT4,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,SSEA-4,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,LGR5,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,THY1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,PROM1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,VCAM1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,NT5E,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,ALCAM,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,ITGB1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,POU5F1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,KIT,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,MCAM,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Endothelial cell,Progenitor,Axin2,Human,Endometrium,Endometrium,Normal,Normal cell,Endothelial progenitor cell
+Epithelial cell,,SSEA-1 FUT4,Human,Endometrium,Endometrium,Normal,Normal cell,Epithelial cell
+Mesenchymal stem cell,,CD105,Human,Endometrium,Endometrium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Endometrium,Endometrium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Endometrium,Endometrium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD166,Human,Endometrium,Endometrium,Normal,Normal cell,Mesenchymal stem cell
+Mullerian duct epithelial cell,,CTH,Human,Endometrium,Endometrium,Normal,Normal cell,Mullerian duct epithelial cell
+Plasma cell,,CD138,Human,Endometrium,Endometrium,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Endometrium,Endometrium,Normal,Normal cell,Plasma cell
+Somatic stem cell,,LGR5,Human,Endometrium,Endometrium,Normal,Normal cell,Somatic stem cell
+Stem cell,,SSEA-4,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD117,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,OCT4,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,NANOG,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD31,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD144,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,Musashi-1,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,SOX2,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,KIF4,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD166,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,HLA-ABC,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CD73,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,KIT,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,POU5F1,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,PECAM1,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,CDH5,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,KIF4A,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,ALCAM,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Endometrium,Endometrium,Normal,Normal cell,Stem cell
+Trophoblast cell,,CEACAM1,Human,Endometrium,Endometrium,Normal,Normal cell,Trophoblast cell

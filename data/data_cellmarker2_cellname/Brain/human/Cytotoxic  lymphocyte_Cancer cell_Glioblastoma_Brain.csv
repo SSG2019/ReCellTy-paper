@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,ITK,ITK
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,CD27,CD27
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,CD3G,CD3G
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,TNFRSF9,TNFRSF9
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,HSH2D,HSH2D
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,ZNF683,ZNF683
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,ICOS,ICOS
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Cytotoxic  lymphocyte,,LAX1,LAX1

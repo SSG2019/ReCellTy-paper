@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,NKG7,Human,Blood,Blood,Leukemia,Cancer cell,Natural killer cell
+Natural killer cell,,CD69,Human,Blood,Blood,Leukemia,Cancer cell,Natural killer cell
+Natural killer cell,,ZNF683,Human,Blood,Blood,Leukemia,Cancer cell,Natural killer cell

@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD66d,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD77,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD123,IL3RA
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,HPC,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD66,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD292,BMPR1A
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD269,TNFRSF17
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD201,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD202b,
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD220,INSR
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD73,NT5E
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD231,TSPAN7
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD332,FGFR2
+Human,Undefined,Undefined,,Renal Clear Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CD309,KDR

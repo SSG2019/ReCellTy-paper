@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,CTRB1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,REG1B,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell
+Acinar cell,,CTRB2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Acinar cell

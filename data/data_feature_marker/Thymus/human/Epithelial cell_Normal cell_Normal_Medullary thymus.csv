@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,CLDN4,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AIRE,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FEZF2,Human,Thymus,Medullary thymus,Normal,Normal cell,Epithelial cell

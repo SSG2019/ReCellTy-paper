@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,CD34+ pre-B cell,,IGLL1,IGLL1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,CD34+ pre-B cell,,STMN1,STMN1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,CD34+ pre-B cell,,VPREB1,VPREB1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,CD34+ pre-B cell,,CD79B,CD79B

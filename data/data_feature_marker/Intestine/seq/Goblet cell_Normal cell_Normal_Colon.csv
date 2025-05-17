@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,ZG16,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,TFF3,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,SPINK4,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,CLCA1,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,Muc2,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,MUC2,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,,MUC4,Human,Intestine,Colon,Normal,Normal cell,Goblet cell

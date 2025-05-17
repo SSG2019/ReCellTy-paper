@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,fibronectins,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FAP,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,MCAM,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ECM1,Human,Breast,Breast,Normal,Normal cell,Mesenchymal cell

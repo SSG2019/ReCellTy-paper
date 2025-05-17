@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Dysfunctional,HAVCR2,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,BTLA,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,TIGIT,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,PDCD1,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,ENTPD1,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,TOX2,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,CTLA4,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,TOX,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,LAG3,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell
+T cell,Dysfunctional,CD200,Human,Lung,Lung,Lung Cancer,Cancer cell,Dysfunctional T cell

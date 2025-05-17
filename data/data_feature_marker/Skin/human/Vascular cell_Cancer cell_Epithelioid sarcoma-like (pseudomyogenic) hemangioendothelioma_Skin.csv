@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vascular cell,,ERG,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell
+Vascular cell,,CD31,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell
+Vascular cell,,PECAM1,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell

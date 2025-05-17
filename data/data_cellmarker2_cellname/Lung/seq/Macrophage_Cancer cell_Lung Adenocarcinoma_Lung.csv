@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,MRC1,MRC1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,FCGR1A,FCGR1A
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CX3CR1,CX3CR1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,MARCO,MARCO
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,MSR1,MSR1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CCR2,CCR2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,MCEMP1,MCEMP1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,ITGAX,ITGAX
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Macrophage,CL_0000235,ITGAM,ITGAM

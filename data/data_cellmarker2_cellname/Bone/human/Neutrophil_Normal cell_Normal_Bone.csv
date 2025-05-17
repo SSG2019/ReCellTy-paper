@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,ACPA,PRTN3
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,S100A8/A9,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,CD66b,CEACAM8
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,BioNeu,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,NETs,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Neutrophil,CL_0000775,ACPA-S100,

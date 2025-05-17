@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,LYZ,Human,Kidney,Kidney,Normal,Normal cell,Myeloid cell
+Myeloid cell,,IL1B,Human,Kidney,Kidney,Normal,Normal cell,Myeloid cell

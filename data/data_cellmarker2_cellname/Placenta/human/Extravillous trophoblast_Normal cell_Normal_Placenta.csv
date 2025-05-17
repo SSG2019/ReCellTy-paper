@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,ITGA5,ITGA5
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,CD9,CD9
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,MMP9,MMP9
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,HLA-G,HLA-G
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,ITGA1,ITGA1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Extravillous trophoblast,CL_0008036,MMP2,MMP2

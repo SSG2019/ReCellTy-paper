@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,MS4A6A,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Monocyte precursor
+Monocyte,,CCL3,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Monocyte precursor
+Monocyte,,CST3,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Monocyte precursor
+Monocyte,,LYZ,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Monocyte precursor
+Monocyte,,S100A9,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Monocyte precursor

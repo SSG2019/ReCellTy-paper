@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD7,CD7
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD8,CD8A
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD2,CD2
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD3,
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD1,CD1A
+Human,Undefined,Undefined,,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell,CL_0000084,CD5,CD5

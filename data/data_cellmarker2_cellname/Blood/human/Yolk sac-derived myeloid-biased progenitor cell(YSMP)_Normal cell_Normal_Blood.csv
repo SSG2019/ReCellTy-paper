@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP),,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP),,CD45,PTPRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP),,PTPRC,PTPRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP),,CD34,CD34
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Yolk sac-derived myeloid-biased progenitor cell(YSMP),,MYB,MYB

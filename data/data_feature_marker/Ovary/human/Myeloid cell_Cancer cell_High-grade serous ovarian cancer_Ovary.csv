@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Complement system,C1QB,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Myeloid cell
+Myeloid cell,Lysozyme activity,LYZ,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Myeloid cell

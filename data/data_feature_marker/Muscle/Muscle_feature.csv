@@ -1,0 +1,351 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adventitial cell,,CD31,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD45,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,PECAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,PTPRC,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+Adventitial cell,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Adventitial cell
+B cell,,Ms4a1,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Cd19,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Ptprc,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Cd22,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+Stem cell,Cancer,KLF5,Human,Muscle,Muscle,Leiomyoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A2,Human,Muscle,Muscle,Leiomyoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,POU5F1,Human,Muscle,Muscle,Leiomyoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,SOX2,Human,Muscle,Muscle,Leiomyoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,NANOG,Human,Muscle,Muscle,Leiomyoma,Cancer cell,Cancer stem cell
+muscle cell,,MyH,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Differentiated muscle cell
+Endothelial cell,,CD31,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD144,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD56,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD45,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD146,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENOS,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Tek,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Cdh5,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Kdr,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+myoblast,Fetal,NFIX,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+myoblast,myoblast,PAX3,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+Progenitor cell,Fibro-adipogenic,Dcn,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,Fibro-adipogenic,Pdgfra,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6a,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6e,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Fibroblast,,MYH7,Human,Muscle,Muscle,Normal,Normal cell,Fibroblast
+Fibroblast,,MYH1,Human,Muscle,Muscle,Normal,Normal cell,Fibroblast
+Glial cell,,Mbp,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,S100b,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Kcna1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Plp1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+T cell,Effector,CD244,Human,Muscle,Muscle,Normal,Normal cell,Highly differentiated effector CD8 + T cell
+T cell,Highly differentiated,KLRG1,Human,Muscle,Muscle,Normal,Normal cell,Highly differentiated effector CD8 + T cell
+T cell,Effector,CD57,Human,Muscle,Muscle,Normal,Normal cell,Highly differentiated effector CD8 + T cell
+Inflammatory cell,,CD45,Human,Muscle,Muscle,Normal,Normal cell,Inflammatory cell
+Inflammatory cell,,CD34,Human,Muscle,Muscle,Normal,Normal cell,Inflammatory cell
+Inflammatory cell,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Inflammatory cell
+Macrophage,,CD163,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,Adgre1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgb1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Csf1r,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Mesenchymal cell,progenitor,CD105,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD73,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD90,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,progenitor,CD146,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal stem cell,,CD19,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD166,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD13,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD340,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49e,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD51,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD29,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD117,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD10,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD56,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD271,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD31,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD71,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD120a,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD106,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD140b,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD49d,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Ly6A/E,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PDGFRA,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ALCAM,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ANPEP,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ERBB2,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGA5,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGAV,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,KIT,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MME,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NGFR,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PECAM1,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TFRC,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TNFRSF1A,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD105,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD29,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD73,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PDGFR-alpha,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD14,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD146,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MCAM,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stromal cell,,CD29,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD44,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD73,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD90,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,ITGB1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,NT5E,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,THY1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Mesenchymal stromal cell
+Mesodermal cell,,PDGFRA,Human,Muscle,Muscle,Normal,Normal cell,Mesodermal cell
+Monocyte,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Monocyte
+Muscle cell,Satellite,PAX7,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,Pax7,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,NCAM,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CD82,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CD318,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CDCP1,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,SOX8,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Myod1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Sdc4,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Pax7,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Vcam1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle-derived cell,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,VEGFR-2,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,CD117,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,VCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,KIT,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Muscle-derived cell,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle-derived cell
+Myoblast,,ACTN1,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Myoblast
+Myoblast,Muscle Differentiation,MYOG,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MYOD1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Structure,TTN,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,PCNA,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,CDC20,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,ID1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,CDK1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,,ID3,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MEF2C,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,TGFB1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,MET,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Tissue,SMTN,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenesis,TCF12,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYF5,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,EYA1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYF6,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,TEAD4,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Precursor Cells,PAX7,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,MEOX1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,EYA2,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,SIX1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYOD1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYOG,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,NRG1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MAPK12,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MEF2A,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Precursor Cells,PAX3,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MEF2D,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myogenic cell,,CLEC14A,Human,Muscle,Muscle,Normal,Normal cell,Myogenic cell
+Endothelial cell,Myogenic,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myogenic endothelial cell
+Endothelial cell,Myogenic,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myogenic endothelial cell
+Endothelial cell,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myogenic endothelial cell
+Endothelial cell,,CD144,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myogenic endothelial cell
+Endothelial cell,,CDH5,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myogenic endothelial cell
+Myotube,,MYBPH,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,MYOG,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,TTN,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Myotube,,MYH3,Human,Muscle,Muscle,Normal,Normal cell,Myotube
+Neutrophil,,Ly6g,Human,Muscle,Muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a9,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,Cd14,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a8,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Pericyte,,CD140b,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,NG2 proteoglycan,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,Alkaline phosphatase,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,PDGFR-alpha,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,PDGFR-beta,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Muscle,Muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD45,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD56,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,CD34,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,PTPRC,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Pericyte,,NCAM1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Pericyte
+Progenitor cell,,Myog,Human,Muscle,Muscle,Normal,Normal cell,Progenitor cell
+Progenitor cell,,Myod1,Human,Muscle,Muscle,Normal,Normal cell,Progenitor cell
+Progenitor cell,,Myf6,Human,Muscle,Muscle,Normal,Normal cell,Progenitor cell
+Proliferative cell,Proliferative,PCNA,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell
+Proliferative cell,Proliferative,MKI67,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell
+Satellite cell,,Pax7,Human,Muscle,Muscle,Normal,Normal cell,Satellite cell
+Satellite cell,,PAX7,Human,Muscle,Muscle,Normal,Normal cell,Satellite cell
+Satellite cell,,APOC1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Satellite cell
+Satellite cell,,APOE,Human,Muscle,Skeletal muscle,Normal,Normal cell,Satellite cell
+Septum transversum mesenchyme cell,,PDGFRB,Human,Muscle,Septum transversum,Normal,Normal cell,Septum transversum mesenchyme cell
+Septum transversum mesenchyme cell,,HLX,Human,Muscle,Septum transversum,Normal,Normal cell,Septum transversum mesenchyme cell
+Septum transversum mesenchyme cell,,PDGFRA,Human,Muscle,Septum transversum,Normal,Normal cell,Septum transversum mesenchyme cell
+Septum transversum mesenchyme cell,,LHX2,Human,Muscle,Septum transversum,Normal,Normal cell,Septum transversum mesenchyme cell
+Septum transversum mesenchyme cell,,FOXF1,Human,Muscle,Septum transversum,Normal,Normal cell,Septum transversum mesenchyme cell
+Cell,Sex+,Tnc,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,Sex+,Col1a1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,Sex+,Tnmd,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,Sex+,Scx,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Skeletal muscle cell,,MYL1,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell
+Skeletal muscle cell,,MYBPH,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell
+Skeletal muscle cell,,TNNC2,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell
+Skeletal muscle cell,,TNNI1,Human,Muscle,Skeletal muscle,Rhabdomyosarcoma,Cancer cell,Skeletal muscle cell
+Smooth muscle cell,,MCAM,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYLK,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+Stem cell,Stem,RUNX1,Human,Muscle,Muscle,Sarcoma,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Muscle,Muscle,Sarcoma,Cancer cell,Stem cell
+Stem cell,,SCA-1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,FLK1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD106,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,STRO-1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,SSEA1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD117,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,Smoothelin,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,ASMA,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,Calponin,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD56,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,PAX7,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CXCR4,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,NANOG,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD133,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD9,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,Vimentin,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,NG2,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,Nestin,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,KLF4,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,MEF2C,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,SOX8,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,NDRG2,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,HEY1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CD82,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,SPRY1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,HES1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,EGR1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CHRNA1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,DAG1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,MYG,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CASP3,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,KDR,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,VCAM1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,KIT,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,ACTA1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,PROM1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,CSPG4,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+Stem cell,,MYG1,Human,Muscle,Muscle,Normal,Normal cell,Stem cell
+T cell,,Cd3d,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd8a,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Ptprc,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd3e,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd4,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+B cell,,Ms4a1,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Cd19,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Ptprc,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+B cell,,Cd22,Human,Muscle,Skeletal muscle,Normal,Normal cell,B cell
+Endothelial cell,,CLEC14A,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Muscle,Muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Tek,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Cdh5,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Kdr,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Endothelial cell
+myoblast,Fetal,NFIX,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+myoblast,Fetal,PAX3,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+myoblast,Fetal,CD82,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+Progenitor cell,Fibro-adipogenic,Dcn,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,Fibro-adipogenic,Pdgfra,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6a,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6e,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Fibroblast,,MYH7,Human,Muscle,Muscle,Normal,Normal cell,Fibroblast
+Fibroblast,,MYH1,Human,Muscle,Muscle,Normal,Normal cell,Fibroblast
+Glial cell,,Mbp,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,S100b,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Kcna1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Plp1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Macrophage,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,Adgre1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgb1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Csf1r,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Macrophage,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Macrophage
+Mesenchymal stem cell,,PDGFRA,Human,Muscle,Muscle,Normal,Normal cell,Mesenchymal stem cell
+Mesodermal cell,,PDGFRA,Human,Muscle,Muscle,Normal,Normal cell,Mesodermal cell
+Monocyte,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Monocyte
+Muscle,Satellite,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle,,SOX8,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Myod1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Sdc4,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Pax7,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Vcam1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Myoblast,,MYOD1,Human,Muscle,Muscle,Normal,Normal cell,Myoblast
+Myogenic cell,,CLEC14A,Human,Muscle,Muscle,Normal,Normal cell,Myogenic cell
+Neutrophil,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a9,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,Cd14,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a8,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Proliferative cell,Proliferative,PCNA,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell
+Proliferative cell,Proliferative,MKI67,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell
+Satellite cell,Satellite,PAX7,Human,Muscle,Muscle,Normal,Normal cell,Satellite cell
+Satellite cell,,APOC1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Satellite cell
+Satellite cell,,APOE,Human,Muscle,Skeletal muscle,Normal,Normal cell,Satellite cell
+Cell,Sex+,Tnc,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,Sex+,Tnmd,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,,Col1a1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Cell,,Scx,Human,Muscle,Skeletal muscle,Normal,Normal cell,Sex+ Cell
+Smooth muscle cell,,ACTA2,Human,Muscle,Muscle,Normal,Normal cell,Smooth muscle cell
+T cell,,Cd3d,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd8a,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Ptprc,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd3e,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd4,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Muscle,Skeletal muscle,Normal,Normal cell,T cell

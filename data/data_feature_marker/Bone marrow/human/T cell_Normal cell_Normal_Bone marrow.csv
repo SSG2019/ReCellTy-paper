@@ -1,0 +1,23 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD2,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3Z,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,GZMM,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TCRA,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CCR7,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,LAT,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD27,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD28,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,BCL11B,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD127,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,LCK,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD247,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TRA,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell

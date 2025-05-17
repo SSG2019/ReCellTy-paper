@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,SH-SY5Y,
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,IMR32,
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,ALDH,
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Neuroblastoma,Cancer cell,Cancer stem cell,,CD117,KIT

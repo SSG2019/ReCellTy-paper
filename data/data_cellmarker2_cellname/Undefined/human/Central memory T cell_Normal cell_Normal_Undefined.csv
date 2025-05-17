@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD28,CD28
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,EOMES,EOMES
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD197,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD127,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,T-bet,TBX21
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD45RO,
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD45RO,
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD28,CD28
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,Central memory T cell,CL_0000813,CD27,CD27

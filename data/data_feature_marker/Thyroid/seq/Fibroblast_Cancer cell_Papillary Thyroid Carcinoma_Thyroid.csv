@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,COL1A2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,IGFBP7,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,RGS5,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast

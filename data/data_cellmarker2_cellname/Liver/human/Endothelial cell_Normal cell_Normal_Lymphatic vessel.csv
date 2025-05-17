@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,PROX1,PROX1
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,PDPN,PDPN
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,CCL21,CCL21
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFR3,FLT4
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,LYVE-1,LYVE1
+Human,Liver,Lymphatic vessel,UBERON_0001473,Normal,Normal cell,Endothelial cell,CL_0000115,FLT4,FLT4

@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,FKBP1A,FKBP1A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,LCN2,LCN2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,MUC4,MUC4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,LYZ,LYZ
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,SOX9,SOX9
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,FABP5,FABP5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,CDK6,CDK6
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,CA7,CA7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,CA4,CA4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,PLA2G2A,PLA2G2A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,SPIB,SPIB
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,CLCA1,CLCA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,ITLN1,ITLN1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Progenitor cell,CL_0011026,MUC2,MUC2

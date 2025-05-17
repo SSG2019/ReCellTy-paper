@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,CD140b,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,NG2 proteoglycan,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,Alkaline phosphatase,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,Alkaline phosphatase,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,PDGFR-alpha,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,PDGFR-beta,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Pericyte,CL_0000669,PDGFR-alpha,

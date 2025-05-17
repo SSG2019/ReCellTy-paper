@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th17,IL17A,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T helper 17(Th17) cell

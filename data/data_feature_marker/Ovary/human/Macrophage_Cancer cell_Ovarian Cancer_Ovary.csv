@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,IBA1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,M2,CD163,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD11b,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,M2,VSIG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage

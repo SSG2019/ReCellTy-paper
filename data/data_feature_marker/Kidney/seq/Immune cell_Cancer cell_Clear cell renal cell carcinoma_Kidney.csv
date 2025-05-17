@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD19,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,CEACAM8,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,TPSAP1,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,CD8A,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,NCAM1,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,CD68,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,CD4,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell
+Immune cell,,ITGAX,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Immune cell

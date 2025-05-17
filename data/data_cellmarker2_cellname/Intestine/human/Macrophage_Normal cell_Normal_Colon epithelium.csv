@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,CX3CR1,CX3CR1
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,CCR2,CCR2
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,ITGAX,ITGAX
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,ITGAM,ITGAM
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Intestine,Colon epithelium,UBERON_0000397,Normal,Normal cell,Macrophage,CL_0000235,CD64,FCGR1A

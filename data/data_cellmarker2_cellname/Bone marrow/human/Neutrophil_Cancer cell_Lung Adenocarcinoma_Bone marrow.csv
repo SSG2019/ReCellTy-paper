@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,IFITM2,IFITM2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,STAT1,STAT1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,PI3,PI3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,SLAMF6,SLAMF6
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,GBP4,GBP4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,TAGAP,TAGAP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,IRF1,IRF1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,TNFSF13B,TNFSF13B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,GBP1,GBP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,TAP1,TAP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,IFIT3,IFIT3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,GBP5,GBP5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,DUSP2,DUSP2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Lung Adenocarcinoma,Cancer cell,Neutrophil,CL_0000775,CXCL8,CXCL8

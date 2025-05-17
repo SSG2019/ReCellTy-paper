@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Ovalbumin-specific regulatory T cell,,CD40L,CD40LG
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Ovalbumin-specific regulatory T cell,,IL-10,IL10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Ovalbumin-specific regulatory T cell,,FOXP3,FOXP3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Ovalbumin-specific regulatory T cell,,CD137,TNFRSF9

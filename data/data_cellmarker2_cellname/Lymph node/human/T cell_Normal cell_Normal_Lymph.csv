@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,CD103,ITGAE
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,TRAV1-2,TRAV1-2
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,LAG3,LAG3
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,PRF1,PRF1
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,GZMB,GZMB
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,GZMK,GZMK
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,GZMA,GZMA
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,ENTPD1,ENTPD1
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,IFNG,IFNG
+Human,Lymph node,Lymph,UBERON_0002391,Normal,Normal cell,T cell,CL_0000084,HAVCR2 ,

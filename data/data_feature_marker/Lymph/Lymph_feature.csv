@@ -1,0 +1,211 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Antibody-secreting,PRDM1,Human,Lymph,Lymph,Lymphoma,Cancer cell,Antibody-secreting cell
+B cell,,CD19,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,CD22,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Co-stimulatory,CD80,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Co-stimulatory,CD86,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Immune checkpoint,CTLA4,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Activation,CD27,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Activation,CD38,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Plasma cell,CD138,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Plasma cell,SDC1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,B2M,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymph,Lymph,Normal,Normal cell,B cell
+Cancer cell,,CYB5R2,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,LIMD1,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,SH3BP5,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,CREB3L2,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,IRF4,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,RAB7L1,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,PIM2,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,TACI,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,CCDC50,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,FOXP1,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,RAB29,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,TNFRSF13B,Human,Lymph,Lymph,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell
+Cancer cell,,BCL2,Human,Lymph,Lymph,Chronic Lymphocytic Leukemia,Cancer cell,Cancer cell
+Cancer cell,,Traf2DN,Human,Lymph,Lymph,Chronic Lymphocytic Leukemia,Cancer cell,Cancer cell
+Cancer cell,,NEK6,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,MYBL1,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,MAML3,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,BCL6#1 (exon3-4),Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,BCL6#1 (exon1-2),Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,S1PR2,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,SERPINA9,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,LMO2,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,ASB13,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,CD10,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,ITPKB,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,MME,Human,Lymph,Lymph,Germinal center B-cell like——Diffuse large B cell lymphoma (GCB DLBCL),Cancer cell,Cancer cell
+Cancer cell,,TRAF1,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD71,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD23,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,STAT6,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,MAL,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,IL4I1,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD95,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD30,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PD-L2,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PD-L1,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,JAK2,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,FGFR1,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,TFRC,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,FCER2,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,FAS,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,TNFRSF8,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PDCD1LG2,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD274,Human,Lymph,Lymph,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,Stem,ALDH,Human,Lymph,Lymph,Hodgkin Lymphoma,Cancer cell,Cancer stem cell
+Cancer cell,,CD27,Human,Lymph,Lymph,Hodgkin Lymphoma,Cancer cell,Cancer stem cell
+Cancer cell,,CD20,Human,Lymph,Lymph,Hodgkin Lymphoma,Cancer cell,Cancer stem cell
+Cancer cell,,MS4A1,Human,Lymph,Lymph,Hodgkin Lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH2,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1A1,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD34,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCC3,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCC6,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+T cell,CD8+,CD8,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,CD8+ T cell
+T cell,,CXCR5,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,CD8+ T cell
+T cell,,CD3,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,CD8+ T cell
+T cell,Central,CD27,Human,Lymph,Lymph,Normal,Normal cell,Central memory T cell
+T cell,memory,CCR7,Human,Lymph,Lymph,Normal,Normal cell,Central memory T cell
+T cell,memory,CD45RO,Human,Lymph,Lymph,Normal,Normal cell,Central memory T cell
+Dendritic cell,,ITGAX,Human,Lymph,Lymph,Normal,Normal cell,Dendritic cell
+B lymphoma,,CD77,Human,Lymph,Lymph,Lymphoma,Cancer cell,EBV+ B lymphoma cell
+T cell,memory,CD45RO,Human,Lymph,Lymph,Normal,Normal cell,Effector memory T cell
+Endothelial cell,,FLT4,Human,Lymph,Lymphatic vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE1,Human,Lymph,Lymphatic vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFC,Human,Lymph,Lymphatic vessel,Normal,Normal cell,Endothelial cell
+T cell,Exhausted,PD1,Human,Lymph,Lymph,Normal,Normal cell,Exhausted CD8+ T cell
+T cell,Exhausted,LAG3,Human,Lymph,Lymph,Normal,Normal cell,Exhausted CD8+ T cell
+T cell,Exhausted,TIM3,Human,Lymph,Lymph,Normal,Normal cell,Exhausted CD8+ T cell
+T cell,Exhausted,HAVCR2,Human,Lymph,Lymph,Normal,Normal cell,Exhausted CD8+ T cell
+Follicular dendritic cell,,CD21,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,Follicular dendritic cell
+Follicular dendritic cell,,CD23,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,Follicular dendritic cell
+Follicular dendritic cell,,CR2,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,Follicular dendritic cell
+Follicular dendritic cell,,FCER2,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,Follicular dendritic cell
+Leukocyte,,PTPRC,Human,Lymph,Lymph,Normal,Normal cell,Leukocyte
+Lymphatic cell,,LYVE-1,Human,Lymph,Lymph,Normal,Normal cell,Lymphatic cell
+Lymphatic cell,,LYVE1,Human,Lymph,Lymph,Normal,Normal cell,Lymphatic cell
+Lymphocyte,,NUSAP1,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,PCNA,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,ATP5C1,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,ATP5F1C,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphoid structure cell,,CD4,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,CD8,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,CD21,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,DAPI,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,CD20,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,FOXP3,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,CD8A,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,CR2,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Lymphoid structure cell,,MS4A1,Human,Lymph,Lymph,Urothelial carcinoma,Cancer cell,Lymphoid structure cell
+Macrophage,,CD68,Human,Lymph,Lymph,Follicular lymphoma,Cancer cell,Macrophage
+Macrophage,,MARCO,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+Macrophage,,CD209,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+B cell,Memory,CCR6,Human,Lymph,Lymph,Lymphoma,Cancer cell,Memory B cell
+B cell,Memory,CD27,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Memory B cell
+B cell,,CD19,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Memory B cell
+T cell,Memory,CD103,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Memory T cell
+T cell,Memory,CD27,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Memory T cell
+Mesenchymal stromal cell,,CD44,Human,Lymph,Lymph,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD90,Human,Lymph,Lymph,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Lymph,Lymph,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD73,Human,Lymph,Lymph,Normal,Normal cell,Mesenchymal stromal cell
+B cell,Naive,IgD,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Naive B cell
+B cell,,CD19,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,Naive B cell
+T cell,,PD1,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell
+T cell,,CXCR5,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell
+T cell,,GATA3,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell
+T cell,,TBX21,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell
+T cell,,PDCD1,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,Naive CD4+ T cell
+T cell,Naive,CD27,Human,Lymph,Lymph,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Lymph,Lymph,Normal,Normal cell,Naive T(Th0) cell
+Natural killer cell,cytotoxic,NKG7,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,cytotoxic,CD57,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,apoptosis,TRAIL,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,apoptosis,TNFSF10,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,MHC recognition,KIR,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,immune regulation,TIM3,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,immune regulation,HAVCR2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GEM,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+T cell,,INF γ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PRF,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CXCR5,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR β,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD5,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PD1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR δ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,GATA3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR α,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TBET,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR γ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,GRB,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CXCL13,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,ALK,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD28,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,LAG3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,FOXP3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,ICOS,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD45RO,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PDCD1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TBX21,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD3E,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD3,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD5,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD2,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,CD8+,CD8,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,CD8+,CD8A,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,Follicular helper (Tfh),ICOS,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CCR5,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CXCL13,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),BCL6,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PD1,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),SAP,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Lymph,Lymph,Angioimmunoblastic T-cell lymphomas,Cancer cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD3,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD4,Human,Lymph,Lymph,NorFollicular lymphoma tumormal,Cancer cell,T follicular helper(Tfh) cell
+T cell,Th1,TBX21,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,Th2,GATA3,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,Tfh,BCL6,Human,Lymph,Lymph,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+Memory cell,Transitional,CD27,Human,Lymph,Lymph,Normal,Normal cell,Transitional memory cell
+Memory cell,Transitional,CD45RO,Human,Lymph,Lymph,Normal,Normal cell,Transitional memory cell
+B cell,,MS4A1,Human,Lymph,Lymph,Normal,Normal cell,B cell
+Cancer cell,,BCL2,Human,Lymph,Lymph,Chronic Lymphocytic Leukemia,Cancer cell,Cancer cell
+Cancer cell,,Traf2DN,Human,Lymph,Lymph,Chronic Lymphocytic Leukemia,Cancer cell,Cancer cell
+Dendritic cell,,ITGAX,Human,Lymph,Lymph,Normal,Normal cell,Dendritic cell
+Leukocyte,,PTPRC,Human,Lymph,Lymph,Normal,Normal cell,Leukocyte
+Lymphatic cell,,LYVE-1,Human,Lymph,Lymph,Normal,Normal cell,Lymphatic cell
+Lymphatic cell,,LYVE1,Human,Lymph,Lymph,Normal,Normal cell,Lymphatic cell
+Lymphocyte,,NUSAP1,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,PCNA,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,ATP5C1,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,ATP5F1C,Human,Lymph,Lymph,T-cell Lymphoma,Cancer cell,Lymphocyte
+Macrophage,,MARCO,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+Macrophage,,CD209,Human,Lymph,Lymph,Normal,Normal cell,Macrophage
+Natural killer cell,,NKG7,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD57,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRAIL,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TIM3,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TNFSF10,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GEM,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HAVCR2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+T cell,,CD3E,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD5,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD3,Human,Lymph,Lymph,Normal,Normal cell,T cell
+T cell,,CD2,Human,Lymph,Lymph,Normal,Normal cell,T cell

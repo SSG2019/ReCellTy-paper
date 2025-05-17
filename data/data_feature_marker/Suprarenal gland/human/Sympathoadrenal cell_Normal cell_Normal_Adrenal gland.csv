@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Sympathoadrenal,,CARTPT,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,,STMN2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,,HAND1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,GATA3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,PHOX2B,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,PHOX2A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell

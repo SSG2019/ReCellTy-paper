@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Platelet,CL_0000233,CD62P,SELP
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Platelet,CL_0000233,CD42a,GP9
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Platelet,CL_0000233,CD41b,

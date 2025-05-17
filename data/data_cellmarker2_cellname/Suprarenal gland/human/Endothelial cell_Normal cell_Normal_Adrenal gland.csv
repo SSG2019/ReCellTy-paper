@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Endothelial cell,CL_0000115,SOX18,SOX18
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Endothelial cell,CL_0000115,TIE1,TIE1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Endothelial cell,CL_0000115,TEK,TEK
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1

@@ -1,0 +1,47 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Artery cell,,GJA5,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,ELN,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,ARL15,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,IGFBP3,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,EGR1,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Capillary cell,,IGFBP3,Human,Artery,Artery,Normal,Normal cell,Capillary cell
+Capillary cell,,ARL15,Human,Artery,Artery,Normal,Normal cell,Capillary cell
+Endothelial cell,,CDH5,Human,Artery,Aortic valve,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Artery,Aortic valve,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Artery,Aortic valve,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HEY2,Human,Artery,Artery,Normal,Normal cell,Endothelial cell
+Eosinophil,,EMBP,Human,Artery,Artery,Normal,Normal cell,Eosinophil
+Granulocyte,,CD66b,Human,Artery,Artery,Normal,Normal cell,Granulocyte
+Granulocyte,,CEACAM8,Human,Artery,Artery,Normal,Normal cell,Granulocyte
+Leukocyte,,Cd45,Human,Artery,Aorta,Normal,Normal cell,Leukocyte
+Macrophage,Macrophage-like,CD68,Human,Artery,Aorta,Normal,Cancer cell,Macrophage-like cell
+Macrophage,,CD68,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Macrophage,LYVE-1,LYVE-1,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Macrophage,LYVE-1,LYVE1,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Macrophage,,Pf4,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Mast cell,,tryptase,Human,Artery,Artery,Normal,Normal cell,Mast cell
+Neutrophil,,anti‐MPO,Human,Artery,Artery,Normal,Normal cell,Neutrophil
+Smooth muscle cell,,TAGLN,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+T cell,,CD3,Human,Artery,Artery,Normal,Normal cell,T cell
+T cell,,CD25,Human,Artery,Artery,Normal,Normal cell,T cell
+T cell,,CD4,Human,Artery,Artery,Normal,Normal cell,T cell
+T cell,,CD8,Human,Artery,Artery,Normal,Normal cell,T cell
+T cell,,IL2RA,Human,Artery,Artery,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Artery,Artery,Normal,Normal cell,T cell
+Artery cell,,GJA5,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,ELN,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,ARL15,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,IGFBP3,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Artery cell,,EGR1,Human,Artery,Artery,Normal,Normal cell,Artery cell
+Capillary cell,,IGFBP3,Human,Artery,Artery,Normal,Normal cell,Capillary cell
+Capillary cell,,ARL15,Human,Artery,Artery,Normal,Normal cell,Capillary cell
+Macrophage,,LYVE-1,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Macrophage,,Pf4,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Macrophage,,LYVE1,Human,Artery,Artery,Normal,Normal cell,Macrophage
+Smooth muscle cell,,TAGLN,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell

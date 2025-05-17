@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Polymorphonuclear neutrophil(PMN),,ALPL,ALPL
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Polymorphonuclear neutrophil(PMN),,ADGRG3,ADGRG3
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Polymorphonuclear neutrophil(PMN),,PROK2,PROK2
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Polymorphonuclear neutrophil(PMN),,IL1R2,IL1R2
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Polymorphonuclear neutrophil(PMN),,CSF3R,CSF3R

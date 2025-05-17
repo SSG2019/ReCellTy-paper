@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,SOX9,SOX9
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,KRT19,KRT19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,ACAN,ACAN
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,KRT8,KRT8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,KRT18,KRT18
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,COL2A1,COL2A1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,FOXF1,FOXF1

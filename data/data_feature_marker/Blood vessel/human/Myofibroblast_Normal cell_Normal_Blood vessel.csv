@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,muscle,α-smooth muscle actin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,muscle,a-SMA,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,CTGF,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,CCN2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,collagen I,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,smooth muscle,TAGLN,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast

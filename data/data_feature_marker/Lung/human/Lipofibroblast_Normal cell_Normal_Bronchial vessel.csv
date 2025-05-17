@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lipofibroblast,,COL1A1,Human,Lung,Bronchial vessel,Normal,Normal cell,Lipofibroblast
+Lipofibroblast,,PDGFRA,Human,Lung,Bronchial vessel,Normal,Normal cell,Lipofibroblast
+Lipofibroblast,,PLIN2,Human,Lung,Bronchial vessel,Normal,Normal cell,Lipofibroblast
+Lipofibroblast,,APOE,Human,Lung,Bronchial vessel,Normal,Normal cell,Lipofibroblast

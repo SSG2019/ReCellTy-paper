@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NGF,NGF
+Human,Undefined,Undefined,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NSCL2,NHLH2
+Human,Undefined,Undefined,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,PKC-alpha,PRKCA
+Human,Undefined,Undefined,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,Brn-3B,
+Human,Undefined,Undefined,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,Hu-1,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD133,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell
+Stem cell,,Lgr5,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell

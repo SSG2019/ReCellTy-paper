@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Oligodendrocyte,CL_0000128,PDGFRA,PDGFRA
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Oligodendrocyte,CL_0000128,SOX10,SOX10

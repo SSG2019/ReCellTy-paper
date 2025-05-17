@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,MCAM,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,JAG1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,FB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMA,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TINAGL1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CFB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMN1,Human,Skin,Skin,Normal,Normal cell,Pericyte

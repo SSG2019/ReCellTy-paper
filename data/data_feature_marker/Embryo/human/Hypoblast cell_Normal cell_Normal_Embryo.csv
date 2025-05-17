@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hypoblast,,COL4A1,Human,Embryo,Embryo,Normal,Normal cell,Hypoblast cell
+Hypoblast,,SOX17,Human,Embryo,Embryo,Normal,Normal cell,Hypoblast cell
+Hypoblast,,FOXA2,Human,Embryo,Embryo,Normal,Normal cell,Hypoblast cell
+Hypoblast,,GATA6,Human,Embryo,Embryo,Normal,Normal cell,Hypoblast cell
+Hypoblast,,GATA4,Human,Embryo,Embryo,Normal,Normal cell,Hypoblast cell

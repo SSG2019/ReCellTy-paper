@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD160,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell
+T cell,intraepithelial,KLRC2,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell
+T cell,intraepithelial,KLRC3,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell

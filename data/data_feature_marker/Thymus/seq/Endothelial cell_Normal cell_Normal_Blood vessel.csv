@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,ACKR1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GJA4,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFC,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,APLNR,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE,Human,Thymus,Blood vessel,Normal,Normal cell,Endothelial cell

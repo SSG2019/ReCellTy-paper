@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular helper,ICOS,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper,PDCD1,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,ICOS,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,PDCD1,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,LTB,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CD40LG,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,GPR183,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell

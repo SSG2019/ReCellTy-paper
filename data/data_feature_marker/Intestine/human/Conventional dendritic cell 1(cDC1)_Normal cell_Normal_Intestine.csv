@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,1.0,XCR1,Human,Intestine,Intestine,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1.0,CD141,Human,Intestine,Intestine,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,THBD,Human,Intestine,Intestine,Normal,Normal cell,Conventional dendritic cell 1(cDC1)

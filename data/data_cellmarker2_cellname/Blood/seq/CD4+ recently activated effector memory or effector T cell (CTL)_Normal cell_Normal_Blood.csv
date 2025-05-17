@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,S1PR1,S1PR1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,GZMH,GZMH
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,GNLY,GNLY
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,PRF1,PRF1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,KLRG1,KLRG1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,NKG7,NKG7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,S1PR5,S1PR5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,TBX21,TBX21
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,CTSW,CTSW
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL),,CX3CR1,CX3CR1

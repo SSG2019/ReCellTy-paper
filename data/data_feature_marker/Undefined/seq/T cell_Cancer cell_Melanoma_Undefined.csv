@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD4,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8B,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,Effector,GZMK,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,,CD3,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,,CD3E,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,,CD3D,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,,CD3G,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell
+T cell,,IL7R,Human,Undefined,Undefined,Melanoma,Cancer cell,T cell

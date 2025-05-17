@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Amnion epithelial cell,,NANOG,Human,Placenta,Amniotic membrane,Normal,Normal cell,Amnion epithelial cell
+Amnion epithelial cell,,OCT3/4,Human,Placenta,Amniotic membrane,Normal,Normal cell,Amnion epithelial cell

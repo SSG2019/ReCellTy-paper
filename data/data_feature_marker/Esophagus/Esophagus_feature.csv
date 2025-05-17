@@ -1,0 +1,1237 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGHD,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD27,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,TNFRSF13B,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD19,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,TCL1A,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+Basal cell,,CD104,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,SOC2,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,CD73,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,ITGB4,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,SHOC2,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,NT5E,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal epithelial cell,,ITGA6,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+Basal epithelial cell,,SCPEP1,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+Basal epithelial cell,,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+Cancer cell,,pan-cytokeratin,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,PD-L1 CD274,Human,Esophagus,Esophagus,esophageal cancer,Cancer cell,Cancer cell
+Cancer cell,,IL3RA,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,VCAN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,KRT5,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,SOX2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,AREG,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,stem,SOX9,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer cell,stem,CD44,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Fibroblast,Cancer-associated,PDPN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer-associated fibroblast
+T cell,CD4+,CD4,Human,Esophagus,Esophagus,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Esophagus,Esophagus,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Esophagus,Esophagus,Normal,Normal cell,CD8+ T cell
+T cell,,CD4,Human,Esophagus,Esophagus,Normal,Normal cell,CD8+ T cell
+Ciliated epithelial cell,,ALDH1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IFT46,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC30A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC157,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR38,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC78,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PTRH1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C1orf168,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC44A4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GAS2L2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RNLS,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC39,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EFCAB10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC74B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC12A7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SVOPL,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM183A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AGBL2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC13,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZBED4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DLEC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,OXTR,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RASA3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM151B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAPK15,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ERICH2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARHGAP39,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BAIAP3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EFHB,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPATA17,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GOLGA2P5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,STX7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IL20RA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC173,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KLHDC9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CAPSL,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TRMT1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EFHC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TEKT4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ODF3B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GYG2P1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RBM38,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIAA1456,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC13A3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM179A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RSPH4A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NOVA1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RAET1E,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FABP6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC170,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C3orf67,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TRIM37,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C16orf46,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP126,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NXF3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EFHC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RSPH9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM45B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C20orf85,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARRDC1-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ATAT1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PIH1D2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NWD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CST6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ATP2C2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ANKRD66,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPATA18,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPATA4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NBEA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CDHR4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC81,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TIMM10B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC61,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C2CD2L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RARB,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TSPAN15,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTLL7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM190,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZNF674,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FGF14,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRIG1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RPGRIP1L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZNF273,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KLF3-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SMPD2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BASP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PECR,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP69,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTLL6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SYNE1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TCTEX1D1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ROPN1L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IQCD,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,VWA3A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ENDOG,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC23L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MB,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FHAD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DPY19L2P2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPAG6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP43,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DMPK,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,STMND1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MORN3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C8orf34,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DTNA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CXXC4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GAS8,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IL5RA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ABCB10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ANKRD18A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WNT16,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SNTN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PZP,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CSPP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPATS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PLCB2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP54,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SYTL3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC103,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SNX7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC6A9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SSBP4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RIIAD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZBBX,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C5orf49,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC21A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC25A29,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IFT81,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,INPP5B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IQUB,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FRMPD2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZNF440,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ANKUB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC25,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NEK10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KATNB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR90,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IFT80,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NPHP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC9A4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC22A18,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAL1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PPP1R42,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CDS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR5B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,POLQ,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GLIS3-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ENPP4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RHPN1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM81B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ADAP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DPY19L2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRIQ1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MDH1B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FBXO36,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ASIC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DYNC2H1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RNASE4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DCP1B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CHST9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DGCR6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CHST11,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C12orf76,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BHLHB9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KCNMB2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP221,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,UBE3D,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC88C,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MLLT1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DYX1C1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FBXO31,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTLL9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH12,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WARS,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CAPS2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIAA1257,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C7orf57,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC46,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CDHR3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C10orf107,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC16,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SHANK2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,USP2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TP73,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAR10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SYT10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KLHL32,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF19,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LGR4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM232,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MOB1B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,UBXN11,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARL13B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TNFRSF19,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PACRG,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM227A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIAA0754,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RIBC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CPEB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ADGRE5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TBC1D31,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SNX29,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DZIP3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KCNE1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPEF1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DPCD,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PWARSN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ITGAL,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TCTN1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC60,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MPDZ,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,STOML3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR54,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ASTN2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC114,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARMC3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP52,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SYBU,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PHTF1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BBS5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AGBL5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM174A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PTPRT,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RITA1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RSPH1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LTBP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LMLN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EP300-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DYDC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPAG8,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C1orf194,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR63,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BTC,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAPRE3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAAF1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ANKMY1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,HHLA2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAT1A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SNORA7B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DPY19L1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IPW,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,EFCAB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LOC388780,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,USP24,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CEP97,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C2orf70,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GCA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BCAS3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DTHD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPA17,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MS4A8,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C4orf47,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP44,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC74A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ALDH16A1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SNX13,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFP,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH11,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TGM3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ATP6V1C2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP53,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CSMD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ALDH3B1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TEKT3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NRP2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ITGBL1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PFN2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AK9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TSPAN19,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPEF2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,UBXN10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IFT57,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CROCC,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PSENEN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAP9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GJA4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TEKT2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR19,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC7A2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,B9D1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C20orf96,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARHGEF11,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FGFR1OP,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPAG1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ALMS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DCDC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NELL2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CD164L2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,OTUD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KCNRG,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC27A2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZMYND10,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C2orf81,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ERBB4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SDF2L1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AK8,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PRICKLE2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,APBB2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMC5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KCNB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GLB1L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PNO1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,USP51,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MRLN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PPP1R36,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP57,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DCDC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NEK5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PRR29,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MAATS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP47,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPAG17,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIAA2012,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MLF1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC22A16,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GPC5-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DRC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ST6GALNAC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C5orf42,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IQCA1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AARS2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LDLRAD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RUVBL1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MIPEPP3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SAXO2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RGS22,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LINC01571,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC23,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,HYDIN,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,APH1B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C4orf22,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC10B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C6orf118,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TXNDC11,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ATXN2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WDR78,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ABCA13,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,STK33,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NHLRC4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TSNAXIP1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TRPC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SMPD3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAI2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IFT88,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC33,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C11orf70,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CASC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,HRASLS2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SCGB2A1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZNF322,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LKAAEAR1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SSUH2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KSR1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARHGEF38,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,COL4A5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PRICKLE2-AS3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WFDC3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C5AR1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PTOV1-AS2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ATP6V0A4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF17,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC24,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DHRS9,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FBXO15,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RABL2A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TUBA4B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,STX2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CLDN16,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C11orf16,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C9orf24,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC148,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF3A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RABL2B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZMYND12,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C9orf135,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C2orf40,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC71,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C1orf87,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KNDC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SLC41A1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAI1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SGMS2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARHGAP18,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CEBPA,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM67,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AP3M2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BBS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CES4A,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DCDC5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC74B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,OSGEP,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SIAH3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GALNS,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ANKRD54,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CES1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MLPH,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DZIP1L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,APCDD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ENPP5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TTC26,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PLEKHS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PLCG2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WBSCR27,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CACNG6,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,OR7E37P,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ADGB,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,C11orf88,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRWD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM231,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MORN2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZBED5-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MDM1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IKZF4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LZTFL1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RIBC1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CP,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC65,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CD38,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,LRRC27,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ECT2L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM92B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FLJ32255,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,QTRT1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,RRAD,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SPATA6L,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TMEM234,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,AKAP14,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAH7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,GALC,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,P4HTM,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TFF3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DALRD3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CEP162,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,BPIFB1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ZNF688,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP46,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PRUNE2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,IQCH,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,NPIPA1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,VWA3B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,SAMD15,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCDC181,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ARMC2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,KIF27,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP61,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FYB2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP210,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TRMT9B,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,TOGARAM2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP20DC,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DYNLT5,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ODAD4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAAF4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,WARS1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP92,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CABCOCO1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,MACF1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ODAD1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP276,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAI3,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,FAM166C,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CEP43,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP91,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CPLANE1,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP299,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAI4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP300,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,DNAI7,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,PLAAT2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CFAP95,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,ECRG4,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,METTL27,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,HOATZ,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Ciliated epithelial cell,,CIBAR2,Human,Esophagus,Esophagus,Normal,Normal cell,Ciliated epithelial cell
+Esophagus cell,Classical Barrett’s,KRT20,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,KRT7,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,AGR2,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,VIL1,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Classical Barrett’s esophagus cell,,KRT8,Human,Esophagus,Esophagus,Normal,Normal cell,Classical barrett’s esophagus cell
+Conventional dendritic cell,cDC2,CLEC10A,Human,Esophagus,Esophagus,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Conventional dendritic cell,cDC2,CD1C,Human,Esophagus,Esophagus,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,Conventional,FCER1A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)
+dendritic cell,,HLA-DQA1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)
+T cell,Cytotoxic,CD8,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+cell,Dividing,MKI67,Human,Esophagus,Esophagus,Normal,Normal cell,Dividing cell
+Duodenal epithelial cell,,PIGR,Human,Esophagus,Esophagus,Normal,Normal cell,Duodenal epithelial cell
+T cell,Th2,HPGDS,Human,Esophagus,Esophagus,Normal,Normal cell,Effector Th2 cell
+T cell,Th2-like,GATA3,Human,Esophagus,Esophagus,Normal,Normal cell,Effector Th2-like cell
+Endothelial cell,,RAMP2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,Claudin,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,PPL,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,JUP,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Esophagus,Esophagus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT13,Human,Esophagus,Esophagus,Normal,Normal cell,Epithelial cell
+cell,mesenchymal,CDH11,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,CDH2,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,ZEB1,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+cell,mesenchymal,VIM,Human,Esophagus,Esophagus,Oesophageal squamous cell carcinoma,Cancer cell,Epithelial-mesenchymal cell
+Esophageal epithelial cell,,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Esophageal epithelial cell
+Esophageal mucosal cell,,DCLK1,Human,Esophagus,Esophagus,Normal,Normal cell,Esophageal mucosal cell
+epithelial cell,FGFR1High,FGFR1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,NME5,NME5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,POLL,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CMTM3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADAM33,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LETMD1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,RIC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,APCDD1L-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FBN1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,XPNPEP2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TBC1D8B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TADA2B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,METTL25,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,NOD1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FZD10-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CTSK,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,EGR2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,BMP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CILP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PDGFRL,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,NRP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TRIM6,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SH3PXD2B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PIANP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ELOVL6,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,JAM2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LCAT,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF761,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LUM,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FURIN,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PAMR1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,USP49,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADAM22,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CYP1B1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PBK,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PRKG2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CERS3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FBXO44,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FLRT2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PI15,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF628,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PCDH9,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GABBR1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TMEM132A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ATP9B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,COLEC12,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,NOMO1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ASB2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PI16,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,IKBIP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SH3TC2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ISLR,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,COL5A3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LYRM5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FNDC5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DOCK11,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF436,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,P3H3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,WARS2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PLEKHG5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CADM4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZDHHC8,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GAS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TRIO,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CHRDL1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SNHG15,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,NCBP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PCDH18,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MFAP4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ABI3BP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GRK5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,RARRES2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADGRB2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZSCAN22,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF700,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SLC16A2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SDHAF4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,USP32P2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,STARD9,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TNFAIP6,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PCSK6,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FOXF1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GARNL3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SLC37A4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SLC45A1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LAMA2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,STAT5B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DGUOK-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,AFAP1L2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,KLHL31,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ERMARD,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF773,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZKSCAN3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FECH,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TENM4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TRERF1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GPR37,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FRRS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,AARS,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MED20,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,KCTD15,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PDGFRB,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TGFBR3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CRKL,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF587,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SNX10,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FKBP10,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FAM45A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ARHGAP30,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZBTB17,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TPGS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,VSTM4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,HIC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CISD3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,C17orf100,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADGRD1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MMP2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CSAD,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ABHD8,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,IFFO1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SNX21,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ATP1A1-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ACPP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CDC23,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZFHX4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GALT,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,NOM1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,COL17A1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,THBS2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SHQ1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF354A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TMEM144,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TTK,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,OGFOD3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PIGK,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PKDCC,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,HMCN2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ASPA,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GHR,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,POSTN,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PTBP2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CDK5RAP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FKBP7,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SEH1L,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CPZ,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,LPAR4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TMEM133,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,C14orf37,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TMSB15B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADAMTS2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADAMTS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SLC35A1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADAMTSL1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PCOLCE,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SLIT3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CRMP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF546,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,AOX1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,HHAT,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GLT8D2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,METTL17,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DCHS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FAM109A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MGC72080,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,CA2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,HAUS2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PSMG3-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FAM83C,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZZEF1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TROAP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF799,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TSPAN4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ROBO3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,KDELR3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ZNF512,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PLXNC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,GFRA1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FSIP2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DAGLA,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,JAM3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TRIM65,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,COL16A1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FBXO4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ACKR1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ACOT9,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SYT1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SCARA5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MN1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DLK1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DLC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,FAM212A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ADGRL3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TARSL2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,HSPA1L,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ARHGAP10,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,VCAM1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MED29,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,RGAG4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DDX31,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,RWDD2A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SVEP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,MFAP5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,KLHL21,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,SOCS2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,U2AF2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ATXN1L,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,APCDD1L-DT,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ETFRF1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,AARS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,DENND10,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ACP3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ARHGAP42,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,ARMH4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,PHETA1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,INKA1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,TARS3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,,RTL5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1HighNME5- epithelial cell
+epithelial cell,FGFR1Low,ACSF3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,FGFR1Low,IRGQ,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,FGFR1Low,LOC171391,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,NME5,MBNL3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,NME5,NUP160,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,NME5,LTV1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,C19orf48,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,ZNF462,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,ZNF142,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,TCF7,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,TET1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,MFSD3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CYTIP,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,PEX11A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CRTC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,GPC1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,PWWP2A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,PPP1R9B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,PHTF2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,MCUR1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,SLC2A3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,NUP35,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CCDC15,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,RALY-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,L3MBTL3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CD69,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,FAM126A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,RBSN,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,NDRG4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,DNAJC4,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,GAS2L1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,GAS7,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,SPATC1L,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,TRAF1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,SH3KBP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,ISYNA1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,RPL39L,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CLOCK,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,LAPTM5,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,FABP3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,IL10RA,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CD52,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,RNF166,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,TMEM183A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CLCA2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,ARRDC2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,FAM35A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,PIP4K2A,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,LPXN,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,CDIP1,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,DIAPH3,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,DCAKD,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,FAM69B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,SHLD2,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+epithelial cell,,DIPK1B,Human,Esophagus,Esophagus,Normal,Normal cell,FGFR1LowNME5- epithelial cell
+Fibroblast,,DCN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDGFRβ,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRα,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,PLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL3A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,VIM,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,WNT2B,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,CD90,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+B cell,Follicular,MS4A1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Follicular B cell
+Gland cell,,TFF3,Human,Esophagus,Esophagus,Normal,Normal cell,Gland cell
+Gland cell,,MUC5B,Human,Esophagus,Esophagus,Normal,Normal cell,Gland cell
+Gland ductal cell,,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell
+Gland ductal cell,,KRT23,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell
+Esophagus cell,Glandular Barrett's,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Glandular Barrett's esophagus cell
+Goblet cell,,TFF2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC5AC,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Granulocyte,,CLC,Human,Esophagus,Esophagus,Normal,Normal cell,Granulocyte
+Immune cell,,PTPRC,Human,Esophagus,Esophagus,Normal,Normal cell,Immune cell
+Intestinal stem cell,,DCLK1,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Intestinal stem cell
+Intestinal stem cell,,DCLK1,Human,Esophagus,Esophagus,Normal,Normal cell,Intestinal stem cell
+Langerhans cell,,CD207,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Langerhans cell
+Langerhans cell,,CD1A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Langerhans cell
+Macrophage,M1,CD40,Human,Esophagus,Esophagus,Normal,Normal cell,M1 macrophage
+Macrophage,M1,iNOS,Human,Esophagus,Esophagus,Normal,Normal cell,M1 macrophage
+Macrophage,,CD163,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD11c,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,CD169,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,MARCO,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,SIGLEC1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Esophagus,Esophagus,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Esophagus,Esophagus,Normal,Normal cell,Macrophage
+Mast cell,,KIT,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Esophagus,Esophagus,Normal,Normal cell,Mast cell
+Mast cell,,tryptase,Human,Esophagus,Esophagus,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Esophagus,Esophagus,Normal,Normal cell,Mast cell
+Mesenchymal cell,,N-cadherin,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Monocyte,,CD68,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,CD16,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,FCGR3A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Myeloid cell,,C1QB,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CSF1R,Human,Esophagus,Esophagus,Normal,Normal cell,Myeloid cell
+Myofibroblast,Fibrotic,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,Fibrotic,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,Fibrotic,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,Fibrotic,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+T cell,Naive,CCR7,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,LEF1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Th0,TCF7,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,NCR1,Human,Esophagus,Esophagus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Natural killer cell
+Plasma cell,,IGHG4,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHG1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHA1,Human,Esophagus,Esophagus,Normal,Normal cell,Plasma cell
+Dendritic cell,pDC,LILRA4,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,Regulatory,FoxP3,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD4,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL-10,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA-4,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,MAF,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL10,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+embryonic cell,,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Residual embryonic cell
+embryonic cell,,MUC4,Human,Esophagus,Esophagus,Normal,Normal cell,Residual embryonic cell
+cell,Secretory,AGFG2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GIT2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,IGF2BP2-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,NTHL1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ZFAND2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ADAM28,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ARNTL2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MCPH1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GK,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TGM2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PRSS27,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GPRC5A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TMPRSS11E,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,OAS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PRSS8,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TMPRSS11B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,DUSP5,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,SECTM1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,HOPX,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,SPRR2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PRSS22,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CDKN2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ADM,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CTSV,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MUC3A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,KRT78,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,RNF103-CHMP3,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,SPNS2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,S100A8,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MUC21,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GDPD3,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,LINC01559,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,DUOXA2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CEACAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,BAHD1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,DUSP10,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,EPS8L1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GPT2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ZNF503-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GPR160,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MID2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ATP10B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,BLNK,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ISG15,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,HTRA2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,KYNU,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GBP4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MNX1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,SLC15A1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PDZK1IP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,GAN,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,NTN4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PDE9A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TMPRSS11D,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,HDAC9,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MACC1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,SLC6A14,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,NCCRP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TOR1B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CALHM2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,XDH,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CYP2B7P,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CCDC94,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,PDP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MBD6,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,STEAP4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,DUOX2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,TBC1D2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,USP6NL,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,CACNB1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,APOBEC3A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ST3GAL4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,VASN,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,MANSC1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,VCPKMT,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,LIPH,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,ZNF710,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,Secretory,YJU2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,AGFG2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GIT2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,IGF2BP2-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,NTHL1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ZFAND2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ADAM28,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ARNTL2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MCPH1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GK,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TGM2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PRSS27,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GPRC5A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TMPRSS11E,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,OAS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PRSS8,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TMPRSS11B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,DUSP5,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,SECTM1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,HOPX,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,SPRR2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PRSS22,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CDKN2A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ADM,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CTSV,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MUC3A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,KRT78,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,RNF103-CHMP3,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,SPNS2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,S100A8,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MUC21,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GDPD3,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,LINC01559,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,DUOXA2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CEACAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,BAHD1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,DUSP10,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,EPS8L1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GPT2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ZNF503-AS1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GPR160,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MID2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ATP10B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,BLNK,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ISG15,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,HTRA2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,KYNU,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GBP4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MNX1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,SLC15A1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PDZK1IP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,GAN,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,NTN4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PDE9A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TMPRSS11D,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,HDAC9,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MACC1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,SLC6A14,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,NCCRP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TOR1B,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CALHM2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,XDH,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CYP2B7P,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CCDC94,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,PDP1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MBD6,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,STEAP4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,DUOX2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,TBC1D2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,USP6NL,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,CACNB1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,APOBEC3A,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ST3GAL4,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,VASN,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,MANSC1,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,VCPKMT,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,LIPH,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,ZNF710,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+cell,progenitor,YJU2,Human,Esophagus,Esophagus,Normal,Normal cell,Secretory progenitor cell
+Stem cell,,OLFM4,Human,Esophagus,Esophagus,Barrett’s esophagus,Cancer cell,Stem cell
+Stem cell,,DCLK1,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Stem cell
+Stem cell,,P75,Human,Esophagus,Esophagus,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Esophagus,Esophagus,Normal,Normal cell,Stem cell
+Esophageal cell,Stratified,TP63,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Stratified esophageal cell
+Keratinocyte,Stratified,KRT4,Human,Esophagus,Esophagus,Normal,Normal cell,Stratified keratinocyte
+Stromal cell,,COL1A2,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+Stromal cell,,DCN,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+Stromal cell,,FBLN1,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+T cell,,CD3,Human,Esophagus,Esophagus,Esophageal adenocarcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,TRBC2,Human,Esophagus,Esophagus,Normal,Normal cell,T cell
+T cell,T helper 2 (Th2),HPGDS,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),PTGDR2,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),IL1RL1,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),IL-17RB,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+Progenitor cell,Basal,P63,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Progenitor cell,Basal,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Progenitor cell,Transitional,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Vascular cell,,VWF,Human,Esophagus,Esophagus,Normal,Normal cell,Vascular cell
+Vascular cell,,CCL21,Human,Esophagus,Esophagus,Normal,Normal cell,Vascular cell
+B cell,,CD79A,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGHD,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD27,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,TNFRSF13B,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD19,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,TCL1A,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Esophagus,Esophagus,Normal,Normal cell,B cell
+Basal cell,,CD104,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,SOC2,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,CD73,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,ITGB4,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,SHOC2,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+Basal cell,,NT5E,Human,Esophagus,Esophagus,Normal,Normal cell,Basal cell
+epithelial cell,,ITGA6,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,SCPEP1,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Basal epithelial cell
+Cancer cell,,PD-L1 CD274,Human,Esophagus,Esophagus,esophageal cancer,Cancer cell,Cancer cell
+Cancer cell,,CD19,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,CD1C,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,IL3RA,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,KLRD1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,IGHG1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,CD3G,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,VCAN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,CD68,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,CD163,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,KRT5,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,SOX2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+T cell,CD4+,CD4,Human,Esophagus,Esophagus,Normal,Normal cell,CD4+ T cell
+T cell,,CD8A,Human,Esophagus,Esophagus,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Esophagus,Esophagus,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Esophagus,Esophagus,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Esophagus,Esophagus,Normal,Normal cell,CD8+ T cell
+Esophagus cell,Classical Barrett’s,KRT20,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,KRT7,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,AGR2,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Esophagus cell,Classical Barrett’s,VIL1,Human,Esophagus,Esophagus,Esophageal Adenocarcinoma,Cancer cell,Classical barrett’s esophagus cell
+Classical barrett’s esophagus cell,,KRT8,Human,Esophagus,Esophagus,Normal,Normal cell,Classical barrett’s esophagus cell
+Dendritic cell,Conventional 2 (cDC2),CLEC10A,Human,Esophagus,Esophagus,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional 2 (cDC2),CD1C,Human,Esophagus,Esophagus,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Conventional dendritic cell,cDC,FCER1A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)
+Conventional dendritic cell,,HLA-DQA1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)
+T cell,Cytotoxic,GZMB,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Esophagus,Esophagus,Normal,Normal cell,Cytotoxic T cell
+cell,Dividing,MKI67,Human,Esophagus,Esophagus,Normal,Normal cell,Dividing cell
+Duodenal epithelial cell,,PIGR,Human,Esophagus,Esophagus,Normal,Normal cell,Duodenal epithelial cell
+T cell,Th2,HPGDS,Human,Esophagus,Esophagus,Normal,Normal cell,Effector Th2 cell
+T cell,Th2-like,GATA3,Human,Esophagus,Esophagus,Normal,Normal cell,Effector Th2-like cell
+Endothelial cell,,RAMP2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Esophagus,Esophagus,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Esophagus,Esophagus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT13,Human,Esophagus,Esophagus,Normal,Normal cell,Epithelial cell
+Esophageal epithelial cell,,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Esophageal epithelial cell
+Fibroblast,,DCN,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,PLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL3A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+B cell,Follicular,MS4A1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Follicular B cell
+Gland cell,,TFF3,Human,Esophagus,Esophagus,Normal,Normal cell,Gland cell
+Gland cell,,MUC5B,Human,Esophagus,Esophagus,Normal,Normal cell,Gland cell
+Gland cell,ductal,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell
+Gland cell,,KRT23,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell
+esophagus cell,Glandular Barrett's,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Glandular Barrett's esophagus cell
+Goblet cell,,TFF2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC5AC,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,MUC2,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Goblet cell,,TFF3,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Goblet cell
+Granulocyte,,CLC,Human,Esophagus,Esophagus,Normal,Normal cell,Granulocyte
+Immune cell,,PTPRC,Human,Esophagus,Esophagus,Normal,Normal cell,Immune cell
+Langerhans cell,,CD207,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Langerhans cell
+Langerhans cell,,CD1A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Langerhans cell
+Macrophage,,CD163,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Esophagus,Esophagus,Normal,Normal cell,Macrophage
+Mast cell,,KIT,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Esophagus,Esophagus,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Esophagus,Esophagus,Normal,Normal cell,Mast cell
+Monocyte,,CD68,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,CD16,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,FCGR3A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Esophagus,Esophagus,Normal,Normal cell,Monocyte
+Myeloid cell,,C1QB,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CSF1R,Human,Esophagus,Esophagus,Normal,Normal cell,Myeloid cell
+Myofibroblast,,PLN,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Myofibroblast
+T cell,Naive,CCR7,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,TCF7,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Th0,LEF1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,NCR1,Human,Esophagus,Esophagus,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Esophagus,Esophagus,Normal,Normal cell,Natural killer cell
+Plasma cell,,IGHG4,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHG1,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHA1,Human,Esophagus,Esophagus,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,LILRA4,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,Regulatory,FOXP3,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA-4,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL-10,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Esophagus,Esophagus,Normal,Normal cell,Regulatory T(Treg) cell
+Embryonic cell,Residual,MUC4,Human,Esophagus,Esophagus,Normal,Normal cell,Residual embryonic cell
+Embryonic cell,,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Residual embryonic cell
+Stem cell,,OLFM4,Human,Esophagus,Esophagus,Barrett’s esophagus,Cancer cell,Stem cell
+Esophageal cell,Stratified,TP63,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Stratified esophageal cell
+Keratinocyte,Stratified,KRT4,Human,Esophagus,Esophagus,Normal,Normal cell,Stratified keratinocyte
+Stromal cell,,COL1A2,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+Stromal cell,,DCN,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+Stromal cell,,FBLN1,Human,Esophagus,Esophagus,Normal,Normal cell,Stromal cell
+T cell,,CD3D,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3E,Human,Esophagus,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,TRBC2,Human,Esophagus,Esophagus,Normal,Normal cell,T cell
+T cell,Th2,HPGDS,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,PTGDR2,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,IL1RL1,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,IL-17RB,Human,Esophagus,Esophagus,Normal,Normal cell,T helper 2(Th2) cell
+Basal progenitor cell,Transitional,P63,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Basal progenitor cell,,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Basal progenitor cell,,KRT5,Human,Esophagus,Esophagus,Normal,Normal cell,Transitional basal progenitor cell
+Vascular cell,,VWF,Human,Esophagus,Esophagus,Normal,Normal cell,Vascular cell
+Vascular cell,,CCL21,Human,Esophagus,Esophagus,Normal,Normal cell,Vascular cell

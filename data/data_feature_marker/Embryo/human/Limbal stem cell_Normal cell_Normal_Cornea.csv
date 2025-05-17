@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Limbal,KRT5,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,KRT19,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,ABCG2,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,KRT15,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,VIM,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,ITGA9,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,TP63,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell
+stem cell,Limbal,KRT14,Human,Embryo,Cornea,Normal,Normal cell,Limbal stem cell

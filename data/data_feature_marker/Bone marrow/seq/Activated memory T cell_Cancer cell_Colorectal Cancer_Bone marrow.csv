@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,CD25,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Activated memory T cell
+T cell,Activated,Ki67,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Activated memory T cell
+T cell,Activated,IL2RA,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Activated memory T cell
+T cell,Memory,CD45RO,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Activated memory T cell
+T cell,,CD3,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Activated memory T cell

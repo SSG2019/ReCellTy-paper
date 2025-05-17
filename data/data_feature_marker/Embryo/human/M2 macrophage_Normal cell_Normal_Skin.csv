@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,MERTK,Human,Embryo,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Embryo,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,M2,ARG1,Human,Embryo,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Embryo,Skin,Normal,Normal cell,M2 macrophage

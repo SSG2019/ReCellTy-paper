@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,CD53,Human,Kidney,Fetal kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,LSP1,Human,Kidney,Fetal kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,CORO1A,Human,Kidney,Fetal kidney,Normal,Normal cell,Leukocyte
+Leukocyte,,LST1,Human,Kidney,Fetal kidney,Normal,Normal cell,Leukocyte

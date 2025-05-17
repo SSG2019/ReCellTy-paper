@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Artery cell,CL_1001045,DLL4,DLL4
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Artery cell,CL_1001045,NOTCH4,NOTCH4
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Artery cell,CL_1001045,CXCR4,CXCR4

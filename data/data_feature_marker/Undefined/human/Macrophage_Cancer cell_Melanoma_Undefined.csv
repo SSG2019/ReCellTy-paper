@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,Activation/Adhesion,CD11b,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,,F4/80,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,Phagocytosis,CD64,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,Scavenger Receptor Activity,MARCO,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,Efferocytosis,MERTK,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage
+Macrophage,Phagocytosis,FCGR1A,Human,Undefined,Undefined,Melanoma,Cancer cell,Macrophage

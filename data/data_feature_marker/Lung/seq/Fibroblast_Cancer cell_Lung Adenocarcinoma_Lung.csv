@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,FAP,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,THY1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Fibroblast

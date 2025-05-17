@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD45,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PTPRC,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,markerTNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerTIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerTNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerPDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerCTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell

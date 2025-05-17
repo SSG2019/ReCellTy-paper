@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epidermis,Epidermis,UBERON_0001003,Normal,Normal cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Epidermis,Epidermis,UBERON_0001003,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1
+Human,Epidermis,Epidermis,UBERON_0001003,Normal,Normal cell,Keratinocyte,CL_0000312,KRT2,KRT2

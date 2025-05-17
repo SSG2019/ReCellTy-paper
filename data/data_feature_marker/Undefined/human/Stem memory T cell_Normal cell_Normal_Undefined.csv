@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Stem,CD95,Human,Undefined,Undefined,Normal,Normal cell,Stem memory T cell
+T cell,Stem,IL-15Rb,Human,Undefined,Undefined,Normal,Normal cell,Stem memory T cell
+T cell,Memory,CD62L,Human,Undefined,Undefined,Normal,Normal cell,Stem memory T cell
+T cell,Memory,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Stem memory T cell
+T cell,Memory,LFA-1,Human,Undefined,Undefined,Normal,Normal cell,Stem memory T cell

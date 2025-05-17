@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,AMY2B,AMY2B
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,PRSS1,PRSS1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,REG3A,REG3A
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,PRSS1,PRSS1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,Cpa1,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Acinar cell,CL_0000622,PRSS1,PRSS1

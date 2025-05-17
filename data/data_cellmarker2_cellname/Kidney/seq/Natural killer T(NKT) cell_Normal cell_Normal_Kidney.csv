@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,NKG7,NKG7
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,CD3D,CD3D
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,GNLY,GNLY
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,CD8A,CD8A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,IL7R,IL7R
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,CD3E,CD3E
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Nkg7,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Ctsw,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Cd3g,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Gimap4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Tmsb10,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Gimap3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Ltb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Hcst,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Cxcr6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer T(NKT) cell,,Ly6c2,

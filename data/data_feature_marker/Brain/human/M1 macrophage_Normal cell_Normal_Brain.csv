@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,TSPO,Human,Brain,Brain,Normal,Normal cell,M1 macrophage
+Macrophage,M1,NOX1,Human,Brain,Brain,Normal,Normal cell,M1 macrophage
+Macrophage,M1,PTGS2,Human,Brain,Brain,Normal,Normal cell,M1 macrophage
+Macrophage,M1,NOS2,Human,Brain,Brain,Normal,Normal cell,M1 macrophage
+Macrophage,M1,IL12A,Human,Brain,Brain,Normal,Normal cell,M1 macrophage
+Macrophage,M1,TNF,Human,Brain,Brain,Normal,Normal cell,M1 macrophage

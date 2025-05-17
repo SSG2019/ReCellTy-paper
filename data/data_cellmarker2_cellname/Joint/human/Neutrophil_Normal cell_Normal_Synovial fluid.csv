@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD11b,
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD62L,SELL
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD66,
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD16,FCGR3A
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD10,MME
+Human,Joint,Synovial fluid,UBERON_0001090,Normal,Normal cell,Neutrophil,CL_0000775,CD14,CD14

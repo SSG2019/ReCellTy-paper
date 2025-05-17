@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,ITGAM,ITGAM
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CSF3R,CSF3R
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,FGD2,FGD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD206,MRC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,IL-10,IL10
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Macrophage,CL_0000235,CD86,CD86

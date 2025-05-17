@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,NANOG,Human,Brain,Brain,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,SOX2,Human,Brain,Brain,Lung Cancer,Cancer cell,Cancer stem cell

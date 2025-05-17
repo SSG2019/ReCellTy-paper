@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,KRAS,Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell
+Cancer cell,,COSMIC v89,Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell
+Cancer cell,,GTPase,Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell
+Cancer cell,,UCB(s),Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell
+Cancer cell,,RNU,Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell
+Cancer cell,,UTUC,Human,Kidney,Kidney,Normal,Cancer cell,Cancer cell

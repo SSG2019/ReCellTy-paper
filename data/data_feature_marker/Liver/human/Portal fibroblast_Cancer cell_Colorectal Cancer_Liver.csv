@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Portal,MSLN,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Portal fibroblast
+Fibroblast,,UPK1B,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Portal fibroblast
+Fibroblast,,UPK3B,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Portal fibroblast

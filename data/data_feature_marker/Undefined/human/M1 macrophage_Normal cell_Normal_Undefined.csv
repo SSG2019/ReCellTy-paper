@@ -1,0 +1,24 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,CD80,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,CD86,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,IRF5,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,STAT1,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,ROS,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,IL-12,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,TNF-α,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,IL-6,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,iNOS,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,M1,TNFα,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CD68,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CD64,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CD32,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CD16,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CD369,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,MerTK,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,MHC class II,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,FCGR1A,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,FCGR2A,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,FCGR3A,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,CLEC7A,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,ROS1,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage
+Macrophage,,IL6,Human,Undefined,Undefined,Normal,Normal cell,M1 macrophage

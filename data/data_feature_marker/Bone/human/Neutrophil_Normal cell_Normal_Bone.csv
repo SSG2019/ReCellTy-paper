@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Inflammation,S100A8/A9,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Activation,CD66b,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Biology,BioNeu,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Extracellular Traps,NETs,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Inflammation,ACPA-S100,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Function,PRTN3,Human,Bone,Bone,Normal,Normal cell,Neutrophil
+Neutrophil,Activation,CEACAM8,Human,Bone,Bone,Normal,Normal cell,Neutrophil

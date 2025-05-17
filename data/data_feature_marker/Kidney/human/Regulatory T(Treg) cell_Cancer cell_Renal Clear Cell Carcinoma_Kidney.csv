@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD4,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD4,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell

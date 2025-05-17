@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,NCAM1,NCAM1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,CHGA,CHGA
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,SCG2,SCG2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,ENO2,ENO2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,SYP,SYP
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Neuroendocrine cell,CL_0000165,CHGB,CHGB

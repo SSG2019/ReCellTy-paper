@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Lymphocyte,CL_0000542,LAG3,LAG3
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Lymphocyte,CL_0000542,CXCL13,CXCL13
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Lymphocyte,CL_0000542,TOX,TOX

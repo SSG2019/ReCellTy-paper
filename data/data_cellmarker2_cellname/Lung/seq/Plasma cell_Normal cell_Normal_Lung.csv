@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,IGHM,IGHM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasma cell,CL_0000786,CD138,SDC1

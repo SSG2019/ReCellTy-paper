@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,IBA1,AIF1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD11b,
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,AIF1,AIF1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,VSIG4,VSIG4
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD74,CD74
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14

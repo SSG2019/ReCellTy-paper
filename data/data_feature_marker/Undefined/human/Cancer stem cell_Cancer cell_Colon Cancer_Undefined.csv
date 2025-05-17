@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,ALDH1A1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,GLI1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,LGR5,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD166,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD26,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,EpCAM,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,Musashi-1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ESA,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD24,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,MSI1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44v6,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,BMP,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD66,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALCAM,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,DPP4,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,FLOT2,Human,Undefined,Undefined,Colon Cancer,Cancer cell,Cancer stem cell

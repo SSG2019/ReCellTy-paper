@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enterocyte,,FABP1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,EPHX2,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,MEP1A,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,KRT20,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,CA1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,CA2,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte

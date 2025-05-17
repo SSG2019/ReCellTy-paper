@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Cancer cell,CL_0001064,FAS,FAS
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Cancer cell,CL_0001064,CA125,MUC16
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Cancer cell,CL_0001064,BRCA2,BRCA2

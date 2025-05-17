@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,TIGIT,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,CTLA-4,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,TIM3,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,TNFRSF9,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,CD27,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,HAVCR2,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,PDCD1,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,LAG3,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,PD-1,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell
+T cell,,CTLA4,Human,Kidney,Epithelium,Clear-cell renal cell carcinoma,Cancer cell,T cell

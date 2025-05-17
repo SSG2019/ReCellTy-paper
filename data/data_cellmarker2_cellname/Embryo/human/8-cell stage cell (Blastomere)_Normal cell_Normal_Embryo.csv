@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,FAM32A,FAM32A
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,KDM5B,KDM5B
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,HDAC2,HDAC2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,ISY1,ISY1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,DHX9,DHX9
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,EIF4G1,EIF4G1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,TBC1D13,TBC1D13
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,SSSCA1,ZNRD2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,DIABLO,DIABLO
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,C19orf53,C19orf53
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,ZNF280A,ZNF280A
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,SUPT4H1,SUPT4H1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,MED31,MED31
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,C11orf48,LBHD1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,GTPBP4,GTPBP4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,SERTAD1,SERTAD1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,EIF1AD,EIF1AD
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,NHP2L1,SNU13
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,8-cell stage cell (Blastomere),CL_0000353,YRDC,YRDC

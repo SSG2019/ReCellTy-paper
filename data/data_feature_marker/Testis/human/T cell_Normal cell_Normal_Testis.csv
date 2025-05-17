@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,ITGB2,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,PRF1,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD4,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD8B,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,ID2,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD89,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,CD52,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Testis,Testis,Normal,Normal cell,T cell
+T cell,,FCAR,Human,Testis,Testis,Normal,Normal cell,T cell

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,STK11,STK11
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,CDKN2A,CDKN2A
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,FHIT,FHIT
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,MYCL1,MYCL
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,CTL,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,TLR-3,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,B-2 cell,CL_0000822,HTL,

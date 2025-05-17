@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,NEFM,NEFM
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,ALCAM,ALCAM
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,CNTN2,CNTN2
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,NRN1,NRN1
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,EBF3,EBF3
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,EBF1,EBF1
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,GAP43,GAP43
+Human,Eye,Retina,UBERON_0000966,Retinoblastoma,Cancer cell,Ganglion cell,CL_0000740,POU4F2,POU4F2

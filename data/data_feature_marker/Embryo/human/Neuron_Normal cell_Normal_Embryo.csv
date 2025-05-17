@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,NeuN,Human,Embryo,Embryo,Normal,Normal cell,Neuron
+Neuron,,FE65,Human,Embryo,Embryo,Normal,Normal cell,Neuron
+Neuron,,NR2F1,Human,Embryo,Embryo,Normal,Normal cell,Neuron
+Neuron,,LHX2,Human,Embryo,Embryo,Normal,Normal cell,Neuron
+Neuron,,APBB1,Human,Embryo,Embryo,Normal,Normal cell,Neuron

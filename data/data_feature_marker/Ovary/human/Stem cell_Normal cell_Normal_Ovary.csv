@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,SALL4,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD133,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR5,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD34,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD44,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD105,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD73,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR6,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,Procr,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,PROM1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD45,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,PTPRC,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD140b,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD105,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD73,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,NT5E,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,CD28,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,LEF1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,CCR7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,IL7R,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,TCF7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell

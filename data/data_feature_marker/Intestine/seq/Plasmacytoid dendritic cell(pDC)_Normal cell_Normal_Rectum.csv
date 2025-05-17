@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,PLAC8,Human,Intestine,Rectum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IRF7,Human,Intestine,Rectum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,CCDC50,Human,Intestine,Rectum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

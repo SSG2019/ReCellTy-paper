@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tumor,CCR8,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,Tumor regulatory T cell
+T cell,regulatory,FOXP3,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,Tumor regulatory T cell
+T cell,regulatory,RTKN2,Human,Blood,Peripheral blood,Colorectal Cancer,Cancer cell,Tumor regulatory T cell

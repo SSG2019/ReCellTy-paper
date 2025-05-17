@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD2,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD5,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD7,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD27,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD28,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD25,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD3,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,TCRαβ,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,KLRB1,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,IL7R,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD162E,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD62L,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,α4β7,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD162P,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CCR7,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD45RA,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,NKG7,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,pfcSNPs,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,IL2RA,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell
+T cell,,SELL,Human,Undefined,Undefined,Normal,Normal cell,CD8+ T cell

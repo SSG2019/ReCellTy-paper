@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,Anti-tumor,PRF1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Anti-tumor immune cell
+Immune cell,Anti-tumor,GZMH,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Anti-tumor immune cell
+Immune cell,Anti-tumor,GZMB,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Anti-tumor immune cell

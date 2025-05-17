@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,EOMES,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,Effector,GZMK,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,memory,CD27,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,Effector,KLRG1,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,memory,CD44,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD57,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell
+T cell,memory,B3GAT1,Human,Intestine,Intestine,Normal,Normal cell,Effector memory T cell

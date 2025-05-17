@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,GZMK,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Teff,EOMES,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Effector,KLRG1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Effector T(Teff) cell

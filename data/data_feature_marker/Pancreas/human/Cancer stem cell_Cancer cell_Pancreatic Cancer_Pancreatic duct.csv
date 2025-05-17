@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,OCT3/4,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD133,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,SOX9,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PAF1,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PD2,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,β-CATENIN,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ESA,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,PROM1,Human,Pancreas,Pancreatic duct,Pancreatic Cancer,Cancer cell,Cancer stem cell

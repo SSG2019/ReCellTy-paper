@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,,ATGL,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,FABP4,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,AdipoQ,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,HSL,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,CEBPα,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,PNPLA2,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte
+Adipocyte,,LIPE,Human,Stomach,Stomach,Gastrointestinal tumor,Cancer cell,Adipocyte

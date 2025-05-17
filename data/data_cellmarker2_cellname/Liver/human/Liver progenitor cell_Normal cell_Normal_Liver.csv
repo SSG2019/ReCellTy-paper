@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,Keratin-7,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,EpCAM,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,CK19,KRT19
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,CD24,CD24
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,Keratin-7,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Liver progenitor cell,,Brain isoform glycogen phosphorylase,

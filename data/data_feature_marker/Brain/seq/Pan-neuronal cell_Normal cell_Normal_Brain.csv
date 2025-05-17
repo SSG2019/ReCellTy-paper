@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuronal cell,,MAP2,Human,Brain,Brain,Normal,Normal cell,Pan-neuronal cell
+neuronal cell,,NEUN,Human,Brain,Brain,Normal,Normal cell,Pan-neuronal cell
+neuronal cell,,SYN1,Human,Brain,Brain,Normal,Normal cell,Pan-neuronal cell
+neuronal cell,,NRCAM,Human,Brain,Brain,Normal,Normal cell,Pan-neuronal cell
+neuronal cell,,RBFOX3,Human,Brain,Brain,Normal,Normal cell,Pan-neuronal cell

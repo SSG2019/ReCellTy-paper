@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural cell,progenitor,SOX2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,NES,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell

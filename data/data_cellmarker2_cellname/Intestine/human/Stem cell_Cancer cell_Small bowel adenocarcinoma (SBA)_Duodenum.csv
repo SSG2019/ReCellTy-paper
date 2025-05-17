@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Duodenum,UBERON_0002114,Small bowel adenocarcinoma (SBA),Cancer cell,Stem cell,CL_0000034,HOPX,HOPX
+Human,Intestine,Duodenum,UBERON_0002114,Small bowel adenocarcinoma (SBA),Cancer cell,Stem cell,CL_0000034,BMI1,BMI1
+Human,Intestine,Duodenum,UBERON_0001844,Small bowel adenocarcinoma (SBA),Cancer cell,Stem cell,CL_0000034,LGR5,LGR5

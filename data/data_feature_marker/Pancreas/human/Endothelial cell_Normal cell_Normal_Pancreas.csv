@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,B2M,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD36,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLCO2A1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Normal,Normal cell,Endothelial cell

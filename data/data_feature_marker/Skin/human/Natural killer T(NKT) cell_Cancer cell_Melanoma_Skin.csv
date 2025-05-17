@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,CD161,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell
+T cell,T,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell
+T cell,T,CD28,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Profibrotic,PDGF-AA,Human,Undefined,Undefined,Normal,Normal cell,Profibrotic macrophage
+Macrophage,,CX3CR1,Human,Undefined,Undefined,Normal,Normal cell,Profibrotic macrophage

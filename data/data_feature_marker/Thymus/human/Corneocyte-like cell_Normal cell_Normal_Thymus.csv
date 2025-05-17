@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Corneocyte-like cell,,IL1RN,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like cell,,LYPD2,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell
+Corneocyte-like cell,,FXYD3,Human,Thymus,Thymus,Normal,Normal cell,Corneocyte-like cell

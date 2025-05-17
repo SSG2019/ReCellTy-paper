@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Ivl,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Spink5,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Epcam,Human,Thymus,Epithelium,Normal,Normal cell,Epithelial cell

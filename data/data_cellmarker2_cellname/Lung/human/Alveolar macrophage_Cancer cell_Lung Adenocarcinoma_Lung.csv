@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,APOC1,APOC1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,MARCO,MARCO
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,LYZ,LYZ
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,C1QA,C1QA
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,FABP4,FABP4
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Alveolar macrophage,CL_0000583,MCEMP1,MCEMP1

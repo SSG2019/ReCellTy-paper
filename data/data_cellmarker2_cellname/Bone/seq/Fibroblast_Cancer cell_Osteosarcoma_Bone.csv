@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1

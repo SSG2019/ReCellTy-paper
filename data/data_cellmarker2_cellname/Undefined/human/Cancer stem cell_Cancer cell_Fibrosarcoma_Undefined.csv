@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,Nestin,
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,NANOG,NANOG
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,OCT3/4,
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,CD271,NGFR
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,Nanog,
+Human,Undefined,Undefined,,Fibrosarcoma,Cancer cell,Cancer stem cell,,Sox2,

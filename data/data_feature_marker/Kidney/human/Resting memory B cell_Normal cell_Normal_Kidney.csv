@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Resting memory,CD27,Human,Kidney,Kidney,Normal,Normal cell,Resting memory B cell
+B cell,,CD21,Human,Kidney,Kidney,Normal,Normal cell,Resting memory B cell
+B cell,,CR2,Human,Kidney,Kidney,Normal,Normal cell,Resting memory B cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Early-born,Tbr1,Human,Brain,Brain,Normal,Normal cell,Early-born neuron
+neuron,,Ctip2,Human,Brain,Brain,Normal,Normal cell,Early-born neuron

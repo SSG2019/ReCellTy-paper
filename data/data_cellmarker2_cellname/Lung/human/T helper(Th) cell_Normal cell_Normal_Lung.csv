@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,EGFR,EGFR
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,H3K18ac,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,STAT6,STAT6
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,V1N1,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,TP63,TP63
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T helper(Th) cell,,H3K9me3,

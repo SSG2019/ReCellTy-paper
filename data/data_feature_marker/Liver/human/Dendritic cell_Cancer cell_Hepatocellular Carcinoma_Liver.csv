@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CLEC4C,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CLIC2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1E,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CLEC7A,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,WFDC21P,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Dendritic cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,CD133,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD24,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell
+Progenitor cell,,Pax2,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell
+Progenitor cell,,Notch1,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell
+Progenitor cell,,B1B2,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PROM1,Human,Kidney,Kidney,Normal,Normal cell,Progenitor cell

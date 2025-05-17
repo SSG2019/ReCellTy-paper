@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD137,TNFRSF9
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,IL3RA,IL3RA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,IRF7,IRF7
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CD74,CD74
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,CCL20,CCL20
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,LAMP3,LAMP3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209a,

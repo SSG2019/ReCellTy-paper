@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T Cell,Memory,CD45RO,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell
+T Cell,CD8+,CD8a,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell
+T Cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell

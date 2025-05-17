@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,TRAC,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Ovary,Ovary,Normal,Normal cell,T cell

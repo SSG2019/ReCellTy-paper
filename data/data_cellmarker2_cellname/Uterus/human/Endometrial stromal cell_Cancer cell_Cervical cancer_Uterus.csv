@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endometrial stromal cell,,RGS5,RGS5
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endometrial stromal cell,,PLN,PLN
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endometrial stromal cell,,SUSD2,SUSD2

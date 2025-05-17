@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Prostate cell,,P501S,
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Prostate cell,,AR,AR
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Prostate cell,,NKX3.1,NKX3-1
+Human,Bladder,Bladder,UBERON_0001255,Undefined,Cancer cell,Prostate cell,,ERG,ERG

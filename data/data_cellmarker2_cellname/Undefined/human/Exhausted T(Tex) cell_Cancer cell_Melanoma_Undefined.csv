@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PDCD1,PDCD1
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,HAVCR2,HAVCR2
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,LAG3,LAG3
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TIGIT,TIGIT

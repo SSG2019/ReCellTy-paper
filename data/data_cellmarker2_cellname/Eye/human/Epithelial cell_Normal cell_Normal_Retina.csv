@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Epithelial cell,CL_0000066,BEST-1,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Epithelial cell,CL_0000066,MITF,MITF
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Epithelial cell,CL_0000066,RPE65,RPE65
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Epithelial cell,CL_0000066,TYR,TYR

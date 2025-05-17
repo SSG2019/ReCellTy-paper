@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0002139,ITGA2,ITGA2
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0000115,ITGA3,ITGA3
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0000115,ITGA2,ITGA2
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0000115,ITGA4,ITGA4
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0002139,ITGA3,ITGA3
+Human,Liver,Fetal liver,,Normal,Normal cell,Vascular endothelial cell,CL_0002139,ITGA4,ITGA4

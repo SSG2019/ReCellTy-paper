@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Serum,UBERON_0001977,Normal,Normal cell,Sertoli cell,CL_0000216,Transferrin,

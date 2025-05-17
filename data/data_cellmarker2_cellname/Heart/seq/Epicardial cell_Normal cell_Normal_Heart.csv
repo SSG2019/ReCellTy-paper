@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,PDGFRB,PDGFRB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,COL1A1,COL1A1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,WT1,WT1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Epicardial cell,CL_1000309,TBX18,TBX18

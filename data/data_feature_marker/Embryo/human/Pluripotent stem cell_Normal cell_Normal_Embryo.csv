@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pluripotent stem cell,Pluripotency,OCT4,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,POU5F1,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,TRA-1-60,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Surface Antigen,SSEA-4,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Surface Antigen,SSEA-3,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Surface Antigen,SSEA-1,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Enzymatic Activity,Alkaline phosphatase,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Glycosylation,FUT4,Human,Embryo,Embryo,Normal,Normal cell,Pluripotent stem cell

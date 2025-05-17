@@ -1,0 +1,44 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT7,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Epithelial cell,,AGR2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Epithelial cell,,KRT18,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Epithelial cell,,GDA,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Epithelial cell,,GATA3,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ERBB2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell
+T cell,Exhausted,LAG-3,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIM-3,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PD-1,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,LAG-3,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,TIM-3,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,PD-1,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,PDCD1,Human,Uterine cervix,Uterine cervix,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell
+Mesenchymal cell,,VIM,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell
+Squamous epithelial cell,,CTSA,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Squamous epithelial cell
+Squamous epithelial cell,,KRT5,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Squamous epithelial cell
+T cell,helper,PD-L1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,helper,CXCL12,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,helper,CXCR4,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+macrophage,Tumor‐associated,C1QC,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+macrophage,Tumor‐associated,SPP1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Columnar epithelial cell,,KRT7,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Columnar epithelial cell,,AGR2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Columnar epithelial cell,,KRT18,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Columnar epithelial cell,,GDA,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Columnar epithelial cell
+Squamous epithelial cell,,CTSA,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Squamous epithelial cell
+Squamous epithelial cell,,KRT5,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Squamous epithelial cell
+T cell,Th2,PD-L1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CXCL12,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CD31,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,AKT,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,ERK,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CXCR4,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,CD274,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,PECAM1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,AKT1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+T cell,Th2,EPHB2,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,T helper 2(Th2) cell
+Macrophage,Tumor-associated,C1QC,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,SPP1,Human,Uterine cervix,Uterine cervix,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM)

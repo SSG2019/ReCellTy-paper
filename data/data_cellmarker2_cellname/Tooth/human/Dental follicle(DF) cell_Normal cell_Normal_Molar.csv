@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Dental follicle(DF) cell,,Spon1,
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Dental follicle(DF) cell,,Mkx,
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Dental follicle(DF) cell,,Acta2,

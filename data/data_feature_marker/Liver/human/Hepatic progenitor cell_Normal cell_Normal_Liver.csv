@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatic progenitor cell,Hepatic,SOX9,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Hepatic,KRT19,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,TACSD2,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,EPCAM,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,CD24,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,JAG1,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,TROP2,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell
+Hepatic progenitor cell,Progenitor,TACSTD2,Human,Liver,Liver,Normal,Normal cell,Hepatic progenitor cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Germinal center B cell,CL_0000844,AID,AICDA
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,Germinal center B cell,CL_0000844,BCL-6,

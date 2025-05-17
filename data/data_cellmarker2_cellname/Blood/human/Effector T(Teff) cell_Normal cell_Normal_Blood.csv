@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,CD57,B3GAT1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,GZMK,GZMK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,PRDM1,PRDM1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,IL12R,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,TBX21,TBX21
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,CXCR3,CXCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,RORC,RORC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,RUNX3,RUNX3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,STAT4,STAT4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector T(Teff) cell,CL_0000911,IL23R,IL23R

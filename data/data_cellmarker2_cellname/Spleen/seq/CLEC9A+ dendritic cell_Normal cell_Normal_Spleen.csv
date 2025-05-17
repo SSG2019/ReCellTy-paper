@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,CLEC9A+ dendritic cell,,LYZ,LYZ
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,CLEC9A+ dendritic cell,,CLEC9Q,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,CLEC9A+ dendritic cell,,THBD,THBD
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,CLEC9A+ dendritic cell,,CD74,CD74
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,CLEC9A+ dendritic cell,,CST3,CST3

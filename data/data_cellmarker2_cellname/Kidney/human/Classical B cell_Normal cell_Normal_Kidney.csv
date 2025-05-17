@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Classical B cell,,CD24,CD24
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Classical B cell,,CD23,FCER2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Classical B cell,,CD38,CD38

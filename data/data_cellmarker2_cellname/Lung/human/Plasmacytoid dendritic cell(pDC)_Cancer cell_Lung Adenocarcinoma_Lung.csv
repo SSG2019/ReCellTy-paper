@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL3RA,IL3RA
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,JCHAIN,JCHAIN

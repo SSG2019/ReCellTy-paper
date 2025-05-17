@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD45,PTPRC
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,SPINK2,SPINK2
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD34,CD34
+Human,Liver,Fetal liver,,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,GMFG,GMFG

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD105,
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1

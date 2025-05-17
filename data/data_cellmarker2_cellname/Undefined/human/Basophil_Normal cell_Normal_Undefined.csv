@@ -1,0 +1,36 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD19,CD19
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD22,CD22
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD44,CD44
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD69,CD69
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CEBPA,CEBPA
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CCR3,CCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,GATA2,GATA2
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,TLR4,TLR4
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD13,ANPEP
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD88,C5AR1
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD154,CD40LG
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD16,FCGR3A
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD54,ICAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,IgE,IGHE
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD25,IL2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD123,IL3RA
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD125,IL5RA
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD107a,LAMP1
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD203c,ENPP3
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD43,SPN
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD281,TLR1
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD282,TLR2
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD284,TLR4
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD286,TLR6
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD294,PTGDR2
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD289,TLR9
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD192,CCR2
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,Fc-epsilon RI-alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD11a,
+Human,Undefined,Undefined,,Normal,Normal cell,Basophil,CL_0000767,CD218,

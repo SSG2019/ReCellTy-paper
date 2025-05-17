@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic stem cell,,CD45,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,SPINK2,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD34,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,GMFG,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PTPRC,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic stem cell

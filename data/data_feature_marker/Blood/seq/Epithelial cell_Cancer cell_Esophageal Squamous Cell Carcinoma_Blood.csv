@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT7,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT17,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Blood,Blood,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell

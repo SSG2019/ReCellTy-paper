@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Forebrain cell,,FOXG1+,Human,Eye,Retina,Normal,Normal cell,Forebrain cell
+Forebrain cell,,SOX1,Human,Eye,Retina,Normal,Normal cell,Forebrain cell

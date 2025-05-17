@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Platelet,,CD41,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,PPBP,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,GATA2,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,CD62P,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,PS,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,CD63,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,CD274,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,GP9,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,ITGA2B,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet
+Platelet,,SELP,Human,Blood,Peripheral blood,Normal,Normal cell,Platelet

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inner radial glial cell,,TOP2A,TOP2A
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inner radial glial cell,,NUSAP1,NUSAP1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inner radial glial cell,,CENPU,CENPU
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inner radial glial cell,,KIAA0101,PCLAF

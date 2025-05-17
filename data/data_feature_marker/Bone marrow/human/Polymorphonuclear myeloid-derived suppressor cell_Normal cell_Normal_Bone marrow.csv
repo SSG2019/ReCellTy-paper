@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid-derived suppressor cell,Polymorphonuclear,CD15,Human,Bone marrow,Bone marrow,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,Polymorphonuclear,FUT4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,Suppressor,CD33,Human,Bone marrow,Bone marrow,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,Suppressor,CD11b,Human,Bone marrow,Bone marrow,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor cell

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,CORO1B,CORO1B
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,ICA1,ICA1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,ARID5B,ARID5B
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,FANK1,FANK1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,RTKN2,RTKN2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,IL2RA,IL2RA
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,FOXP3,FOXP3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,CTLA4,CTLA4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Regulatory T (Treg) cell,,GBP2,GBP2

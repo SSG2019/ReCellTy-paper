@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Cortical thymus,UBERON_0002123,Normal,Normal cell,Epithelial cell,CL_0000066,PBSM11,
+Human,Thymus,Cortical thymus,UBERON_0002123,Normal,Normal cell,Epithelial cell,CL_0000066,LY75,LY75
+Human,Thymus,Cortical thymus,UBERON_0002123,Normal,Normal cell,Epithelial cell,CL_0000066,CD205,LY75

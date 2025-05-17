@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway,Airway,,Normal,Normal cell,Naive CD8+ T cell,,CD127,IL7R
+Human,Airway,Airway,,Normal,Normal cell,Naive CD8+ T cell,,CD45RA,
+Human,Airway,Airway,,Normal,Normal cell,Naive CD8+ T cell,,CD27,CD27
+Human,Airway,Airway,,Normal,Normal cell,Naive CD8+ T cell,,CCR7,CCR7
+Human,Airway,Airway,,Normal,Normal cell,Naive CD8+ T cell,,CD8,CD8A

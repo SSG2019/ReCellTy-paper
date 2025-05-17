@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+monocyte,Non-classical,CX3CR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Non-classical monocyte
+monocyte,Non-classical,CD16,Human,Bone marrow,Bone marrow,Normal,Normal cell,Non-classical monocyte
+monocyte,Non-classical,SLAN,Human,Bone marrow,Bone marrow,Normal,Normal cell,Non-classical monocyte
+monocyte,,FCGR3A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Non-classical monocyte
+monocyte,,SECISBP2L,Human,Bone marrow,Bone marrow,Normal,Normal cell,Non-classical monocyte

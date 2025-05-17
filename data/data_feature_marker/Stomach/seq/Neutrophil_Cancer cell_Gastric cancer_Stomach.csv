@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,BASP1,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil
+Neutrophil,,CSF3R,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil
+Neutrophil,,FPR1,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil
+Neutrophil,,TNFRSF1A,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil
+Neutrophil,,NAMPT,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil
+Neutrophil,,CFLAR,Human,Stomach,Stomach,Gastric cancer,Cancer cell,Neutrophil

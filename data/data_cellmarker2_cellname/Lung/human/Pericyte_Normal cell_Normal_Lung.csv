@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,Pdgfrb,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,Cspg4,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,Mcam,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,COX4I2,COX4I2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Pericyte,CL_0000669,Votch3,

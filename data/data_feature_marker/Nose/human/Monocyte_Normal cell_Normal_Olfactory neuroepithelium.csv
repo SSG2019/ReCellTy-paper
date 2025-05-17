@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,CLEC10A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Smooth muscle cell,,TAGLN,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Artery,Coronary artery,Normal,Normal cell,Smooth muscle cell

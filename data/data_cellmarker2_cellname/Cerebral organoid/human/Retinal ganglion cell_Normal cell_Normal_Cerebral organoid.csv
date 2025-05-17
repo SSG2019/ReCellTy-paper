@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NEFM,NEFM
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,PCP4,PCP4
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Retinal ganglion cell,CL_0000740,NEFL,NEFL

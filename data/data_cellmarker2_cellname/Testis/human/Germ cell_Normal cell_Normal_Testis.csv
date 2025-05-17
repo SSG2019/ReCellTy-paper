@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,FGFR3,FGFR3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,UTF1,UTF1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,YBX2,YBX2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,YBX1,YBX1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,DDX4,DDX4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,TEX101,TEX101
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,ACTL7B,ACTL7B
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,SYCP3,SYCP3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,TNP1,TNP1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,HILS1,H1-9P
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,ACRV1,ACRV1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,FGFR3,FGFR3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,PRM2,PRM2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,PRM1,PRM1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Germ cell,CL_0000586,DMRT1,DMRT1

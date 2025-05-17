@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD1a,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD40,CD40
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,MHC class II,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DR,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,PDL2,PDCD1LG2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD45,PTPRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,IRF7,IRF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,IRF8,IRF8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell,CL_0000451,PLAC8,PLAC8

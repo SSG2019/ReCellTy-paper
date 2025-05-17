@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Resting memory B cell,,CD19,CD19
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Resting memory B cell,,CD21,CR2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Resting memory B cell,,CD27,CD27

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Activated,ILT2,Human,Blood,Blood,Normal,Normal cell,Activated natural killer cell
+Natural killer cell,Activated,NKG2C,Human,Blood,Blood,Normal,Normal cell,Activated natural killer cell
+Natural killer cell,Activated,CD57,Human,Blood,Blood,Normal,Normal cell,Activated natural killer cell
+Natural killer cell,Activated,KLRC2,Human,Blood,Blood,Normal,Normal cell,Activated natural killer cell

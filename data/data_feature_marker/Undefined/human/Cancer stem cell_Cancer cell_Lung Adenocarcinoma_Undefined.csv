@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,stem,ALDH,Human,Undefined,Undefined,Lung Adenocarcinoma,Cancer cell,Cancer stem cell
+cancer cell,Cancer,CD44v,Human,Undefined,Undefined,Lung Adenocarcinoma,Cancer cell,Cancer stem cell

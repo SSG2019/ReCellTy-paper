@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,HCST,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell

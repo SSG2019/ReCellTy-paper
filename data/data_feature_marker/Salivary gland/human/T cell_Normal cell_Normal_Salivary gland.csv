@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD5,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,,CD3,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell

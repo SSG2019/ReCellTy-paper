@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,PDGFRB,PDGFRB
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,RGS5,RGS5
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,FBN1,FBN1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,ACTA2,ACTA2

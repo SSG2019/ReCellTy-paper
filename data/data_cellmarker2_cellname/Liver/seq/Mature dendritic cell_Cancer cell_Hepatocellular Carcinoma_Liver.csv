@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,CD83,CD83
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,CCL21,CCL21
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,CCL19,CCL19
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,CCR7,CCR7
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,LAMP3,LAMP3
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mature dendritic cell,CL_0000841,CD80,CD80

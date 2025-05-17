@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Photoreceptor cell,,Rhodopsin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,Recoverin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,CRX,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,Peripherin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,RPE65,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,OTX2,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell

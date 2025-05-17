@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,WWP2,WWP2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,CRISPLD1,CRISPLD1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,RNU6-2,RNU6-2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,RMRP,RMRP
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,PLCG2,PLCG2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,COL10A1,COL10A1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,S100A1,S100A1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,IBSP,IBSP
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,BHLHE41,BHLHE41
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,VTRNA1-1,VTRNA1-1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,MEF2C,MEF2C
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Hypertrophic chondrocyte,CL_0000743,SCIN,SCIN

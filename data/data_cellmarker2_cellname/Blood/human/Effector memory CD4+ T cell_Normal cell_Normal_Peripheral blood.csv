@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,GPR183,GPR183
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,GZMA,GZMA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory CD4+ T cell,CL_0000905,CD45RO,

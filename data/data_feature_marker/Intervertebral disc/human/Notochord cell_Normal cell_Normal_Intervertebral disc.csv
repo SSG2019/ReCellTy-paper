@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Notochord cell,,KRT8,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,SALL3,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell
+Notochord cell,,TBXT,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Notochord cell

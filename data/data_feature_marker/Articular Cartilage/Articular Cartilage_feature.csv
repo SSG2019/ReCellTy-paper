@@ -1,0 +1,253 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cartilage cell,Progenitor,BIRC5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Cartilage Progenitor cell
+Cartilage cell,Progenitor,STMN1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Cartilage Progenitor cell
+Cartilage cell,Progenitor,DHFR,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Cartilage Progenitor cell
+Cartilage cell,Progenitor,CENPU,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Cartilage Progenitor cell
+Cartilage cell,Progenitor,UNE2C,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Cartilage Progenitor cell
+chondrocyte,Effector,KIF9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,CHRDL2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,TF,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+chondrocyte,Effector,RARRES2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Effector chondrocyte
+Fibroblast,Collagen production,COL5A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen production,COL3A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen production,COL1A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Fibroblast,Activation and motility,S100A4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibroblast
+Chondrocyte,Fibrocartilage,MTRNR2L1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL4A2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IFI16,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL14A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,FBN1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SPARCL1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MTRNR2L2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SPRY1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ANGPTL1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,LAMA4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,EBF1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ESD,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,RAB13,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,FKBP1A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SCP2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,BLOC1S1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,DPYSL2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,THY1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TMSB4X,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ID3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PSME1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IFI27,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SRPX,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,GNG11,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,HES1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TRAPPC1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,C1orf54,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,WBP5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5I,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MTRNR2L9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SULF1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CLEC11A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,WISP2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TPM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,HCFC1R1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ID1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SLIT3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ADAMTS2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PDGFRA,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,AHNAK,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,RSU1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL18A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,S100A4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL5A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CDH13,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CXCL12,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CERCAM,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TGFBI,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,LRRC15,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IFI6,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MTRNR2L8,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,OLFML2B,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,NDUFS8,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PLTP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,LGALS3BP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PDGFRB,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PPIC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5H,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PDLIM2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,GPNMB,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PTN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TCF4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL6A3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TCEAL8,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,DKK3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,EPHX1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ANPEP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,NOTCH3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MMP2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MXRA8,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SERPINF1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ISCU,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,LY6E,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CYB5A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CRABP2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,DPT,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,LEPROT,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,APOBEC3C,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,UACA,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,GSTK1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TMEM119,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ECM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TMEM50A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,DRAP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL1A2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,AHR,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,C9orf16,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,RAB31,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PLEC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MGST3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PRRX1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5G2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,OLFML3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PHPT1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,HIGD2A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SFXN3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PDGFRL,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ZFP36L1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL4A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,AQP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATOX1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,VAMP5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MARCKS,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IFITM2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PRKCDBP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,COL1A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IGFBP7,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SERPINH1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ZFP36L2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CADM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SEPW1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,POSTN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,EHD2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IGFBP6,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,IGFBP5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,PRSS23,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,MYL9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,TCEAL9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5ME,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CCN5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5PD,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,BBLN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,ATP5MC2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,CAVIN3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,Fibrocartilage,SELENOW,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Hematopoietic cell,,CD133,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD34,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PROM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Chondrocyte,Homeostatic,IER2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,NR4A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,DDIT3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,ZFP36,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,KLF2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,SGK1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Hypertrophic,COL10A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,WWP2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,CRISPLD1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,RNU6-2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,RMRP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,PLCG2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,S100A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,IBSP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,BHLHE41,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,VTRNA1-1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,MEF2C,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Chondrocyte,,SCIN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hypertrophic chondrocyte
+Mesenchymal stem cell,,CD106,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD146,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGA11,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,MCAM,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Mesenchymal stem cell
+Chondrocyte,Prehypertrophic,TGFBI,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,TNFAIP6,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,THBS3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,PTGES,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,PPIC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SRPX2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,CRLF1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,CRTAC1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,ASPN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,TNC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,COL5A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SOX11,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,FAP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,TPPP3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,ADAMTS5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,MXRA5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,CRIP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,F5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,OSTC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,AMTN,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,GALNT15,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SEMA3C,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,ABI3BP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,SLC7A2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,COL15A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,PART1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,STEAP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,DPT,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,NT5E,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,AKR1C2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,COL3A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,S100A4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,CAPS,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Prehypertrophic,AOC2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Prehypertrophic chondrocyte
+Chondrocyte,Proliferative,NOTCH2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,Proliferative,BMP6,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,Proliferative,NGF,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,Proliferative,TGFB1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,JHDM1D-AS1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,GOT1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,EIF4EBP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,ERCC1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,KIAA0020,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,GLIS3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,ATP13A3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,CDV3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,LRRC8C,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,ASNS,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,ACTN1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,PTRF,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,B3GNT5,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,NOP16,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,GPATCH4,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,C3orf52,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,SLC7A1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,METRNL,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,RPF2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,INHBA-AS1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,ST3GAL1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,PDCD11,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,UPP1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,FAM101B,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,SMOX,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,RYBP,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,SLC4A7,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,P3H2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,MTHFD2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,DDX21,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,TXNRD1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,SNX9,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,KDM7A-DT,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,PUM3,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,CAVIN1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,,RFLNB,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Proliferative chondrocyte
+Chondrocyte,Regulatory,HMOX1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,TMEM176A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,CKS2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,TUBB4B,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Stem cell,,CD73,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,CD29,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,CD44,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell
+Stem cell,,ITGB1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Stem cell

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,NANOG,NANOG
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,SOX2,SOX2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,NODAL,NODAL
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,POU5F1,POU5F1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,PRDM14,PRDM14
+Human,Embryo,Embryo,UBERON_0001844,Normal,Normal cell,Epiblast cell,CL_0000352,KLF17,KLF17
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,FGF4,FGF4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,NANOG,NANOG
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Epiblast cell,CL_0000352,SOX2,SOX2

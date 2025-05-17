@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Effector T(Teff) cell,CL_0000911,FGFBP2,FGFBP2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Effector T(Teff) cell,CL_0000911,CX3CR1,CX3CR1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Effector T(Teff) cell,CL_0000911,FCGR3A,FCGR3A
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Effector T(Teff) cell,CL_0000911,KLRF1,KLRF1

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,HAPLN1,Human,Embryo,Muscle,Normal,Normal cell,Progenitor cell
+Progenitor cell,,S100A11,Human,Embryo,Muscle,Normal,Normal cell,Progenitor cell

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Capillary cell,,RGCC,RGCC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Capillary cell,,SPARC,SPARC
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Capillary cell,,SGK1,SGK1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Capillary cell,,CA4,CA4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Capillary cell,,PRX,PRX

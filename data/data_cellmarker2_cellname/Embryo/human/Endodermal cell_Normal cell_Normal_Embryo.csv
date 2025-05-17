@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endodermal cell,CL_0000223,PAF1,PAF1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endodermal cell,CL_0000223,SOX17,SOX17
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endodermal cell,CL_0000223,FOXA2,FOXA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endodermal cell,CL_0000223,SOX17,SOX17

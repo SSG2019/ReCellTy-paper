@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,BRAF,BRAF
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,KRAS,KRAS
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,TP53,TP53
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,NF2,NF2
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,TERT,TERT
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,IDH1,IDH1
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,PIK3R1,PIK3R1
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,PRCH1,
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,EGFR,EGFR
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,NRAS,NRAS
+Human,Brain,Brain,UBERON_0000955,Central nervous system cancer,Cancer cell,Cancer cell,CL_0001064,PTEN,PTEN

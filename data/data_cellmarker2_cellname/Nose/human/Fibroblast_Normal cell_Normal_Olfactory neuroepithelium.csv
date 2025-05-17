@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Fibroblast,CL_0000057,CLEC11A,CLEC11A

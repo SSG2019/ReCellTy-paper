@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Maintenance and differentiation,NOTCH1,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT3/4,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Adhesion and migration,CD44,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SSEA-4,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Stem cell properties,CD133,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,THY1,Human,Eye,Eye,Normal,Normal cell,Stem cell

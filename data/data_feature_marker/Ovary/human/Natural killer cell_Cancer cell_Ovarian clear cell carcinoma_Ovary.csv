@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CXCR1,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CR2,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CCR4,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell

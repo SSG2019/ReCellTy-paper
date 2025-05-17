@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,CD300E,CD300E
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,FCER1G,FCER1G
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,TSPO,TSPO
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,CD163,CD163
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,SERPINA1,SERPINA1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,FCN1,FCN1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,IL1B,IL1B
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,F13A1,F13A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,ZEB2,ZEB2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,S100A9,S100A9
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,VCAN,VCAN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,ANXA2,ANXA2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,LGALS3,LGALS3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,LYZ,LYZ
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2b(cDC2b),,CCR2,CCR2

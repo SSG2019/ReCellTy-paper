@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,IGKC,IGKC
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,CR2,CR2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,CD22,CD22
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,BANK1,BANK1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,FCRL2,FCRL2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,B cell,CL_0000236,PAX5,PAX5

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,CD3,
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,CCR8,CCR8
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,TNFRSF4,TNFRSF4
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,ICOS,ICOS
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,TNFRSF9,TNFRSF9
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,CTLA4,CTLA4
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,MAGEH1,MAGEH1
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,LAYN,
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,TNFRSF18,TNFRSF18
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,IL2RA,IL2RA
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,CD177,CD177
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,T cell,CL_0000084,FOXP3,FOXP3

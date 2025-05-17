@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Deep layer,SOX5,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,Deep layer,BCL11B,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,Deep layer,FEZF2,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,,CRYM,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,,TBR1,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,,CTIP2,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron
+Neuron,,FOXP2,Human,Brain,Cortex,Normal,Normal cell,Deep layer neuron

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M1,CD80,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M1 macrophage
+macrophage,M1,IL-12,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M1 macrophage

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,cDC2,CD1C,Human,Liver,Liver,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,FCER1A,Human,Liver,Liver,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Antigen presentation,HLA-DQB1,Human,Liver,Liver,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Antigen presentation,HLA-DQA1,Human,Liver,Liver,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

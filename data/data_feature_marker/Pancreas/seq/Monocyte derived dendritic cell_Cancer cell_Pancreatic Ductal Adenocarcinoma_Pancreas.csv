@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Monocyte derived,HLA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1E,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CD1C,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,CLEC10A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell
+Dendritic cell,Monocyte derived,FCER1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte derived dendritic cell

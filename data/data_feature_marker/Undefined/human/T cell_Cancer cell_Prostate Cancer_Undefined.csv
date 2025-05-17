@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD69,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,T cell
+T cell,,CD25,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,T cell
+T cell,,IL2RA,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,T cell

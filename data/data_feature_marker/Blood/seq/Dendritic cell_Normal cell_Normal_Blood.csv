@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen Presentation,FCER1A,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Response Modulation,CLEC10A,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Processing,CST3,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Classical,CD1C,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antimicrobial Activity,LYZ,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,CD123,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLADR,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DPA1,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DQA1,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,FLT3,Human,Blood,Blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Blood,Blood,Normal,Normal cell,Dendritic cell

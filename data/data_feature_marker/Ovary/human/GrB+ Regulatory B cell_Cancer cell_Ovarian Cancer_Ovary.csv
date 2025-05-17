@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Regulatory,CD1d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD38,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,GrB+,CD147,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,GrB+,BSG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,IgM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell

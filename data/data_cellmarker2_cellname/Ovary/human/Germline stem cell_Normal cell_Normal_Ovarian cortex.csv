@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian cortex,UBERON_0013191,Normal,Normal cell,Germline stem cell,CL_0000034,DDX4,DDX4
+Human,Ovary,Ovarian cortex,UBERON_0013191,Normal,Normal cell,Germline stem cell,CL_0000034,IFITM3,IFITM3

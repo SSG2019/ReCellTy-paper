@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,SYT1,SYT1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,GAD1,GAD1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,SYN1,SYN1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,CCK,CCK
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,SST,SST
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,CUX2,CUX2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,LINGO2,LINGO2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,SLC17A7,SLC17A7
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Neuron,CL_0000540,TUJ,

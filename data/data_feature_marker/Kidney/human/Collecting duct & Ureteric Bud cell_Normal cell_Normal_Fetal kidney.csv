@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Collecting duct,,CAPS,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,PHLDA2,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,CALB1,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,KRT18,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,ADH1C,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,KRT8,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,GATA2,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,Collecting duct,AQP2,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Collecting duct,,ELF5,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell
+Ureteric Bud,Ureteric Bud,RET,Human,Kidney,Fetal kidney,Normal,Normal cell,Collecting duct & Ureteric Bud cell

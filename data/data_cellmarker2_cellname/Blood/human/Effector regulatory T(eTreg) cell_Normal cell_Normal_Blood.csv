@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,GNLY,GNLY
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,CD8+,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,PRF1,PRF1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,GZMH,GZMH
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,GZMA,GZMA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,ddhCTP,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,VSNA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,SNA,SNAI1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Pdc1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Lgals3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Lag3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Vim,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Tox,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Id3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Vβ,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector regulatory T(eTreg) cell,,Jβ,

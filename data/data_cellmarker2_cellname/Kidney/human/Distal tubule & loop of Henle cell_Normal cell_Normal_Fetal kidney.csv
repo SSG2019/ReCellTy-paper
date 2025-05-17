@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Distal tubule & loop of Henle cell,,MAL,MAL
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Distal tubule & loop of Henle cell,,HOXD8,HOXD8
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Distal tubule & loop of Henle cell,,TFCP2L1,TFCP2L1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Distal tubule & loop of Henle cell,,SLC12A1,SLC12A1

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD96,CD96
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD33,CD33
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD157,BST1
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CLL1,COLEC10
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD7,CD7
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD47,CD47
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,CD244,CD244
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,TIM3,HAVCR2
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,TIM-3,
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,ADGRG1,ADGRG1
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell,,GPR56,ADGRG1

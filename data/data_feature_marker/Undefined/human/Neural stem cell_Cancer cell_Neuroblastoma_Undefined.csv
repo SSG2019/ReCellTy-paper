@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural stem cell,stem,CD49f,Human,Undefined,Undefined,Neuroblastoma,Cancer cell,Neural stem cell
+Neural stem cell,stem,ITGA6,Human,Undefined,Undefined,Neuroblastoma,Cancer cell,Neural stem cell
+Neural stem cell,,CD200,Human,Undefined,Undefined,Neuroblastoma,Cancer cell,Neural stem cell

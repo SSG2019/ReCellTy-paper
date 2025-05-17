@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,ATCA2,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,DES,DES
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,PTCH1,PTCH1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,MYH11,MYH11
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,ACTA2,ACTA2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myoid cell,,MYL9,MYL9

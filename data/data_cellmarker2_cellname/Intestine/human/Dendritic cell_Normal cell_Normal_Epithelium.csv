@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,PTCRA,PTCRA
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,LILRA4,LILRA4
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,IL3RA,IL3RA
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,CD207,CD207
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,BATF3,BATF3
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Dendritic cell,CL_0000451,TOP2A,TOP2A

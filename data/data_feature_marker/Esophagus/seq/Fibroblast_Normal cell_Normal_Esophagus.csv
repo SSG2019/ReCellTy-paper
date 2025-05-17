@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,CTGF,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINE1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,TAGLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,PLN,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,COL3A1,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast
+Fibroblast,,CCN2,Human,Esophagus,Esophagus,Normal,Normal cell,Fibroblast

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,REG4,REG4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,CDH1718,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,MUC13,MUC13
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,CDH17,CDH17
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,CEACAM5,CEACAM5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,MUC1318,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,CEACAM,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal gastric cancer cell,,KRT8,KRT8

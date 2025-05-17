@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Cycling B cell,,HMGB2,HMGB2
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Cycling B cell,,STMN1,STMN1
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Cycling B cell,,MKI67,MKI67

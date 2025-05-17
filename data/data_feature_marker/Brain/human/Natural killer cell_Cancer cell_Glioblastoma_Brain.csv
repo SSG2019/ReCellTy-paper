@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,ADCC,CD16,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,ADCC,FCGR3A,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Activation,NKp30,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Activation,NCR3,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Identification,CD56,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell
+Natural killer cell,Identification,NCAM1,Human,Brain,Brain,Glioblastoma,Cancer cell,Natural killer cell

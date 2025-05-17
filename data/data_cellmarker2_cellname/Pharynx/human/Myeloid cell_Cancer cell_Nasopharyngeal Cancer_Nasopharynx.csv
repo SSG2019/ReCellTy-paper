@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,MS4A6A,MS4A6A
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD1E,CD1E
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,IL3RA,IL3RA
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,LAMP3,LAMP3

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,TFAP2C,Human,Embryo,Embryoid body,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PDPN,Human,Embryo,Embryoid body,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DMD,Human,Embryo,Embryoid body,Normal,Normal cell,Epithelial cell

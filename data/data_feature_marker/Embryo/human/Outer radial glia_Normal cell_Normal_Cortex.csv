@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glia,Outer radial,Moxd1,Human,Embryo,Cortex,Normal,Normal cell,Outer radial glia
+Glia,Outer radial,Fam107a,Human,Embryo,Cortex,Normal,Normal cell,Outer radial glia
+Glia,Outer radial,Mt3,Human,Embryo,Cortex,Normal,Normal cell,Outer radial glia
+Glia,Outer radial,Hopx,Human,Embryo,Cortex,Normal,Normal cell,Outer radial glia

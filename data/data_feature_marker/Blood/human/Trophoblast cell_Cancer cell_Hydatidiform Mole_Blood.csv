@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Trophoblast cell,,HLA-G,Human,Blood,Blood,Hydatidiform Mole,Cancer cell,Trophoblast cell
+Trophoblast cell,,KRT7,Human,Blood,Blood,Hydatidiform Mole,Cancer cell,Trophoblast cell
+Trophoblast cell,,CDX2,Human,Blood,Blood,Hydatidiform Mole,Cancer cell,Trophoblast cell

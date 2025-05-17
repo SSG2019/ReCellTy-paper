@@ -1,0 +1,28 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,MAP2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,ENO2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,NEUROD6,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,RBFOX3,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,SNAP25,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,STMN2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,,SYT1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Inhibitory,GAD1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Inhibitory,GAD2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Inhibitory,SLC32A1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Excitatory,SLC17A6,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Excitatory,SLC17A7,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Astrocyte,GFAP,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Astrocyte,SLC1A3,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Astrocyte,AQP4,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Oligodendrocyte,MOG,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Oligodendrocyte,OLIG1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Oligodendrocyte,OLIG2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Oligodendrocyte,MBP,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Microglia,CX3CR1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Microglia,TYROBP,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Neurogenesis,SOX2,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Neurogenesis,DCX,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Neurogenesis,VIM,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Synaptic Function,GRIN1,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Synaptic Function,GRIN2B,Human,Brain,Brain,Normal,Normal cell,Neuron
+Neuron,Synaptic Function,RELN,Human,Brain,Brain,Normal,Normal cell,Neuron

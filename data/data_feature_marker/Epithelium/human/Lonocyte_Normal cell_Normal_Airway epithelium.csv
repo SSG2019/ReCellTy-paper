@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lonocyte,,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,RARRES2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte

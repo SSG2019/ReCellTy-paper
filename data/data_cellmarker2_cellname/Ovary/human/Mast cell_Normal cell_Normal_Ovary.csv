@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mast cell,CL_0000097,CMA1,CMA1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mast cell,CL_0000097,MS4A2,MS4A2

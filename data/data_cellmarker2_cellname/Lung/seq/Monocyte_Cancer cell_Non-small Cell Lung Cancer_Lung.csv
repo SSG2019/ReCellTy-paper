@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Monocyte,CL_0000576,CD14,CD14

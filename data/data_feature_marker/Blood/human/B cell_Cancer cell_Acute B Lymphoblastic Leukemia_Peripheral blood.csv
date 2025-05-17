@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD43,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,B220,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,BP1,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,CD19,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,IgM,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,SPN,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,PTPRC,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell
+B cell,,DLX4,Human,Blood,Peripheral blood,Acute B Lymphoblastic Leukemia,Cancer cell,B cell

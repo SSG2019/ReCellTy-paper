@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Osteoclast,function,TRAP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,CTR,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,CTSK,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,CD56,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,RUNX2,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,differentiation,RANK,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,SOFAT,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,ACP5,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,fusion,DCSTAMP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,differentiation,TNFRSF11A,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,MMP9,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,fusion,OCSTAMP,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,function,SIGLEC15,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,NCAM1,Human,Bone,Bone,Normal,Normal cell,Osteoclast
+Osteoclast,,THNSL2,Human,Bone,Bone,Normal,Normal cell,Osteoclast

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tumor-infiltrating,CCRL2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell
+T cell,Regulatory,CD83,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell
+T cell,Regulatory,TNFRSF9,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell
+T cell,Regulatory,TIGIT,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell
+T cell,Regulatory,CCR8,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell
+T cell,Regulatory,ICOS,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell

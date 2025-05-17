@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,HES5,HES5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,NESTIN,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,MAPT,MAPT
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,Sparc,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,Tmem119,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,Cx3cr1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural stem cell,CL_0000047,P2ry12,

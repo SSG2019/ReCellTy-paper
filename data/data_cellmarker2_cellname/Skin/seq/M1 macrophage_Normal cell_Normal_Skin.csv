@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,CXCL10,CXCL10
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,IFI27,IFI27
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,CXCL9,CXCL9
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,CD169,SIGLEC1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,FOS,FOS
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,S100A8,S100A8
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,M1 macrophage,CL_0000863,IL1B,IL1B

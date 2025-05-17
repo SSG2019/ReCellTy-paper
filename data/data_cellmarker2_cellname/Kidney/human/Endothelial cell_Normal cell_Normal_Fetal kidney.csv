@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,SLC14A1,SLC14A1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,SEMA3G,SEMA3G
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,PLVAP,PLVAP
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,AQP1,AQP1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,RAMP2,RAMP2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,TEK,TEK
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,ICAM2,ICAM2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,EGFL7,EGFL7
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Endothelial cell,CL_0000115,ECSCR,ECSCR

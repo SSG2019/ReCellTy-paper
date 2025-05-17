@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Subplate,,Normal,Normal cell,Subplate cell,,CRYM,CRYM
+Human,Embryo,Subplate,,Normal,Normal cell,Subplate cell,,HS3ST4,HS3ST4
+Human,Embryo,Subplate,,Normal,Normal cell,Subplate cell,,WNT7B,WNT7B

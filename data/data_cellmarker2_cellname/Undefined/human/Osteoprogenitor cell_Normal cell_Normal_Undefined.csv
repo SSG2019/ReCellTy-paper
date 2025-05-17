@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Osteoprogenitor cell,CL_0007010,Runx2,
+Human,Undefined,Undefined,,Normal,Normal cell,Osteoprogenitor cell,CL_0007010,BMP-6,

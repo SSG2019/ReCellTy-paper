@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM),,C1QC,C1QC
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Cervical cancer,Cancer cell,Tumor‐associated macrophage (TAM),,SPP1,SPP1

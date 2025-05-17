@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD161,KLRB1

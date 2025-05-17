@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,Ifitm1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Migratory,Ccr7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen recognition,Cd209a,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,FCER1A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cell adhesion,CLEC10A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,CD1C,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell

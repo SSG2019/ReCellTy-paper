@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endocrine cell,CL_0000163,GHRL,GHRL
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Endocrine cell,CL_0000163,CHGA,CHGA

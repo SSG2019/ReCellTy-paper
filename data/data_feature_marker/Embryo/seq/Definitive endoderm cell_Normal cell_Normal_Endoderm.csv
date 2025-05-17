@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endoderm cell,Definitive,SOX17,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,CXCR4,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,LEFTY1,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,EOMES,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,GATA6,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,CER1,Human,Embryo,Endoderm,Normal,Normal cell,Definitive endoderm cell

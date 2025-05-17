@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Dendritic cell,CL_0000451,MHCII,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Dendritic cell,CL_0000451,CD11c,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Dendritic cell,CL_0000451,CD45,PTPRC

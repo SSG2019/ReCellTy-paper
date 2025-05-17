@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Fibroblast,CL_0000057,COL11A1,COL11A1
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Fibroblast,CL_0000057,COL11A2,COL11A2

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,HLA-DQB1,HLA-DQB1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,ITGAX,ITGAX
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,HLA-DPB1,HLA-DPB1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,HLA-DPA1,HLA-DPA1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Dendritic cell,CL_0000451,NRP1,NRP1

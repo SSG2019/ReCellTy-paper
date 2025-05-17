@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Naive B cell,CL_0000788,CD37,CD37
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Naive B cell,CL_0000788,CD74,CD74
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Naive B cell,CL_0000788,CD79A,CD79A
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Naive B cell,CL_0000788,IGHD,IGHD

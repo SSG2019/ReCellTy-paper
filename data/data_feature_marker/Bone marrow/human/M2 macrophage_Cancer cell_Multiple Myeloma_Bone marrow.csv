@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,CD206,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Bone marrow,Bone marrow,Multiple Myeloma,Cancer cell,M2 macrophage

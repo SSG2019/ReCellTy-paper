@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Regulatory,ANXA1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,EIF5A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,TUBA1A,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,PGK1,Human,Bone,Cartilage,Normal,Normal cell,Regulatory chondrocyte

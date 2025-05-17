@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Circulating,CD44v6,Human,Blood,Peripheral blood,Oral Squamous Cell Carcinoma,Cancer cell,Circulating stem like cell
+stem cell,like,NANOG,Human,Blood,Peripheral blood,Oral Squamous Cell Carcinoma,Cancer cell,Circulating stem like cell

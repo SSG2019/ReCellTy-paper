@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endothelial cell,CL_0000115,EMCN,EMCN
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endothelial cell,CL_0000115,EGFL7,EGFL7
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Endothelial cell,CL_0000115,VMF,

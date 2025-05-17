@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,2A,CLEC4A,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,2A,CD1c,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,2A,CLEC10A,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,2A,FCER1A,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,,AREG,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,,LTB,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A
+Dendritic cell,,CD3E,Human,Undefined,Undefined,Normal,Normal cell,Dendritic cell 2A

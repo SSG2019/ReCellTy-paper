@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD97,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,TRAT1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD45,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD53,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD69,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,SKAP1,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,CD2,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell
+T cell,,ADGRE5,Human,Heart,Cardiac atrium,Normal,Normal cell,T cell

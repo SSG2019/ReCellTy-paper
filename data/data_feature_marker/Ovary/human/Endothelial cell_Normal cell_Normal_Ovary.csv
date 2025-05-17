@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD31,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD24,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN4,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KRT18,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,DSP,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EpCAM,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KRT19,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,OCLN,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Progenitor,CD34,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Tight Junction,CLDN5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NNMT,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TXNIP,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL14,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RGS5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SOCS3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,ANGPT2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CTGF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TM4SF1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,EGFL7,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TFF3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Blood Coagulation,VWF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell Adhesion,CCN2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell

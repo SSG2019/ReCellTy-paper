@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,Nestin,
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,NES,NES
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,EMX2,EMX2
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,NOTCH1,NOTCH1
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Ependymoma,Cancer cell,Cancer stem cell,,HES1,HES1

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,TPSAB1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,TPSB2,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,MS4A2,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,CPA33,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,CLU,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,GATA2,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mast cell

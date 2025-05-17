@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Secretory,SCGB2A2,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Antimicrobial/Barrier,DCD,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Structural,KRT19,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Secretory,PIP,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Mucin production,MUCL1,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell

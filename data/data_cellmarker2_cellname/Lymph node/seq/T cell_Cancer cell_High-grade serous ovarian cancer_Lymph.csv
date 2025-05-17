@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph,UBERON_0002391,High-grade serous ovarian cancer,Cancer cell,T cell,CL_0000084,ITGAE,ITGAE
+Human,Lymph node,Lymph,UBERON_0002391,High-grade serous ovarian cancer,Cancer cell,T cell,CL_0000084,ENTPD1,ENTPD1
+Human,Lymph node,Lymph,UBERON_0002391,High-grade serous ovarian cancer,Cancer cell,T cell,CL_0000084,PDCD1,PDCD1

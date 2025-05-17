@@ -1,0 +1,341 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,B cell
+B cell,,CD20,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,B cell
+B cell,,CD19,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Bladder,Bladder,Normal,Normal cell,B cell
+B cell,specific_feature_or_function,MZB1,Human,Bladder,Bladder,Normal,Normal cell,B cell
+Basal cell,,KRT14,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT16,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT6C,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,CDH3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT6B,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,CD44,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT6,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT15,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,TFAP2C,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,STAT3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT6A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT72,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Basal cell
+Basal cell,,KRT5,Human,Bladder,Bladder,Normal,Normal cell,Basal cell
+Basal cell,,KRT17,Human,Bladder,Bladder,Normal,Normal cell,Basal cell
+Cancer cell,,ALDH1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD44,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer cell
+Cancer cell,,PanCK,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Cancer cell
+Cancer stem cell,Cancer,CD44,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD47,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD24,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CK5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CK20,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,KRT5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,KRT20,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD133,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,OCT4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,SOX2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,PROM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,POU5F1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer stem cell
+Fibroblast,Cancer-associated,CD90,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRβ,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,ACTA2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,TNC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FN1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,THY1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer-associated fibroblast
+Claudin-low cell,Claudin-low,CLDN4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,Claudin-low,CLDN7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,Claudin-low,CLDN3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,SNAI2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,ZEB2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,ZEB1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,TWIST1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,VIM,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+Claudin-low cell,EMT,CDH1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Claudin-low cell
+dendritic cell,Cross-presenting,CLEC9A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cross-presenting dendritic cell
+epithelial cell,Cycling,TUBA1B,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cycling epithelial cell
+epithelial cell,,EEF2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cycling epithelial cell
+T cell,Cytotoxic,CD8,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Cytotoxic T cell
+Dendritic cell,,CD1C,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CCR7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,LAMP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD209,Human,Bladder,Bladder,Normal,Normal cell,Dendritic cell
+Endothelial cell,,CD31,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VCAM1,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,GATA3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT17,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT13,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD49f,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,ITGA6,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,EMA,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ETFA,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Bladder,Urothelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH3,Human,Bladder,Urothelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EGFR,Human,Bladder,Urothelium,Normal,Normal cell,Epithelial cell
+Epithelial-mesenchymal cell,Mesenchymal,VIM,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,CDH2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,TWIST1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,ZEB2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,ZEB1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,SNAIL,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,FOXC2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,SNAI1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial-mesenchymal cell
+T cell,CD8+,TIGIT,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,CTLA-4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,TIM-3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PD-1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,LAG-3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,CTLA4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PDCD1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,TIGIT,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,CTLA-4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,TIM-3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PD-1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,LAG-3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,CTLA4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PDCD1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Exhausted CD8+ T cell
+Fibroblast,,CALD1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,S100A4,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,PLA2G2A,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+B cell,Follicular,MS4A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Follicular B cell
+B cell,,CD79A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Follicular B cell
+Follicular dendritic cell,,CD21,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Follicular dendritic cell
+Follicular dendritic cell,,CR2,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Follicular dendritic cell
+Fibroblast,cancer‐associated,COL1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+Interstitial cell,,N-cadherin,Human,Bladder,Bladder,Normal,Normal cell,Interstitial cell
+Interstitial cell,,VIM,Human,Bladder,Bladder,Normal,Normal cell,Interstitial cell
+Luminal cell,Growth factor signaling,ERBB2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Growth factor signaling,ERBB3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Luminal differentiation,GATA3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,UPK2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,UPK1A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Urothelial differentiation,uroplakins,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT18,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Epithelial structure,KRT20,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Regulation of gene expression,FOXA1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Lipid metabolism,PPARG,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Lipid metabolism,FABP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Luminal cell,Cell growth and differentiation,FGFR3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Luminal cell
+Lymphatic endothelial cell,,PDPN,Human,Bladder,Bladder,Bladder cancer,Cancer cell,Lymphatic endothelial cell
+Lymphoid cell,,PTPRC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Lymphoid cell
+Lymphoid cell,,CD247,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Lymphoid cell
+macrophage,M1,CCL5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M1 macrophage
+macrophage,M1,TNF,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M1 macrophage
+macrophage,,CCR7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M1 macrophage
+macrophage,M2,MRC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,M2,CD163,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,M2,ARG1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,,MMP14,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,,VTCN1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,,EGF,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,,TGFB1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+macrophage,,MSR1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,M2 macrophage
+Mast cell,,TPSAB1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Mast cell
+Monocyte,,S100A8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Monocyte,,MS4A7,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Myeloid cell,,LYZ,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CSTB,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CSF2RA,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Fibroblast,Myofibroblastic,RGS5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,cancer‐associated,RGS5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Myofibroblast,,ACTA2,Human,Bladder,Bladder,Normal,Normal cell,Myofibroblast
+cell,Naive,TCF1,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Naive cell
+cell,,HNF1A,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Naive cell
+Natural killer cell,,CD56 NCAM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Natural killer cell
+Neuroendocrine cell,,NCAM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuroendocrine cell,,CHGA,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuroendocrine cell,,SCG2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuroendocrine cell,,ENO2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuroendocrine cell,,SYP,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuroendocrine cell,,CHGB,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neuroendocrine cell
+Neuron,,GPM6A,Human,Bladder,Bladder,Normal,Normal cell,Neuron
+Neutrophil,,CD66b,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neutrophil
+T cell,Nonpathogenic,PDPN,Human,Bladder,Bladder,Bladder cancer,Cancer cell,Nonpathogenic T helper 17(Th17) cell
+cell,P53-like,PCP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,P53-like,ACTC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,PGM5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,DES,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,ACTG2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,MFAP4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,MYH11,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,CNN1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+cell,,FLNC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,P53-like cell
+macrophage,,CD68,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Pan-macrophage
+myeloid cell,Proliferating,TOP2A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Proliferating myeloid cell
+Prostate cell,,P501S,Human,Bladder,Bladder,Undefined,Cancer cell,Prostate cell
+Prostate cell,,AR,Human,Bladder,Bladder,Undefined,Cancer cell,Prostate cell
+Prostate cell,,NKX3.1,Human,Bladder,Bladder,Undefined,Cancer cell,Prostate cell
+Prostate cell,,ERG,Human,Bladder,Bladder,Undefined,Cancer cell,Prostate cell
+Prostate cell,,NKX3-1,Human,Bladder,Bladder,Undefined,Cancer cell,Prostate cell
+T cell,Regulatory,FOXP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TIGIT,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF9,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF9,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF18,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF18,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+Smooth muscle cell,,TPM2,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,DES,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTG2,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Squamous cell,Differentiation,DSC3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,DSG3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,DSC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,DSG1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,DSC2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,S100A7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Squamous cell,Differentiation,S100A8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Squamous-differentiation cell
+Stem cell,,KRT5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Stem cell
+Stem cell,,ALDH1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Stem cell
+Stem cell,,RPSA,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Stem cell
+Stem cell,,SOX9,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Stem cell
+T cell,,CD3Z,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,T cell
+T cell,,CD247,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,T cell
+T cell,,CD3,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Bladder,Bladder,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Bladder,Bladder,Normal,Normal cell,T cell
+lymphocyte,Tumor-infiltrating,CD8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,FOXP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD8A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+Macrophage,Tumor‐associated,MRC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,CD68,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Umbrella cell,,uroplakins,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Umbrella cell
+Umbrella cell,,KRT20,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Umbrella cell,,UPK2,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Umbrella cell,,UPK3A,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Urethelial cell,,ACE2,Human,Bladder,Bladder,Normal,Normal cell,Urethelial cell
+Urothelial cell,Urothelial differentiation,GATA3,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,Basal cell,p63,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,Urothelial differentiation,uroplakin II,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,,RPE65,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelium cell,,UGP85,Human,Bladder,Bladder,Normal,Normal cell,Urothelium cell
+B cell,,CD79A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,B cell
+B cell,,MZB1,Human,Bladder,Bladder,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Bladder,Bladder,Normal,Normal cell,B cell
+Basal cell,,KRT5,Human,Bladder,Bladder,Normal,Normal cell,Basal cell
+Basal cell,,KRT17,Human,Bladder,Bladder,Normal,Normal cell,Basal cell
+Cancer cell,,ALDH1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD44,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cancer cell
+dendritic cell,Cross-presenting,CLEC9A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cross-presenting dendritic cell
+epithelial cell,Cycling,TUBA1B,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cycling epithelial cell
+epithelial cell,,EEF2,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Cycling epithelial cell
+Dendritic cell,,CD1C,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CCR7,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,LAMP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD209,Human,Bladder,Bladder,Normal,Normal cell,Dendritic cell
+Endothelial cell,,CD31,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VCAM1,Human,Bladder,Bladder,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,GATA3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT17,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT13,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD49f,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,ITGA6,Human,Bladder,Bladder,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Bladder,Bladder,Normal,Normal cell,Epithelial cell
+Fibroblast,,CALD1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,S100A4,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Bladder,Bladder,Normal,Normal cell,Fibroblast
+B cell,,MS4A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Follicular B cell
+B cell,,CD79A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Follicular B cell
+Fibroblast,Inflammatory cancer‐associated,COL1A1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Inflammatory cancer‐associated fibroblast (iCAF)
+Interstitial cell,,VIM,Human,Bladder,Bladder,Normal,Normal cell,Interstitial cell
+Lymphoid cell,,PTPRC,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Lymphoid cell
+Lymphoid cell,,CD247,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Lymphoid cell
+Mast cell,,TPSAB1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Mast cell
+Monocyte,,S100A8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Monocyte,,MS4A7,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Bladder,Bladder,Normal,Normal cell,Monocyte
+Myeloid cell,,LYZ,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CSTB,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CSF2RA,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myeloid cell
+Fibroblast,cancer‐associated,RGS5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Myofibroblast,,ACTA2,Human,Bladder,Bladder,Normal,Normal cell,Myofibroblast
+Natural killer cell,,CD56 NCAM1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Natural killer cell
+Neuron,,GPM6A,Human,Bladder,Bladder,Normal,Normal cell,Neuron
+Neutrophil,,CD66b,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Neutrophil
+Myeloid cell,Proliferating,TOP2A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Proliferating myeloid cell
+T cell,Regulatory,FOXP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF18,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Bladder,Bladder,Normal,Normal cell,Regulatory T(Treg) cell
+Smooth muscle cell,,TPM2,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,DES,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTG2,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CNN1,Human,Bladder,Bladder,Normal,Normal cell,Smooth muscle cell
+Stem cell,,SOX2,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Stem cell
+Stem cell,,SOX9,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Stem cell
+T cell,,CD3D,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Bladder,Bladder,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Bladder,Bladder,Normal,Normal cell,T cell
+Macrophage,Tumor‐associated,MRC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CD68,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Umbrella cell,,KRT20,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Umbrella cell,,UPK2,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Umbrella cell,,UPK3A,Human,Bladder,Bladder,Normal,Normal cell,Umbrella cell
+Urethelial cell,,ACE2,Human,Bladder,Bladder,Normal,Normal cell,Urethelial cell

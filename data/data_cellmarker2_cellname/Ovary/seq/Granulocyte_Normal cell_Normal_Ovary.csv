@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulocyte,CL_0000094,AMH,AMH
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulocyte,CL_0000094,GSTA1,GSTA1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulocyte,CL_0000094,SERPINE2,SERPINE2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Granulocyte,CL_0000094,HSD17B1,HSD17B1

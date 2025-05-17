@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,ICAM1,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,IL6,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,PDPN,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,CD34,Human,Skin,Dermis,Normal,Normal cell,Fibroblast

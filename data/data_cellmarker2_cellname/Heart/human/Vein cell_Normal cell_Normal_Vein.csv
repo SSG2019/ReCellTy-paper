@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Vein,UBERON_0001638,Normal,Normal cell,Vein cell,,ACKR1,ACKR1
+Human,Heart,Vein,UBERON_0001638,Normal,Normal cell,Vein cell,,NR2F2,NR2F2

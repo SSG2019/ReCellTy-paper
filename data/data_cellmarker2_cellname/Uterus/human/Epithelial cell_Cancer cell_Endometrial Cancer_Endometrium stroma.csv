@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,PAX8,PAX8
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,CK6,
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,CK5,KRT5
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,CK17,
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,p63,RPE65
+Human,Uterus,Endometrium stroma,UBERON_0002337,Endometrial Cancer,Cancer cell,Epithelial cell,CL_0000066,CK7,KRT7

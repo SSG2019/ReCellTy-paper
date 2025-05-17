@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tissue resident memory,CD103,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD49a,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CXCR6,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell

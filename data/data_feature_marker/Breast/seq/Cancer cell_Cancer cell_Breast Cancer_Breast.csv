@@ -1,0 +1,60 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,ARHGAP10,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,EDNRA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SELP,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TLL1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SEMA6A,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CDH5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CPNE1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TPST2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,FASLG (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CRYBB2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SULF2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KLRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,SELE,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ALPI,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,FAM177A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ADH1B,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,AKR1A1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CAMK1D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CHST15,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,GOLM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ISLR2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD36,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PRDM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,B3GNT2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TMPRSS11D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VEGFR3/FLT4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,STOM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TNS2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,MET,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VCAM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,VEGFR2/KDR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,JAG1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IGFIR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,THSD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PSD,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IL3RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KIN,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,IR,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,LIFR (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,TIE1 (soluble),Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,C1GALT1C1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ENG,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,RSPO3,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,DOCK9,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,NOTCH1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT8,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ESR1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,PBCS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A4,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,pKARMA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CPS-II,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,MCCS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,UKBGS,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,CYP3A7,Human,Breast,Breast,Breast Cancer,Cancer cell,Cancer cell

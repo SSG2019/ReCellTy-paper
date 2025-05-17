@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,SOX9,Human,Lung,Bronchus,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX2,Human,Lung,Bronchus,Normal,Normal cell,Progenitor cell

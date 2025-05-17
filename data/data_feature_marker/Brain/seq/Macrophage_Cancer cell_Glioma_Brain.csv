@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,CD49d,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,CD206,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,MSR1,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,MRC1,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,CD204,Human,Brain,Brain,Glioma,Cancer cell,Macrophage
+Macrophage,,ITGA4,Human,Brain,Brain,Glioma,Cancer cell,Macrophage

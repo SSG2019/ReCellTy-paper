@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,CD20,MS4A1
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,Cd163,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,Mgl2,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,Pf4,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,Apoe,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Macrophage,CL_0000235,F13a1,

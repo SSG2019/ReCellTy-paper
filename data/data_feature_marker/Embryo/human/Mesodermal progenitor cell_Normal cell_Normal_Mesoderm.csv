@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesodermal progenitor cell,progenitor,NES,Human,Embryo,Mesoderm,Normal,Normal cell,Mesodermal progenitor cell
+Mesodermal progenitor cell,progenitor,MCAM,Human,Embryo,Mesoderm,Normal,Normal cell,Mesodermal progenitor cell
+Mesodermal progenitor cell,progenitor,CSPG4,Human,Embryo,Mesoderm,Normal,Normal cell,Mesodermal progenitor cell

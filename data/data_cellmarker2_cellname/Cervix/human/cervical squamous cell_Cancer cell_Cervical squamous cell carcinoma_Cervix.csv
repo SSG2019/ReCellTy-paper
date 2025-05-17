@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cervix,Cervix,UBERON_0000002,Cervical squamous cell carcinoma,Cancer cell,cervical squamous cell,,SOX2,SOX2

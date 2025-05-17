@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal cell,CL_0008019,CDH2,CDH2

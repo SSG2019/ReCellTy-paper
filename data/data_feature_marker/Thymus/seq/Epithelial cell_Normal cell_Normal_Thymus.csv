@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Neuroendocrine,NEUROD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Neuroendocrine,CHGA,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Thymic,FOXN1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Thymic,AIRE,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Inner ear and kidney,FOXI1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratinized,KRT1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Basal,KRT14,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion,CD104,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion,ITGB4,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DLK2,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PSMB11,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CHRNA1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PDPN,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAN-CK,Human,Thymus,Thymus,Normal,Normal cell,Epithelial cell

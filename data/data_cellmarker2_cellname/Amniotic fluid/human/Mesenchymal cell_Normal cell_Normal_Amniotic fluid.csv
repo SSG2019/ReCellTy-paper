@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Amniotic fluid,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Mesenchymal cell,CL_0008019,Slug,
+Human,Amniotic fluid,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Mesenchymal cell,CL_0008019,Snail,
+Human,Amniotic fluid,Amniotic fluid,UBERON_0000173,Normal,Normal cell,Mesenchymal cell,CL_0008019,MMP1,MMP1

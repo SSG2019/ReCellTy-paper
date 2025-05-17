@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,CXCL12,CXCL12
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,KRT5,KRT5
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,PSMB11,PSMB11
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,CCL25,CCL25
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,KRT8,KRT8
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,DLL4,DLL4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,PRSS16,PRSS16
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell (TEC),,FOXN1,FOXN1

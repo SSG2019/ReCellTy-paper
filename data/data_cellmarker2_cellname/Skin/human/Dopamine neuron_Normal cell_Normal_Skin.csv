@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SOX6,SOX6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SOX1,SOX1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,PITX3,PITX3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,DRD1,DRD1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,FOXA1,FOXA1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SLC18A1,SLC18A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,NR4A2,NR4A2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,MSX1,MSX1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SOX2,SOX2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,CCK,CCK
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,EN1,EN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SLC18A2,SLC18A2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,TH,TH
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,DRD2,DRD2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,DDC,DDC
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,LMX1A,LMX1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,KCNJ6,KCNJ6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,LMX1B,LMX1B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,VMAT1,SLC18A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,EN2,EN2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,FOXA2,FOXA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,CALB1,CALB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,SLC6A3,SLC6A3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dopamine neuron,,OTX2,OTX2

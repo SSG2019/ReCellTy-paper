@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Circulating T follicular helper cell,,CXCR5,CXCR5
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Circulating T follicular helper cell,,CD4,CD4
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Circulating T follicular helper cell,,CCR6,CCR6
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Circulating T follicular helper cell,,CXCR3,CXCR3

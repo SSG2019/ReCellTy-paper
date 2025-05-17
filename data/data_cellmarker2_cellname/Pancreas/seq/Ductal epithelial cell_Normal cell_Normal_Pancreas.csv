@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal epithelial cell,,S100A14,S100A14
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal epithelial cell,,CLDN1,CLDN1

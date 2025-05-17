@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Monocyte,CL_0000576,FCER1G,FCER1G
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Monocyte,CL_0000576,LYZ,LYZ

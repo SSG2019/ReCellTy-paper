@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Activated memory T cell,,CD25,IL2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Activated memory T cell,,CD45RO,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Activated memory T cell,,Ki67,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Colorectal Cancer,Cancer cell,Activated memory T cell,,CD3,

@@ -1,0 +1,201 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Activated,CD38,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Activated cell
+T cell,Activated,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Activated T cell
+Antigen-presenting cell,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Antigen-presenting cell
+B cell,,CD24,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD20,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+Basophil,,CD123,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+Basophil,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+Basophil,,IL3RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+T cell,Central memory,CCR7,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Central memory T cell
+T cell,Cytotoxic,CD8,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+T cell,Effector,CCR7,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Effector T(Teff) cell
+Granulocyte,,CD24,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Granulocyte
+Haematopoietic cell,,CD9,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,CD45,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,PTPRC,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic stem cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic stem cell
+Haematopoietic stem cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic stem cell
+Innate lymphoid cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Macrophage,M1,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M1,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M1,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M2,CD206,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD163,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+Macrophage,,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Mast cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+B cell,Mature,CD25,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mature B cell
+B cell,Mature,IL2RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mature B cell
+B cell,Memory,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Memory B cell
+T cell,,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Memory T cell
+Monocyte,,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,CD68,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Myeloid progenitor cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Myeloid progenitor cell
+Myeloid progenitor cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Myeloid progenitor cell
+B cell,Naive,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Naive B cell
+T cell,Naive,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Naive T(Th0) cell
+Natural killer cell,,CD94,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL2,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG2A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Neutrophil,,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Dendritic cell,Plasmacytoid,CD123,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+cell,Proliferative,Ki67,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Proliferative cell
+T cell,Regulatory,CD25,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,NKG2A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD94,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD3,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRD1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,helper,CD4,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T helper(Th) cell
+T cell,Terminally differentiated,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Effector,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Terminally differentiated,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Memory,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+cell,Activated,CD38,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Activated cell
+T cell,Activated,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Activated T cell
+Antigen-presenting cell,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Antigen-presenting cell
+B cell,,CD24,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,CD20,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,B cell
+Basophil,,CD123,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+Basophil,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+Basophil,,IL3RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Basophil
+T cell,Central memory,CCR7,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Central memory T cell
+T cell,Cytotoxic,CD8,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+T cell,Effector,CCR7,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Effector T(Teff) cell
+Granulocyte,,CD24,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Granulocyte
+Haematopoietic cell,,CD9,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,CD45,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic cell,,PTPRC,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic cell
+Haematopoietic stem cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic stem cell
+Haematopoietic stem cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Haematopoietic stem cell
+Innate lymphoid cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Innate lymphoid cell
+Macrophage,M1,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M1,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+macrophage,M2,CD206,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD163,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+macrophage,,MRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M2 macrophage
+Macrophage,,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Macrophage
+Mast cell,,CD117,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,FceRIα,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mast cell
+B cell,,CD25,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Mature B cell
+B cell,Memory,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Memory B cell
+T cell,Memory,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Memory T cell
+Monocyte,phagocytosis and antigen presentation,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,LPS receptor,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,Fc receptor,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion and migration,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,scavenger receptor,CD68,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,high-affinity IgG receptor,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,low-affinity IgG receptor,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion and migration,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Myeloid,progenitor,CD117 KIT,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Myeloid progenitor cell
+B cell,,CD27,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Naive B cell
+T cell,Naive,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Naive T(Th0) cell
+Natural killer cell,Natural killer,CD56,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,NKG2A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,Natural killer,KLRD1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD94,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL2,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Natural killer cell
+Neutrophil,,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Neutrophil
+Dendritic cell,Plasmacytoid,CD123,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+cell,Proliferative,Ki67,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Proliferative cell
+T cell,Regulatory,CD25,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,NKG2A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD94,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD3,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,CD127,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRC1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,KLRD1,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,,IL7R,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T cell
+T cell,T helper (Th),CD4,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,T helper(Th) cell
+T cell,Terminally differentiated,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Effector,CD45RA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Terminally differentiated,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Effector,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell
+T cell,Memory,TEMRA,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Terminally differentiated effector memory T cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Immune response,IL5RA,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,Myeloid lineage,MS4A3,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,IgE receptor activity,FCER1A,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,,HPGD,Human,Blood,Peripheral blood,Acute Myeloid Leukemia,Cancer cell,Dendritic cell

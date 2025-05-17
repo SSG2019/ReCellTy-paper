@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Cancer-associated fibroblast,,PDGFRα/β,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Cancer-associated fibroblast,,Galectin-1,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Cancer-associated fibroblast,,Caveolin-1,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Cancer-associated fibroblast,,α-SMA,

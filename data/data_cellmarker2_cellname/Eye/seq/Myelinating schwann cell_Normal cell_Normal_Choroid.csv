@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Myelinating schwann cell,CL_0000218,MBP,MBP
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Myelinating schwann cell,CL_0000218,MPZ,MPZ

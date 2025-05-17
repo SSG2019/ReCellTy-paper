@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Neural cell,CL_0002319,FZD3,FZD3
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Neural cell,CL_0002319,OTX2,OTX2
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Neural cell,CL_0002319,PTN,PTN

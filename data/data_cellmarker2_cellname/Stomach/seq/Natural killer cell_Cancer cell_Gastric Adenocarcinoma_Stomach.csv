@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,PTPRC,PTPRC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,IFNG,IFNG
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,GZMB,GZMB
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,FCGR3A,FCGR3A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Natural killer cell,CL_0000623,CD3E,CD3E

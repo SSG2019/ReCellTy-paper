@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Conventional,LAMP3,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,HLA-DPB1,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CLEC10A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,FCER1A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CD1E,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)

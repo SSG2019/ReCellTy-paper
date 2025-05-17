@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,JAK-2,
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,BCL-2,
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,STAT3,STAT3
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,APG-1252-M1,
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,BCL-XL,
+Human,Nose,Nose,UBERON_0000004,Nasopharyngeal Cancer,Cancer cell,Cancer cell,CL_0001064,MCL-1,

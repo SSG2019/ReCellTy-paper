@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Metastatic breast cancer,Cancer cell,Cancer cell,CL_0001064,TTF-1,NKX2-1
+Human,Breast,Breast,UBERON_0000310,Metastatic breast cancer,Cancer cell,Cancer cell,CL_0001064,GATA3,GATA3
+Human,Breast,Breast,UBERON_0000310,Metastatic breast cancer,Cancer cell,Cancer cell,CL_0001064,ER,EREG

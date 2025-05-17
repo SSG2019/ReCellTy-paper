@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,TIGIT,TIGIT
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,FOXP3,FOXP3
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,CD40LG,CD40LG
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,GZMA,GZMA
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,IL2RA,IL2RA
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,IL8R,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,LAIR2,LAIR2
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,GZMH,GZMH
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,PRF2,
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,CD3D,CD3D
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,CD4,CD4
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,TNFRSF18,TNFRSF18
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,CD69,CD69
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,IFNG,IFNG
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,GZMK,GZMK
+Human,Bile duct,Bile duct,UBERON_0002394,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell,,CTLA4,CTLA4

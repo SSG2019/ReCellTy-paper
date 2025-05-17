@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,KLF4,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,c-Myc,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Pluripotency,MYC,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,ABCG2,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,ALDH1A1,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,CD133,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,PROM1,Human,Brain,Brain,Glioma,Cancer cell,Stem cell
+Stem cell,Stemness,Nestin,Human,Brain,Brain,Glioma,Cancer cell,Stem cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD1c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD32b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD33,CD33
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD11b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,SIRPα,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2-A (cDC2-A),,CD5,CD5

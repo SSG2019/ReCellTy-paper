@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Sensory neuron,neurotransmitter release,GAL,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,neurotransmitter modulation,SSTR2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,autonomic nervous system development,PHOX2B,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,pain sensation,TAC1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,sensory neuron development,BRN3A,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,pain sensation,SCN9A,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,,FGF3,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,neuron structure,PRPH,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,neuron development,ISL1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,neurotrophin signaling,NTRK2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,mechanotransduction,PIEZO2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron
+Sensory neuron,sensory neuron identity,POU4F1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Sensory neuron

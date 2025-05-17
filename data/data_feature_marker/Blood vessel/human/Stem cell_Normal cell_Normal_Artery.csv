@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD34,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell
+Stem cell,,Sca-1,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell

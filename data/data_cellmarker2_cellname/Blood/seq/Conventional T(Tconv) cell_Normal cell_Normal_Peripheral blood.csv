@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,ITGA4,ITGA4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,CD25,IL2RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,TRIM,TRAT1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,IKZF2,IKZF2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,FOXP3,FOXP3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Conventional T(Tconv) cell,,CD127,IL7R

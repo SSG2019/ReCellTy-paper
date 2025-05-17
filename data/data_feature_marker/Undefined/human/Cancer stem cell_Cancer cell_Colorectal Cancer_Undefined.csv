@@ -1,0 +1,34 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem Cell,Cancer,CD44,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,EpCAM,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD133,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALDH1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD166,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,LGR5,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,OCT4,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD24,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,SOX2,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,MSI1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,KLF4,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,BMI1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,NANOG,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,DCLK1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,Beta-catenin,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD26,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALDH1A1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALDH1B1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD29,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,c-Myc,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CDX2,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,LIN28,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,Aldehyde dehydrogenase 1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ESA,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,FLT1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,PROM1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALCAM,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,POU5F1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,DPP4,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ITGB1,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,MYC,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,LIN28A,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,FLOT2,Human,Undefined,Undefined,Colorectal Cancer,Cancer cell,Cancer stem cell

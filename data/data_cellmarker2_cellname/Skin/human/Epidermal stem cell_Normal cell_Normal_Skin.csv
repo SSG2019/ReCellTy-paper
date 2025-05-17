@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,CD34,CD34
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,CD200,CD200
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,YAP1,YAP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,MCSP,CSPG4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,CD49f,ITGA6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,CD29,ITGB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Nestin,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,P63,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Tenascin C,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Cytokeratin-14,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Frizzled-2,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Frizzled-3,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,Frizzled-7,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal stem cell,CL_1000428,KRT15,KRT15

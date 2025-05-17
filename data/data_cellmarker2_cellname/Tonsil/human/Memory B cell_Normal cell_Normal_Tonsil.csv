@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Memory B cell,CL_0000787,CCR7,CCR7
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Memory B cell,CL_0000787,GPR183,GPR183
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Memory B cell,CL_0000787,SELL,SELL
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Memory B cell,CL_0000787,CD19,CD19

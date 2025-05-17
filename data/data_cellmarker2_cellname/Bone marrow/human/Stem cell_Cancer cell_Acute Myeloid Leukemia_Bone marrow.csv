@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Stem cell,CL_0000034,GPR56,ADGRG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Stem cell,CL_0000034,TIM3,HAVCR2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Stem cell,CL_0000034,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Stem cell,CL_0000034,CLL-1,CLEC12A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Stem cell,CL_0000034,CD33,CD33

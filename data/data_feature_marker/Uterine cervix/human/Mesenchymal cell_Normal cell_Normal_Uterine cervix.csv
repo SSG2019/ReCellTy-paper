@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,VIM,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Mesenchymal cell

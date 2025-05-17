@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,OLIG3,OLIG3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,BARHL1,BARHL1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,PCSK9,PCSK9
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,ZIC1,ZIC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,PDE1C,PDE1C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Medulloblastoma,Cancer cell,Cancer cell,CL_0001064,PAX6,PAX6

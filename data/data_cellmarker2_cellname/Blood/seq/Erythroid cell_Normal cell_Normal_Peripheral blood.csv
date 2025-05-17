@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Erythroid cell,CL_0000232,HBB,HBB
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Erythroid cell,CL_0000232,HBA2,HBA2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Erythroid cell,CL_0000232,HBA1,HBA1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Erythroid cell,CL_0000232,CD71,TFRC
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Erythroid cell,CL_0000232,GATA1,GATA1

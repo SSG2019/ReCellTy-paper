@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cartilage,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CD146,MCAM
+Human,Cartilage,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CD146,MCAM
+Human,Cartilage,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,COL2,

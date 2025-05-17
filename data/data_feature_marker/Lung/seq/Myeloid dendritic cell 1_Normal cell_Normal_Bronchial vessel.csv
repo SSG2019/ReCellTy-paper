@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid dendritic cell,,PLD4,Human,Lung,Bronchial vessel,Normal,Normal cell,Myeloid dendritic cell 1
+Myeloid dendritic cell,Antigen Presentation,MHCII,Human,Lung,Bronchial vessel,Normal,Normal cell,Myeloid dendritic cell 1
+Myeloid dendritic cell,Antigen Cross-Presentation,CLEC9A,Human,Lung,Bronchial vessel,Normal,Normal cell,Myeloid dendritic cell 1
+Myeloid dendritic cell,Mature Migration,LAMP3,Human,Lung,Bronchial vessel,Normal,Normal cell,Myeloid dendritic cell 1
+Myeloid dendritic cell,Conventional,CD1C,Human,Lung,Bronchial vessel,Normal,Normal cell,Myeloid dendritic cell 1

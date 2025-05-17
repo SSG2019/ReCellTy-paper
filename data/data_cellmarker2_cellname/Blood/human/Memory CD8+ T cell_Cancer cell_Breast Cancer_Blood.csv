@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,CCL5,CCL5
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,TRGC2,TRGC2
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,CXCR4,CXCR4
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,CD69,CD69
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,GZMK,GZMK
+Human,Blood,Blood,UBERON_0000178,Breast Cancer,Cancer cell,Memory CD8+ T cell,CL_0000909,KLRG1,KLRG1

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pituitary stem cell,,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pituitary stem cell,,LHX3,LHX3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pituitary stem cell,,SOX9,SOX9

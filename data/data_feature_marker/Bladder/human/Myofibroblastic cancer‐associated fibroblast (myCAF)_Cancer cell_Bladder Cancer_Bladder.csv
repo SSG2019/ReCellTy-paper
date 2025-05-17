@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Myofibroblastic,RGS5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,cancer‐associated,RGS5,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)

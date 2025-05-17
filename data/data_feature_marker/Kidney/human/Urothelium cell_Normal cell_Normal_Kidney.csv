@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Urothelium,,TP63,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,DHRS2,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,KRT5,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,UPK1B,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,S100P,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,PVRL4,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell
+Urothelium,,NECTIN4,Human,Kidney,Kidney,Normal,Normal cell,Urothelium cell

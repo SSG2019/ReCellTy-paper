@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Artery cell,,DLL4,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Artery cell
+Artery cell,,NOTCH4,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Artery cell
+Artery cell,,CXCR4,Human,Kidney,Embryonic Kidney,Normal,Normal cell,Artery cell

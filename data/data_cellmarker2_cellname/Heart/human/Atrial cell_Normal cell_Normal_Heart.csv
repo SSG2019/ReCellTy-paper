@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrial cell,,NR2F2,NR2F2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrial cell,,KCNJ3,KCNJ3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrial cell,,MYL7,MYL7
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrial cell,,MYH6,MYH6

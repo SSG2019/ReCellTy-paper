@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,CK19,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,HER2,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Breast,Epithelium,Breast Cancer,Cancer cell,Cancer cell

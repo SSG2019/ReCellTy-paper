@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Epithelial cell,CL_0000066,KRT18,KRT18

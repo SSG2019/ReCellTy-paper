@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Neutrophil progenitor cell,CL_0000834,CAMP,CAMP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Neutrophil progenitor cell,CL_0000834,MPO,MPO
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Neutrophil progenitor cell,CL_0000834,AZU1,AZU1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Neutrophil progenitor cell,CL_0000834,LTF,LTF
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Neutrophil progenitor cell,CL_0000834,LCN2,LCN2

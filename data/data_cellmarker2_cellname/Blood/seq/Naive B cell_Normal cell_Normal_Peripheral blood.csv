@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,CD20,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IgD,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IgM,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,MS4A1,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IGHD,IGHD
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,CD79A,CD79A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,TCL1A,TCL1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,TCL1A,TCL1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IL4R,IL4R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IgD,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IGHM,IGHM
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IGHD,IGHD
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IL4R,IL4R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,IGHD,IGHD
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive B cell,CL_0000788,FCER2,FCER2

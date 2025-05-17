@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Regulatory,CD1d,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B cell
+B cell,,CD19,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B cell

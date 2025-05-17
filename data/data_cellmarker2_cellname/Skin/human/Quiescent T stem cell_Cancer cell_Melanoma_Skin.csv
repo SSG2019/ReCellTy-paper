@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,S1PR1,S1PR1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,SELL,SELL
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,CD27,CD27
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,IL7R,IL7R
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,KLF2,KLF2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,LEF1,LEF1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Quiescent T stem cell,,TCF7,TCF7

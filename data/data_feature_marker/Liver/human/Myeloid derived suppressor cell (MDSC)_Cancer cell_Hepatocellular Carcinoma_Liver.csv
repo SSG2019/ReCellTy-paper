@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,suppressor,VCAN,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,suppressor,S100A6,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,suppressor,S100A12,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,suppressor,S100A9,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,suppressor,S100A8,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,FCN1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)

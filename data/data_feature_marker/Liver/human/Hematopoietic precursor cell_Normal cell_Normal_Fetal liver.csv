@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,GlycophorinA,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD117,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD45,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD34,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD14,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD90,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,CD123,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,KIT,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,PTPRC,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,THY1,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell
+Hematopoietic cell,,IL3RA,Human,Liver,Fetal liver,Normal,Normal cell,Hematopoietic precursor cell

@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Stemness,ABCG2,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD117,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD90,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Aldehyde Dehydrogenase 1-A1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD44,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Side population,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,SCA-1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,KIT,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,THY1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,PROM1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,EpCAM,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,CD87,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,PTCH,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,FZD,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,CD166,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,PECAM,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,PLAUR,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,PTCH1,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer-related,ALCAM,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD45,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,CASP3,Human,Undefined,Undefined,Lung Cancer,Cancer cell,Cancer stem cell

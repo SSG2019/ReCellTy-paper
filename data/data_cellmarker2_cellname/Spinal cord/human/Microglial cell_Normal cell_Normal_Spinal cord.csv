@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Microglial cell,CL_0000129,PTPRC,PTPRC
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Microglial cell,CL_0000129,CSF3R,CSF3R

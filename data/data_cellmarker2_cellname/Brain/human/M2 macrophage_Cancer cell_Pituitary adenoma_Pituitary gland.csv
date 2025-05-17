@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Pituitary gland,UBERON_0000007,Pituitary adenoma,Cancer cell,M2 macrophage,CL_0000890,CD68,CD68
+Human,Brain,Pituitary gland,UBERON_0000007,Pituitary adenoma,Cancer cell,M2 macrophage,CL_0000890,CD301,CLEC10A
+Human,Brain,Pituitary gland,UBERON_0000007,Pituitary adenoma,Cancer cell,M2 macrophage,CL_0000890,ARG1,ARG1

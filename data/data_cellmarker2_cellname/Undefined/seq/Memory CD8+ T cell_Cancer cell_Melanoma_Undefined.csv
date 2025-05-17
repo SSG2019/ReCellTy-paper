@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,IL7R,IL7R
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,GPR183,GPR183
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,S100A10,S100A10
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,SATB1,SATB1
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,TCF7,TCF7
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,LTB,LTB
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,CCR7,CCR7
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,LEF1,LEF1
+Human,Undefined,Undefined,,Melanoma,Cancer cell,Memory CD8+ T cell,CL_0000909,SELL,SELL

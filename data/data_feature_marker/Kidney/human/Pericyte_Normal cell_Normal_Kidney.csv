@@ -1,0 +1,20 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,MEIS2,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRα,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRβ,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,COL1A1,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,MEIS1,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,COL3A1,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,SYNM,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,TAGLN,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,MYH11,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,ATAC2,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,Pdgfrb,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,Myh11,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,Tagln,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,Vim,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,Postn,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Kidney,Kidney,Normal,Normal cell,Pericyte
+Pericyte,,KAT14,Human,Kidney,Kidney,Normal,Normal cell,Pericyte

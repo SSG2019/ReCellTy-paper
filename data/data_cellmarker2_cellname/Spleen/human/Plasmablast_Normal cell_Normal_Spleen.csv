@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,MKI67,MKI67
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,TUBA1B,TUBA1B
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGHG1,IGHG1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGHM,IGHM
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGHA1,IGHA1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,HSP90B1,HSP90B1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGKC,IGKC
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,MZB1,MZB1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGLC3,IGLC3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGLC2,IGLC2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,IGHA2,IGHA2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmablast,CL_0000980,GAPDH,GAPDH

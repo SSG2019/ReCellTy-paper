@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,CDH3,CDH3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,KRT2,KRT2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,TGM3,TGM3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,DSC1,DSC1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,IVL,IVL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal cell,CL_0000646,KRT5,KRT5

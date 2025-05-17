@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Corneal endothelium,UBERON_0001985,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD34,CD34
+Human,Eye,Corneal endothelium,UBERON_0001985,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD133,PROM1
+Human,Eye,Corneal endothelium,UBERON_0001985,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,c-Kit,

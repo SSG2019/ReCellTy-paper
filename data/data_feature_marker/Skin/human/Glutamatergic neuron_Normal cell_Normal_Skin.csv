@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Glutamatergic,CTIP2,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,OTX1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,TBR1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,NMDAR1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,BCL11B,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,GRIN1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron

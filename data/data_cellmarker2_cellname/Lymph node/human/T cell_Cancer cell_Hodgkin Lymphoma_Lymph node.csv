@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,T cell,CL_0000084,CD3,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,T cell,CL_0000084,CD3,
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,T cell,CL_0000084,CD2,CD2
+Human,Lymph node,Lymph node,UBERON_0000029,Hodgkin Lymphoma,Cancer cell,T cell,CL_0000084,CD4,CD4

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,EMT,Vimentin,Human,Brain,Brain,Glioma,Cancer cell,Epithelial cell
+Epithelial cell,EMT,SNAI2,Human,Brain,Brain,Glioma,Cancer cell,Epithelial cell
+Epithelial cell,EMT,N-cadherin,Human,Brain,Brain,Glioma,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion and migration,CD44,Human,Brain,Brain,Glioma,Cancer cell,Epithelial cell
+Epithelial cell,Cell integrity,E-cadherin,Human,Brain,Brain,Glioma,Cancer cell,Epithelial cell

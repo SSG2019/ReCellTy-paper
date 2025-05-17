@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hodgkin and reed–sternberg cell,Immune Evasion,PDL2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,Immune Evasion,PDL1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,CD52,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,HDAC6,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,NOTCH1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell

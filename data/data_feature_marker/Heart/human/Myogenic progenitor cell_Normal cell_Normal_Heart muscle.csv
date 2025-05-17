@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myogenic progenitor cell,Myogenic,ISL1,Human,Heart,Heart muscle,Normal,Normal cell,Myogenic progenitor cell
+Myogenic progenitor cell,Progenitor,PDGFRA,Human,Heart,Heart muscle,Normal,Normal cell,Myogenic progenitor cell

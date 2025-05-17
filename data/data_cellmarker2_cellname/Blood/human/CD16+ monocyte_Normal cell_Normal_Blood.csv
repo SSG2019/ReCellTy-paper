@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CD61,ITGB3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CD36,CD36
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,Slan,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CD9,CD9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CCR2,CCR2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,HES4,HES4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,TCF7L2,TCF7L2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,LYN,LYN
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,CX3CR1,CX3CR1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD16+ monocyte,CL_0002397,MTSS1,MTSS1

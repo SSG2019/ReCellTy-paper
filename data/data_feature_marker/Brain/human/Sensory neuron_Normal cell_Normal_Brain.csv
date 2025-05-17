@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,Sensory,Peripherin,Human,Brain,Brain,Normal,Normal cell,Sensory neuron
+neuron,Sensory,BRN3a,Human,Brain,Brain,Normal,Normal cell,Sensory neuron
+neuron,Sensory,P2RX3,Human,Brain,Brain,Normal,Normal cell,Sensory neuron
+neuron,,DCX,Human,Brain,Brain,Normal,Normal cell,Sensory neuron
+neuron,,NEFM,Human,Brain,Brain,Normal,Normal cell,Sensory neuron
+neuron,Sensory,POU4F1,Human,Brain,Brain,Normal,Normal cell,Sensory neuron

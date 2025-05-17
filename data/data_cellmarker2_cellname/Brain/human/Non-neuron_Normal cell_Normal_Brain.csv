@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,S100B,S100B
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,REST,REST
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,MKI67,MKI67
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,SLC1A3,SLC1A3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Non-neuron,,SOX9,SOX9

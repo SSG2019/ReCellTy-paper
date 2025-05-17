@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,DSP,DSP
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,SCNNA1,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,RNF186,RNF186
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT7,KRT7

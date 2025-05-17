@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,MSX1,MSX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,HOXB2,HOXB2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,TFAP2a,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,SOX3,SOX3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,SOX10,SOX10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural crest cell,CL_0011012,TFAP2α,

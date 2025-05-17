@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Phagocyte,CL_0000234,PODXL,PODXL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Phagocyte,CL_0000234,PTPRO,PTPRO
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Phagocyte,CL_0000234,NPHS2,NPHS2

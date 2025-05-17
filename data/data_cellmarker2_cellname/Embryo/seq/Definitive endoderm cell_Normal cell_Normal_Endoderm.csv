@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,CECR4,HDHD5-AS1
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,LEFTY1,LEFTY1
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,SOX17,SOX17
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,CXCR4,CXCR4
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,EOMES,EOMES
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,GATA6,GATA6
+Human,Embryo,Endoderm,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,CER1,CER1

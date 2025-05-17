@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M2,MRC1,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD163,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD204,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,DAB2,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,MSR1,Human,Skin,Skin,Normal,Normal cell,M2 macrophage

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Dendritic cell,CL_0000451,CD52,CD52
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Dendritic cell,CL_0000451,CD14,CD14
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86

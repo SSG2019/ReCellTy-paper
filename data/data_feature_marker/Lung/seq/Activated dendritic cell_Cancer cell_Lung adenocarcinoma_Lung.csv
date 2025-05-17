@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Activated,BIRC3,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Activated dendritic cell
+dendritic cell,,CCL22,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Activated dendritic cell

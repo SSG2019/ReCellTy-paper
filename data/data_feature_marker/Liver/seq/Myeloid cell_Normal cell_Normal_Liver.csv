@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,FCGR3A,Human,Liver,Liver,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Liver,Liver,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Liver,Liver,Normal,Normal cell,Myeloid cell

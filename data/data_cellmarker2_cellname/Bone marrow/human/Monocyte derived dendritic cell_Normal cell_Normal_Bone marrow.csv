@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,SIRPA,SIRPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD206,MRC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,S100A9,S100A9
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD1a,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD209,CD209
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD1c,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD11c,

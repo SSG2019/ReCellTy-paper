@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,Tumor‐associated macrophage (TAM),,Lyve-1,
+Human,Undefined,Undefined,,Undefined,Cancer cell,Tumor‐associated macrophage (TAM),,CD163,CD163
+Human,Undefined,Undefined,,Undefined,Cancer cell,Tumor‐associated macrophage (TAM),,Stabilin-1,

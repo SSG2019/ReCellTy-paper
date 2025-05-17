@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Proximal tubular cell,Injured,Sema5a,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell
+Proximal tubular cell,Injured,Vcam1,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell
+Proximal tubular cell,,Hspa1a,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell
+Proximal tubular cell,,Havcr1,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell
+Proximal tubular cell,,Dcdc2a,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell
+Proximal tubular cell,,Krt20,Human,Kidney,Kidney,Normal,Normal cell,Injured Proximal tubular cell

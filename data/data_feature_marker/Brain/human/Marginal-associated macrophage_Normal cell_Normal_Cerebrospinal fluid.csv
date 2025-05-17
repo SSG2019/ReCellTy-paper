@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,Marginal-associated,APOE,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Marginal-associated macrophage
+macrophage,Marginal-associated,TREM2,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Marginal-associated macrophage
+macrophage,Marginal-associated,CX3CR1,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Marginal-associated macrophage
+macrophage,Marginal-associated,LYVE1,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Marginal-associated macrophage

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,YAP1,YAP1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,MUC1,MUC1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT18,KRT18

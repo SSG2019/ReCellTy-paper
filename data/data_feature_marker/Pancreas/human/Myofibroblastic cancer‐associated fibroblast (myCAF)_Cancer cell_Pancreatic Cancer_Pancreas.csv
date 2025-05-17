@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Myofibroblastic,TAGLN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,TPM1,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,MYL9,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Myofibroblastic,TPM2,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Cancer‐associated,POSTN,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)
+Fibroblast,Cancer‐associated,MMP11,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Myofibroblastic cancer‐associated fibroblast (myCAF)

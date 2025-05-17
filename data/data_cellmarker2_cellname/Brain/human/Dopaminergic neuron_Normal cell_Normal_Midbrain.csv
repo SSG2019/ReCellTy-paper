@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Midbrain,UBERON_0001891,Normal,Normal cell,Dopaminergic neuron,CL_0000700,FOLR1,FOLR1

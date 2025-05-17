@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Corticotroph,PITX1,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,Corticotroph,TBX19,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,Corticotroph,POMC,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,Tumor,EPCAM,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,,CHGB,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,,PCSK1N,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,,SCG2,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell
+cell,,RASD1,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Corticotroph tumor cell

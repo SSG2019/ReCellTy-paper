@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Ductal carcinoma in situ,Cancer cell,Cancer cell,CL_0001064,KRT18,KRT18
+Human,Breast,Breast,UBERON_0000310,Ductal carcinoma in situ,Cancer cell,Cancer cell,CL_0001064,KRT7,KRT7
+Human,Breast,Breast,UBERON_0000310,Ductal carcinoma in situ,Cancer cell,Cancer cell,CL_0001064,EPCAM,EPCAM
+Human,Breast,Breast,UBERON_0000310,Ductal carcinoma in situ,Cancer cell,Cancer cell,CL_0001064,ERBB2,ERBB2

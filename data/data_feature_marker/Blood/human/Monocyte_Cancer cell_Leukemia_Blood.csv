@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Blood,Blood,Leukemia,Cancer cell,Monocyte
+Monocyte,,IBA1,Human,Blood,Blood,Leukemia,Cancer cell,Monocyte
+Monocyte,,TMEM119,Human,Blood,Blood,Leukemia,Cancer cell,Monocyte
+Monocyte,,AIF1,Human,Blood,Blood,Leukemia,Cancer cell,Monocyte

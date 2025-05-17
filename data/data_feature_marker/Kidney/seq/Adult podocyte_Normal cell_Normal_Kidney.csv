@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adult podocyte,,Wt1,Human,Kidney,Kidney,Normal,Normal cell,Adult podocyte
+Adult podocyte,,Cdkn1c,Human,Kidney,Kidney,Normal,Normal cell,Adult podocyte
+Adult podocyte,,Nphs1,Human,Kidney,Kidney,Normal,Normal cell,Adult podocyte
+Adult podocyte,,Synpo,Human,Kidney,Kidney,Normal,Normal cell,Adult podocyte
+Adult podocyte,,Nphs2,Human,Kidney,Kidney,Normal,Normal cell,Adult podocyte

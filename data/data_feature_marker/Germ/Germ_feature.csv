@@ -1,0 +1,182 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Common lymphoid progenitor cell,,CD34,Human,Germ,Germ,Normal,Normal cell,Common lymphoid progenitor cell
+Common lymphoid progenitor cell,,CD38,Human,Germ,Germ,Normal,Normal cell,Common lymphoid progenitor cell
+Common lymphoid progenitor cell,,CD10,Human,Germ,Germ,Normal,Normal cell,Common lymphoid progenitor cell
+Common lymphoid progenitor cell,,MME,Human,Germ,Germ,Normal,Normal cell,Common lymphoid progenitor cell
+Endoderm cell,Definitive,CD184,Human,Germ,Germ,Normal,Normal cell,Definitive endoderm cell
+Endoderm cell,Definitive,CXCR4,Human,Germ,Germ,Normal,Normal cell,Definitive endoderm cell
+Ectoderm cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell
+Ectoderm cell,,NCAM,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell
+Ectoderm cell,,NCAM1,Human,Germ,Germ,Normal,Normal cell,Ectoderm cell
+Embryonic stem cell,,CD9,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CCR4,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD24,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD30,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD324,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD15,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD49f,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD29,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD133,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CD338,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,Frizzled-5,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,GCTM-2,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,Podocalyxin,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,SSEA-3,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,SSEA-4,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,TRA-1-60,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,TRA-1-81,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,TNFRSF8,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,CDH1,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,FUT4,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,ITGA6,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,ITGB1,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,PROM1,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,ABCG2,Human,Germ,Germ,Normal,Normal cell,Embryonic stem cell
+Endothelial cell,Progenitor,CD34,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,CD31,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Inflammation,CD62E,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,CD106,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,CD105,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,PECAM1,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Inflammation,SELE,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,VCAM1,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Progenitor,Granulocyte,CD34,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,Monocyte,CD123,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,Monocyte,IL3RA,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,,CD38,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,,CD45RA,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Hemangioblast,,CD34,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,EPHB4,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD324,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD144,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD143,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD309,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD31,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD133,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CD202b,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,Podocalyxin,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CDH1,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,CDH5,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,ACE,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,KDR,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,PECAM1,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hemangioblast,,PROM1,Human,Germ,Germ,Normal,Normal cell,Hemangioblast
+Hematopoietic stem cell,,CD34,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD38,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD164,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD117,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD90,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD106,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD184,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD133,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD338,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD105,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD202b,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,FLK-1,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,KIT,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,THY1,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,VCAM1,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CXCR4,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PROM1,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,ABCG2,Human,Germ,Germ,Normal,Normal cell,Hematopoietic stem cell
+Megakaryocyte-erythroid progenitor,,CD34,Human,Germ,Germ,Normal,Normal cell,Megakaryocyte-erythroid progenitor
+Megakaryocyte-erythroid progenitor,,CD38,Human,Germ,Germ,Normal,Normal cell,Megakaryocyte-erythroid progenitor
+Megakaryocyte-erythroid progenitor,,CD123,Human,Germ,Germ,Normal,Normal cell,Megakaryocyte-erythroid progenitor
+Megakaryocyte-erythroid progenitor,,CD45RA,Human,Germ,Germ,Normal,Normal cell,Megakaryocyte-erythroid progenitor
+Megakaryocyte-erythroid progenitor,,IL3RA,Human,Germ,Germ,Normal,Normal cell,Megakaryocyte-erythroid progenitor
+Mesenchymal stem cell,cell adhesion,CD44,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,cell adhesion,CD166,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,immunosuppressive,CD73,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,stem cell characteristics,CD90,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,mesenchymal identity,CD105,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesoderm cell,,CD5,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD14,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD44,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD72,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD13,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD15,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD54,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD49f,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD29,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD10,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD73,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD31,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD71,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD90,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD106,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD105,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,CD49d,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,STRO-1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,ANPEP,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,FUT4,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,ICAM1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,ITGA6,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,ITGB1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,MME,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,NT5E,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,PECAM1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,TFRC,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,THY1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+Mesoderm cell,,VCAM1,Human,Germ,Germ,Normal,Normal cell,Mesoderm cell
+embryonic stem cell,Mesodermal,CD34,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CD325,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CD31,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CDH2,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,PECAM1,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+Myeloblast,,CD33,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CD13,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CD116,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CD114,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CD15,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CD91,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,ANPEP,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CSF2RA,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,CSF3R,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,FUT4,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Myeloblast,,LRP1,Human,Germ,Germ,Normal,Normal cell,Myeloblast
+Neural crest cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD271,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD57,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,CD49d,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,NGFR,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural crest cell,,B3GAT1,Human,Germ,Germ,Normal,Normal cell,Neural crest cell
+Neural tube cell,,CD81,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,NOTCH1,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,ABCG2,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD95,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD15,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD49f,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD146,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD271,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD184,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD349,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD57,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CD288,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,Neuroglycan-C,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,Neuropilin-2,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,FAS,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,FUT4,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,ITGA6,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,MCAM,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,NGFR,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,CXCR4,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,FZD9,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,B3GAT1,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Neural tube cell,,TLR8,Human,Germ,Germ,Normal,Normal cell,Neural tube cell
+Primitive endoderm cell,,CD325,Human,Germ,Germ,Normal,Normal cell,Primitive endoderm cell
+Primitive endoderm cell,,CDH2,Human,Germ,Germ,Normal,Normal cell,Primitive endoderm cell
+Primordial germ cell,,VASA,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dnmt3l,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dppa2,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dppa3,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,DDX4,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Erythroid,,PU.1,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Iron Uptake,CD71,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,,CD105,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Erythroid Lineage,Glycophorin,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,,SPI1,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+Erythroid,Iron Uptake,TFRC,Human,Germ,Germ,Normal,Normal cell,Proerythroblast
+germ cell,,Dnmt3l,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+germ cell,,Dppa2,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+germ cell,,Dppa3,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell

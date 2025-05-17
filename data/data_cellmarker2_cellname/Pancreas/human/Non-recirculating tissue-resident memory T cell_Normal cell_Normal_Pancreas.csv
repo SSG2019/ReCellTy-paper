@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Non-recirculating tissue-resident memory T cell,,CD103,ITGAE
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Non-recirculating tissue-resident memory T cell,,CD49a,ITGA1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Non-recirculating tissue-resident memory T cell,,PD-1,PDCD1

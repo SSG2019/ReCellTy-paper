@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell,CL_0000788,CD23,FCER2
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell,CL_0000788,CD38,CD38
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell,CL_0000788,IgM,
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Mature naive B cell,CL_0000788,IgD,

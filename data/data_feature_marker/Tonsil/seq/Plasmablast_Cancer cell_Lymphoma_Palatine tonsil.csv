@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+B cell,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+B cell,,CD9,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast

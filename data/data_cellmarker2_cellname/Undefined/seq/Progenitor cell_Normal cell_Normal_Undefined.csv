@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,PDX1,PDX1
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,PTF1A,PTF1A
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,NKX6.1,NKX6-1
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,AZU1,AZU1
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,CD18,ITGB2
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,GP9,GP9
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,CD44,CD44
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,KLF1,KLF1
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,CD326,
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,GATA2,GATA2
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,ICAM2,ICAM2
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,KIT,KIT
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,PF4,PF4
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,GYPA,GYPA
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,PRNT3,
+Human,Undefined,Undefined,,Normal,Normal cell,Progenitor cell,CL_0011026,CD38,CD38

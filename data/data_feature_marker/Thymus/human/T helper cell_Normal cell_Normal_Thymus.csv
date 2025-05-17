@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T helper cell,,Cd4,Human,Thymus,Thymus,Normal,Normal cell,T helper cell
+T helper cell,T follicular helper,Cxcr5,Human,Thymus,Thymus,Normal,Normal cell,T helper cell

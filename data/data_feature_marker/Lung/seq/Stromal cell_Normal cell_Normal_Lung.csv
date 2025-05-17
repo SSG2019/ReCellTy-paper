@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,,COL1A1,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,PDGFRA,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,APOE,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,DCN,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,COL1A2,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,COL3A1,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,WT1,Human,Lung,Lung,Normal,Normal cell,Stromal cell
+Stromal cell,,ACTA2,Human,Lung,Lung,Normal,Normal cell,Stromal cell

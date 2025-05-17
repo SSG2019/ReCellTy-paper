@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Nucleated cell,,Beta2Microglobulin (B2M),Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Nucleated cell
+Nucleated cell,,HLA-B,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Nucleated cell
+Nucleated cell,,HLA-C,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Nucleated cell
+Nucleated cell,,HLA-A,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Nucleated cell

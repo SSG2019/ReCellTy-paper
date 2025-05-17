@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CD122,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD45,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,EOMES,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIRS,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NK1.1,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL2RB,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PTPRC,Human,Intestine,Intestine,Normal,Normal cell,Natural killer cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14+CD16+ monocyte,CL_0002397,CD68,CD68
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14+CD16+ monocyte,CL_0002397,S100A12,S100A12
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14+CD16+ monocyte,CL_0002397,CD16,FCGR3A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD14+CD16+ monocyte,CL_0002397,CD14,CD14

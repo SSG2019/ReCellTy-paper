@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,B-lymphoblastic leukemia,Cancer cell,B cell,CL_0000236,CD22,CD22
+Human,Blood,Peripheral blood,UBERON_0005408,B-lymphoblastic leukemia,Cancer cell,B cell,CL_0000236,CD19,CD19

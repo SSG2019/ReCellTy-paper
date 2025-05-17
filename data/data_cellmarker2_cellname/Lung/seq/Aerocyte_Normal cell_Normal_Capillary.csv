@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Aerocyte,CL_4028003,EDNRB,EDNRB

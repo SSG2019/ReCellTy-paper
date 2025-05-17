@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,ACTA2,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH4,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SNAIL,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,ZEB1,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SNAI1,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Epithelial cell

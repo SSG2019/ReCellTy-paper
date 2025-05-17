@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Classical dendritic cell,b,MRC1,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)
+Classical dendritic cell,b,CLEC10A,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)

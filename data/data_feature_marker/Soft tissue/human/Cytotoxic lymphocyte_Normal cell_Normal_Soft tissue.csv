@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,Cytotoxic,FGFBP2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,EOMES,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRD1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRC4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,GNLY,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,CD8A,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRC3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte

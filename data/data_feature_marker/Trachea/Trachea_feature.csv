@@ -1,0 +1,47 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Airway basal cell,,NRG1,Human,Trachea,Trachea,Normal,Normal cell,Airway basal cell
+Basal cell,,KRT14,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TP63,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Brush cell,Tuft cell,POU2F3,Human,Trachea,Epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+secretory cell,secretory,SCGB1A1,Human,Trachea,Epithelium,Normal,Normal cell,Early secretory cell
+secretory cell,Early,WFDC2,Human,Trachea,Epithelium,Normal,Normal cell,Early secretory cell
+Epithelial cell,,CLDN1,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CFTR,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DSP,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ZO1,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CK18,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CTNNB1,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,GJB3,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CX26,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,β-catenin,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CX43,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,occludin,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,GJB2,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,GJA1,Human,Trachea,Bronchiole,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Trachea,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SCGB1A,Human,Trachea,Trachea,Normal,Normal cell,Epithelial cell
+Ionocyte,,FOXI1,Human,Trachea,Epithelium,Normal,Normal cell,Ionocyte
+Macrophage,,Adgre1,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Macrophage,,Fcgr1,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Mesenchymal cell,,vimentin,Human,Trachea,Bronchiole,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Trachea,Bronchiole,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,fibronectin,Human,Trachea,Bronchiole,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,collagen I,Human,Trachea,Bronchiole,Normal,Normal cell,Mesenchymal cell
+Neuroendocrine cell,,ASCL1,Human,Trachea,Epithelium,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,,PNECs,Human,Trachea,Epithelium,Normal,Normal cell,Neuroendocrine cell
+Basal cell,,KRT14,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TP63,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Trachea,Epithelium,Normal,Normal cell,Basal cell
+Brush cell,Tuft cell,POU2F3,Human,Trachea,Epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+secretory cell,secretory,SCGB1A1,Human,Trachea,Epithelium,Normal,Normal cell,Early secretory cell
+secretory cell,secretory,WFDC2,Human,Trachea,Epithelium,Normal,Normal cell,Early secretory cell
+Epithelial cell,,KRT8,Human,Trachea,Epithelium,Normal,Normal cell,Epithelial cell
+Ionocyte,,FOXI1,Human,Trachea,Epithelium,Normal,Normal cell,Ionocyte
+Macrophage,,Adgre1,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Macrophage,,Fcgr1,Human,Trachea,Epithelium,Normal,Normal cell,Macrophage
+Neuroendocrine cell,Neuroendocrine,ASCL1,Human,Trachea,Epithelium,Normal,Normal cell,Neuroendocrine cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,H2-M2,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,Ly6c1,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,Itgax,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,Csf1r,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,Ly6g6c,
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,Cx3cr1,

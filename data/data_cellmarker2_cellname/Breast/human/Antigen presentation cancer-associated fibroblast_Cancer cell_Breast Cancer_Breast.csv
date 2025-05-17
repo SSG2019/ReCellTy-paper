@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast,,CAV1,CAV1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast,,CD74,CD74
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast,,CLU,CLU

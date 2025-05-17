@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Monocyte-derived,CD14,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,CD64,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,FCGR1A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CD1a,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,HLA-DR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,BDCA1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,FcεRI,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,CD1C,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,,MRC1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Monocyte-derived dendritic cell

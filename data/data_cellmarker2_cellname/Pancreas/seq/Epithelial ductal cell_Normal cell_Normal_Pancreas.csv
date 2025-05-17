@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial ductal cell,,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial ductal cell,,AQP5,AQP5
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial ductal cell,,CDH1,CDH1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial ductal cell,,SOX9,SOX9

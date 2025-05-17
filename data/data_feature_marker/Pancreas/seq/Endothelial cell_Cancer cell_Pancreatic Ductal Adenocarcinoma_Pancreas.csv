@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CDH5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,PLVAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endothelial cell

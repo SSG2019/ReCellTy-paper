@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,POSTN,POSTN
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,CK18,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,CK19,KRT19
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,EpCAM,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Fibroblast,CL_0000057,CK8,KRT8

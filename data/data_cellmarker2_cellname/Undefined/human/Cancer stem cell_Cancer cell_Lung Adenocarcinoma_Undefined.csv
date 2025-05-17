@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Lung Adenocarcinoma,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Lung Adenocarcinoma,Cancer cell,Cancer stem cell,,CD44v,

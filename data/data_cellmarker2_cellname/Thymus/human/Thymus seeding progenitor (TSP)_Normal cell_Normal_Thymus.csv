@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,KIAA0087,KIAA0087
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,CD53,CD53
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,CD164,CD164
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,LTB,LTB
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,HOXA10,HOXA10
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,HOPX,HOPX
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,EVL,EVL
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,CCR7,CCR7
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,ARL6IP5,ARL6IP5
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,HOXA9,HOXA9
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymus seeding progenitor (TSP),,KIAA0125,FAM30A

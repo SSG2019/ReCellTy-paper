@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,AR,AR
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,TMPRSS2,TMPRSS2
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,NKX3.1,NKX3-1

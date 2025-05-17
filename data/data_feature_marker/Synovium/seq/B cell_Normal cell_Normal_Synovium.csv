@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,RALGPS2,Human,Synovium,Synovium,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Synovium,Synovium,Normal,Normal cell,B cell

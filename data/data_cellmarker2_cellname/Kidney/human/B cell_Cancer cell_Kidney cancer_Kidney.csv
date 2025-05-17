@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,B cell,CL_0000236,CD20,MS4A1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,B cell,CL_0000236,CD21,CR2

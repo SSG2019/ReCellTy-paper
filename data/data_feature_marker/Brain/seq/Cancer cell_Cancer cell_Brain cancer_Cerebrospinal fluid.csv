@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,LCN2,Human,Brain,Cerebrospinal fluid,Brain cancer,Cancer cell,Cancer cell
+Cancer cell,,SLC22A17,Human,Brain,Cerebrospinal fluid,Brain cancer,Cancer cell,Cancer cell

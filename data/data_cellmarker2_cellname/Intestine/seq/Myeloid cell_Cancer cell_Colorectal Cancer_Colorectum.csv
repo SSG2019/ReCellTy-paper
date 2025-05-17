@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Myeloid cell,CL_0000763,CST7,CST7
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD4,CD4
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD63,CD63
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Myeloid cell,CL_0000763,MS4A7,MS4A7
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14

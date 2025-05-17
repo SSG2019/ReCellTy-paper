@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD105,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD73,NT5E
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD90,THY1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD146,MCAM

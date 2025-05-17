@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,cDC2,CD1c,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,CD11c,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,CD11b,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,SIRPα,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,HLA-DR,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,CD103,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,ITGAE,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,CD1a,Human,Genitals,Anogenital tract,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

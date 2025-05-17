@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell

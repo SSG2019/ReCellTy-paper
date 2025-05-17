@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal metaplasia cell,,CDX2,CDX2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal metaplasia cell,,CDX1,CDX1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal metaplasia cell,,ENO1,ENO1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal metaplasia cell,,PGC,PGC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Intestinal metaplasia cell,,TFF3,TFF3

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epicardial cell,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,COL1A1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,WT1,Human,Heart,Heart,Normal,Normal cell,Epicardial cell
+Epicardial cell,,TBX18,Human,Heart,Heart,Normal,Normal cell,Epicardial cell

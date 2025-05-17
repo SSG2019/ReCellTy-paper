@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Mycosis fungoides,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Undefined,Undefined,,Mycosis fungoides,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14

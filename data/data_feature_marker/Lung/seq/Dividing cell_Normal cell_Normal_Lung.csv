@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Dividing,MKI67,Human,Lung,Lung,Normal,Normal cell,Dividing cell
+cell,Dividing,CDK1,Human,Lung,Lung,Normal,Normal cell,Dividing cell

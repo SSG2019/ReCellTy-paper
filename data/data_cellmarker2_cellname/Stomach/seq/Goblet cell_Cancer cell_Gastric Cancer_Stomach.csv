@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,TFF3,TFF3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,SPINK4,SPINK4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,ITLN1,ITLN1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,HES6,HES6
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Goblet cell,CL_0000160,ITLN1,ITLN1

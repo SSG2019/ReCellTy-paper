@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic stem cell,CL_0000034,AC133,PROM1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic stem cell,CL_0000034,NANOG,NANOG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic stem cell,CL_0000034,LGR5,LGR5
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic stem cell,CL_0000034,SSEA-4,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic stem cell,CL_0000034,c-Kit,

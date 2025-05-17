@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,memory,CD27,Human,Blood,Blood,Normal,Normal cell,IgM memory B cell
+B cell,IgM,IgM,Human,Blood,Blood,Normal,Normal cell,IgM memory B cell
+B cell,,IgD,Human,Blood,Blood,Normal,Normal cell,IgM memory B cell

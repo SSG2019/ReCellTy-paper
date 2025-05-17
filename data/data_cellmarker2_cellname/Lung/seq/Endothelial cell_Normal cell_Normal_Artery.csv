@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,GJA5,GJA5
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,FBLN5,FBLN5
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,GJA4,GJA4
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,HEY1,HEY1
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,SOX17,SOX17
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,LTBP4,LTBP4
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,SEMA3G,SEMA3G
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,BMX,BMX
+Human,Lung,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,EFNB2,EFNB2

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,SALL4,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Neural,Nestin,Human,Testis,Testis,Normal,Normal cell,Stem cell
+Stem cell,Neural,SOX2,Human,Testis,Testis,Normal,Normal cell,Stem cell

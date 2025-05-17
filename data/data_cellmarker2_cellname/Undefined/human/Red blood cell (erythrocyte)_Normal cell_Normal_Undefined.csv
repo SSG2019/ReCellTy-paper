@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD51,ITGAV
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD61,ITGB3
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,MYC,MYC
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,KLF1,KLF1
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,EPCAM,EPCAM
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Undefined,Undefined,,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GYPA,GYPA

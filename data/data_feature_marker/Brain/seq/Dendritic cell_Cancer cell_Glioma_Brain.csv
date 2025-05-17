@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen presentation,MHC-II,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,CD1c+,CD1C,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Cross-presentation,BATF3,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell

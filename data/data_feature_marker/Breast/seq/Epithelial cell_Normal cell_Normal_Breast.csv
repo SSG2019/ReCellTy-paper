@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,cytokeratins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,desmoplakins,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Epithelial cell
+Epithelial cell,,S100A9,Human,Breast,Breast,Normal,Normal cell,Epithelial cell

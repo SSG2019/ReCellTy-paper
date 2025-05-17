@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Stromal cell,CL_0000499,DCN,DCN
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Stromal cell,CL_0000499,CLEC11A,CLEC11A
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Stromal cell,CL_0000499,LUM,LUM

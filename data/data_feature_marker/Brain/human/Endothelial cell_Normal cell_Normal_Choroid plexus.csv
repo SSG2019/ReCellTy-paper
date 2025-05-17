@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD31,Human,Brain,Choroid plexus,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Brain,Choroid plexus,Normal,Normal cell,Endothelial cell

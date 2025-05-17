@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,MDSC,CD33,Human,Undefined,Undefined,Undefined,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,MDSC,CD11b,Human,Undefined,Undefined,Undefined,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,CD16,Human,Undefined,Undefined,Undefined,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,FCGR3A,Human,Undefined,Undefined,Undefined,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Suppressor,CD14,Human,Undefined,Undefined,Undefined,Cancer cell,Myeloid derived suppressor cell (MDSC)

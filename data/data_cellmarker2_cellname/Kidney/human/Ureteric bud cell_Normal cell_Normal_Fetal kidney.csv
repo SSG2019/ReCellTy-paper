@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,NMU,NMU
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,LAMA1,LAMA1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,CLDN6,CLDN6
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,KRT18,KRT18
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,KRT8,KRT8
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,MMP7,MMP7
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Ureteric bud cell,,RET,RET

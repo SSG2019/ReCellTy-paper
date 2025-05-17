@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatocyte,,TBX3,Human,Liver,Liver,Combined hepatocellular and intrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,GPC3,Human,Liver,Liver,Combined hepatocellular and intrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,APOE,Human,Liver,Liver,Combined hepatocellular and intrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte
+Hepatocyte,,ALB,Human,Liver,Liver,Combined hepatocellular and intrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte

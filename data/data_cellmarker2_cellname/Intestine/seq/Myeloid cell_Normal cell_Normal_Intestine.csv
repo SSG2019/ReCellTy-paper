@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,NLRP12,NLRP12
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,CCDC88B,CCDC88B
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,LRRC2,LRRC2
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,S100A9,S100A9
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,C1QC,C1QC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Myeloid cell,CL_0000763,CD4,CD4

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,like,COL1A1,Human,Embryo,Embryonic heart,Normal,Normal cell,Fibroblast-like cell
+Fibroblast,like,COL1A2,Human,Embryo,Embryonic heart,Normal,Normal cell,Fibroblast-like cell
+Fibroblast,like,POSTN,Human,Embryo,Embryonic heart,Normal,Normal cell,Fibroblast-like cell

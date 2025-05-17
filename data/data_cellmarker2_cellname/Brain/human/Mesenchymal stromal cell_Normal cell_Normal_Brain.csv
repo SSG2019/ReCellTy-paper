@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD106,VCAM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,Nestin,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD29,ITGB1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD44,CD44
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,Sca-1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD51,ITGAV
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD90,THY1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD29,ITGB1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD73,NT5E
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD146,MCAM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD105,

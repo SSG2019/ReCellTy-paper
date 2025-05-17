@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,LRRC75A,LRRC75A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,BCL11A,BCL11A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,GATA2,GATA2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,AVP,AVP
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,GSTM3,GSTM3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,AREG,AREG

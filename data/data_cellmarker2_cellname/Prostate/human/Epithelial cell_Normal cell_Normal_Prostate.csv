@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,Androgen receptor,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin-8,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,P63,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin-18,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,ESRP2,ESRP2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,ESRP1,ESRP1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

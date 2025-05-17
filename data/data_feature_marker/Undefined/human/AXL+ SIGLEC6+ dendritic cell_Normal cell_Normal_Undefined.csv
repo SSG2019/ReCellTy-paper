@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,AXL+,AXL,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,SIGLEC6+,SIGLEC6,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,BCL11A,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,CD5,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,SIGLEC1,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,TCF4,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,CD2,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,CD123,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,CX3CR1,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,LYZ,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,KLF12,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell
+dendritic cell,,IL3RA,Human,Undefined,Undefined,Normal,Normal cell,AXL+ SIGLEC6+ dendritic cell

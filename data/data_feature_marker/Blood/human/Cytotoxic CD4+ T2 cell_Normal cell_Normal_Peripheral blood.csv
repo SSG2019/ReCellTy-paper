@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,NKG7,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic CD4+ T2 cell
+T cell,Cytotoxic,PRF1,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic CD4+ T2 cell
+T cell,Cytotoxic,GZMB,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic CD4+ T2 cell

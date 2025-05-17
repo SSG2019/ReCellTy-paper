@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Lower layer,Emx2,Human,Brain,Nerve,Normal,Normal cell,Lower layer neuron
+Neuron,Lower layer,Fezf2,Human,Brain,Nerve,Normal,Normal cell,Lower layer neuron
+Neuron,,Sox2,Human,Brain,Nerve,Normal,Normal cell,Lower layer neuron

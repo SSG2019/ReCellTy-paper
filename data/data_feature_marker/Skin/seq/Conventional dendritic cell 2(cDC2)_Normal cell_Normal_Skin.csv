@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Conventional,CD1E,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,Conventional,CD1B,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,Conventional,IRF4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,,SOCS2,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,,SLCO5A1,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,NKG2D,KLRK1
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,CD40L,CD40LG
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,CD94,KLRD1
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,perforin,
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,granzymes,
+Human,Blood,Blood,UBERON_0000178,Melanoma,Cancer cell,Natural killer cell,CL_0000623,CD56,NCAM1

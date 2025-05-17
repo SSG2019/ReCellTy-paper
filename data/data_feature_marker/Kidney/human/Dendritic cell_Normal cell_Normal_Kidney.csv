@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD1C,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FLT3,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1c,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1E,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DPB1,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DRB1,Human,Kidney,Kidney,Normal,Normal cell,Dendritic cell

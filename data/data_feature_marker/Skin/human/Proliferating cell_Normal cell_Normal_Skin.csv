@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Proliferating cell,Proliferating,DUT,Human,Skin,Skin,Normal,Normal cell,Proliferating cell
+Proliferating cell,Proliferating,TYMS,Human,Skin,Skin,Normal,Normal cell,Proliferating cell

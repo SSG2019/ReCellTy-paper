@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Haematopoietic progenitor cell,,CD90,Human,Undefined,Undefined,Normal,Normal cell,Haematopoietic progenitor cell
+Haematopoietic progenitor cell,,CD34,Human,Undefined,Undefined,Normal,Normal cell,Haematopoietic progenitor cell
+Haematopoietic progenitor cell,,VECAD,Human,Undefined,Undefined,Normal,Normal cell,Haematopoietic progenitor cell
+Haematopoietic progenitor cell,,THY1,Human,Undefined,Undefined,Normal,Normal cell,Haematopoietic progenitor cell

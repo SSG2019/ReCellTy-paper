@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,EPAS1,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NTRK2,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CA4,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ADGRE5,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GPIHBP1,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ZNF608,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FCN3,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PRX,Human,Lung,Capillary,Normal,Normal cell,Endothelial cell

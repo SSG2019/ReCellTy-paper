@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD74,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell

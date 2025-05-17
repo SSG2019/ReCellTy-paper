@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Intestinal,stem,MYC,Human,Intestine,Colon epithelium,Normal,Normal cell,Intestinal stem cell
+Intestinal,stem,ASCL2,Human,Intestine,Colon epithelium,Normal,Normal cell,Intestinal stem cell
+Intestinal,stem,OLFM4,Human,Intestine,Colon epithelium,Normal,Normal cell,Intestinal stem cell
+Intestinal,stem,LGR5,Human,Intestine,Colon epithelium,Normal,Normal cell,Intestinal stem cell

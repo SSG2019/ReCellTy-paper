@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CD39,ENTPD1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CX3CR1,CX3CR1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,NKG2D,KLRK1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CD8A,CD8A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CD8B,CD8B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CD8B,CD8B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,CD8A,CD8A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMK,GZMK
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,CD8+ T cell,CL_0000625,NKG7,NKG7

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,CXCR6,CXCR6
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,Foxp3,
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,GITR,TNFRSF18
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,CTLA-4,CTLA4
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,CD25,IL2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,CCR4,CCR4
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory T (Treg) cell,,Ikzf2,

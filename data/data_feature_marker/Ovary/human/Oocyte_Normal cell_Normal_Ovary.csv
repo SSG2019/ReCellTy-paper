@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oocyte,,NALP9,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,NLRP5,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,NLRP9,Human,Ovary,Ovary,Normal,Normal cell,Oocyte

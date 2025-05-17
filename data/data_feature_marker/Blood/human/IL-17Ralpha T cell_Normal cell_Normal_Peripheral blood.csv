@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,IL-17Ralpha,CD127,Human,Blood,Peripheral blood,Normal,Normal cell,IL-17Ralpha T cell
+T cell,IL-17Ralpha,IL7R,Human,Blood,Peripheral blood,Normal,Normal cell,IL-17Ralpha T cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,IL-17Ralpha T cell

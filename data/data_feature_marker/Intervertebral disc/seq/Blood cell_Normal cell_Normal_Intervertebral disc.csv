@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Blood cell,,MPO,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,PRPRC,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,CD74,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell
+Blood cell,,LYZ,Human,Intervertebral disc,Intervertebral disc,Normal,Normal cell,Blood cell

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRF1,KLRF1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRK1,KLRK1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,IL2RB,IL2RB
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,GZMA,GZMA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRC1,KLRC1

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Giant,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell
+Cancer cell,Polyploid,CD133,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell
+Cancer cell,Polyploid,PROM1,Human,Breast,Breast,Breast Cancer,Cancer cell,Polyploid giant cancer cell

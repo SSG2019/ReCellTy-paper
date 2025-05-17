@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,LTB,Human,Blood,Peripheral blood,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD10,Human,Blood,Peripheral blood,Normal,Normal cell,Lymphocyte
+Lymphocyte,,MME,Human,Blood,Peripheral blood,Normal,Normal cell,Lymphocyte

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Human pluripotent stem cell (hPSC),,OCT4,POU5F1
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Human pluripotent stem cell (hPSC),,NANOG,NANOG
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Human pluripotent stem cell (hPSC),,SOX2,SOX2

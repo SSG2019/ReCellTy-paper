@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+hematopoietic stem cell,CD34+,PRDX1,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ hematopoietic stem cell
+hematopoietic stem cell,,AVP,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ hematopoietic stem cell
+hematopoietic stem cell,,SPINK2,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ hematopoietic stem cell

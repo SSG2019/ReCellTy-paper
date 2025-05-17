@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,ALDH,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GYPA,GYPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD235a,GYPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA1,HBA1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBQ1,HBQ1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,RHCE,RHCE
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBA2,HBA2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,ALAS2,ALAS2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GPA,GYPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD71,TFRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD36,CD36
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD71,TFRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CD105,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,HBD,HBD
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,CA1,CA1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,TFRC,TFRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,ENG,ENG
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,TFR2,TFR2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GYPA,GYPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,GYPC,GYPC

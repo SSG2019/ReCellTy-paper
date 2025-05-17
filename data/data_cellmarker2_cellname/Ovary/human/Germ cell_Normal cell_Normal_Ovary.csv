@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,MATER,NLRP5
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,BMP15,BMP15
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,VASA,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,GDF9,GDF9
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,ZAR1,ZAR1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,VASA,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,DAZL,DAZL
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,ZP4,ZP4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,c-Kit,
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,VASA,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,DAZL,DAZL
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,GDF9,GDF9
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,DAZL,DAZL
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,SCP3,CTDSPL
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,SALL4,SALL4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,VASA,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,c-Kit,
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,GDF9,GDF9
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,OCT4,POU5F1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,DDX4,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,OCT3/4,
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,SALL4,SALL4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,AFP,AFP
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Germ cell,CL_0000586,Glypican-3,

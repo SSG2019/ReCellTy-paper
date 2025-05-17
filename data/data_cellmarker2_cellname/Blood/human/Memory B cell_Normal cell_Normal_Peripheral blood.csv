@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD21,CR2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD20,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,MS4A1,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD79A,CD79A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,MS4A1,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD20,MS4A1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD19,CD19
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,IgD,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,AIM2,AIM2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,JCHAIN,JCHAIN
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27

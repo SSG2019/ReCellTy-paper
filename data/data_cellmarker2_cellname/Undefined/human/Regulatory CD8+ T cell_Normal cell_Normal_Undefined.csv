@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD8+ T cell,CL_0000795,CD28,CD28
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD8+ T cell,CL_0000795,CD8,CD8A
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD8+ T cell,CL_0000795,IL-10,IL10

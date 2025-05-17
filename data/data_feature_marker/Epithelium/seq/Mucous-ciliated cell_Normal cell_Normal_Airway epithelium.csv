@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ciliated cell,Mucous,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell
+Ciliated cell,,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell

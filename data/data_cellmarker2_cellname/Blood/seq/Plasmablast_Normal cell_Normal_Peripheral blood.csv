@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmablast,CL_0000980,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmablast,CL_0000980,TNFRSF17,TNFRSF17
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmablast,CL_0000980,MZB1,MZB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Plasmablast,CL_0000980,CD38,CD38

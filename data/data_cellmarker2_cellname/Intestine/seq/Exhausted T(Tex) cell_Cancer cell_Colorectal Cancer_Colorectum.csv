@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PDCD1,PDCD1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,HAVCR2,HAVCR2
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CTLA4,CTLA4
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CTLA4,CTLA4
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TIGIT,TIGIT
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PDCD1,PDCD1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,LAYN,LAYN
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,LAG3,LAG3
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,HAVCR2,HAVCR2

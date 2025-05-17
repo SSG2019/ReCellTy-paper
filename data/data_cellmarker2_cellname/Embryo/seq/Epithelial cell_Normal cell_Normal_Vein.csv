@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,PIEZO2,PIEZO2
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,COL13A1,COL13A1
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,ICAM1,ICAM1
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,NRP2,NRP2
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,LRP5,LRP5
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,PCDH17,PCDH17
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,APLNR,APLNR
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,FLRT2,FLRT2
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,ITGA8,ITGA8
+Human,Embryo,Vein,UBERON_0001638,Normal,Normal cell,Epithelial cell,CL_0000066,GYPC,GYPC

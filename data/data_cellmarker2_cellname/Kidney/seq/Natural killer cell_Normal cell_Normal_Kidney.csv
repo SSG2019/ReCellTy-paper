@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,IFNG,IFNG
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,PRF1,PRF1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Il2rb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Klrk1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Ncr1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Klrd1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Klre1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Ccl5,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Gzma,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Xcl1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Cd7,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Natural killer cell,CL_0000623,Nkg7,

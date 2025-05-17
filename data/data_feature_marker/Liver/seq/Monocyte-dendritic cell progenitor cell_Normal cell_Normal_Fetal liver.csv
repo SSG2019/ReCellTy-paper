@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Monocyte,CCR2,Human,Liver,Fetal liver,Normal,Normal cell,Monocyte-dendritic cell progenitor cell
+Progenitor cell,Monocyte,CSF1R,Human,Liver,Fetal liver,Normal,Normal cell,Monocyte-dendritic cell progenitor cell
+Progenitor cell,Dendritic,CSF1R,Human,Liver,Fetal liver,Normal,Normal cell,Monocyte-dendritic cell progenitor cell

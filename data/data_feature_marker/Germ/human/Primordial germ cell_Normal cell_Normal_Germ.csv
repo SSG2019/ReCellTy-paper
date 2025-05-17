@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Primordial germ cell,,VASA,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dnmt3l,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dppa2,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,Dppa3,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,DDX4,Human,Germ,Germ,Normal,Normal cell,Primordial germ cell

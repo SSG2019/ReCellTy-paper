@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Basal,CD49f,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,Basal,ITGA6,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,CD44,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,CD24,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell
+Progenitor cell,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Basal progenitor cell

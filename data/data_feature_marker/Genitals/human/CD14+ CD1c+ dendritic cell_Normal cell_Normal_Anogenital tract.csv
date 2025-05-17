@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,CD1c+,CD1c,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell
+dendritic cell,CD14+,CD14,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell
+dendritic cell,,DC-SIGN,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell
+dendritic cell,,HLA-DR,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell
+dendritic cell,,CD11c,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell
+dendritic cell,,CD209,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ CD1c+ dendritic cell

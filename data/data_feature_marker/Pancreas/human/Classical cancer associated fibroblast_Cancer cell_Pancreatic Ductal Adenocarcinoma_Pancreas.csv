@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer Associated,MMP11,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,Cancer Associated,SFRP2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,Cancer Associated,FAP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast
+Fibroblast,,COL1A1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Classical cancer associated fibroblast

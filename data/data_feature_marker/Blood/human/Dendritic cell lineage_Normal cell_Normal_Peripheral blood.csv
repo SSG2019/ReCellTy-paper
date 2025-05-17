@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell lineage,,SIGLEC6,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,CD123,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,AXL,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,CD33,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,CD2,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,SIRPA,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage
+Dendritic cell lineage,,IL3RA,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell lineage

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Dendritic cell,CL_0000451,Clec9a,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Dendritic cell,CL_0000451,Xcr1,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Dendritic cell,CL_0000451,Irf8,
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209a,

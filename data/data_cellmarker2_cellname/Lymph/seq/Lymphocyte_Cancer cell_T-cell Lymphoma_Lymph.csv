@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,T-cell Lymphoma,Cancer cell,Lymphocyte,CL_0000542,NUSAP1,NUSAP1
+Human,Lymph,Lymph,UBERON_0002391,T-cell Lymphoma,Cancer cell,Lymphocyte,CL_0000542,PCNA,PCNA
+Human,Lymph,Lymph,UBERON_0002391,T-cell Lymphoma,Cancer cell,Lymphocyte,CL_0000542,ATP5C1,ATP5F1C

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD103,ITGAE
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD161,KLRB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD69,CD69

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Somatotroph cell,,GHRHR,Human,Brain,Brain,Normal,Normal cell,Somatotroph cell
+Somatotroph cell,,PIT-1,Human,Brain,Brain,Normal,Normal cell,Somatotroph cell
+Somatotroph cell,,GH2,Human,Brain,Brain,Normal,Normal cell,Somatotroph cell

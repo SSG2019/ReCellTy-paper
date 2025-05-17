@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell,CL_0002293,ck5,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell,CL_0002293,CD49f,ITGA6
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell,CL_0002293,ZBED2,ZBED2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell,CL_0002293,CTGF,CCN2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Thymic epithelial cell,CL_0002293,ck8,

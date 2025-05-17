@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,CCR7,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil
+Neutrophil,,ITGAM,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil
+Neutrophil,,CD33,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil
+Neutrophil,,CD15,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil
+Neutrophil,,CD11b,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil
+Neutrophil,,FUT4,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Neutrophil

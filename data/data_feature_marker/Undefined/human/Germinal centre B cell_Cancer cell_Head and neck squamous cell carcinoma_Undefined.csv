@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal centre,CD71,Human,Undefined,Undefined,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell
+B cell,Germinal centre,TFRC,Human,Undefined,Undefined,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell
+B cell,Germinal centre,CD10,Human,Undefined,Undefined,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell
+B cell,Germinal centre,MME,Human,Undefined,Undefined,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell

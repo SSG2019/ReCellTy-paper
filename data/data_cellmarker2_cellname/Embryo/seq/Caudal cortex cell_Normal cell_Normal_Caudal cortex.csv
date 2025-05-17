@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Caudal cortex,,Normal,Normal cell,Caudal cortex cell,,NEFL,NEFL
+Human,Embryo,Caudal cortex,,Normal,Normal cell,Caudal cortex cell,,NPY,NPY
+Human,Embryo,Caudal cortex,,Normal,Normal cell,Caudal cortex cell,,LPL,LPL

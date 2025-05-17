@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M1,CXCL10,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CXCL9,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,IFI27,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD169,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,FOS,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,S100A8,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,IL1B,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,SIGLEC1,Human,Skin,Skin,Normal,Normal cell,M1 macrophage

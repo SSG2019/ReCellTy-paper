@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,PDPN,PDPN
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,COL1A2,COL1A2
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,COL1A1,COL1A1
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,FAP,FAP
+Human,Skin,Dermis,,Normal,Normal cell,Myofibroblast,CL_0000186,COL3A1,COL3A1

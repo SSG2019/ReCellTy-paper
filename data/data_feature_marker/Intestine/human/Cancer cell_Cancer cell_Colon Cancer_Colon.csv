@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,Tomato,Human,Intestine,Colon,Colon Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD298,Human,Intestine,Colon,Colon Cancer,Cancer cell,Cancer cell
+Cancer cell,,ATP1B3,Human,Intestine,Colon,Colon Cancer,Cancer cell,Cancer cell

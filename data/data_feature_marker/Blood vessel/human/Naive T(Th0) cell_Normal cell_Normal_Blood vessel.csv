@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,CD45RA,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD8A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD8A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLIC3,CLIC3
+Human,Uterus,Uterus,UBERON_0000995,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,SCT,SCT

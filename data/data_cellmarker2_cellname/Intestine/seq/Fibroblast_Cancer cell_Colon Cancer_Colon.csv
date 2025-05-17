@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Fibroblast,CL_0000057,ENG,ENG
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1

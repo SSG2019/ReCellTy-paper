@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Hair follicle cell,CL_0002559,RUNX1,RUNX1
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Hair follicle cell,CL_0002559,CD34,CD34

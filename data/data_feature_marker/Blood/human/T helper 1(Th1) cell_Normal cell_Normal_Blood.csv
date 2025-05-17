@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th1,IFN-y,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,Th1,IFNG,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CXCR5,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CCR6,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CCR4,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CD4,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CCL4,Human,Blood,Blood,Normal,Normal cell,T helper 1(Th1) cell

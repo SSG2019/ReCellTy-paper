@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,POSTN,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast

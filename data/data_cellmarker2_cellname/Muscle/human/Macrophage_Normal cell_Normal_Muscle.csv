@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Macrophage,CL_0000235,F4/80,
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Macrophage,CL_0000235,PTPRC,PTPRC

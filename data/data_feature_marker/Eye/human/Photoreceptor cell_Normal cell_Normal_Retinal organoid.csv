@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Photoreceptor cell,,RCVRN,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,CRX,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell

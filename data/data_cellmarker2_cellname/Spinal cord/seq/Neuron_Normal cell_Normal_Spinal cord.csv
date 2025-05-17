@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Neuron,CL_0000540,JPH4,JPH4
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Neuron,CL_0000540,SRRM4,SRRM4
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Neuron,CL_0000540,RBFOX3,RBFOX3

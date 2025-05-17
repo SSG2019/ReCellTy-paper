@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Osteoblast,Osteoblast Differentiation,RUNX2,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Osteoblast Differentiation,DLX5,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Osteoblast Differentiation,SP7,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,PTH1R,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,Calcitonin and Related Receptor Agonists,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Metabolism,Calcitonin and Related Receptor Antagonists,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,TNFRSF11A,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD44,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD73,Human,Bone,Bone,Normal,Normal cell,Osteoblast
+Osteoblast,Immune/Bone Interaction,CD105,Human,Bone,Bone,Normal,Normal cell,Osteoblast

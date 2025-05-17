@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Marginal zone (MZ)-like,IgD,Human,Blood,Blood,Normal,Normal cell,Marginal zone(MZ)-like B cell
+B cell,Marginal zone (MZ)-like,CD27,Human,Blood,Blood,Normal,Normal cell,Marginal zone(MZ)-like B cell
+B cell,Marginal zone (MZ)-like,IgM,Human,Blood,Blood,Normal,Normal cell,Marginal zone(MZ)-like B cell

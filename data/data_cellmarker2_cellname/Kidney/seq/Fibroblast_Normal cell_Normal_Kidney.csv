@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,SPP1,SPP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,MYL12B,MYL12B
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Fibroblast,CL_0000057,Pdgfrb,

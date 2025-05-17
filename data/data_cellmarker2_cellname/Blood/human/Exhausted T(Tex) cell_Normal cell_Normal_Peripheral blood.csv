@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,TIGIT,TIGIT
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,CD160,CD160
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,LAG3,LAG3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,TIM-3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,PD-1,PDCD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,CTLA-4,CTLA4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,CD244,CD244
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,PD1,PDCD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,TIM3,HAVCR2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Exhausted T(Tex) cell,CL_0011025,LAG3,LAG3

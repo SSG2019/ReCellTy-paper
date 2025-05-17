@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT15,KRT15

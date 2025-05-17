@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,memory-like,TCF1,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,CD103,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,CD69,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,ITGAE,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell

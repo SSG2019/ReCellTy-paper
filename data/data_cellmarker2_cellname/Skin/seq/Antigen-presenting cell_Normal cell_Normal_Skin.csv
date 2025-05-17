@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Antigen-presenting cell,CL_0000145,HLA-DPB1,HLA-DPB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Antigen-presenting cell,CL_0000145,HLA-DRA,HLA-DRA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Antigen-presenting cell,CL_0000145,HLA-DQA1,HLA-DQA1

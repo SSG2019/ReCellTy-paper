@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+glial cell,Ensheathing,MPZ,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,Ensheathing,PLP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,S100B,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,PMP2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,ALX3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell

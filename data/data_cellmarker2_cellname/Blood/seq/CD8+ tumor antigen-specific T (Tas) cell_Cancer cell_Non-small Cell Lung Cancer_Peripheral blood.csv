@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Non-small Cell Lung Cancer,Cancer cell,CD8+ tumor antigen-specific T (Tas) cell,,CXCL13,CXCL13
+Human,Blood,Peripheral blood,UBERON_0005408,Non-small Cell Lung Cancer,Cancer cell,CD8+ tumor antigen-specific T (Tas) cell,,ENTPD1,ENTPD1

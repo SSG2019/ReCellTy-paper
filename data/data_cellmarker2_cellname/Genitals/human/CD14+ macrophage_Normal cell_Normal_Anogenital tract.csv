@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ macrophage,,DC-SIGN,CD209
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ macrophage,,HLA-DR,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ macrophage,,CD14,CD14
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ macrophage,,CD64,FCGR1A
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ macrophage,,FXIIIA,

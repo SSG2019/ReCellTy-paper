@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EpCAM,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD14,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD45,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PTPRC,Human,Bone marrow,Bone marrow,Hepatocellular Cancer,Cancer cell,Epithelial cell

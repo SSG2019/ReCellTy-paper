@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,NUPR1,NUPR1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,PDGFRA,PDGFRA
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,RPS12,RPS12
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,MOXD1,MOXD1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,SFRP1,SFRP1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,FGF7,FGF7
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,TAGLN,TAGLN
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,PRSS23,PRSS23
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Interstitial cell,CL_0000178,SULT1E1,SULT1E1

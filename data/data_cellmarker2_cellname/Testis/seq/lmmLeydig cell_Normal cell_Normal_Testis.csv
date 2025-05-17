@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,CFD,CFD
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,DLK1,DLK1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,SFRP1,SFRP1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,IGF1,IGF1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,NR2F2,NR2F2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,DCN,DCN
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,lmmLeydig cell,,IGF2,IGF2

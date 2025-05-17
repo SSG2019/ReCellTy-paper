@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,PD-L1+,CD20,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,PD-L1+,MS4A1,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,Regulatory,CD20,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,Regulatory,MS4A1,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell

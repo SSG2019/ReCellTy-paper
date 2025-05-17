@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,FOXA2,FOXA2
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,LMX1B,LMX1B
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,GIRK2,KCNJ6
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,NURR1,NR4A2
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,Dopamine transporter,
+Human,Undefined,Undefined,,Normal,Normal cell,Dopaminergic neuron,CL_0000700,Tyrosine hydroxylase,

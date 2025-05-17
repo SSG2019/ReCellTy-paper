@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD8B,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,CD274,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,PDCD1LG2,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,PDCD1,Human,Prostate,Prostate,Normal,Normal cell,Immune cell

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,IL1RL1,IL1RL1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,TPSB2,TPSB2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1

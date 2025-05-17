@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,E-cadherin,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,ITGA6,ITGA6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,WNT6,WNT6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,LEF1,LEF1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,KRT10,KRT10
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epidermal cell,CL_0000362,KRT1,KRT1

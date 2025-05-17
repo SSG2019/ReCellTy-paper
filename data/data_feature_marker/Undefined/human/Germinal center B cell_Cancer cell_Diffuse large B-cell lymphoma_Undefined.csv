@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal center,FOXO1,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell
+B cell,Germinal center,BCL6,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell
+B cell,Germinal center,MEF2B,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell
+B cell,Germinal center,MME,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Germinal center B cell

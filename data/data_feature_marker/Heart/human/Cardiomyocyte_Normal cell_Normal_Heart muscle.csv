@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,Cardiac Muscle Contraction,ACTC1,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,MYH7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,TNNT2,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,Myl7,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Contraction,MYL2,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Muscle Development,IRX4,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,Cardiac Conduction,SCN5A,Human,Heart,Heart muscle,Normal,Normal cell,Cardiomyocyte

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Development and Function,TCF4,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Migration,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,,SIGLEC6,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Subset Identification,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-Presentation,XCR1,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,Nestin,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,Vimentin,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,CD44,CD44
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,NESTIN,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neural stem cell,CL_0000047,SOX2,SOX2

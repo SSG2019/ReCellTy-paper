@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Non-classical monocyte,CL_0000875,CX3CR1,CX3CR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Non-classical monocyte,CL_0000875,CD16,FCGR3A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Non-classical monocyte,CL_0000875,SLAN,SECISBP2L
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Non-classical monocyte,CL_0000875,CD16,FCGR3A

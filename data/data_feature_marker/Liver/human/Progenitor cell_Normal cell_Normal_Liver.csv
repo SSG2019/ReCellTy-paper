@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,Keratin-7,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,Keratin-19,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD133,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NCAM,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,AFP,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,DLK1,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NCAM1,Human,Liver,Liver,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PROM1,Human,Liver,Liver,Normal,Normal cell,Progenitor cell

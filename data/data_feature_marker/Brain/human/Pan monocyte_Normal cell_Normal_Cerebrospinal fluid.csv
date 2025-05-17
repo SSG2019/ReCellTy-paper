@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD68,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Pan monocyte
+Monocyte,,LYZ,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Pan monocyte
+Monocyte,,CD14,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Pan monocyte

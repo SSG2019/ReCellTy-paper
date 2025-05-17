@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,ACTA2,Human,Kidney,Kidney,Recurrent renal cell carcinoma,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Kidney,Kidney,Recurrent renal cell carcinoma,Cancer cell,Fibroblast

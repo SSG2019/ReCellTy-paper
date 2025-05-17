@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,NCOR2,NCOR2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,HLX,HLX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,PRNP,PRNP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,NKX3-1,NKX3-1

@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,CD19,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,Naive,CD24,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,Naive,CD38,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,Naive,IgM,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,CD27,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,IgD,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,SEMA4A,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,TCL1B,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,YBX3,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,TCL1A,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,IL21R,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,IL4R,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,PCDH9,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,SATB1,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,HOXB2,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,GCNT1,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,CXCR4,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,PLPP5,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,APLP2,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,IGHM,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,FCER2,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,CC19,Human,Blood,Blood,Normal,Normal cell,Naive B cell
+B cell,,MS4A1,Human,Blood,Blood,Normal,Normal cell,Naive B cell

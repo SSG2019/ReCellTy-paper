@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Central memory,CD27,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD197,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD127,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD62L,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD45RO,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,IL7R,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell
+T cell,Central memory,SELL,Human,Undefined,Undefined,Normal,Normal cell,Central memory T cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Coloncyte,,GUCA2A,GUCA2A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Coloncyte,,CEACAM1,CEACAM1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Coloncyte,,CA1,CA1

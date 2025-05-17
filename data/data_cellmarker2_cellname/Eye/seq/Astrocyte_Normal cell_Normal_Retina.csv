@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Astrocyte,CL_0000127,GLUL,GLUL
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Astrocyte,CL_0000127,ΑΡΟΕ,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Astrocyte,CL_0000127,CLU,CLU
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Astrocyte,CL_0000127,SPARCL1,SPARCL1

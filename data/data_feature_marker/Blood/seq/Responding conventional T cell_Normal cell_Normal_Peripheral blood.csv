@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Responding,IFNG,Human,Blood,Peripheral blood,Normal,Normal cell,Responding conventional T cell
+T cell,Responding,CSF2,Human,Blood,Peripheral blood,Normal,Normal cell,Responding conventional T cell
+T cell,conventional,IL22,Human,Blood,Peripheral blood,Normal,Normal cell,Responding conventional T cell
+T cell,conventional,ZBED2,Human,Blood,Peripheral blood,Normal,Normal cell,Responding conventional T cell
+T cell,conventional,GZMB,Human,Blood,Peripheral blood,Normal,Normal cell,Responding conventional T cell

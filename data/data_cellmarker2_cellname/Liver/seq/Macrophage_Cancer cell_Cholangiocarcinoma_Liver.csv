@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Macrophage,CL_0000235,CCL18,CCL18
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Macrophage,CL_0000235,SPP1,SPP1

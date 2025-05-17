@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Luminal cell,,KRT19,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,EPCAM,Human,Breast,Milk,Normal,Normal cell,Luminal cell
+Luminal cell,,KRT18,Human,Breast,Milk,Normal,Normal cell,Luminal cell

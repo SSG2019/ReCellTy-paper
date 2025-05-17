@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD8,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymphoid tissue,Lymphoid tissue,B cell type MALT lymphoma,Cancer cell,T cell

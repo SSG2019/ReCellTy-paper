@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Tissue-resident,CD103,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,Flt3,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,MHC-II,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD45,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Tissue-resident,ITGAE,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PTPRC,Human,Brain,Epithelium,Normal,Normal cell,Dendritic cell

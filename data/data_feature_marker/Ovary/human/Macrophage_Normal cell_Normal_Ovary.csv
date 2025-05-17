@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD40,Human,Ovary,Ovary,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Ovary,Ovary,Normal,Normal cell,Macrophage

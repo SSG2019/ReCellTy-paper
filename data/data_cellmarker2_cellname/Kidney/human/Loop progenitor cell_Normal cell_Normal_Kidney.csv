@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop progenitor cell,,TOP2A,TOP2A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop progenitor cell,,HMGB2,HMGB2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Loop progenitor cell,,UBE2C,UBE2C

@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,ICOS,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD69,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNF,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,IL2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,IFNG,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF9,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD28,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8B,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD27,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,IL2RA,Human,Skin,Skin,Normal,Normal cell,Activated T cell

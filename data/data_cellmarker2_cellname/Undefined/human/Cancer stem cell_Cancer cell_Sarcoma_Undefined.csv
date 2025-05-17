@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Sarcoma,Cancer cell,Cancer stem cell,,Aldehyde dehydrogenase 1,
+Human,Undefined,Undefined,,Sarcoma,Cancer cell,Cancer stem cell,,STRO-1,
+Human,Undefined,Undefined,,Sarcoma,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Undefined,Undefined,,Sarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1

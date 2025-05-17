@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,CD62L,SELL
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,CD54,ICAM1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,HLA-DR,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,CD80,CD80
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,CX3CR1,CX3CR1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D

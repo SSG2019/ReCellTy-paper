@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,ITGB1,ITGB1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,c-Kit,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,KIT,KIT
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,SOHLH2,SOHLH2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,NR6A1,NR6A1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,SYCP3,SYCP3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,SYCE3,SYCE3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonium,CL_0000020,SSX3,SSX3

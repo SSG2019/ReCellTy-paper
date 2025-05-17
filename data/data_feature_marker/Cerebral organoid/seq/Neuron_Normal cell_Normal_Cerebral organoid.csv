@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Photoreceptor,RCVRN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Phototransduction,GNGT1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Rod Photoreceptor Development,NRL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Neuronal Migration,DCX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,Photoreceptor Differentiation,CRX,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,GBN3,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,TULIP1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron
+Neuron,,RALGAPA1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuron

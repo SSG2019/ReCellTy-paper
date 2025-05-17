@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Low-density,Lox-1,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,CD226,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,CD61,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,CD36,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,CD41,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,ITGB3,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil
+Neutrophil,,ITGA2B,Human,Blood,Blood,Non-small Cell Lung Cancer,Cancer cell,Low-density neutrophil

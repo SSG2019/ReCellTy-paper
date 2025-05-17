@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,CD19,Human,Airway,Airway,Normal,Normal cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Airway,Airway,Normal,Normal cell,Plasma cell

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD56,NCAM1
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD26,DPP4
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,SDF1,CXCL12
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD33,CD33
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD93,CD93
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CXCR4,CXCR4
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD25,IL2RA
+Human,Blood,Blood,UBERON_0000178,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell,,IL-RAP,

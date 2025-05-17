@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Inter-mediate progenitor cell,,PPP1R17,PPP1R17
+Human,Undefined,Undefined,,Normal,Normal cell,Inter-mediate progenitor cell,,NHLH2,NHLH2
+Human,Undefined,Undefined,,Normal,Normal cell,Inter-mediate progenitor cell,,NHLH1,NHLH1
+Human,Undefined,Undefined,,Normal,Normal cell,Inter-mediate progenitor cell,,TP53I11,TP53I11
+Human,Undefined,Undefined,,Normal,Normal cell,Inter-mediate progenitor cell,,SLA1C3,

@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,MEIS2,MEIS2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,PDGFRα,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,PDGFRβ,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,COL1A1,COL1A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,MEIS1,MEIS1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,COL3A1,COL3A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,TAGLN,TAGLN
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,MYH11,MYH11
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,ATAC2,KAT14
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,Pdgfrb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,Myh11,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,Tagln,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,Vim,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pericyte,CL_0000669,Postn,

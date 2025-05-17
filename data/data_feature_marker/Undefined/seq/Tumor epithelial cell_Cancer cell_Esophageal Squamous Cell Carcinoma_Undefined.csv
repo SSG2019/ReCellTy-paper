@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Tumor,MDK,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell
+Epithelial cell,Tumor,SOX4,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell
+Epithelial cell,Tumor,EPCAM,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell

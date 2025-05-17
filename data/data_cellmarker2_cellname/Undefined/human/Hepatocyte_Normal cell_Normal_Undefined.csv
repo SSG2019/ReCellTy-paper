@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,Cytokeratin-8,
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,Albumin,
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,Albumin,
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,Cytokeratin-18,
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,HNF4a,
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,ALB,ALB
+Human,Undefined,Undefined,,Normal,Normal cell,Hepatocyte,CL_0000182,AFP,AFP

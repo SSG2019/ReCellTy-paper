@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,ZG16,ZG16
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,TFF3,TFF3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,FFAR4,FFAR4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,SPINK4,SPINK4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,CLCA1,CLCA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,Muc2,
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,Car1,CA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,TFF1,TFF1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Goblet cell,CL_0000160,MUC4,MUC4

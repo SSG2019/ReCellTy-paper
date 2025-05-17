@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,GZMH,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,CST7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Effector,NKG7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Effector,GZMA,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Effector,CCL5,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Effector,CCL4,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Effector,GNLY,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell

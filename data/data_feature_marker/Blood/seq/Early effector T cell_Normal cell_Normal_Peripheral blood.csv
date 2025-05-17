@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,GZMK,Human,Blood,Peripheral blood,Normal,Normal cell,Early effector T cell
+T cell,,CD3D,Human,Blood,Peripheral blood,Normal,Normal cell,Early effector T cell

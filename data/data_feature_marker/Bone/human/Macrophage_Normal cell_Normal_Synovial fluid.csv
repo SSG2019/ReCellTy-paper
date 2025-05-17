@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Antigen Presentation,HLA-DRA,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,MARCO,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Innate Immune Response,CD14,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,CD68,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage
+Macrophage,Survival and Proliferation,CSF1R,Human,Bone,Synovial fluid,Normal,Normal cell,Macrophage

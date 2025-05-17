@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Artery cell,CL_1001045,GJA4,GJA4
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Artery cell,CL_1001045,HEY1,HEY1

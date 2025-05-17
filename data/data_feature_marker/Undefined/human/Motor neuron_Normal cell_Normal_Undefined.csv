@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Motor neuron,,SLIT3,Human,Undefined,Undefined,Normal,Normal cell,Motor neuron
+Motor neuron,,SLIT2,Human,Undefined,Undefined,Normal,Normal cell,Motor neuron
+Motor neuron,,LMO1,Human,Undefined,Undefined,Normal,Normal cell,Motor neuron

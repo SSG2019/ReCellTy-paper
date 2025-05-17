@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,Tumor-associated,CD163,Human,Undefined,Undefined,Undefined,Cancer cell,Tumor‐associated macrophage (TAM)
+macrophage,Tumor-associated,Stabilin-1,Human,Undefined,Undefined,Undefined,Cancer cell,Tumor‐associated macrophage (TAM)
+macrophage,,Lyve-1,Human,Undefined,Undefined,Undefined,Cancer cell,Tumor‐associated macrophage (TAM)

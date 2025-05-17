@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+interneuron,Cortical,CORT,Human,Brain,Brain,Normal,Normal cell,Cortical somatostatin (SST) interneuron
+interneuron,somatostatin (SST),SST,Human,Brain,Brain,Normal,Normal cell,Cortical somatostatin (SST) interneuron
+interneuron,,NPY,Human,Brain,Brain,Normal,Normal cell,Cortical somatostatin (SST) interneuron

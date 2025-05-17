@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,ALDH,
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2

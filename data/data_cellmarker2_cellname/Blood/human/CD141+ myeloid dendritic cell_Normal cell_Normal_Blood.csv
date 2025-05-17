@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD141+ myeloid dendritic cell,,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD141+ myeloid dendritic cell,,CD141,THBD
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD141+ myeloid dendritic cell,,HLA-DR,

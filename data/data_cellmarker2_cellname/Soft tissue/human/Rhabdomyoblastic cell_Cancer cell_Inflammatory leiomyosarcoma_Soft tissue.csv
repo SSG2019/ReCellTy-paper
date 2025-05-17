@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell,,MyoD1,
+Human,Soft tissue,Soft tissue,UBERON_0034929,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell,,myogenin,
+Human,Soft tissue,Soft tissue,UBERON_0034929,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell,,PAX7,PAX7

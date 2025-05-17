@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ductal cell,,Krt19,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,SLC4A4,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,Sox9,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell
+Ductal cell,,Hnf1β,Human,Pancreas,Pancreas,Pancreatic Cancer,Cancer cell,Ductal cell

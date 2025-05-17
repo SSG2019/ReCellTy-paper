@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,AR,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TMPRSS2,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3.1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3-1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell

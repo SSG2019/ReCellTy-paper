@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,T1 (Transitional) B cell,CL_0000958,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,T1 (Transitional) B cell,CL_0000958,CD10,MME
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,T1 (Transitional) B cell,CL_0000958,CD45,PTPRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,T1 (Transitional) B cell,CL_0000958,IgD,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,T1 (Transitional) B cell,CL_0000958,IgM,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,FCER1A,Human,Intestine,Colon,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Intestine,Colon,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Intestine,Colon,Normal,Normal cell,Mast cell

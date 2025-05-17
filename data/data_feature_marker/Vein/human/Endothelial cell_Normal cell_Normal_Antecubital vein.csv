@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD146,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD11b,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD105,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD45,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PTPRC,Human,Vein,Antecubital vein,Normal,Normal cell,Endothelial cell

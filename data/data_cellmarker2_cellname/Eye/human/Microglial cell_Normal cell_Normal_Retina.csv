@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,HLA‐DPA1,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,HLA‐DRA,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,HLA‐DPB1,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,CD163,CD163
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,C1QA,C1QA
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Microglial cell,CL_0000129,AIF1,AIF1

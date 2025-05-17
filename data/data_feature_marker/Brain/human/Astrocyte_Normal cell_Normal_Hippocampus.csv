@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GFAP,Human,Brain,Hippocampus,Normal,Normal cell,Astrocyte
+Astrocyte,,S100B,Human,Brain,Hippocampus,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Brain,Hippocampus,Normal,Normal cell,Astrocyte
+Astrocyte,,ATP1A2,Human,Brain,Hippocampus,Normal,Normal cell,Astrocyte

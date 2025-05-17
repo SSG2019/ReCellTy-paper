@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Crypt stem cell,CL_0002250,FOXQ1,FOXQ1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Crypt stem cell,CL_0002250,LGR5,LGR5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Crypt stem cell,CL_0002250,ASCL2,ASCL2
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Crypt stem cell,CL_0002250,CD133,PROM1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Crypt stem cell,CL_0002250,SOX9,SOX9

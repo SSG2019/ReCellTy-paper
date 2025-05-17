@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,XCL2,XCL2
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,KLRF1,KLRF1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,PRF1,PRF1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD244,CD244
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,IL2RB,IL2RB
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD160,CD160
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD94,KLRD1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,perforin,
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,CD40L,CD40LG
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,NKG2D,KLRK1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Natural killer cell,CL_0000623,granzymes,

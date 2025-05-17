@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,PTPRC,PTPRC
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,CD3δ,
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,CD3γ,
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,CD3ε,
+Human,Intestine,Colon,UBERON_0001155,Colon Cancer,Cancer cell,T cell,CL_0000084,IL7R,IL7R

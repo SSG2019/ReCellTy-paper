@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT7,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MUC1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Epithelial cell

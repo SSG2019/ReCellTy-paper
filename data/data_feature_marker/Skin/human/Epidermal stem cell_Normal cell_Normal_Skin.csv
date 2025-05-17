@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Epidermal,CD49f,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,CD29,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,P63,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Cytokeratin-14,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-2,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-3,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-7,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,KRT15,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,CD200,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,MCSP,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,Nestin,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,Tenascin C,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell

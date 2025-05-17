@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Merkel cell,CL_0000242,Cytokeratin-20,

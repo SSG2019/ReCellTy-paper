@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Vein,Vein,UBERON_0001638,Normal,Normal cell,Systemic–venous endothelial cell,,COL15A1,COL15A1

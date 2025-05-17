@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Liver cell,Stem,CD29,Human,Liver,Fetal liver,Normal,Normal cell,Liver stem cell
+Liver cell,Stem,Alkaline phosphatase,Human,Liver,Fetal liver,Normal,Normal cell,Liver stem cell
+Liver cell,Stem,THY1,Human,Liver,Fetal liver,Normal,Normal cell,Liver stem cell
+Liver cell,Stem,NOTCH3,Human,Liver,Fetal liver,Normal,Normal cell,Liver stem cell

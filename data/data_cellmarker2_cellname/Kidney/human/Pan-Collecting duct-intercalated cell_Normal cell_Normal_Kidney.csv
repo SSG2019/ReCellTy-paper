@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Insr,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Atp6v1b1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Atp6v1g3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Atp6v0d2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Foxi,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pan-Collecting duct-intercalated cell,,Tcfcp2l1,

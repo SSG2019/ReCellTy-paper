@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gall bladder,Gall bladder,UBERON_0002110,Cholangiocarcinoma,Cancer cell,Cancer stem cell,,Nanog,
+Human,Gall bladder,Gall bladder,UBERON_0002110,Cholangiocarcinoma,Cancer cell,Cancer stem cell,,Sox2,
+Human,Gall bladder,Gall bladder,UBERON_0002110,Cholangiocarcinoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Gall bladder,Gall bladder,UBERON_0002110,Cholangiocarcinoma,Cancer cell,Cancer stem cell,,Lin28,

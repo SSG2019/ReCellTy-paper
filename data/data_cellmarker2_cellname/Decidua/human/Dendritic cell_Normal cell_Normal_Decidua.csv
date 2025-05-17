@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,CPVL,CPVL
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DQA1,HLA-DQA1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,LGALS2,LGALS2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DPB1,HLA-DPB1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,CD74,CD74
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,PPT1,PPT1
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DQB1,HLA-DQB1

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Alveolus,UBERON_0003215,COVID-19,Cancer cell,Macrophage,CL_0000235,SPP1,SPP1
+Human,Lung,Alveolus,UBERON_0003215,COVID-19,Cancer cell,Macrophage,CL_0000235,ILRN,
+Human,Lung,Alveolus,UBERON_0003215,COVID-19,Cancer cell,Macrophage,CL_0000235,MMP9,MMP9
+Human,Lung,Alveolus,UBERON_0003215,COVID-19,Cancer cell,Macrophage,CL_0000235,CHI3L1,CHI3L1

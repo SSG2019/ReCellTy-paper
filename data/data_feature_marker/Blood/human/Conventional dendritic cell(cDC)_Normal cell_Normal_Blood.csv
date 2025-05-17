@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,CD11c,Human,Blood,Blood,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,HLADR,Human,Blood,Blood,Normal,Normal cell,Conventional dendritic cell(cDC)

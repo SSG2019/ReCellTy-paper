@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD34,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,BDCA-1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1A,Human,Pancreas,Pancreas,Normal,Normal cell,Dendritic cell

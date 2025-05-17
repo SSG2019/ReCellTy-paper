@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,HES5,HES5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,MKI67,MKI67
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,TOP2A,TOP2A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,CENPF,CENPF
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,UBE2C,UBE2C
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,MSI1,MSI1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Neural progenitor cell,CL_0011020,SOX2,SOX2

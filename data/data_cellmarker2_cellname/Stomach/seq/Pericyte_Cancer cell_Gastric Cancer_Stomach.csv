@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,NDUFA4L2,NDUFA4L2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,MYL9,MYL9
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,RDGFRB,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,TAGLN,TAGLN
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Pericyte,CL_0000669,ACTA2,ACTA2

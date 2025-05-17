@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,ITI,AMBP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,ABCC9,ABCC9
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,CD248,CD248
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,FOXC1,FOXC1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,HIGD18,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,FOXF2,FOXF2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,KCNJ8,KCNJ8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,CD19,CD19
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,CSPG4,CSPG4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,ATAC2,KAT14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,COL1A1,COL1A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,COL1A2,COL1A2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,COL3A1,COL3A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,RGS5,RGS5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,FOXC2,FOXC2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,KCNJ8,KCNJ8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,ABCC9,ABCC9
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pericyte,CL_0000669,AMBP,AMBP

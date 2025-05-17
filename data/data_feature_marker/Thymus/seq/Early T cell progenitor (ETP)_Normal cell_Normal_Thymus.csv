@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Early progenitor,CD7,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,LYL1,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)
+T cell,Early progenitor,CD34,Human,Thymus,Thymus,Normal,Normal cell,Early T cell progenitor (ETP)

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Immature neuron,CL_0000540,CUX2,CUX2
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Immature neuron,CL_0000540,GAD2,GAD2

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Pericyte,CL_0000669,NOTCH3,NOTCH3
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB

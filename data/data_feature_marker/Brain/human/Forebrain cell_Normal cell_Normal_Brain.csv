@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Forebrain cell,,EMX1,Human,Brain,Brain,Normal,Normal cell,Forebrain cell
+Forebrain cell,,FOXG1,Human,Brain,Brain,Normal,Normal cell,Forebrain cell
+Forebrain cell,,OTX2,Human,Brain,Brain,Normal,Normal cell,Forebrain cell

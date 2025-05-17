@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T follicular helper,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,CXCR5,Human,Blood,Peripheral blood,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,T follicular helper(Tfh) cell

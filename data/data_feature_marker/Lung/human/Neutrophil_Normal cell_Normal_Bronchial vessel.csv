@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,FCGR3B,Human,Lung,Bronchial vessel,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A8,Human,Lung,Bronchial vessel,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A9,Human,Lung,Bronchial vessel,Normal,Normal cell,Neutrophil
+Neutrophil,,IFITM2,Human,Lung,Bronchial vessel,Normal,Normal cell,Neutrophil

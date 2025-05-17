@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,CD56dim,CD57,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,CD58,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,CX3CR1,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,CD298,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,CD147,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,CXCR1,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,HLA-E,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,ATP1B3,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell
+Natural killer cell,,BSG,Human,Blood,Peripheral blood,Normal,Normal cell,CD56dim Natural killer cell

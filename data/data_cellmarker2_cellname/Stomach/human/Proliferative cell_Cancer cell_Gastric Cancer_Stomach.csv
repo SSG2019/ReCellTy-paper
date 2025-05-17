@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Proliferative cell,,CDKN2A,CDKN2A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Proliferative cell,,MKI67,MKI67
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Proliferative cell,,RBP4,RBP4

@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,AXIN2,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,LGR5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,SP5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,ASCL2,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,CD133,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,CD24,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,EpCAM,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,CD166,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,OLFM4,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,KLF5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,Lgr5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell
+Stem cell,,ALCAM,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Stem cell

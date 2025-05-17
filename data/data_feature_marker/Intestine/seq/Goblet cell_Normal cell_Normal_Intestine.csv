@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,FCGBP,Human,Intestine,Intestine,Normal,Normal cell,Goblet cell
+Goblet cell,,ST6GALNAC1,Human,Intestine,Intestine,Normal,Normal cell,Goblet cell
+Goblet cell,,SPINK4,Human,Intestine,Intestine,Normal,Normal cell,Goblet cell
+Goblet cell,,ITLN1,Human,Intestine,Intestine,Normal,Normal cell,Goblet cell

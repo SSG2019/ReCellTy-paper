@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Nephron epithelial cell,Podocyte,PODXL,Human,Kidney,Kidney,Normal,Normal cell,Nephron epithelial cell
+Nephron epithelial cell,Podocyte,PTPRO,Human,Kidney,Kidney,Normal,Normal cell,Nephron epithelial cell

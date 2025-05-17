@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,MRC1,MRC1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CD209,CD209
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,F13A1,F13A1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,NLRP12,NLRP12
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CCL8,CCL8
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CD300LF,CD300LF
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,MARCO,MARCO
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CD200R1,CD200R1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CCR1,CCR1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CNR2,CNR2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CCL23,CCL23
+Human,Nose,Nasal polyp,,Normal,Normal cell,Myeloid cell,CL_0000763,CD1C,CD1C

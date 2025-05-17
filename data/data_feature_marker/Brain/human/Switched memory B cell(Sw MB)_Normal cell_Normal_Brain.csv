@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Switched memory,CD38,Human,Brain,Brain,Normal,Normal cell,Switched memory B cell(Sw MB)
+B cell,,CD45,Human,Brain,Brain,Normal,Normal cell,Switched memory B cell(Sw MB)
+B cell,,Igκ/Igλ,Human,Brain,Brain,Normal,Normal cell,Switched memory B cell(Sw MB)
+B cell,,PTPRC,Human,Brain,Brain,Normal,Normal cell,Switched memory B cell(Sw MB)

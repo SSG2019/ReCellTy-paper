@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Activation,TREM2,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,Inflammation,SPP1,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,Lipid metabolism,APOE,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,Communication,CX3CR1,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CD9,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,B2M,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,LPL,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CSF1,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,ITGAX,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CD33,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CST7,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,AXL,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,TYROBP,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,TMEM119,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,P2RY12,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell
+Microglial cell,,CD74,Human,Brain,Superior frontal gyrus,Normal,Normal cell,Microglial cell

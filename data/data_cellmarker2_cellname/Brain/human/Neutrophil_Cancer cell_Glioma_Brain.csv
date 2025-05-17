@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Neutrophil,CL_0000775,CCR7,CCR7
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Neutrophil,CL_0000775,CEACAM8,CEACAM8
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Neutrophil,CL_0000775,ITGAM,ITGAM
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Neutrophil,CL_0000775,CD66B,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Neutrophil,CL_0000775,MXRA8,MXRA8

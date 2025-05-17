@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Dental pulp,STRO-1,Human,Tooth,Molar,Normal,Normal cell,Dental pulp stem cell
+Stem cell,Dental pulp,CD146,Human,Tooth,Molar,Normal,Normal cell,Dental pulp stem cell
+Stem cell,Dental pulp,MCAM,Human,Tooth,Molar,Normal,Normal cell,Dental pulp stem cell

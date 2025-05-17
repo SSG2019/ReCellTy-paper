@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD8,CD8A
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD45,PTPRC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,TCRß,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD44,CD44

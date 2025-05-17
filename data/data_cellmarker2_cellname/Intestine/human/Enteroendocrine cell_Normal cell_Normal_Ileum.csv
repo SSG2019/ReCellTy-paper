@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,CHGA,CHGA
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,NEUROD1,NEUROD1
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,NTS,NTS
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,TPH1,TPH1
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,SST,SST
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,NGN3,
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,GHRL,GHRL
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,CHGA,CHGA
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,NEUROD1,NEUROD1
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Enteroendocrine cell,CL_0000164,CHGB,CHGB

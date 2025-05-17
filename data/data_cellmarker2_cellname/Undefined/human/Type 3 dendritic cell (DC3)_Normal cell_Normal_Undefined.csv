@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,S100A9,S100A9
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CLEC4E,CLEC4E
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CD163,CD163
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,S100A8,S100A8
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,FCN1,FCN1
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,FCER1A,FCER1A
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CD1c,
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,VCAN,VCAN
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CD1C,CD1C
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Type 3 dendritic cell (DC3),,CD36,CD36

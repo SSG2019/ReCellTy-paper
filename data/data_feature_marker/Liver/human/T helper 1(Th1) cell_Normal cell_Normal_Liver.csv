@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper 1(Th1),STAT4,Human,Liver,Liver,Normal,Normal cell,T helper 1(Th1) cell
+T cell,T helper 1(Th1),IFNG,Human,Liver,Liver,Normal,Normal cell,T helper 1(Th1) cell

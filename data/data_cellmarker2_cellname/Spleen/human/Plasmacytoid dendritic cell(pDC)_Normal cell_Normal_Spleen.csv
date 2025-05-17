@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CCDC50,CCDC50
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,BCL11A,BCL11A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,ITM2C,ITM2C
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IRF8,IRF8
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,C12orf75,C12orf75
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,TCF4,TCF4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IRF7,IRF7
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,SPIB,SPIB

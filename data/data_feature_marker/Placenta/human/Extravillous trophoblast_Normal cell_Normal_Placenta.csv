@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Extravillous trophoblast,Invasive,ITGA5,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,CD9,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,MMP9,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,ITGA1,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,MMP2,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Immune tolerance,HLA-G,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast

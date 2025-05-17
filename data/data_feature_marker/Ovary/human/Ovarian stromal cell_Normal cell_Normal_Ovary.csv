@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ovarian stromal cell,,DLK1,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,FOXL2,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,STAR,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell

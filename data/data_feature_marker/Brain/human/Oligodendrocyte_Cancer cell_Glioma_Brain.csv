@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,Myelination,PLP1,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,MAG,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,SOX10,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,MBP,Human,Brain,Brain,Glioma,Cancer cell,Oligodendrocyte

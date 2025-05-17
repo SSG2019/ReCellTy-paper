@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Mesothelial cell,CL_0000077,UPK3B,UPK3B
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Mesothelial cell,CL_0000077,CDH2,CDH2
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Mesothelial cell,CL_0000077,KRT7,KRT7

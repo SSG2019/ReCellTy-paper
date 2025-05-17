@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,α-SMA,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,PDGFR- β,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,FSP1,S100A4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,FAP,FAP
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,S100A4,S100A4
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast,,PDGFR-α,

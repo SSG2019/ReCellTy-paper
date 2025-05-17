@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastrointestinal tumor,Cancer cell,Adipocyte,CL_0000136,ATGL,PNPLA2
+Human,Stomach,Stomach,UBERON_0000945,Gastrointestinal tumor,Cancer cell,Adipocyte,CL_0000136,FABP4,FABP4
+Human,Stomach,Stomach,UBERON_0000945,Gastrointestinal tumor,Cancer cell,Adipocyte,CL_0000136,AdipoQ,
+Human,Stomach,Stomach,UBERON_0000945,Gastrointestinal tumor,Cancer cell,Adipocyte,CL_0000136,HSL,LIPE
+Human,Stomach,Stomach,UBERON_0000945,Gastrointestinal tumor,Cancer cell,Adipocyte,CL_0000136,CEBPα,

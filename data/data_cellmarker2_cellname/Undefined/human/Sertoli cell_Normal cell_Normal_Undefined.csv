@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,GATA1,GATA1
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,GATA4,GATA4
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Androgen-binding protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Calretinin,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Clusterin,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Cyclic potein-2,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Cytokeratin-18,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Desert hedgehog,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Inhibin B,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,M2A,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,mMullerian inhibiting substance,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Serotonin receptor 1A,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Stem cell factor,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Vimentin,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,anti-Mullerian hormone,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,Inhibin beta B,
+Human,Undefined,Undefined,,Normal,Normal cell,Sertoli cell,CL_0000216,anti-Mullerian hormone,

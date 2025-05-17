@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,CD56bright,CD62L,Human,Blood,Peripheral blood,Normal,Normal cell,CD56bright Natural killer cell
+Natural killer cell,CD56bright,SELL,Human,Blood,Peripheral blood,Normal,Normal cell,CD56bright Natural killer cell
+Natural killer cell,CD56bright,NKG2A,Human,Blood,Peripheral blood,Normal,Normal cell,CD56bright Natural killer cell
+Natural killer cell,CD56bright,KLRC1,Human,Blood,Peripheral blood,Normal,Normal cell,CD56bright Natural killer cell

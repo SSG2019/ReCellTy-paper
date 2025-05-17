@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Respiratory gland progenitor cell,,SOX9,SOX9
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Respiratory gland progenitor cell,,SCGB1A1,SCGB1A1

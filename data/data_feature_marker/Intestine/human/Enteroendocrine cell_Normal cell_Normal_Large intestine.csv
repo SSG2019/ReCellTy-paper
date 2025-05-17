@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enteroendocrine cell,,MFSD11,Human,Intestine,Large intestine,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,FRAS1,Human,Intestine,Large intestine,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,ADAMTSL3,Human,Intestine,Large intestine,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,ANKRD20A9P,Human,Intestine,Large intestine,Normal,Normal cell,Enteroendocrine cell

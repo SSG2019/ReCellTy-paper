@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,LY6C,Human,Embryo,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CD11B,Human,Embryo,Skin,Normal,Normal cell,Monocyte
+Monocyte,,ITGAM,Human,Embryo,Skin,Normal,Normal cell,Monocyte

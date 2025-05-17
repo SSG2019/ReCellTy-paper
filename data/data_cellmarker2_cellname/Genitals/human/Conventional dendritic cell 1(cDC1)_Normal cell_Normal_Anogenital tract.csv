@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,HLA-DR,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,Clec9a,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,CD141,THBD
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,XCR1,XCR1
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,CD103,ITGAE
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Conventional dendritic cell 1(cDC1),,CADM1,CADM1

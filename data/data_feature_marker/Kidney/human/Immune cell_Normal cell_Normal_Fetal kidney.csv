@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD14,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,CD3D,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,NKG7,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,MS4A1,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,CPA3,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,FCGR3A,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell
+Immune cell,,TPSAB1,Human,Kidney,Fetal kidney,Normal,Normal cell,Immune cell

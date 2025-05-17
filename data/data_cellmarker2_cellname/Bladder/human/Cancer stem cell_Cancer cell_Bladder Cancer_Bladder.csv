@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,EMA,ETFA
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD44v6,
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD47,CD47
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CK5,KRT5
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,CK20,KRT20
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Cancer stem cell,,SOX2,SOX2

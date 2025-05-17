@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast,CL_0000057,metalloproteinases,
+Human,Blood,Blood,UBERON_0000178,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast,CL_0000057,LOX,LOX
+Human,Blood,Blood,UBERON_0000178,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Blood,Blood,UBERON_0000178,Head and neck squamous cell carcinoma,Cancer cell,Fibroblast,CL_0000057,FAP,FAP

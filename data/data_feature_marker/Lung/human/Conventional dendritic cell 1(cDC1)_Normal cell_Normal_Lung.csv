@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Conventional,CLEC9A,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,1(cDC1),XCR1,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell 1(cDC1)

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,G-CSF,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CD86,CD86
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CSF2RA,CSF2RA
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,ZEB2,ZEB2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CD74,CD74
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,HLA-DRA,HLA-DRA
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,HLA-DRB1,HLA-DRB1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,HLA-DPA1,HLA-DPA1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,PTPRC,PTPRC
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68

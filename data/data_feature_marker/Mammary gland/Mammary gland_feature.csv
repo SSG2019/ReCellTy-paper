@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,ESA,Human,Mammary gland,Mammary gland,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD61,Human,Mammary gland,Mammary gland,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,CD49f,Human,Mammary gland,Mammary gland,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ITGB3,Human,Mammary gland,Mammary gland,Breast Cancer,Cancer cell,Cancer stem cell
+Cancer cell,Stem,ITGA6,Human,Mammary gland,Mammary gland,Breast Cancer,Cancer cell,Cancer stem cell

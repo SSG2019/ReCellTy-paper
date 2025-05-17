@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetal striatum,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,D1-MSN(medium spiny neuron),CL_1001474,TAC1,TAC1
+Human,Fetal striatum,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,D1-MSN(medium spiny neuron),CL_1001474,ISL1,ISL1
+Human,Fetal striatum,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,D1-MSN(medium spiny neuron),CL_1001474,EBF1,EBF1
+Human,Fetal striatum,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,D1-MSN(medium spiny neuron),CL_1001474,hfb_G_000352,

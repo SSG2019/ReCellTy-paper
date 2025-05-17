@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Intermediate,PPP1R17,Human,Brain,Cortex,Normal,Normal cell,Intermediate progenitor cell
+Progenitor cell,Intermediate,EOMES,Human,Brain,Cortex,Normal,Normal cell,Intermediate progenitor cell
+Progenitor cell,Intermediate,NEUROD4,Human,Brain,Cortex,Normal,Normal cell,Intermediate progenitor cell

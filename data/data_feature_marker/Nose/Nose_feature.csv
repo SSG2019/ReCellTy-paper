@@ -1,0 +1,365 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Antibody-secreting,CD38,Human,Nose,Nasal polyp,Normal,Normal cell,Antibody-secreting cell
+B cell,Antibody-secreting,CD27,Human,Nose,Nasal polyp,Normal,Normal cell,Antibody-secreting cell
+B cell,,CD19,Human,Nose,Nasal polyp,Normal,Normal cell,Antibody-secreting cell
+B cell,,CD22,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,CD19,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,CXCL13,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,CD72,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,BLK,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,CD798,Human,Nose,Nasal polyp,Normal,Normal cell,B cell
+B cell,,CD38,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,CD19,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,CD20,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,B cell,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+B cell,,CD19,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+Basal cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Basal cell
+Basophil,,CCR3,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil
+Basophil,,CLC,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil
+Basophil,,PTGDR2,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil
+Bowman's gland cell,,GPX3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,SOX10,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,SOX9,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,MUC5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,MUC5AC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Cancer cell,,JAK-2,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCL-2,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,STAT3,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,APG-1252-M1,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCL-XL,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,MCL-1,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,SARM1,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+B cell,CD27+,CD27,Human,Nose,Nasal polyp,Normal,Normal cell,CD27+ memory B cell
+B cell,,CD19,Human,Nose,Nasal polyp,Normal,Normal cell,CD27+ memory B cell
+T cell,CD4+,CD4,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,IL7R,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,NCR3,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD160,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,ZNF683,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMA,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD96,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMH,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+Ciliated cell,,MUC8,Human,Nose,Nasal epithelium,Normal,Normal cell,Ciliated cell
+Dendritic cell,,CD1C,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Dendritic cell
+Deuterosomal cell,Deuterosomal,PLK4,Human,Nose,Nose,Normal,Normal cell,Deuterosomal cell
+Dividing cell,,MKI67,Human,Nose,Nose,Normal,Normal cell,Dividing cell
+glial cell,Ensheathing,MPZ,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,Ensheathing,PLP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,S100B,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,PMP2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,ALX3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+Eosinophil,,EMBP,Human,Nose,Sinonasal mucosa,Normal,Normal cell,Eosinophil
+Epithelial cell,,SERPINB4,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC5AC,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXJ1,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SCGB1A1,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Fibroblast,,DCN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Fibroblast,,CLEC11A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Globose basal cell,,NEUROD1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,CXCR4,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,EZH2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,ASCL1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,HES6,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,NEUROG1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,KI67,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Horizontal basal cell,,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Horizontal basal cell,,CXCL14,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Horizontal basal cell,,MEG3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Horizontal basal cell,,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Horizontal basal cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Neuron,Immature,GNG8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,OLIG2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,LHX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,DCX,Human,Nose,Nasal mucosa,Normal,Normal cell,Immature olfactory neuron
+Ionocyte,,CFTR,Human,Nose,Nose,Normal,Normal cell,Ionocyte
+Ionocyte,,FOXI1,Human,Nose,Nose,Normal,Normal cell,Ionocyte
+Lymphocyte,,MKI67,Human,Nose,Nose,Normal,Normal cell,Lymphocyte
+Lymphoid cell,,IL7R,Human,Nose,Nose,Normal,Normal cell,Lymphoid cell
+Macrophage,,FCGR1B,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,MMP12,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,CCL7,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,CNR2,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,CCL2,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,CCL8,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,MPEG1,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,AIM2,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,CCR1,Human,Nose,Nasal polyp,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Mast cell,,HPGDS,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSD1,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,HPGDS,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,ALOX5AP,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,ALOX5,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Neuron,,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,GNG13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,CBX8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,RTP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Mature olfactory neuron,,PGP9.5,Human,Nose,Nasal mucosa,Normal,Normal cell,Mature olfactory neuron
+Mature olfactory neuron,,UCHL1,Human,Nose,Nasal mucosa,Normal,Normal cell,Mature olfactory neuron
+B cell,,CD19,Human,Nose,Nose,Normal,Normal cell,Memory B cell
+B cell,,CD20,Human,Nose,Nose,Normal,Normal cell,Memory B cell
+B cell,,MS4A1,Human,Nose,Nose,Normal,Normal cell,Memory B cell
+Mesenchymal stromal cell,,CD9,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD73,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD29,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,HLA-DR,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD14,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD19,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD34,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,NT5E,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,ITGB1,Human,Nose,Nasal concha,Normal,Normal cell,Mesenchymal stromal cell
+Microvillar cell,Microvillar,CFTR,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Microvillar cell,Microvillar,ASCL3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Microvillar cell,,FOXL1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Microvillar cell,,HEPACAM2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Monocyte,,CD14,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,CLEC10A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Multiciliated cell,,MLF1,Human,Nose,Nose,Normal,Normal cell,Multiciliated cell
+Multiciliated cell,cilia,CCDC153,Human,Nose,Nose,Normal,Normal cell,Multiciliated cell
+Myeloid cell,,MRC1,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD209,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD163,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,F13A1,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,NLRP12,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCL8,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD300LF,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MARCO,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD200R1,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCR1,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CNR2,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCL23,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Nose,Nasal polyp,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Nose,Nose,Normal,Normal cell,Myeloid cell
+B cell,Naive,CD27,Human,Nose,Nasal polyp,Normal,Normal cell,Naive B cell
+B cell,,CD19,Human,Nose,Nasal polyp,Normal,Normal cell,Naive B cell
+B cell,,IgD,Human,Nose,Nasal polyp,Normal,Normal cell,Naive B cell
+Natural killer cell,Cytotoxic function,CD160,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMH,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMB,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMA,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition and activation,NCR3,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,ZNF683,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition and activation,CD96,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Nose,Nose,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM-1,Human,Nose,Nose,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCG3RA,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FGFBP2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Neutrophil,,CXCL1,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,IL-8,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,FPR3,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,VNN2,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCL3,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCL2,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CSF3R,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCR1,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCL6,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCR2,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,FPR1,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CSF3,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,CD177,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Neutrophil,,FPR2,Human,Nose,Nasal polyp,Normal,Normal cell,Neutrophil
+Pericyte,,SOX17,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte
+Pericyte,,ENG,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte
+B cell,Plasma cell,CD138,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+B cell,Plasma cell,CD27,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+B cell,Plasma cell,CD38,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+B cell,,Igd,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+B cell,,CD19,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+B cell,Plasma cell,SDC1,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHG1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,CD79A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,CD27,Human,Nose,Sinonasal mucosa,Normal,Normal cell,Plasma cell
+B cell,Plasmablast,CD38,Human,Nose,Nose,Normal,Normal cell,Plasmablast like cell
+B cell,,CD19,Human,Nose,Nose,Normal,Normal cell,Plasmablast like cell
+T cell,Regulatory,IL10,Human,Nose,Nasal polyp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Nose,Nasal polyp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Nose,Nasal polyp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Nose,Nasal polyp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,GATA3,Human,Nose,Polyp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,GATA3,Human,Nose,Polyp,Normal,Normal cell,Regulatory T(Treg) cell
+Respiratory cell,Ciliated,CFAP126,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,Ciliated,FOXJ1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,,STOMl3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Progenitor cell,Respiratory gland,SOX9,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory gland progenitor cell
+Progenitor cell,Respiratory gland,SCGB1A1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory gland progenitor cell
+Basal cell,Respiratory,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Respiratory,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Respiratory,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Respiratory secretory cell,secretion,TFF3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Respiratory secretory cell,secretion,MUC5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Respiratory secretory cell,secretion,MUC5AC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Secretory cell,Secretory,Muc5ac,Human,Nose,Tracheal airway epithelium,Normal,Normal cell,Secretory cell
+Stromal cell,,DCN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Stromal cell,,CLEC11A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Stromal cell,,LUM,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Sustentacular cell,Stem cell maintenance,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,GPX6,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,ERMN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2A13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2J2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+T cell,,TRAT1,Human,Nose,Nasal polyp,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Nose,Nasal polyp,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Nose,Nasal polyp,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Nose,Nasal polyp,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Nose,Nasal polyp,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Nose,Nose,Normal,Normal cell,T cell
+T cell,T helper 2 (Th2),CD200R,Human,Nose,Polyp,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),HPGDS,Human,Nose,Polyp,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),CD200R1,Human,Nose,Polyp,Normal,Normal cell,T helper 2(Th2) cell
+Vascular smooth muscle cell,VSMC,MYH11,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+White blood cell,,PTPRC,Human,Nose,Nasal polyp,Normal,Normal cell,White blood cell
+B cell,,B cell,Human,Nose,Nose,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+B cell,,CD19,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,B cell
+Basal cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Basal cell
+Bowman's gland cell,,GPX3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,SOX10,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,SOX9,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,MUC5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Bowman's gland cell,,MUC5AC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Bowman’s gland cell
+Cancer cell,,JAK-2,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCL-2,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,STAT3,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,APG-1252-M1,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,BCL-XL,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+Cancer cell,,MCL-1,Human,Nose,Nose,Nasopharyngeal Cancer,Cancer cell,Cancer cell
+T cell,CD4+,CD4,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,,IL7R,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,CD8+ T cell
+Dendritic cell,,CD1C,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Dendritic cell
+Deuterosomal cell,,PLK4,Human,Nose,Nose,Normal,Normal cell,Deuterosomal cell
+Dividing cell,,MKI67,Human,Nose,Nose,Normal,Normal cell,Dividing cell
+glial cell,Ensheathing,MPZ,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,Ensheathing,PLP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,S100B,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,PMP2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+glial cell,,ALX3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Ensheathing glial cell
+Epithelial cell,,SERPINB4,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC5AC,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXJ1,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SCGB1A1,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Nose,Nasal epithelium,Normal,Normal cell,Epithelial cell
+Fibroblast,,DCN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Fibroblast,,CLEC11A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Fibroblast
+Globose basal cell,,NEUROD1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,CXCR4,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,EZH2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,ASCL1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,HES6,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,NEUROG1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Globose basal cell,,KI67,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Globose basal cell
+Basal cell,Horizontal,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Basal cell,Horizontal,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Horizontal basal cell
+Neuron,Immature,GNG8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,OLIG2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Ionocyte,Ion transport,CFTR,Human,Nose,Nose,Normal,Normal cell,Ionocyte
+Ionocyte,Ion transport,FOXI1,Human,Nose,Nose,Normal,Normal cell,Ionocyte
+Lymphocyte,,MKI67,Human,Nose,Nose,Normal,Normal cell,Lymphocyte
+Lymphoid cell,,IL7R,Human,Nose,Nose,Normal,Normal cell,Lymphoid cell
+Macrophage,,C1QB,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Macrophage
+Mast cell,,TPSAB1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,HPGDS,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,ALOX5AP,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,ALOX5,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Nose,Polyp,Normal,Normal cell,Mast cell
+Neuron,Mature,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,GNG13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,CBX8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Neuron,,RTP1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Mature neuron
+Microvillar cell,Microvillar,CFTR,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Microvillar cell,Microvillar,ASCL3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Microvillar cell,Microvillar,HEPACAM2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Microvillar cell
+Monocyte,,CD14,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+Monocyte,,CLEC10A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Monocyte
+cell,Multiciliated,CCDC153,Human,Nose,Nose,Normal,Normal cell,Multiciliated cell
+Myeloid cell,,LYZ,Human,Nose,Nose,Normal,Normal cell,Myeloid cell
+Natural killer cell,,KLRD1,Human,Nose,Nose,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM-1,Human,Nose,Nose,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCG3RA,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FGFBP2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Natural killer cell
+Pericyte,,SOX17,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte
+Pericyte,,ENG,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Pericyte
+Plasma cell,,CD138,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,CD27,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,CD38,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,Igd,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Nose,Nose,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHG1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Plasma cell,,CD79A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Plasma cell
+Respiratory cell,Ciliated,CFAP126,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,Ciliated,FOXJ1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Respiratory cell,,STOMl3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory ciliated cell
+Progenitor cell,Respiratory gland,SOX9,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory gland progenitor cell
+Progenitor cell,Respiratory gland,SCGB1A1,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory gland progenitor cell
+Basal cell,Respiratory,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Respiratory,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Respiratory cell,Secretory,TFF3,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Respiratory cell,Secretory,MUC5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Respiratory cell,Secretory,MUC5AC,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory secretory cell
+Stromal cell,,DCN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Stromal cell,,CLEC11A,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Stromal cell,,LUM,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Stromal cell
+Sustentacular cell,,GPX6,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,ERMN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2A13,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+Sustentacular cell,,CYP2J2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Sustentacular cell
+T cell,,CD3D,Human,Nose,Nose,Normal,Normal cell,T cell
+Vascular smooth muscle cell,VSMC,MYH11,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+White blood cell,,PTPRC,Human,Nose,Nasal polyp,Normal,Normal cell,White blood cell

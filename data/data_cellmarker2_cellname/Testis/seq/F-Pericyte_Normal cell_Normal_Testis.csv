@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,ICFBP5,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,ICFBP7,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,ITGA1,ITGA1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,NR2F2,NR2F2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,CXCL12,CXCL12
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,STEAP4,STEAP4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,F-Pericyte,,COL4A1,COL4A1

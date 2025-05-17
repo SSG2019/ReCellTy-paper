@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pneumocyte,Type I,ZO-1,Human,Undefined,Undefined,Normal,Normal cell,Type I pneumocyte
+Pneumocyte,Type I,AQP5,Human,Undefined,Undefined,Normal,Normal cell,Type I pneumocyte
+Pneumocyte,Type I,E-cadherin,Human,Undefined,Undefined,Normal,Normal cell,Type I pneumocyte
+Pneumocyte,Type I,TJP1,Human,Undefined,Undefined,Normal,Normal cell,Type I pneumocyte

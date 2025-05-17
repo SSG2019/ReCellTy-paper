@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ monocyte-derived macrophage,,CD11c,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ monocyte-derived macrophage,,HLA-DR,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ monocyte-derived macrophage,,DC-SIGN,CD209
+Human,Genitals,Anogenital tract,,Normal,Normal cell,CD14+ monocyte-derived macrophage,,CD14,CD14

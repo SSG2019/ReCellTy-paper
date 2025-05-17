@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,CD4+ T cell,CL_0000624,TNXIP,
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,CD4+ T cell,CL_0000624,FOXP3,FOXP3

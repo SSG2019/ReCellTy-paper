@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphoid cell,,CD56,Human,Blood,Blood,Normal,Normal cell,Lymphoid cell
+Lymphoid cell,,Granzyme B,Human,Blood,Blood,Normal,Normal cell,Lymphoid cell
+Lymphoid cell,,TIA1,Human,Blood,Blood,Normal,Normal cell,Lymphoid cell
+Lymphoid cell,,NCAM1,Human,Blood,Blood,Normal,Normal cell,Lymphoid cell

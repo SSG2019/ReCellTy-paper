@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Colorectal Cancer (circulating),Cancer cell,Endothelial cell,CL_0000115,CD45,PTPRC
+Human,Undefined,Undefined,,Colorectal Cancer (circulating),Cancer cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Undefined,Undefined,,Colorectal Cancer (circulating),Cancer cell,Endothelial cell,CL_0000115,CD133,PROM1
+Human,Undefined,Undefined,,Colorectal Cancer (circulating),Cancer cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Undefined,Undefined,,Colorectal Cancer (circulating),Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1

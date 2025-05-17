@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,stemness,CD133,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,SCA-1,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,CD44,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,CD166,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,TROP2,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,PROM1,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,,CASP3,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,ALCAM,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,TACSTD2,Human,Prostate,Prostate,Normal,Normal cell,Stem cell

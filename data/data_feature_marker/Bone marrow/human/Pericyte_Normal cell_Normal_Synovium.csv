@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD73,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,PPARG,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,PREF1,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,CD105,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,DPP4,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,ICAM2,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,CD90,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,CD44,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,NT5E,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,DLK1,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte
+Pericyte,,THY1,Human,Bone marrow,Synovium,Normal,Normal cell,Pericyte

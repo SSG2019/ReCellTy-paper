@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,ICOS,ICOS
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,PDCD1,PDCD1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,LTB,LTB
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CD40LG,CD40LG
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,GPR183,GPR183
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,MALAT1,MALAT1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,HLA-DR,Human,Lung,Alveolus,Normal,Normal cell,Macrophage
+Macrophage,,CR3,Human,Lung,Alveolus,Normal,Normal cell,Macrophage
+Macrophage,,PLA2G7,Human,Lung,Alveolus,Normal,Normal cell,Macrophage

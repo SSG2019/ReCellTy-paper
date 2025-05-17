@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar cell,type 2-like,SFTPB,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Alveolar type 2-like cell
+Alveolar cell,,MDK,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Alveolar type 2-like cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,OLFML3,Human,Brain,Brain,Normal,Normal cell,Microglial cell
+Microglial cell,,TMEM119,Human,Brain,Brain,Normal,Normal cell,Microglial cell

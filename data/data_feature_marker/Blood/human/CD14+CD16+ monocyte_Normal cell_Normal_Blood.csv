@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+monocyte,CD14+,CD14,Human,Blood,Blood,Normal,Normal cell,CD14+CD16+ monocyte
+monocyte,CD16+,CD16,Human,Blood,Blood,Normal,Normal cell,CD14+CD16+ monocyte

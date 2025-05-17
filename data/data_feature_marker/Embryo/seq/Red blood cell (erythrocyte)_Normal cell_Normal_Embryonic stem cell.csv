@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,,gata1a,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,runx1,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Red blood cell (erythrocyte)

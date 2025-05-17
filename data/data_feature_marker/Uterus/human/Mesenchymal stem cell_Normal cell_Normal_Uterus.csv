@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,,NOTCH3,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,RGS5,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,GUCY1A2,Human,Uterus,Uterus,Normal,Normal cell,Mesenchymal stem cell

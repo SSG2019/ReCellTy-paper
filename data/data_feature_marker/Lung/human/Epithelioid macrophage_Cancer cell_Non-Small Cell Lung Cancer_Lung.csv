@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Epithelioid,CD163,Human,Lung,Lung,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage
+Macrophage,Epithelioid,PD-L1,Human,Lung,Lung,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage
+Macrophage,,CD33,Human,Lung,Lung,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage
+Macrophage,Epithelioid,CD274,Human,Lung,Lung,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage

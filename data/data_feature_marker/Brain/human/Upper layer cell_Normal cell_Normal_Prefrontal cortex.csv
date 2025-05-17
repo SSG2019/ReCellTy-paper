@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Upper layer cell,,CUX1,Human,Brain,Prefrontal cortex,Normal,Normal cell,Upper layer cell
+Upper layer cell,,BRN2,Human,Brain,Prefrontal cortex,Normal,Normal cell,Upper layer cell
+Upper layer cell,,POU3F2,Human,Brain,Prefrontal cortex,Normal,Normal cell,Upper layer cell

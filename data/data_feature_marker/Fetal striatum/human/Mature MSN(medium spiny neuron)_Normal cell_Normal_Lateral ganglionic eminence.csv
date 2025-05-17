@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Medium Spiny,CTIP2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)
+Neuron,Medium Spiny,BCL11B,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)

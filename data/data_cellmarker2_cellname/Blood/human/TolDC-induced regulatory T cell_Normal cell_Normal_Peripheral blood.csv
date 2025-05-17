@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,CCR4,CCR4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,PD-1,PDCD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,HLA-DR,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,CD39,ENTPD1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,ICOS,ICOS
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,CD28,CD28
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,TolDC-induced regulatory T cell,,CD38,CD38

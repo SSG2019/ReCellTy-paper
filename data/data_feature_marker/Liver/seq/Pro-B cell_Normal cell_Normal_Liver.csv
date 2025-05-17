@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Pro-B,CD34,Human,Liver,Liver,Normal,Normal cell,Pro-B cell
+B cell,Pro-B,CD19,Human,Liver,Liver,Normal,Normal cell,Pro-B cell
+B cell,Pro-B,CD10,Human,Liver,Liver,Normal,Normal cell,Pro-B cell
+B cell,Pro-B,MME,Human,Liver,Liver,Normal,Normal cell,Pro-B cell

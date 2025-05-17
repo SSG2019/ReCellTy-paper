@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Stem cell,CL_0000034,THY1,THY1
+Human,Liver,Fetal liver,,Normal,Normal cell,Stem cell,CL_0000034,DLK1,DLK1
+Human,Liver,Fetal liver,,Normal,Normal cell,Stem cell,CL_0000034,CD49f,ITGA6
+Human,Liver,Fetal liver,,Normal,Normal cell,Stem cell,CL_0000034,CD29,ITGB1

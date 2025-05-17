@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,BMX,BMX
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,GJA5,GJA5
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,CA4,CA4
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,ACKR1,ACKR1
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,PDPN,PDPN
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Endothelial cell,CL_0000115,PROX1,PROX1

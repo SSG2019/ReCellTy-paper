@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+fibroblast,Sublining,THY1,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast
+fibroblast,,PDFGRA,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast

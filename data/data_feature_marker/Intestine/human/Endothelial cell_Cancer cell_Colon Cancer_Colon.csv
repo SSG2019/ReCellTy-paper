@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,COL1A1,Human,Intestine,Colon,Colon Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Intestine,Colon,Colon Cancer,Cancer cell,Endothelial cell

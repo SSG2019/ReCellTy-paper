@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Cardiomyocyte,CL_0000746,CD106,VCAM1
+Human,Undefined,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Cardiomyocyte,CL_0000746,SIRPA,SIRPA

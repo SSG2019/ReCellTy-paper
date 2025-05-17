@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Bone marrow,CD34,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD45,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD90,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD105,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD73,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD44,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD166,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell
+Stem cell,Bone marrow,CD29,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone marrow stem cell

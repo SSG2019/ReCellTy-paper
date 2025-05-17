@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte,CL_0000128,PLP1,PLP1
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte,CL_0000128,MAG,MAG
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte,CL_0000128,OPALIN,OPALIN
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte,CL_0000128,KLK6,KLK6

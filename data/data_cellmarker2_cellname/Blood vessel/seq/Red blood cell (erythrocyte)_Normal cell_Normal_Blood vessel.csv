@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,Bpgm,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,Snca,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Red blood cell (erythrocyte),CL_0000232,Eryth,

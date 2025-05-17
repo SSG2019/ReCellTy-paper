@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,H6PD,H6PD
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,ANXA1,ANXA1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,FGD5,FGD5
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,KERA,KERA
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,HBB,HBB
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,FKBP14,FKBP14
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Parietal progenitor cell,,CFH,CFH

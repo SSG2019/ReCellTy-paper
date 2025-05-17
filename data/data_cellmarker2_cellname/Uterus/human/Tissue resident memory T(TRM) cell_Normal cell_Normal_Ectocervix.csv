@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CCR7,CCR7
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD103,ITGAE
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGB7,ITGB7
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,LFA-1,ITGAL
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD49a,ITGA1
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGB2,ITGB2
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,S1PR1,S1PR1
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGAL,ITGAL
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGAE,ITGAE
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGA1,ITGA1
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGB1,ITGB1

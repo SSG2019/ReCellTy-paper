@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Leukocyte,CL_0000738,PTPRC,PTPRC
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Leukocyte,CL_0000738,CD4,CD4
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic Cancer,Cancer cell,Leukocyte,CL_0000738,CD163,CD163

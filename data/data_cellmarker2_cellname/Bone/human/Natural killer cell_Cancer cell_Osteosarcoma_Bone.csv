@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Natural killer cell,CL_0000623,IL7R,IL7R
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Natural killer cell,CL_0000623,CD3D,CD3D

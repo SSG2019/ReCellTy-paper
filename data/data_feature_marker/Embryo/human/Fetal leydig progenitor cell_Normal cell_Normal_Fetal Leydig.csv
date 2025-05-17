@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leydig cell,Fetal,Tcf21,Human,Embryo,Fetal Leydig,Normal,Normal cell,Fetal leydig progenitor cell
+Leydig cell,Progenitor,Pdgfra,Human,Embryo,Fetal Leydig,Normal,Normal cell,Fetal leydig progenitor cell

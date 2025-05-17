@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Undefined,Cancer cell,Stromal cell,CL_0000499,CD248,CD248
+Human,Brain,Brain,UBERON_0000955,Undefined,Cancer cell,Stromal cell,CL_0000499,TEM1,CD248

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,CAMK2A,CAMK2A
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,DSC1,DSC1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,LINC01031,LINC01031
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,RSPO1,RSPO1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,KIRREL2,KIRREL2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,RFPL1,RFPL1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,RP1-137K24.1,
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,RP11-449D8.1,
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,DACH2,DACH2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,RP11-387A1.5,
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,WFIKKN1,WFIKKN1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,KREMEN2,KREMEN2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Primitive vesicle cell,,AC092159.2,

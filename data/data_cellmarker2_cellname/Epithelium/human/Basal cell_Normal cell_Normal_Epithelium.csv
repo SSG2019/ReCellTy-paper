@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,Cytokeratin-5,
+Human,Epithelium,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,CD151,CD151
+Human,Epithelium,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,TAZ,TAFAZZIN

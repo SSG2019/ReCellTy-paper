@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,CD45,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,PTPRC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphocyte

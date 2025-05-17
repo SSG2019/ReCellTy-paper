@@ -1,0 +1,27 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,HLA-DRA,HLA-DRA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD24,CD24
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,BLK,BLK
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,IGKC,IGKC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,IGL,IGL
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,IGHG1,IGHG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,IGHA1,IGHA1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,PAX5,PAX5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD72,CD72
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,BLNK,BLNK
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,IL7R,IL7R
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,RAG1,RAG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,TNFRSF13C,TNFRSF13C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,EIF4EBP1,EIF4EBP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,B cell,CL_0000236,RAG2,RAG2

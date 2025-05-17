@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,,CD106,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,SIRPA,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,ALCAM,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiomyocyte
+Cardiomyocyte,,VCAM1,Human,Embryo,Embryonic stem cell,Normal,Normal cell,Cardiomyocyte

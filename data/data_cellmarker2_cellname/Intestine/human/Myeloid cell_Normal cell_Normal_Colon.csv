@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001153,Normal,Normal cell,Myeloid cell,CL_0000763,TPSAB1,TPSAB1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,NKG7,NKG7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,S100A8,S100A8
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,CD1C,CD1C
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,OSM,OSM
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,S100A9,S100A9
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,KLRC1,KLRC1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,CLEC10A,CLEC10A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,NFKBIA,NFKBIA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,HLA-DOB,HLA-DOB
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Myeloid cell,CL_0000763,CTSS,CTSS

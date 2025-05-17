@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,follicular helper,CXCL13,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,PD1,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,CXCR5,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell

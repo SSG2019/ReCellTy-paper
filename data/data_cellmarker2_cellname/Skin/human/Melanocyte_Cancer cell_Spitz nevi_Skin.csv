@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Spitz nevi,Cancer cell,Melanocyte,CL_0000148,S100 protein,
+Human,Skin,Skin,UBERON_0002097,Spitz nevi,Cancer cell,Melanocyte,CL_0000148,HMB45,PMEL
+Human,Skin,Skin,UBERON_0002097,Spitz nevi,Cancer cell,Melanocyte,CL_0000148,Melan-A,
+Human,Skin,Skin,UBERON_0002097,Spitz nevi,Cancer cell,Melanocyte,CL_0000148,SOX10,SOX10

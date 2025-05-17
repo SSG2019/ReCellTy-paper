@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell,CL_0000844,CD19,CD19
+Human,Undefined,Undefined,,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell,CL_0000844,CD71,TFRC
+Human,Undefined,Undefined,,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell,CL_0000844,CD10,MME
+Human,Undefined,Undefined,,Head and neck squamous cell carcinoma,Cancer cell,Germinal centre B cell,CL_0000844,CD20,MS4A1

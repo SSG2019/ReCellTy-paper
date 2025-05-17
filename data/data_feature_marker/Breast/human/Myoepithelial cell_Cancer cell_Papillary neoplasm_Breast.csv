@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myoepithelial cell,,p63,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,calponin,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,smooth muscle myosin heavy chain,Human,Breast,Breast,Papillary neoplasm,Cancer cell,Myoepithelial cell

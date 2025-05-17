@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+progenitor cell,progenitor,CD34,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell
+progenitor cell,progenitor,CD133,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell
+progenitor cell,progenitor,PROM1,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell
+progenitor cell,progenitor,ALDH,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell
+progenitor cell,circulating,CD146,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell
+progenitor cell,circulating,MCAM,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating progenitor cell

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,CD4,CD4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,GATA3,GATA3
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,IRF4,IRF4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,STAT6,STAT6
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,IL-4,IL4
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,IL-9,IL9
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,IL-10,IL10
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,TGF-beta,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,T helper9 (Th9) cell,CL_0002061,TCR alpha/beta,

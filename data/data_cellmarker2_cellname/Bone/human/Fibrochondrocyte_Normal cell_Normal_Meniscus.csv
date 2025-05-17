@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Meniscus,UBERON_0000387,Normal,Normal cell,Fibrochondrocyte,,COL6A1,COL6A1
+Human,Bone,Meniscus,UBERON_0000387,Normal,Normal cell,Fibrochondrocyte,,COL1A1,COL1A1
+Human,Bone,Meniscus,UBERON_0000387,Normal,Normal cell,Fibrochondrocyte,,COL3A1,COL3A1

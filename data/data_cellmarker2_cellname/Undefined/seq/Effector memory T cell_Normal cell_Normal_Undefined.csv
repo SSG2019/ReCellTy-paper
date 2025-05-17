@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,AHNAK,AHNAK
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFRSF25,TNFRSF25
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,LTB,LTB
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,NEAT1,NEAT1
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,SAR1A,SAR1A

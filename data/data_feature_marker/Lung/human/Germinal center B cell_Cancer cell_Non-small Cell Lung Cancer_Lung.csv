@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal center,SLAMF7,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,RGS13,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,LRMP,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,H2AFV,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,KIAA0101,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGB2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,PTTG1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,STMN1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,DERL3,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,CCDC144A,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,JSRP1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,HMGA1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,HIST1H4C,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,H2AZ2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,PCLAF,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,IRAG2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,,H4C3,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,CD57,B3GAT1
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,TRAIL,TNFSF10
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,KIR,GEM
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,CD2,CD2
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Natural killer cell,CL_0000623,TIM3,HAVCR2

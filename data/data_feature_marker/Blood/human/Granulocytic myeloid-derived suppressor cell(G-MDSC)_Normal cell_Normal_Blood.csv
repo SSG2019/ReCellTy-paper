@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid-derived suppressor cell,Granulocytic,CD11b,Human,Blood,Blood,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+myeloid-derived suppressor cell,Granulocytic,CD15,Human,Blood,Blood,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+myeloid-derived suppressor cell,Granulocytic,FUT4,Human,Blood,Blood,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+myeloid-derived suppressor cell,suppressor,CD80,Human,Blood,Blood,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)

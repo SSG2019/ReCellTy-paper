@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,NFATC1,NFATC1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,LHX2,LHX2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,KRT15,KRT15
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,PLET1,PLET1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,BLIMP1,PRDM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,GLI1,GLI1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,LRIG1,LRIG1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Stem cell,CL_0000034,LGR6,LGR6

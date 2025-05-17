@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,DCUN1D3,DCUN1D3
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,FAHD2B,FAHD2B
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,ADAMTS6,ADAMTS6
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,GALNT7,GALNT7
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,MBD1,MBD1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,TMEM135,TMEM135
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,SALL4,SALL4
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,RSPO2,RSPO2
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,NTN1,NTN1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,BLOC1S3,BLOC1S3
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,GREM2,GREM2
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,ZNF747,ZNF747
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,RBL1,RBL1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,GKN2,GKN2
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Pit cell,,GKN1,GKN1

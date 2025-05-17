@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Inhibitory,VIP,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,CCK,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,LHX6,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,GAD1,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,CALB2,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,SST,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,GAD2,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron
+Neuron,Inhibitory,DLX1,Human,Brain,Hippocampus,Normal,Normal cell,Inhibitory neuron

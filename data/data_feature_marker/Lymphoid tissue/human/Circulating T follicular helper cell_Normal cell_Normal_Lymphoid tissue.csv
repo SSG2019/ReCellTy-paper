@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular helper,CXCR5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Follicular helper,CD4,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Circulating,CCR6,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell
+T cell,Circulating,CXCR3,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Circulating T follicular helper cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enterocyte,,FABP6,Human,Intestine,Ileum,Normal,Normal cell,Enterocyte
+Enterocyte,,ALPI,Human,Intestine,Ileum,Normal,Normal cell,Enterocyte
+Enterocyte,,BEST4,Human,Intestine,Ileum,Normal,Normal cell,Enterocyte
+Enterocyte,,APOA1,Human,Intestine,Ileum,Normal,Normal cell,Enterocyte

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Small Cell Lung Cancer,Cancer cell,Neuron,CL_0000540,CHGA,CHGA
+Human,Lung,Lung,UBERON_0002048,Small Cell Lung Cancer,Cancer cell,Neuron,CL_0000540,SYP,SYP
+Human,Lung,Lung,UBERON_0002048,Small Cell Lung Cancer,Cancer cell,Neuron,CL_0000540,INSM1,INSM1

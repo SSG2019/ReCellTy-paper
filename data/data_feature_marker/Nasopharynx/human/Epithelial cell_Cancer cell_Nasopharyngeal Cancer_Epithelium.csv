@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,ZO-1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TJP1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Epithelial cell

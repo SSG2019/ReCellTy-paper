@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,Adgre1,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,C1qb,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,Mac2,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,Cd68,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,Cdca3,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Macrophage,CL_0000235,LGALS3,LGALS3

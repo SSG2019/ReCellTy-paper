@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,EMT,Slug,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,EMT,Snail,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Matrix remodeling,MMP1,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell

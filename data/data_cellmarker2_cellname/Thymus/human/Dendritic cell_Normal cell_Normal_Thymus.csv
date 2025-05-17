@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CD141,THBD
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC9A,CLEC9A

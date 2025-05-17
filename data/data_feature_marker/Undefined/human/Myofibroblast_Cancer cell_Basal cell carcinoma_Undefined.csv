@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,MCAM,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Myofibroblast
+Myofibroblast,,MYLK,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Myofibroblast

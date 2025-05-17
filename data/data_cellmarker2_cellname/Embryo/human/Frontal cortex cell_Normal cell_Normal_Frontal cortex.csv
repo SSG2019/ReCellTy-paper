@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Frontal cortex,UBERON_0001870,Normal,Normal cell,Frontal cortex cell,,SEMA3E,SEMA3E
+Human,Embryo,Frontal cortex,UBERON_0001870,Normal,Normal cell,Frontal cortex cell,,GRP,GRP

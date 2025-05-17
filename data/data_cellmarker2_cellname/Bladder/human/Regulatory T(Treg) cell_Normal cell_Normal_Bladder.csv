@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFRSF4,TNFRSF4
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IL2RA,IL2RA
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFRSF9,TNFRSF9
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFRSF18,TNFRSF18
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3

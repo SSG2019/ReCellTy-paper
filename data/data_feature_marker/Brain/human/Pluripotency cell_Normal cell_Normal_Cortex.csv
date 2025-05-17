@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Pluripotency,OCT4,Human,Brain,Cortex,Normal,Normal cell,Pluripotency cell
+cell,Pluripotency,SSEA4,Human,Brain,Cortex,Normal,Normal cell,Pluripotency cell
+cell,Pluripotency,POU5F1,Human,Brain,Cortex,Normal,Normal cell,Pluripotency cell

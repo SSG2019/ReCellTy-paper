@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,ALDH1A3,ALDH1A3
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,VIM,VIM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,ALDH,
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,THY1,THY1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,BMI1,BMI1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,GTAT3,
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,SOX9,SOX9
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,EPCAM,EPCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,PGR,PGR
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,ALDH6A1,ALDH6A1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,ESR1,ESR1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Cancer stem cell,,ALDH2,ALDH2

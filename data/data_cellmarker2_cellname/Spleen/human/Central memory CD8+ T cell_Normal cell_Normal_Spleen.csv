@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,MAL,MAL
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,RCAN3,RCAN3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,NOSIP,NOSIP
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,CCR7,CCR7
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,TSHZ2,TSHZ2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,SOCS3,SOCS3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,SELL,SELL
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,TCF7,TCF7
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,MYC,MYC
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Central memory CD8+ T cell,CL_0000907,LEF1,LEF1

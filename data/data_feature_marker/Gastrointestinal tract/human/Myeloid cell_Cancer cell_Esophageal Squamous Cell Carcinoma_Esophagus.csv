@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,IL3RA,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LAMP3,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC4C,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD14,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,TPSAB1,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD68,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,Myeloid cell

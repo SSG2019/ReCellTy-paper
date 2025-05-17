@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Proximal segment cell,,C1orf210,C1orf210
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Proximal segment cell,,PIFO,PIFO
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Proximal segment cell,,C14orf105,CCDC198
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Proximal segment cell,,CFAP126,CFAP126

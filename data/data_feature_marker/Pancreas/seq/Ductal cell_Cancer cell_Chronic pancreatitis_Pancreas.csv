@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ductal cell,,MMP7,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,CFTR,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,ANXA4,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell
+Ductal cell,,AMBP,Human,Pancreas,Pancreas,Chronic pancreatitis,Cancer cell,Ductal cell

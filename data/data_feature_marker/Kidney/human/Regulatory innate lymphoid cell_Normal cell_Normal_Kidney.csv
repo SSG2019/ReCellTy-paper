@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+innate lymphoid cell,Regulatory,CD127,Human,Kidney,Kidney,Normal,Normal cell,Regulatory innate lymphoid cell
+innate lymphoid cell,Regulatory,IL-10,Human,Kidney,Kidney,Normal,Normal cell,Regulatory innate lymphoid cell
+innate lymphoid cell,Regulatory,IL7R,Human,Kidney,Kidney,Normal,Normal cell,Regulatory innate lymphoid cell

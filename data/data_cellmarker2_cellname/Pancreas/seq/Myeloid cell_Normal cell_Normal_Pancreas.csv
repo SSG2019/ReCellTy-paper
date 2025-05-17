@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Myeloid cell,CL_0000763,CD11B,ITGAM
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Myeloid cell,CL_0000763,CD11C,ITGAX
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Myeloid cell,CL_0000763,HLA-DR,

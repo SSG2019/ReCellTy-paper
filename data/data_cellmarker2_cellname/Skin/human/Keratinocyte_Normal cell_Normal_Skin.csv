@@ -1,0 +1,32 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,SPRR2A,SPRR2A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,CK14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,Integrin alpha-6,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,CD71,TFRC
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,ALDH,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,CD44,CD44
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,Integrin beta-1,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,K5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,K19,KRT19
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,K8,HOXB2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,CK14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT2,KRT2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,GJB2,GJB2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,UBE2C,UBE2C
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,FASN,FASN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,ATP1B1,ATP1B1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT15,KRT15
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,Krt5,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,DEFB1,DEFB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Keratinocyte,CL_0000312,KRT1,KRT1

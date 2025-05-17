@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Microglia-derived,TMIGD3,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglia-derived tumor-associated macrophage(Mg-TAM)
+Macrophage,Microglia-derived,APOC2,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglia-derived tumor-associated macrophage(Mg-TAM)
+Macrophage,tumor-associated,SCIN,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglia-derived tumor-associated macrophage(Mg-TAM)

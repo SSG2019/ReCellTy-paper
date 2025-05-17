@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Endothelial cell,CL_0000115,ID1,ID1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Endothelial cell,CL_0000115,LCN2,LCN2

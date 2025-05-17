@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,PLAC8,PLAC8
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,BANK1,BANK1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,REL,REL
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,GPR183,GPR183
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,NR4A2,NR4A2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,FCMR,FCMR
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,SELL,SELL
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,FCER2,FCER2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,HLA-DRB5,HLA-DRB5
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,Mar1,SETMAR
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,LINC00926,LINC00926
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Follicular B cell,CL_0000843,CD69,CD69

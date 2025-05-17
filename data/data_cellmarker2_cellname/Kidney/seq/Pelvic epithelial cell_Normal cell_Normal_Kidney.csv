@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,DUOX2,DUOX2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,SLPI,SLPI
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,SAA2,SAA2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,S100P,S100P
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,MUC4,MUC4
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,SAA1,SAA1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,LCN2,LCN2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Pelvic epithelial cell,CL_0000066,S100A9,S100A9

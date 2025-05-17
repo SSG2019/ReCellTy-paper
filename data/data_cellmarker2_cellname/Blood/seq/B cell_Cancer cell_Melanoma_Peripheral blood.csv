@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma,Cancer cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma,Cancer cell,B cell,CL_0000236,IGHG2,IGHG2
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma,Cancer cell,B cell,CL_0000236,IGHG1,IGHG1

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,Aldehyde dehydrogenase 1,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD117,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,KIT,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell
+stem cell,,STRO-1,Human,Undefined,Undefined,Sarcoma,Cancer cell,Cancer stem cell

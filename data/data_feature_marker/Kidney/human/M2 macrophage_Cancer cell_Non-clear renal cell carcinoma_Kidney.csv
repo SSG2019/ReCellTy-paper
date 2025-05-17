@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,M2,CD163,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,M2,CD209,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,M2,TREM2,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,M2,MERTK,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,SIGLEC1,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,CCL2,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,C1QB,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,FGL2,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,CSF1R,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,C1QC,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,AXL,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,C1QA,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage
+macrophage,,S100A9,Human,Kidney,Kidney,Non-clear renal cell carcinoma,Cancer cell,M2 macrophage

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD34,CD34
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD38,CD38
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,NOTCH1,NOTCH1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD164,CD164
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD117,KIT
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD90,THY1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD106,VCAM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD184,CXCR4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD133,PROM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD338,ABCG2
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD105,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,CD202b,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hematopoietic stem cell,CL_0000037,FLK-1,

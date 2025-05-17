@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CEACAM5,CEACAM5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CEACAM5,CEACAM5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,OLFM4,OLFM4
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,Pan-keratin,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,E-Cadherin,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,HCT116,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CEA,CEACAM5
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CA-153,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CA-199,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CA-125,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CX3CR1,CX3CR1

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,CD3D,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell
+T cell,Natural killer,CD3E,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell
+T cell,NKT,CD3G,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell
+T cell,NK,CD7,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell
+T cell,NK,KLRD1,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell
+T cell,KLRK1,KLRK1,Human,Kidney,Fetal kidney,Normal,Normal cell,Natural killer T (NKT) cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibrochondrocyte,Proliferative,GTGF,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte
+Fibrochondrocyte,Proliferative,FGF7,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte
+Fibrochondrocyte,,COL1A1,Human,Bone,Meniscus,Normal,Normal cell,Proliferative fibrochondrocyte

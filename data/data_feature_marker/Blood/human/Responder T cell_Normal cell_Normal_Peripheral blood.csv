@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Responder,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Responder T cell
+T cell,Responder,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Responder T cell
+T cell,,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,Responder T cell
+T cell,,CD101,Human,Blood,Peripheral blood,Normal,Normal cell,Responder T cell

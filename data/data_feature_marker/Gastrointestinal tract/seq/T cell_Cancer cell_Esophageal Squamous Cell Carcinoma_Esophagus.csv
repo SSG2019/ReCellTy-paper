@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD3E,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3G,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD2,Human,Gastrointestinal tract,Esophagus,Esophageal Squamous Cell Carcinoma,Cancer cell,T cell

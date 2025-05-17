@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tumor‐associated,APOE,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,MARCO,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,TREM2,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CD163,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,MRC1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CX3CR1,Human,Breast,Breast,Normal,Normal cell,Tumor‐associated macrophage (TAM)

@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,PD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD39,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,TIM3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,PDCD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,ENTPD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,HAVCR2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell

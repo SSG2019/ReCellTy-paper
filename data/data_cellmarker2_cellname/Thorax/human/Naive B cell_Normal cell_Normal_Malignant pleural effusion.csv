@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Naive B cell,CL_0000788,TCL1A,TCL1A
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Naive B cell,CL_0000788,IL4R,IL4R
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Naive B cell,CL_0000788,IGHD,IGHD

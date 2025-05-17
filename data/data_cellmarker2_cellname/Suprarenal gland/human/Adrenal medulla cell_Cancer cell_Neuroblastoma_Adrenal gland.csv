@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Adrenal medulla cell,,CHGA,CHGA
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Adrenal medulla cell,,DBH,DBH
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Adrenal medulla cell,,TH,TH
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Adrenal medulla cell,,CHGB,CHGB

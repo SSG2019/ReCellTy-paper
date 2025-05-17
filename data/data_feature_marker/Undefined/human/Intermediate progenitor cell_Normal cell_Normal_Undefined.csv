@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Intermediate progenitor cell,,ASCL1,Human,Undefined,Undefined,Normal,Normal cell,Intermediate progenitor cell
+Intermediate progenitor cell,,TBR2,Human,Undefined,Undefined,Normal,Normal cell,Intermediate progenitor cell
+Intermediate progenitor cell,,EOMES,Human,Undefined,Undefined,Normal,Normal cell,Intermediate progenitor cell

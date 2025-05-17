@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Derived suppressor,Stat3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Il4ra,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,S100a8,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Cebpb,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Il10,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Arg1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Tgfb1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,S100a9,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell

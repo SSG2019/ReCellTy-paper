@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neutrophil,Immature,CST3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Immature neutrophil
+neutrophil,Immature,CTSS,Human,Bone marrow,Bone marrow,Normal,Normal cell,Immature neutrophil

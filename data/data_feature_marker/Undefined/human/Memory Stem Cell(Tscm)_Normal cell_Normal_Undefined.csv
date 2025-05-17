@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,CD27,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Memory,CD45RA,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Memory,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Memory,CD62L,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Stem,CD28,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Stem,IL7R,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Stem,CD122,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)
+T cell,Stem,IL2RB,Human,Undefined,Undefined,Normal,Normal cell,Memory Stem Cell(Tscm)

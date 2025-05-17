@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tumor-associated,IBA1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,CX3CR1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,CD45,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,CD11b,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,PTPRC,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,AIF1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM)

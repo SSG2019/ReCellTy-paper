@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,Lysozyme,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,PD-L1,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,SIGLEC1,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD274,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage

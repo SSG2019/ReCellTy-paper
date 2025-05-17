@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Somatostatin interneuron,,PDE1A,PDE1A
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Somatostatin interneuron,,RALYL,RALYL
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Somatostatin interneuron,,SST,SST

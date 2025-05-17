@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,TSPAN13,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,AGR2,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,TFF3,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,MUC5AC,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,SPDEF,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,CLDN10,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,TSPAN8,Human,Bronchi,Epithelium,Normal,Normal cell,Goblet cell

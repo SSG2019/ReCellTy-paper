@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Transitional,CD38,Human,Undefined,Undefined,Melanoma,Cancer cell,Transitional B cell
+B cell,Transitional,CD10,Human,Undefined,Undefined,Melanoma,Cancer cell,Transitional B cell
+B cell,Transitional,CD24,Human,Undefined,Undefined,Melanoma,Cancer cell,Transitional B cell
+B cell,Transitional,MME,Human,Undefined,Undefined,Melanoma,Cancer cell,Transitional B cell

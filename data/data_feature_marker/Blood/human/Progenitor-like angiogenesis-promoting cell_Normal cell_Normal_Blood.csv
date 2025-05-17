@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Progenitor-like,CD34,Human,Blood,Blood,Normal,Normal cell,Progenitor-like angiogenesis-promoting cell
+Progenitor cell,Angiogenesis-promoting,CD34,Human,Blood,Blood,Normal,Normal cell,Progenitor-like angiogenesis-promoting cell

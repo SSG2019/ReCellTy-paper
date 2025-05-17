@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,Vimentin,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,CRBP1,RBP1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,Acta2,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,Timp1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Myofibroblast,CL_0000186,Col1a1,

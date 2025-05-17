@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CXCR6,CXCR6
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,FASLG,FASLG
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,NUSAP1,NUSAP1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,DUSP4,DUSP4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD103,ITGAE
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CD69,CD69

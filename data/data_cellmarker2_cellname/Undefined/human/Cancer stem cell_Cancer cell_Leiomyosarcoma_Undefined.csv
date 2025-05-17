@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Leiomyosarcoma,Cancer cell,Cancer stem cell,,CD271,NGFR
+Human,Undefined,Undefined,,Leiomyosarcoma,Cancer cell,Cancer stem cell,,CXCR4,CXCR4
+Human,Undefined,Undefined,,Leiomyosarcoma,Cancer cell,Cancer stem cell,,c-Myc,MYC
+Human,Undefined,Undefined,,Leiomyosarcoma,Cancer cell,Cancer stem cell,,CD344,FZD4

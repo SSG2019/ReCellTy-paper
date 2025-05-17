@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Synthetic smooth muscle cell,CL_0000192,TPM4,TPM4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Synthetic smooth muscle cell,CL_0000192,MGP,MGP
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Synthetic smooth muscle cell,CL_0000192,MYH10,MYH10

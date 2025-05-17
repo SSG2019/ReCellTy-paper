@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Chorionic villi,UBERON_0007106,Normal,Normal cell,CD106+ mesenchymal stem cell,,CD87,PLAUR
+Human,Placenta,Chorionic villi,UBERON_0007106,Normal,Normal cell,CD106+ mesenchymal stem cell,,CD106,VCAM1
+Human,Placenta,Chorionic villi,UBERON_0007106,Normal,Normal cell,CD106+ mesenchymal stem cell,,CD248,CD248
+Human,Placenta,Chorionic villi,UBERON_0007106,Normal,Normal cell,CD106+ mesenchymal stem cell,,CD47,CD47

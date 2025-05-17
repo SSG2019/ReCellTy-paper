@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,POSTN,POSTN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,PLP1,PLP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,TFAP2A,TFAP2A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,MPZ,MPZ
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,PAX3,PAX3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Cranial neural crest cell,CL_0000008,SOX10,SOX10

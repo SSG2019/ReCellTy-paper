@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Epithelial progenitor cell,CL_0000158,KRT19,KRT19
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Epithelial progenitor cell,CL_0000158,ABCG2,ABCG2
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Epithelial progenitor cell,CL_0000158,CDH1,CDH1
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Epithelial progenitor cell,CL_0000158,KRT18,KRT18
+Human,Embryo,Ectoderm,UBERON_0000924,Normal,Normal cell,Epithelial progenitor cell,CL_0000158,TP63,TP63

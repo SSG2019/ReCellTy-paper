@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell,CL_0000898,TCF7,TCF7
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell,CL_0000898,LEF1,LEF1
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell,CL_0000898,CCR7,CCR7
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell,CL_0000898,IL7R,IL7R

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mature podocyte,,PTPRO,PTPRO
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mature podocyte,,CLIC5,CLIC5
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mature podocyte,,NPHS2,NPHS2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Mature podocyte,,NPHS1,NPHS1

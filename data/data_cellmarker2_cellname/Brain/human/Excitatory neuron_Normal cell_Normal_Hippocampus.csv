@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,NEUROD1,NEUROD1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,PROX1,PROX1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,MEIS2,MEIS2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,NEUROD2,NEUROD2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,SEMA5A,SEMA5A
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,PID1,PID1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,MGAT4C,MGAT4C
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,SLC17A,
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,SULF2,SULF2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,NEUROD6,NEUROD6
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,NRIP3,NRIP3
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,DPF3,DPF3
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,MPPED1,MPPED1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Excitatory neuron,CL_0008030,SCGN,SCGN

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T helper 1 cell,,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T helper 1 cell,,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T helper 1 cell,,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T helper 1 cell,,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T helper 1 cell,,T-bet,TBX21

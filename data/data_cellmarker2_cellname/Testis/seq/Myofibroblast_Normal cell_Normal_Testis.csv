@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myofibroblast,CL_0000186,MYH11,MYH11
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Myofibroblast,CL_0000186,MYH11,MYH11

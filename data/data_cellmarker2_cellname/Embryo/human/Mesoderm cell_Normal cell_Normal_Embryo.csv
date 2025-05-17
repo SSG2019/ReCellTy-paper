@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesoderm cell,CL_0000222,SNAI1,SNAI1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesoderm cell,CL_0000222,BRACHYURY,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesoderm cell,CL_0000222,GSC,GSC
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesoderm cell,CL_0000222,BRACHYURY,
+Human,Embryo,Embryo,UBERON_0001844,Normal,Normal cell,Mesoderm cell,CL_0000222,OSR1,OSR1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Mesoderm cell,CL_0000222,PAX2,PAX2

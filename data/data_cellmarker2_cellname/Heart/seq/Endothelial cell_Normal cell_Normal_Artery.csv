@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,GJA5,GJA5
+Human,Heart,Artery,UBERON_0001637,Normal,Normal cell,Endothelial cell,CL_0000115,SEMA3G,SEMA3G

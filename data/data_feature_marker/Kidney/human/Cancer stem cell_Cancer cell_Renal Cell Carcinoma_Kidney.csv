@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Metastasis,CXCR4,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Immune evasion,CD200,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD44,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Angiogenesis,CD105,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,PROM1,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,POU5F1,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH1A1,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,Cancer stem cell

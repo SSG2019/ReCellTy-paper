@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,TTR,TTR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,REG1A,REG1A
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,IAPP,IAPP
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,INS,INS
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,PPY,PPY
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,SST,SST
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,B cell,CL_0000236,CD19,CD19

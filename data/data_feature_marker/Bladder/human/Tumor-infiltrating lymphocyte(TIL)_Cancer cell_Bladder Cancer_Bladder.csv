@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+lymphocyte,Tumor-infiltrating,CD8,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD4,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,FOXP3,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)
+lymphocyte,Tumor-infiltrating,CD8A,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor-infiltrating lymphocyte(TIL)

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,TCF4,TCF4
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,GZMB,GZMB
+Human,Ovary,Ovary,UBERON_0000992,High-grade serous ovarian cancer,Cancer cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4

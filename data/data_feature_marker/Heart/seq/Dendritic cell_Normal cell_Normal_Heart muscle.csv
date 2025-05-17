@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,Clec9a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Xcr1,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Irf8,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209a,Human,Heart,Heart muscle,Normal,Normal cell,Dendritic cell

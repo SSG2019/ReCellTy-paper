@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex7,CL_0000540,PRRX1,PRRX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex7,CL_0000540,CHST8,CHST8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.Ex7,CL_0000540,SNTG2,SNTG2

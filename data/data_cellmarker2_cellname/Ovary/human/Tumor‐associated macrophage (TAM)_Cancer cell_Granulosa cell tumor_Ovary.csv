@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM),,CD14,CD14
+Human,Ovary,Ovary,UBERON_0000992,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM),,CD11c,
+Human,Ovary,Ovary,UBERON_0000992,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM),,HLA-DR,

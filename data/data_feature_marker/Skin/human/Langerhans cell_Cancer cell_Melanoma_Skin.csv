@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Langerhans cell,,Langerin,Human,Skin,Skin,Melanoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD1a,Human,Skin,Skin,Melanoma,Cancer cell,Langerhans cell

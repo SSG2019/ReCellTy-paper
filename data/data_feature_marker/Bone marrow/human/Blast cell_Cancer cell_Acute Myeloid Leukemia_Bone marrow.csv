@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Blast cell,,CD13,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Blast cell
+Blast cell,,CD34,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Blast cell
+Blast cell,,HLA-DR,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Blast cell
+Blast cell,,ANPEP,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Blast cell

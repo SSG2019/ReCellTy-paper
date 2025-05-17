@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,CNN1,CNN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,COL11A1,COL11A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,CD36,CD36
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,PPARγ,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,MGP,MGP
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,MFAP5,MFAP5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,ELN ,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Reticular fibroblast,,MGP35,

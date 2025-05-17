@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,MEOX1,MEOX1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Endothelial cell,CL_0000115,CD36,CD36

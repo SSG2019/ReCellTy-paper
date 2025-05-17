@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell,CL_0000066,CD49f,ITGA6
+Human,Bladder,Bladder,UBERON_0001255,Small cell carcinoma of the bladder,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

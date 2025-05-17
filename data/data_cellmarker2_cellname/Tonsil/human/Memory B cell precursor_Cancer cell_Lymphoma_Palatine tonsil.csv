@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,Memory B cell precursor,,CCR6,CCR6
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,Memory B cell precursor,,BANK1,BANK1
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,Memory B cell precursor,,RASGRP2,RASGRP2
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,Memory B cell precursor,,CELF2,CELF2

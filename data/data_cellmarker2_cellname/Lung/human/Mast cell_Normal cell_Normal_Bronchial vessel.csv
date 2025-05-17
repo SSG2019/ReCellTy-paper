@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Mast cell,CL_0000097,MS4A2,MS4A2
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1

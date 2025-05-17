@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Placental tissue cell,,LIMCH1,LIMCH1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Placental tissue cell,,FLT1,FLT1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Placental tissue cell,,TAP1,TAP1

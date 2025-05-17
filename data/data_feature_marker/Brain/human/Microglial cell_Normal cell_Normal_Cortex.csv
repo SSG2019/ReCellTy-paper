@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,CX3CR1,Human,Brain,Cortex,Normal,Normal cell,Microglial cell
+Microglial cell,,TLR2,Human,Brain,Cortex,Normal,Normal cell,Microglial cell
+Microglial cell,,IL1A,Human,Brain,Cortex,Normal,Normal cell,Microglial cell
+Microglial cell,,CSF3R,Human,Brain,Cortex,Normal,Normal cell,Microglial cell
+Microglial cell,,PLXDC2,Human,Brain,Cortex,Normal,Normal cell,Microglial cell

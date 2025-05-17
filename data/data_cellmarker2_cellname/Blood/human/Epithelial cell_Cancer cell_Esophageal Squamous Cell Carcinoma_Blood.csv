@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT7,KRT7
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT17,KRT17
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell,CL_0000066,SPRR3,SPRR3
+Human,Blood,Blood,UBERON_0000178,Esophageal Squamous Cell Carcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8

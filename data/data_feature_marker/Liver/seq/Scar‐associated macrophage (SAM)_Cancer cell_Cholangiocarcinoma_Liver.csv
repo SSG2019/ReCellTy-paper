@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Scar-associated,CD9,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Scar‐associated macrophage (SAM)
+Macrophage,Scar-associated,TREM2,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Scar‐associated macrophage (SAM)
+Macrophage,Scar-associated,CAPG,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Scar‐associated macrophage (SAM)
+Macrophage,Scar-associated,GPNMB,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Scar‐associated macrophage (SAM)

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,LGALS3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,MAC3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage

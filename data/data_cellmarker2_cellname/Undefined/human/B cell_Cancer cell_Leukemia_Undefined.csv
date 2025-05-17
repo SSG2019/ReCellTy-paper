@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD305,LAIR1
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD102,ICAM2
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD31,PECAM1
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD97,ADGRE5
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD317,BST2
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD63,CD63
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD18,ITGB2
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD157,BST1
+Human,Undefined,Undefined,,Leukemia,Cancer cell,B cell,CL_0000236,CD217,IL17RA

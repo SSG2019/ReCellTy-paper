@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,ID4,ID4
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,S100A13,S100A13
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,TPO,TPO
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,CLU,CLU
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,IYD,IYD
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,MGST1,MGST1
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,FN1,FN1
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,TFF3,TFF3
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,TG,TG
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell,CL_0000066,DIO2,DIO2

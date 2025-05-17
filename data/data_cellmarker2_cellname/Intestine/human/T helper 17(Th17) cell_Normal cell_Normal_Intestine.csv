@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD45,PTPRC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL-17A-GFP,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,TCRß,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CXCR6,CXCR6
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,SLAMF6,SLAMF6
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD4,CD4
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,RORA,RORA
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,KLRB1,KLRB1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CXCR6,CXCR6

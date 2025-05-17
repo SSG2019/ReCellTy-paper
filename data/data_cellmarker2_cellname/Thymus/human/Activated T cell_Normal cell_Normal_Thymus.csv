@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Activated T cell,CL_0000084,CD25,IL2RA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Activated T cell,CL_0000084,CD69,CD69
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Activated T cell,CL_0000084,CD44,CD44

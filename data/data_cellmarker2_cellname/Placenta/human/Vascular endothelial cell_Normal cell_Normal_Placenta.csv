@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Vascular endothelial cell,CL_0002139,ICAM1,ICAM1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Vascular endothelial cell,CL_0002139,PLVAP,PLVAP
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Vascular endothelial cell,CL_0002139,CD34,CD34
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Vascular endothelial cell,CL_0002139,CDH5,CDH5

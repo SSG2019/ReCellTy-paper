@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,PDX1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ID1-4,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX9,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,GP2,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ONECUT2,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,HNF1B,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,TTYH1,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PTF1A,Human,Pancreas,Pancreas,Normal,Normal cell,Progenitor cell

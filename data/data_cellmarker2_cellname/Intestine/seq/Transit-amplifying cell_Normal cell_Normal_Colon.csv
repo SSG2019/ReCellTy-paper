@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Transit-amplifying cell,CL_0009010,PCNA,PCNA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Transit-amplifying cell,CL_0009010,CCNA2,CCNA2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Transit-amplifying cell,CL_0009010,MCM5,MCM5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Transit-amplifying cell,CL_0009010,TOP2A,TOP2A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Transit-amplifying cell,CL_0009010,KI67,

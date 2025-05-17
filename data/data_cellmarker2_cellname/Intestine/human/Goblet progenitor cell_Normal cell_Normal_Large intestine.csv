@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,WFDC2,WFDC2
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,SPINK4,SPINK4
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,ICA1,ICA1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,TSPAN15,TSPAN15
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,ARL14,ARL14
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,GALNT5,GALNT5
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,NFX1,NFX1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,KIAA1324,ELAPOR1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,CHST5,CHST5
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,C16orf87,C16orf87
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,GPRIN2,GPRIN2
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,SLC39A7,SLC39A7
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,ZG16B,ZG16B
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,REG4,REG4
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,PURA,PURA
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,CHKB,CHKB
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,ATP6V1H,ATP6V1H
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Goblet progenitor cell,,FOXA3,FOXA3

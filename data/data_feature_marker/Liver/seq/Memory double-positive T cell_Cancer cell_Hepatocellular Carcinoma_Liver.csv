@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,double-positive,CD8B,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell
+T cell,double-positive,CD8A,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell
+T cell,Memory,CD69,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell
+T cell,,HLA-DQA2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell
+T cell,,XCL2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Memory double-positive T cell

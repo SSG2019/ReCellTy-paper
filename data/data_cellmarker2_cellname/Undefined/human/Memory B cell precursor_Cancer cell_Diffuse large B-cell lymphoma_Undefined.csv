@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,STAT1,STAT1
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,IFITM2,IFITM2
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,CCR6,CCR6
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,CELF2,CELF2
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,IFNGR1,IFNGR1
+Human,Undefined,Undefined,,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor,,IFITM1,IFITM1

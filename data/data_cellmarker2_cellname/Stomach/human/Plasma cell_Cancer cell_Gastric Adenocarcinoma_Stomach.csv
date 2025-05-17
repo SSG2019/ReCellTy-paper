@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,CD38,CD38
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,PTPRC,PTPRC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,SLAMF7,SLAMF7
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Plasma cell,CL_0000786,IRF4,IRF4

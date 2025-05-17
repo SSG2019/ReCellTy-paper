@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,XBP1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,CD138,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell

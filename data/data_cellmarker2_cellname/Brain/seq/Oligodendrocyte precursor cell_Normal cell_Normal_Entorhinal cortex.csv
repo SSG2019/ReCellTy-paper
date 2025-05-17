@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Entorhinal cortex,UBERON_0002728,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,FDGFRA,

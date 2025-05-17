@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,B-cell Lymphoma,Cancer cell,Germinal center B cell,CL_0000844,HGAL,GCSAM
+Human,Undefined,Undefined,,B-cell Lymphoma,Cancer cell,Germinal center B cell,CL_0000844,GCET2,GCSAM

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cholangiocyte,,EpCAM,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,KRT7,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,SOX9,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,Epithelial cellular adhesion molecule,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,Gamma glutamyl transferase,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,Cytokeratin 19,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,Anion exchanger 2,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,Cystic fibrosis transmembrane conductance regulator,Human,Liver,Bile duct,Normal,Normal cell,Cholangiocyte

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,memory,CCR7,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Effector memory T cell
+T cell,memory,CD45RO,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Effector memory T cell
+T cell,memory,CD27,Human,Blood,Blood,Chronic lymphocytic leukemia,Cancer cell,Effector memory T cell

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Eosinophil,CL_0000771,Siglec-8,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Eosinophil,CL_0000771,LYZ,LYZ
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Eosinophil,CL_0000771,RETN,RETN
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Eosinophil,CL_0000771,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Eosinophil,CL_0000771,S100A9,S100A9

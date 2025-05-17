@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Progenitor,CAMP,Human,Blood,Peripheral blood,Normal,Normal cell,Neutrophil progenitor cell
+Neutrophil,Progenitor,MPO,Human,Blood,Peripheral blood,Normal,Normal cell,Neutrophil progenitor cell
+Neutrophil,Progenitor,AZU1,Human,Blood,Peripheral blood,Normal,Normal cell,Neutrophil progenitor cell
+Neutrophil,Progenitor,LTF,Human,Blood,Peripheral blood,Normal,Normal cell,Neutrophil progenitor cell
+Neutrophil,Progenitor,LCN2,Human,Blood,Peripheral blood,Normal,Normal cell,Neutrophil progenitor cell

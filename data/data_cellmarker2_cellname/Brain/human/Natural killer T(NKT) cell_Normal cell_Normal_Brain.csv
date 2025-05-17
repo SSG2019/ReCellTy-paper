@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRB1,KLRB1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRC1,KLRC1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRC2,KLRC2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRF1,KLRF1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,FGFBP2,FGFBP2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,TYROBP,TYROBP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,NCR3,NCR3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRC3,KLRC3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,ZBTB16,ZBTB16
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,CD96,CD96
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,FCGR3A,FCGR3A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,S1PR5,S1PR5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer T(NKT) cell,,KLRD1,KLRD1

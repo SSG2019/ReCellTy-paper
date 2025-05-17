@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+fibroblast,Pancancer-associated,CD49e,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Pancancer-associated fibroblast
+fibroblast,,ITGA5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Pancancer-associated fibroblast

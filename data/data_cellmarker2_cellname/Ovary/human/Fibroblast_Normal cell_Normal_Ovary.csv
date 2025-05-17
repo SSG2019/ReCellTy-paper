@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Fibroblast,CL_0000057,BGN,BGN
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Fibroblast,CL_0000057,POSTN,POSTN
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN

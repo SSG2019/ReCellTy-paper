@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,LATEXIN,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,CARBONIC-ANYDRASE,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,CX37,GJA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,FICOLIN3,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,SOX8,SOX8
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,CD55,CD55
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,CD40,CD40
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,HOXP1,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,C-KIT,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,Isl1,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,Gata6,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,Tbx20,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Hematopoietic cell,CL_0000988,PTPRC,PTPRC

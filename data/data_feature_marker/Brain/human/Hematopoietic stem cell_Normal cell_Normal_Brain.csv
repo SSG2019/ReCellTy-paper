@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic stem cell,,NCOR2,Human,Brain,Brain,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,HLX,Human,Brain,Brain,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PRNP,Human,Brain,Brain,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,NKX3-1,Human,Brain,Brain,Normal,Normal cell,Hematopoietic stem cell

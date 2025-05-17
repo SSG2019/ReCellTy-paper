@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,SLC1A3,SLC1A3
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,S100B,S100B
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,ALDH1L1,ALDH1L1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,PEA15,PEA15
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Astrocyte,CL_0000127,GLUL,GLUL

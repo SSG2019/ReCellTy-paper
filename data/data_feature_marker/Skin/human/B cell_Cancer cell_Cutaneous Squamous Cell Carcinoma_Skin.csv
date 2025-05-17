@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MZB1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGLL1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell

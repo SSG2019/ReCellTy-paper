@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD103,Human,Intestine,Intestine,Normal,Normal cell,Central memory T cell
+T cell,,CD69,Human,Intestine,Intestine,Normal,Normal cell,Central memory T cell
+T cell,,ITGAE,Human,Intestine,Intestine,Normal,Normal cell,Central memory T cell

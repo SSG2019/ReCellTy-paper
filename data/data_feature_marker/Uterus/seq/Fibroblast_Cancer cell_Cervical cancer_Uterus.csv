@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,APOD,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast
+Fibroblast,,VCAM,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Fibroblast

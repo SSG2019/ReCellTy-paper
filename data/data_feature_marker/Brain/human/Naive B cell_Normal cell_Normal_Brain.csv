@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,IgM,Human,Brain,Brain,Normal,Normal cell,Naive B cell
+B cell,,CD45,Human,Brain,Brain,Normal,Normal cell,Naive B cell
+B cell,,Igκ/Igλ,Human,Brain,Brain,Normal,Normal cell,Naive B cell
+B cell,,PTPRC,Human,Brain,Brain,Normal,Normal cell,Naive B cell

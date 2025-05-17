@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Acinar cell,CL_0000622,PRR27,PRR27
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Acinar cell,CL_0000622,HTN1,HTN1
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Acinar cell,CL_0000622,LTF,LTF
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Acinar cell,CL_0000622,SCGB2A1,SCGB2A1

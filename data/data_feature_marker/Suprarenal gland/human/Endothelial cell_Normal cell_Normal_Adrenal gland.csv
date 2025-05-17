@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,SOX18,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEK,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell

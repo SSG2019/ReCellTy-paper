@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Papillary,NTN1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,Papillary,APCDD1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,CD26,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,PDPN,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL6A1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL23A1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL23A13,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,PTGDS,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,DPP4,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast

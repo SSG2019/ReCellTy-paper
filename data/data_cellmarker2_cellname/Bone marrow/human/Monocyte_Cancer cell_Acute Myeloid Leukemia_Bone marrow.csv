@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD15,FUT4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,SLC7A7,SLC7A7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,MAFB,MAFB
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,LILRB1,LILRB1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD68,CD68
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD11b,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,LRP1,LRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD86,CD86
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,BCL3,BCL3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,PSAP,PSAP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,SLC15A3,SLC15A3

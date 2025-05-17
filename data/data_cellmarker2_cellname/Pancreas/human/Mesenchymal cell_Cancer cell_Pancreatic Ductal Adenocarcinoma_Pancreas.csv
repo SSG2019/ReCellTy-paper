@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell,CL_0008019,Vimentin,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell,CL_0008019,Twist,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell,CL_0008019,Slug,
+Human,Pancreas,Pancreas,UBERON_0001264,Pancreatic ductal adenocarcinoma,Cancer cell,Mesenchymal cell,CL_0008019,Snail,

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Regulatory,HMOX1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,Regulatory,TMEM176A,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,CKS2,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte
+Chondrocyte,,TUBB4B,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Regulatory chondrocyte

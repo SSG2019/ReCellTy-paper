@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EPCAM,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD133,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD24,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,PROM1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell

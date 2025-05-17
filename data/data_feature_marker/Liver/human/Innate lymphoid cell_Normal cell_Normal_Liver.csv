@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,NCR1,CD335,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ITGA1,CD49a,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NCAM1,CD56,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NCR1,NCR1,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ITGA1,ITGA1,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NCAM1,NCAM1,Human,Liver,Liver,Normal,Normal cell,Innate lymphoid cell

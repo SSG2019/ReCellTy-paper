@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuronal,Intermediate progenitor,PPP1R17,Human,Brain,Brain,Normal,Normal cell,Neuronal intermediate progenitor cell
+Neuronal,Intermediate progenitor,EOMES,Human,Brain,Brain,Normal,Normal cell,Neuronal intermediate progenitor cell
+Neuronal,Intermediate progenitor,NEUROG1,Human,Brain,Brain,Normal,Normal cell,Neuronal intermediate progenitor cell

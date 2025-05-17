@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD69,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,CD25,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,CD137,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,T-bet,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,PDCD1,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,ICOS,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell
+T cell,Effector,HAVCR2,Human,Undefined,Undefined,Normal,Normal cell,Effector T cell

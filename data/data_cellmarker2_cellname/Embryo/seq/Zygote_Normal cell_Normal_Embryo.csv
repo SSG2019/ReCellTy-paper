@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Zygote,CL_0010017,H1FOO,H1-8
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Zygote,CL_0010017,ACCSL,ACCSL
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Zygote,CL_0010017,CLEC10A,CLEC10A

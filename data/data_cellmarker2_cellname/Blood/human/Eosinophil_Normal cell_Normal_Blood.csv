@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD125,IL5RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD114,CSF3R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD124,IL4R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD126,IL6R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD116,CSF2RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,IL-3 receptor alpha subunit,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD66e,CEACAM5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD25,IL2RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD11b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD69,CD69
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD48,CD48
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD81,CD81
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD54,ICAM1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CCR3,CCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,IL-5Rα,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD11b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,EMR1,ADGRE1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,Siglec-8,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD9,CD9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Eosinophil,CL_0000771,CD15,FUT4

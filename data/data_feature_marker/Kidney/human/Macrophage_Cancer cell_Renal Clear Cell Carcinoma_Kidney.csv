@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD163,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,C1Q,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,TREM2,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD11C,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,ITGAX,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Macrophage

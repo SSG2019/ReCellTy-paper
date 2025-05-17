@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Urothelial cell,Urothelial differentiation,GATA3,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,Basal cell,p63,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,Urothelial differentiation,uroplakin II,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell
+Urothelial cell,,RPE65,Human,Bladder,Bladder,Undefined,Cancer cell,Urothelial cell

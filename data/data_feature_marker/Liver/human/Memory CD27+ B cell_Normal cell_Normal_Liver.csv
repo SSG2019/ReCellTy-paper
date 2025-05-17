@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,CD27+,CD27,Human,Liver,Liver,Normal,Normal cell,Memory CD27+ B cell
+B cell,Memory,CD38,Human,Liver,Liver,Normal,Normal cell,Memory CD27+ B cell

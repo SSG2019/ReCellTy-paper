@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,SIRPα,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,DC-SIGN,CD209
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,FcRγ,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,CD163,CD163
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,CD64,FCGR1A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,CD14,CD14
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Inflammatory dendritic cell,,CD11c,

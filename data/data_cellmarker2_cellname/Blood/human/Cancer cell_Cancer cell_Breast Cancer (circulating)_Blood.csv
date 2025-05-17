@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,EpCAM,
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,HER2,ERBB2
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,PSA,KLK3
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,CD24,CD24
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,CD45,PTPRC
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,uPAR,
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,EpCAM,
+Human,Blood,Blood,UBERON_0000178,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,Integrin beta-1,

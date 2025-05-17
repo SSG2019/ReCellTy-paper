@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,AFP,AFP
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,NF2,NF2
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD13,ANPEP
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD45,PTPRC
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,USP22,USP22
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,Aldehyde dehydrogenase 1,
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,ESA,FLOT2
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD49f,ITGA6
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Cancer stem cell,,ALDH,

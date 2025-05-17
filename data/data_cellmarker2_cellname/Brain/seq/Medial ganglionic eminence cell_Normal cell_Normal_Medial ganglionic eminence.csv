@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Medial ganglionic eminence cell,,LHX8,LHX8
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Medial ganglionic eminence cell,,NR2F1,NR2F1
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Medial ganglionic eminence cell,,NKX2-1,NKX2-1

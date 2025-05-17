@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CCL3,CCL3
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,CST3,CST3
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Monocyte,CL_0000576,LYZ,LYZ

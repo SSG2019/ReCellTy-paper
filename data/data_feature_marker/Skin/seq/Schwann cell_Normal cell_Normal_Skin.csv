@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Schwann cell,myelination,PLP1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,myelination,Plp1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,cell adhesion,CDH19,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,calcium-binding,S100B,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,development,SOX10,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,nerve growth,NGFR,Human,Skin,Skin,Normal,Normal cell,Schwann cell

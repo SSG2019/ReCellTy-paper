@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Germinal center cell,,BANK1,BANK1
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Germinal center cell,,HLA-DRA,HLA-DRA
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Germinal center cell,,VPREB3,VPREB3
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Germinal center cell,,CD19,CD19
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Germinal center cell,,CD74,CD74

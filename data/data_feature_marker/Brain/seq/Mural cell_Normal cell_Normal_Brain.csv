@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mural cell,Pericyte,PDGFRB,Human,Brain,Brain,Normal,Normal cell,Mural cell
+Mural cell,Pericyte,FOXF2,Human,Brain,Brain,Normal,Normal cell,Mural cell
+Mural cell,Pericyte,CD248,Human,Brain,Brain,Normal,Normal cell,Mural cell
+Mural cell,Pericyte,RGS5,Human,Brain,Brain,Normal,Normal cell,Mural cell
+Mural cell,,MS4A1,Human,Brain,Brain,Normal,Normal cell,Mural cell
+Mural cell,,IL7R,Human,Brain,Brain,Normal,Normal cell,Mural cell

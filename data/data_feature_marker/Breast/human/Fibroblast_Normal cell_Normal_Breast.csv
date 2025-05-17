@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,POSTN,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK18,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK19,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,EpCAM,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,CK8,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,KRT19,Human,Breast,Breast,Normal,Normal cell,Fibroblast
+Fibroblast,,KRT8,Human,Breast,Breast,Normal,Normal cell,Fibroblast

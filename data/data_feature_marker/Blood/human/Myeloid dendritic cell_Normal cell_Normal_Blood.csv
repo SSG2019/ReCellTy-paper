@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Myeloid,CD11b,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD11c,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD1a,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD1b,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD1c,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD209,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD86,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,MHC Class II,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,Myeloid,CD273,Human,Blood,Blood,Normal,Normal cell,Myeloid dendritic cell

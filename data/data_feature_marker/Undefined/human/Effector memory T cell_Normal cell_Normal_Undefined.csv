@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,EOMES,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Effector,KLRG1,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD127,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD45RO,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CCR7,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD62L,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,CD44,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,CD197,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,IL7R,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,SELL,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,AHNAK,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,TNFRSF25,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,LTB,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,NEAT1,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,,SAR1A,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell

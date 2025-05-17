@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuronal precursor cell,precursor,SOX-1,Human,Brain,Cortex,Normal,Normal cell,Neuronal precursor cell
+Neuronal precursor cell,precursor,Nestin,Human,Brain,Cortex,Normal,Normal cell,Neuronal precursor cell

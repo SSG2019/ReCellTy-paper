@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Sustentacular cell,CL_0000703,GPX6,GPX6
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Sustentacular cell,CL_0000703,ERMN,ERMN
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Sustentacular cell,CL_0000703,SOX2,SOX2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Sustentacular cell,CL_0000703,CYP2A13,CYP2A13
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Sustentacular cell,CL_0000703,CYP2J2,CYP2J2

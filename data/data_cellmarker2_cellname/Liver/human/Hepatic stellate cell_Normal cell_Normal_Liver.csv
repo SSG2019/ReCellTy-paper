@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Col1a1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Myo18a,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Acta2,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Colec10,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Adamts1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Epas1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,Adamtsl2,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,PDGFRA,PDGFRA
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,LHX2,LHX2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,FOXF1,FOXF1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,PDGFRB,PDGFRB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic stellate cell,CL_0000632,HLX,HLX

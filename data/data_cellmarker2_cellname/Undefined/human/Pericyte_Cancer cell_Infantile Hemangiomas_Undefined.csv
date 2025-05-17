@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,SMA,SMN1
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,Calponin,
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,PDGF-A,PDGFA
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,CD90,THY1
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,DLK,DAPK3
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Pericyte,CL_0000669,NG2,CSPG4

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Pan-cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,ENTPD1,ENTPD1
+Human,Undefined,Undefined,,Pan-cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TOX,TOX
+Human,Undefined,Undefined,,Pan-cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CTLA4,CTLA4
+Human,Undefined,Undefined,,Pan-cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TNFRSF9,TNFRSF9
+Human,Undefined,Undefined,,Pan-cancer,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TIGIT,TIGIT

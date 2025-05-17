@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,N-cadherin,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Mesenchymal cell

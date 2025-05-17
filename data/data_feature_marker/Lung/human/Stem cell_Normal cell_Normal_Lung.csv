@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,SOX2,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT3,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,Sox2,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Self-renewal,ALDH1,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Self-renewal,ALDH1A1,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Self-renewal,CD133,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Self-renewal,PROM1,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Stemness,ABCG2,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR6,Human,Lung,Lung,Normal,Normal cell,Stem cell

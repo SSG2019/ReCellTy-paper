@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1E,CD1E
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CLIC2,CLIC2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,WFDC21P,WFDC21P
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1A,CD1A
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1B,CD1B
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CLEC10A,CLEC10A

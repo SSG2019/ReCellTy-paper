@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Damage-associated transient progenitor cell,,CDKN1A,CDKN1A
+Human,Undefined,Undefined,,Normal,Normal cell,Damage-associated transient progenitor cell,,KRT8,KRT8
+Human,Undefined,Undefined,,Normal,Normal cell,Damage-associated transient progenitor cell,,CLDN4,CLDN4

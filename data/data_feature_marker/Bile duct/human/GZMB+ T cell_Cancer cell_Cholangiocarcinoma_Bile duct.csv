@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,GZMB+,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ciliated cell,,FOXJ1,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Ciliated cell
+Ciliated cell,,CCDC78,Human,Lung,Lung,Lung adenocarcinoma,Cancer cell,Ciliated cell

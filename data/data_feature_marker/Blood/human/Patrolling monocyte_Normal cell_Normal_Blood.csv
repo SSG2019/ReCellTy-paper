@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+monocyte,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Patrolling monocyte
+monocyte,Patrolling,CD16,Human,Blood,Blood,Normal,Normal cell,Patrolling monocyte
+monocyte,Patrolling,FCGR3A,Human,Blood,Blood,Normal,Normal cell,Patrolling monocyte

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Embryonic stem cell,,NANOG,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,OCT4,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,POU5F1,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,pluripotent,OCT4,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Human pluripotent stem cell (hPSC)
+stem cell,pluripotent,NANOG,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Human pluripotent stem cell (hPSC)
+stem cell,pluripotent,SOX2,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Human pluripotent stem cell (hPSC)
+stem cell,pluripotent,POU5F1,Human,Undefined,Pluripotent stem cell,Normal,Normal cell,Human pluripotent stem cell (hPSC)

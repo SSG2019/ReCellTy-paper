@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Pre-conventional,CD33,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,HLA-DR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,FLT-3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,BDCA4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,BDCA2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD45RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD303,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD304,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD117,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CD116,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,NRP1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CLEC4C,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,IL3RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,KIT,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell
+Dendritic cell,Pre-conventional,CSF2RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Pre-conventional dendritic cell

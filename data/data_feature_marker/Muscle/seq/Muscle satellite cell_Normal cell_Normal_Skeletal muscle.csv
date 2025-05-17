@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Muscle satellite cell,,Myod1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Sdc4,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Pax7,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell
+Muscle satellite cell,,Vcam1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Muscle satellite cell

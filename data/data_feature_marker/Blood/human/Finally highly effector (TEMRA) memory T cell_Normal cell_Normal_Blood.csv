@@ -1,0 +1,22 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Finally highly effector,GZMH,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,CST7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,NKG7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,GZMA,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,CCL5,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,CCL4,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Finally highly effector,GNLY,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,GZMH,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,CST7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,NKG7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,GZMA,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,CCL5,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,CCL4,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,TEMRA,GNLY,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,GZMH,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,CST7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,NKG7,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,GZMA,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,CCL5,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,CCL4,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell
+T cell,Memory,GNLY,Human,Blood,Blood,Normal,Normal cell,Finally highly effector (TEMRA) memory T cell

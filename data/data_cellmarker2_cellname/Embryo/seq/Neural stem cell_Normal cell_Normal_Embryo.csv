@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Neural stem cell,CL_0000047,MAP2,MAP2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Neural stem cell,CL_0000047,SOX1,SOX1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Neural stem cell,CL_0000047,FABP7,FABP7

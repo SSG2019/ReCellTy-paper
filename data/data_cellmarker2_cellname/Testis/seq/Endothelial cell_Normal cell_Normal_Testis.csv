@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,TIE1,TIE1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,NOTCH4,NOTCH4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,PRSS23,PRSS23
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,EGFL7,EGFL7
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,RBP7,RBP7
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Endothelial cell,CL_0000115,HES1,HES1

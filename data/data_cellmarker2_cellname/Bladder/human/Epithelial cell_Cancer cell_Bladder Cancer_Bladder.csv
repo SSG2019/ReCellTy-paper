@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,PPARG,PPARG
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,GATA3,GATA3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT17,KRT17
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,CDH12,CDH12
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT13,KRT13
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Epithelial cell,CL_0000066,CDH18,CDH18

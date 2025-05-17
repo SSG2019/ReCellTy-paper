@@ -1,0 +1,179 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,AIRE-enriched,CCR7,Human,Tonsil,Tonsil,Normal,Normal cell,AIRE-enriched cell
+B cell,,MS4A1,Human,Tonsil,Tonsil,Head And Neck Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Tonsil,Tonsil,Head And Neck Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD83,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,CXCR4,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,AICDA,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,BCL2A1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,CD75,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,CD23,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,CD20,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,CD40,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,CD21,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,IFI44L,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,XAF1,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,MX1,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,CR2,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+T cell,CD4+,HLADR,Human,Tonsil,Tonsil,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CD25,Human,Tonsil,Tonsil,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CD69,Human,Tonsil,Tonsil,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,IL2RA,Human,Tonsil,Tonsil,Normal,Normal cell,CD4+ T cell
+Classical monocyte,,CD16,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD68,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD11b,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD14,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD88,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD89,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,FCGR3A,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,C5AR1,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,FCAR,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Dendritic cell,Conventional,HLA-DQ,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,FcεRIα,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,HLA-DQ,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,FcεRIα,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,,CD4,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD26,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,BDCA3,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1c,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CR2,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,MFGE8,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,VCAM1,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CXCL13,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CR1,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,DPP4,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Follicular dendritic cell,,FDC,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular dendritic cell
+T cell,Follicular T helper-like,PD-1,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell
+T cell,Follicular T helper-like,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell
+T cell,Follicular T helper-like,PDCD1,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell
+B cell,Germinal center,AICDA,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,MKI67,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,,CD9,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,,CD81,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+Innate lymphoid cell,,CXCR6,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD94,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD56,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD49a,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD335,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD336,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,KLRD1,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,NCAM1,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,ITGA1,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,NCR1,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,NCR2,Human,Tonsil,Tonsil,Normal,Normal cell,Innate lymphoid cell
+Light zone cell,,CD83,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Light zone cell
+Macrophage,,CD68,Human,Tonsil,Tonsil,B-cell Lymphoma,Cancer cell,Macrophage
+B cell,Memory,CCR6,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,Precursor,BANK1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,CCR7,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+B cell,Memory,GPR183,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+B cell,Memory,SELL,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+B cell,,CD19,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+T cell,Memory,CD27,Human,Tonsil,Tonsil,Normal,Normal cell,Memory T(Tm) cell
+T cell,Memory,CD28,Human,Tonsil,Tonsil,Normal,Normal cell,Memory T(Tm) cell
+T cell,Memory,CD103,Human,Tonsil,Tonsil,Normal,Normal cell,Memory T(Tm) cell
+T cell,Memory,ITGAE,Human,Tonsil,Tonsil,Normal,Normal cell,Memory T(Tm) cell
+Mesenchymal stromal cell,,CD34,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD90,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD44,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD73,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,THY1,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,NT5E,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Myeloid cell,,CDw32,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD16,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD35,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR2A,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CR1,Human,Tonsil,Tonsil,Normal,Normal cell,Myeloid cell
+Plasma cell,,MZB1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,CD138,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasmablast,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+Plasmablast,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+Plasmablast,,CD9,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+Plasmablast,,IRF4,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast
+Plasmablast,,PRDM1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast
+Plasmablast,,XBP1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast
+T cell,,CD45RO,Human,Tonsil,Tonsil,Normal,Normal cell,T cell
+T cell,,CD3,Human,Tonsil,Tonsil,Normal,Normal cell,T cell
+T cell,Follicular helper,PD-1,Human,Tonsil,Tonsil,Normal,Normal cell,T follicular helper cell
+T cell,Follicular helper,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,T follicular helper cell
+T cell,Follicular helper,PDCD1,Human,Tonsil,Tonsil,Normal,Normal cell,T follicular helper cell
+T cell,Helper,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,PD-1,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,BTLA,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,CD57,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,ICOS,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+T cell,Helper,B3GAT1,Human,Tonsil,Tonsil,Normal,Normal cell,T helper cell
+Tonsil cell,,CD27,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,CD95,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,CD39,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,CD38,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,RB,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,CD73,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,FAS,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,ENTPD1,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,RB1,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+Tonsil cell,,NT5E,Human,Tonsil,Tonsil,Normal,Normal cell,Tonsil cell
+cell,AIRE-enriched,CCR7,Human,Tonsil,Tonsil,Normal,Normal cell,AIRE-enriched cell
+B cell,,MS4A1,Human,Tonsil,Tonsil,Head And Neck Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Tonsil,Tonsil,Head And Neck Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD83,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,CXCR4,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,AICDA,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,BCL2A1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,B cell
+B cell,,IFI44L,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,XAF1,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+B cell,,MX1,Human,Tonsil,Tonsil,Normal,Normal cell,B cell
+Classical monocyte,,CD16,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD68,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD11b,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD14,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Classical monocyte,,FCGR3A,Human,Tonsil,Tonsil,Normal,Normal cell,Classical monocyte
+Dendritic cell,,CD4,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD26,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,BDCA3,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1c,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,DPP4,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Tonsil,Tonsil,Normal,Normal cell,Dendritic cell
+B cell,Germinal center,AICDA,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,MKI67,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+B cell,,CD81,Human,Tonsil,Tonsil,Normal,Normal cell,Germinal center B cell
+Light zone cell,,CD83,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Light zone cell
+B cell,Memory,CCR6,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,BANK1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,,RASGRP2,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,,CELF2,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,CCR7,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+B cell,Memory,SELL,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+B cell,,GPR183,Human,Tonsil,Tonsil,Normal,Normal cell,Memory B cell
+Plasma cell,,MZB1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasma cell
+Plasma cell,,XBP1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,PRDM1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,IRF4,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,CD138,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasma cell
+B cell,,PRDM1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+B cell,,XBP1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+B cell,,CD9,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Plasmablast
+Plasmablast,,IRF4,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast
+Plasmablast,,PRDM1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast
+Plasmablast,,XBP1,Human,Tonsil,Tonsil,Normal,Normal cell,Plasmablast

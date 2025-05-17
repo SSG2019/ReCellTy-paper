@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,alpha-SMA,
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,WT1,WT1
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,PDGFRA,PDGFRA
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,FN1,FN1
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,DES,DES
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,TIMP1,TIMP1
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,VIM,VIM
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,PALLD,PALLD
+Human,Undefined,Undefined,,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2

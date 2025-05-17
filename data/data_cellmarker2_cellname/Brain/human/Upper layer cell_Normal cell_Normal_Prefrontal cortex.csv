@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Prefrontal cortex,UBERON_0000451,Normal,Normal cell,Upper layer cell,,CUX1,CUX1
+Human,Brain,Prefrontal cortex,UBERON_0000451,Normal,Normal cell,Upper layer cell,,BRN2,POU3F2
+Human,Brain,Prefrontal cortex,UBERON_0000451,Normal,Normal cell,Upper layer cell,,POU3F2,POU3F2

@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8A,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD52,CD52
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CXCR3,CXCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8B,CD8B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,ITGA1,ITGA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CXCR4,CXCR4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD44,CD44
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8A,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,GZMK,GZMK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CXCR3,CXCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8B,CD8B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,FGFBP2,FGFBP2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8a,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD3,

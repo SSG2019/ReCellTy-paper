@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Urothelial cell,,KRT8,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Urothelial cell
+Urothelial cell,,KRT18,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Urothelial cell
+Urothelial cell,,EPCAM,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,Urothelial cell

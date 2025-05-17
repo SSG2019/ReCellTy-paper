@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,CD133,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EpCAM,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PROM1,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,CD133,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,CD44,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,PROM1,Human,Liver,Liver,Cholangiolocellular Carcinoma,Cancer cell,Cancer stem cell

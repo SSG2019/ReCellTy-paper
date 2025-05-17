@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,CD45RO,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,Memory,CCR7,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,Memory,IL7R,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,CD4+,CD4,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,CD8+,CD8,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,CD8+,CD8A,Human,Blood,Blood,Normal,Normal cell,Memory T cell
+T cell,CD8+,CD8EM1,Human,Blood,Blood,Normal,Normal cell,Memory T cell

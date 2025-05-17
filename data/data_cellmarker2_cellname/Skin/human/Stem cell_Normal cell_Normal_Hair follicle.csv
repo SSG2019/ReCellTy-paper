@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,Cytokeratin-19,
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,CD200,CD200
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,Cytokeratin-15,
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,Beta-catenin,
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,SOX9,SOX9
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,LRIG1,LRIG1
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,Cytokeratin-15,
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Skin,Hair follicle,UBERON_0002073,Normal,Normal cell,Stem cell,CL_0000034,K15,KRT15

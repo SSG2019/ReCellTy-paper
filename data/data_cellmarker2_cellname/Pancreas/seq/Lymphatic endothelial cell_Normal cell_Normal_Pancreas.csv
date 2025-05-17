@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PROX1,PROX1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,FLT4,FLT4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PDPN,PDPN
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,LYVE1,LYVE1

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Natural killer cell,CL_0000623,CD16,FCGR3A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Natural killer cell,CL_0000623,NKp30,NCR3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Natural killer cell,CL_0000623,CD16,FCGR3A

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Erythroid cell,,GPA,Human,Blood,Umbilical cord blood,Normal,Normal cell,Erythroid cell
+Erythroid cell,,TFR,Human,Blood,Umbilical cord blood,Normal,Normal cell,Erythroid cell
+Erythroid cell,,GYPA,Human,Blood,Umbilical cord blood,Normal,Normal cell,Erythroid cell
+Erythroid cell,,TFRC,Human,Blood,Umbilical cord blood,Normal,Normal cell,Erythroid cell

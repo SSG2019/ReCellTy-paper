@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Retinal Pigment Epithelium,RPE65,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal Pigment Epithelium,BEST1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Pigmentation,TYR,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal Pigment Epithelium,RLBP1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal,CRX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal,RAX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell

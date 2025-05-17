@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Stemness,CD44,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Survival and Proliferation,CD117,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD24,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD33,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Survival and Proliferation,KIT,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell

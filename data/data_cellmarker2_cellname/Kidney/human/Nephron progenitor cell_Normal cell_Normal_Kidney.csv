@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,SIX1,SIX1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,DAPL1,DAPL1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,LYPD1,LYPD1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,CRABP2,CRABP2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,EYA1,EYA1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,CITED1,CITED1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,DAPL1,DAPL1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Nephron progenitor cell,,SALL1,SALL1

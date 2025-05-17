@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,pan-keratin CK-19,Human,Biliary tract,Biliary tract,Cholangiocarcinoma,Cancer cell,Cancer cell
+Cancer stem cell,,LGR5,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,NANOG,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,SOX2,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Cancer stem cell
+cancer cell,Chemo-resistant,CD133,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Chemo‐resistant cancer cell
+cancer cell,,PROM1,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Chemo‐resistant cancer cell
+Cholangiocyte,,CK19,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte
+Cholangiocyte,,EpCAM,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte
+T cell,Cytotoxic,CD8,Human,Biliary tract,Biliary tract,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Biliary tract,Biliary tract,Normal,Normal cell,Cytotoxic T cell
+Myeloid-derived suppressor cell,Granulocytic,CD11b,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+Myeloid-derived suppressor cell,Granulocytic,CD15,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+Myeloid-derived suppressor cell,Granulocytic,FUT4,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+Intestinal cell,,CDX2,Human,Biliary tract,Biliary tract,Intraductal papillary neoplasm,Cancer cell,Intestinal cell
+Intestinal cell,,CK20,Human,Biliary tract,Biliary tract,Intraductal papillary neoplasm,Cancer cell,Intestinal cell
+Intestinal cell,,MUC2,Human,Biliary tract,Biliary tract,Intraductal papillary neoplasm,Cancer cell,Intestinal cell
+Intestinal cell,,KRT20,Human,Biliary tract,Biliary tract,Intraductal papillary neoplasm,Cancer cell,Intestinal cell
+Leukocyte,,CD45,Human,Biliary tract,Biliary tract,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Biliary tract,Biliary tract,Normal,Normal cell,Leukocyte
+Macrophage,,CD68,Human,Biliary tract,Biliary tract,Normal,Normal cell,Macrophage
+Monocyte,,CD14,Human,Biliary tract,Biliary tract,Normal,Normal cell,Monocyte
+Stem cell,,SOX2,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Stem cell
+Stem cell,,LGR5,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Stem cell

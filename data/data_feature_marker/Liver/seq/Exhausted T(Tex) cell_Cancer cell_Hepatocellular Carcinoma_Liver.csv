@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,CD38,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,MKI67,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,HMMR,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Tex,TOP2A,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Exhausted T(Tex) cell

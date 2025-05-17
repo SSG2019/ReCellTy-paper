@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD45RO,Human,Undefined,Undefined,T-cell Lymphoma,Cancer cell,T cell
+T cell,,CD43,Human,Undefined,Undefined,T-cell Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Undefined,Undefined,T-cell Lymphoma,Cancer cell,T cell
+T cell,,SPN,Human,Undefined,Undefined,T-cell Lymphoma,Cancer cell,T cell

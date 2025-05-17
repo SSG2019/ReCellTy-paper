@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Proliferative,BIRC5,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Proliferative cell (PC)
+cell,Proliferative,CDK1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Proliferative cell (PC)
+cell,Proliferative,MK167,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Proliferative cell (PC)

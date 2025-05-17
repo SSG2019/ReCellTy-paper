@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Gastric epithelium,UBERON_0005477,Normal,Normal cell,Zymogenic chief cell,CL_0000155,CD13,ANPEP

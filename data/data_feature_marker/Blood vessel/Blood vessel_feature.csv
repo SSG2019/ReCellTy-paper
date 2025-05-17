@@ -1,0 +1,452 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Artery cell,,GJA4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Artery cell
+Artery cell,,HEY1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Artery cell
+Astrocyte,,AQP4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Astrocyte
+B cell,,Cd79a,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,Cd79b,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,Lybd,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD22,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD19,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+T cell,,FOXP3,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+T cell,,IL2RA,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+T cell,,CTLA4,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,CD8+ T cell
+Choroid plexus cell,,RSPO2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Choroid plexus cell
+T cell,Cytotoxic,CD8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Cytotoxic T cell
+T cell,,CD3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,Ifitm1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Ccr7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209a,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Endocrine cell,,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,KDR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endothelial cell,,CD31,Human,Blood vessel,Blood vessel,Glioma,Cancer cell,Endothelial cell
+Endothelial cell,,VEGF,Human,Blood vessel,Blood vessel,Glioma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Blood vessel,Blood vessel,Glioma,Cancer cell,Endothelial cell
+Endothelial cell,,VEGFA,Human,Blood vessel,Blood vessel,Glioma,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Blood vessel,Blood vessel,Pancreatic Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Blood vessel,Blood vessel,Pancreatic Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31 PECAM1,Human,Blood vessel,Blood vessel,Tumor vessels,Cancer cell,Endothelial cell
+Endothelial cell,,VE-cad,Human,Blood vessel,Blood vessel,Undefined,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD36,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD40,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD81,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD151,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FABP5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FABP6,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TNFRSF1A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TNFRSF1B,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VCAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TNFRSF10B,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TNFRSF10A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KLF4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD160,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD93,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,THSD1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD248,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,COLEC11,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,COLEC12,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ESAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,DCBLD2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,THSD7A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ECSCR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD13,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD147,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD324,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD143,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDG1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDG3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR-3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD54,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD102,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD18,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD61,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD309,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD146,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD206,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD112,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD62E,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD62,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD62P,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD150,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE-2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,BDCA-3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD141,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD106,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGF,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDG6,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDG5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PD-ECGF,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD299,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EPCR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDG8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VG5Q,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEM7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEM8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD105,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Podoplanin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR-2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CC Chemokine Receptor D6,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD300g,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD49d,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Coagulation Factor III,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Endomucin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Erythropoietin R,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IL-1 RI,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IL-13 R alpha 1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Integrin alpha 4 beta 1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Integrin alpha 4 beta 7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Podocalyxin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Stabilin-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Stabilin-2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VE-Cadherin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VE-Statin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD202b,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Endoglin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD39,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IB4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Fabp4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Cdh5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEcad,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,vwf,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Nos3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SMActin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ANPEP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,BSG,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ACE,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,S1PR1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,S1PR3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ITGB2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ITGB3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MRC1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NECTIN2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELE,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SELP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLAMF1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEK,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,THBD,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFA,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,S1PR4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,S1PR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SCO2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC4M,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROCR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,S1PR5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,AGGF1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLXDC1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ANTXR1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENTPD1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FCN3,Human,Blood vessel,Microvessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Progenitor,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Progenitor,CD133,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Progenitor,CD157,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,CD146,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,VE-Cadherin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,PROM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,BST1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,KDR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,MCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Stem,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,Stem,CD117,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,Stem,CD49f,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD14,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD114,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD54,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD102,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD49e,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD29,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD146,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD45,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD62L,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD62P,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD120a,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD120b,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD106,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD105,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CD49d,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,CSF3R,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,ICAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,ICAM2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,ITGA6,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,ITGA5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,ITGB1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,KIT,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,MCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,PTPRC,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,SELL,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,SELP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,TNFRSF1A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,TNFRSF1B,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Endothelial cell,,VCAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial stem cell
+Eosinophil,,EMR1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Eosinophil
+Eosinophil,,ADGRE1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Eosinophil
+Epithelial cell,,KRT19,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD31 PECAM1,Human,Blood vessel,Carotid artery,Normal,Normal cell,Epithelial cell
+Excitatory neuron,,NEUROD2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Excitatory neuron
+Fibroblast,,PDGFRβ,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,Dcn,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,Col1a1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,Col3a1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,myofibroblast,ACTA2,Human,Blood vessel,Capillary,Normal,Normal cell,Fibroblast
+Fibroblast,myofibroblast,MYH11,Human,Blood vessel,Capillary,Normal,Normal cell,Fibroblast
+Foam cell,Lipid accumulation,MMP9,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,Lipid accumulation,ABCG1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,Lipid accumulation,ABCA1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,Lipid accumulation,OLR1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Interneuron,,GAD1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Interneuron
+Leukocyte,,CD45,Human,Blood vessel,Blood vessel,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Blood vessel,Blood vessel,Normal,Normal cell,Leukocyte
+Leukocyte,,LFA-1 ITGAL,Human,Blood vessel,Carotid plaque,Normal,Normal cell,Leukocyte
+Lymphocyte,,PTPRC,Human,Blood vessel,Capillary,Normal,Normal cell,Lymphocyte
+Macrophage,M1,Ccl2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Cxcl10,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Il1b,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Ccl3,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M2,Egr2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Il10,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Il1r2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,,CD68,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Blood vessel,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,F80,Human,Blood vessel,Blood vessel,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,F4,Human,Blood vessel,Blood vessel,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,LGALS3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,MAC3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,Adgre1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Mac2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,SST2,Human,Blood vessel,Carotid plaque,Normal,Normal cell,Macrophage
+Macrophage,,CORT,Human,Blood vessel,Carotid plaque,Normal,Normal cell,Macrophage
+Mesenchymal stromal cell,,CD90 THY1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Mesenchymal stromal cell
+Microglial cell,,AIF1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Microglial cell
+Microvascular cell,,PRX,Human,Blood vessel,Microvessel,Normal,Normal cell,Microvascular cell
+Microvascular cell,,CA4,Human,Blood vessel,Microvessel,Normal,Normal cell,Microvascular cell
+Monocyte,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Myeloid cell,,Cd11b,Human,Blood vessel,Blood vessel,Colorectal Cancer,Cancer cell,Myeloid cell
+Myofibroblast,muscle,α-smooth muscle actin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,muscle,a-SMA,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,CTGF,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,CCN2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,connective tissue,collagen I,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,smooth muscle,TAGLN,Human,Blood vessel,Blood vessel,Normal,Normal cell,Myofibroblast
+T cell,Naive,CD45RA,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Naive,CD8A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+T cell,Th0,CD8A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Naive T(Th0) cell
+Natural killer cell,,Gzma,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,Irf8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,Nkg7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD16,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Endothelial cell,Neovascular,Apj,Human,Blood vessel,Blood vessel,Undefined,Cancer cell,Neovascular endothelial cell
+Neural cell,,Prnp,Human,Blood vessel,Blood vessel,Normal,Normal cell,Neural cell
+Neuron,,DCX,Human,Blood vessel,Blood vessel,Normal,Normal cell,Neuron
+Neutrophil,,CD15,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,Neutrophil
+Neutrophil,,FUT4,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,Neutrophil
+Oligodendrocyte,,OLIG1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Oligodendrocyte
+Outer radial glia,,FAM107A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Outer radial glia
+Pan-endothelial cell,,CDH5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Pan-endothelial cell
+Pericyte,,PDGFRβ,Human,Blood vessel,Blood vessel,Normal,Normal cell,Pericyte
+Platelet,,CD42b,Human,Blood vessel,Blood vessel,Normal,Normal cell,Platelet
+Progenitor cell,,EOMES,Human,Blood vessel,Blood vessel,Normal,Normal cell,Progenitor cell
+Radial glial cell,,SOX2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Radial glial cell
+Red blood cell,erythrocyte,Eryth,Human,Blood vessel,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,Bpgm,Human,Blood vessel,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Blood vessel,Blood vessel,Angiosarcoma,Cancer cell,Regulatory T(Treg) cell
+Smooth muscle cell,,ACTA2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Myh11,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Tagln,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SM22α,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Acta2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,NOTCH3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Stem cell,,Nestin,Human,Blood vessel,Blood vessel,Brain Cancer,Cancer cell,Stem cell
+Stem cell,,CD133,Human,Blood vessel,Blood vessel,Brain Cancer,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Blood vessel,Blood vessel,Brain Cancer,Cancer cell,Stem cell
+Stem cell,,CD34,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell
+Stem cell,,Sca-1,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell
+Stem cell,Neural,Nestin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,ALPP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,KIT,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Proliferation,CD71,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Endothelial,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,CD30,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,PLAP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,TNFRSF8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,TFRC,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+T cell,CD4+,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,CXCR5,CXCR5,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd28,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3d,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,CD3,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,Th17,CCR6,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper 17(Th17) cell
+T cell,Th17,CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper 17(Th17) cell
+T cell,Th17,CXCR5,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper 17(Th17) cell
+T cell,T helper (Th),BCL-6,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper(Th) cell
+T cell,T helper (Th),PD-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper(Th) cell
+T cell,T helper (Th),CXCR5,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper(Th) cell
+T cell,T helper (Th),CD4,Human,Blood vessel,Blood vessel,Normal,Normal cell,T helper(Th) cell
+Vascular smooth muscle cell,smooth muscle,SM22α,Human,Blood vessel,Blood vessel,Tumor vessels,Cancer cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,,MYH11,Human,Blood vessel,Artery,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,,ACTA2,Human,Blood vessel,Artery,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,,PDGFRβ,Human,Blood vessel,Blood vessel,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vessel cell,,CD31 PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Vessel cell
+Artery cell,,GJA4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Artery cell
+Artery cell,,HEY1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Artery cell
+Astrocyte,,AQP4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Astrocyte
+B cell,,Cd79a,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,Cd79b,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,Lybd,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD22,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Blood vessel,Blood vessel,Normal,Normal cell,B cell
+T cell,CD4+,FOXP3,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,IL2RA,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CTLA4,Human,Blood vessel,Blood vessel,Normal,Normal cell,CD4+ T cell
+Choroid plexus cell,,RSPO2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Choroid plexus cell
+Dendritic cell,,Ifitm1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Migratory,Ccr7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen recognition,Cd209a,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,FCER1A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cell adhesion,CLEC10A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,CD1C,Human,Blood vessel,Blood vessel,Normal,Normal cell,Dendritic cell
+Endocrine cell,,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endocrine cell,,KDR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endocrine cell
+Endothelial cell,Angiogenesis,Pecam1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,TIE1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell-cell adhesion,Cdh5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic,LYVE-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IB4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Fabp4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SMActin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FCN3,Human,Blood vessel,Microvessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Progenitor,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Endothelial,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Endothelial,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Endothelial,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Endothelial,KDR,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial progenitor cell
+Epithelial cell,,KRT19,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Epithelial cell
+neuron,Excitatory,NEUROD2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Excitatory neuron
+Fibroblast,,Dcn,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,Col1a1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,Col3a1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Blood vessel,Capillary,Normal,Normal cell,Fibroblast
+Fibroblast,,MYH11,Human,Blood vessel,Capillary,Normal,Normal cell,Fibroblast
+Foam cell,,MMP9,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,,ABCG1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,,ABCA1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Foam cell,,OLR1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Foam cell
+Interneuron,,GAD1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Interneuron
+Lymphocyte,,PTPRC,Human,Blood vessel,Capillary,Normal,Normal cell,Lymphocyte
+Macrophage,M1,Ccl2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Cxcl10,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Il1b,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Ccl3,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M2,Egr2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Il10,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Il1r2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M2 macrophage
+Macrophage,,LGALS3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,MAC3,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Artery,Normal,Normal cell,Macrophage
+Macrophage,,Adgre1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Mac2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Microglial cell,,AIF1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Microglial cell
+Microvascular cell,,PRX,Human,Blood vessel,Microvessel,Normal,Normal cell,Microvascular cell
+Microvascular cell,,CA4,Human,Blood vessel,Microvessel,Normal,Normal cell,Microvascular cell
+Monocyte,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Natural killer cell,,Gzma,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,Irf8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,Nkg7,Human,Blood vessel,Blood vessel,Normal,Normal cell,Natural killer cell
+Neural cell,,Prnp,Human,Blood vessel,Blood vessel,Normal,Normal cell,Neural cell
+Neuron,neurogenesis,DCX,Human,Blood vessel,Blood vessel,Normal,Normal cell,Neuron
+Oligodendrocyte,,OLIG1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Oligodendrocyte
+Glia,Outer radial,FAM107A,Human,Blood vessel,Blood vessel,Normal,Normal cell,Outer radial glia
+Endothelial cell,,CDH5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Pan-endothelial cell
+Progenitor cell,,EOMES,Human,Blood vessel,Blood vessel,Normal,Normal cell,Progenitor cell
+Radial glial cell,,SOX2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Radial glial cell
+Red blood cell,,Bpgm,Human,Blood vessel,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,Snca,Human,Blood vessel,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,Eryth,Human,Blood vessel,Blood vessel,Normal,Normal cell,Red blood cell (erythrocyte)
+Smooth muscle cell,,Myh11,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Tagln,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SM22α,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Acta2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,NOTCH3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MCAM,Human,Blood vessel,Blood vessel,Normal,Normal cell,Smooth muscle cell
+Stem cell,,CD34,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell
+Stem cell,,Sca-1,Human,Blood vessel,Artery,Normal,Normal cell,Stem cell
+T cell,,Cd28,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3d,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+Vascular smooth muscle cell,,MYH11,Human,Blood vessel,Artery,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,,ACTA2,Human,Blood vessel,Artery,Normal,Normal cell,Vascular smooth muscle cell(VSMC)

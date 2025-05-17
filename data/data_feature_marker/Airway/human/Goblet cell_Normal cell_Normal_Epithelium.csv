@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,GABRP,Human,Airway,Epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,MUC5AC,Human,Airway,Epithelium,Normal,Normal cell,Goblet cell

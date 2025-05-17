@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Syncytiotrophoblast,,CGA,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,CYP19A1,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,GH2,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,SDC1,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,CD63,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,MUC16,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,S100P,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast

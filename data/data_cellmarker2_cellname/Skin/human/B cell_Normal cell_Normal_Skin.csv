@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,IL-20,IL17B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,IGHG1,IGHG1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,FCER2,FCER2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,TBX21,TBX21
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,IGHD,IGHD
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,ITGAX,ITGAX
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD27,CD27
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,MS4A1A,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD23,FCER2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,IL4R,IL4R
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD27,CD27
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD21,CR2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A

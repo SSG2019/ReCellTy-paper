@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Gonocyte,CL_0000670,SSEA-4,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Gonocyte,CL_0000670,c-Kit,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Gonocyte,CL_0000670,THY1,THY1

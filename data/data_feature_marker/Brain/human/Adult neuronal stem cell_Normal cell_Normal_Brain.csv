@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,neuronal,TROY,Human,Brain,Brain,Normal,Normal cell,Adult neuronal stem cell
+stem cell,neuronal,TNFRSF19,Human,Brain,Brain,Normal,Normal cell,Adult neuronal stem cell

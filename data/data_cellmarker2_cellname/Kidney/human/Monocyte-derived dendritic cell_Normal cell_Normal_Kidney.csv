@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD209,CD209
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,DC-SIGN,CD209
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,SIRPA,SIRPA
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD14,CD14
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD16,FCGR3A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,SIRPα,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Monocyte-derived dendritic cell,CL_0011031,CD64,FCGR1A

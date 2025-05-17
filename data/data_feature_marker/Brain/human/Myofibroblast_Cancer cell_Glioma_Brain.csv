@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,SMA,Human,Brain,Brain,Glioma,Cancer cell,Myofibroblast
+Myofibroblast,,SMN1,Human,Brain,Brain,Glioma,Cancer cell,Myofibroblast

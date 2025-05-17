@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD68,CD68
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CSF3R,CSF3R
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,ITGAM,ITGAM
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,MS4A7,MS4A7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,FGD2,FGD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Monocyte,CL_0000576,VCAN,VCAN

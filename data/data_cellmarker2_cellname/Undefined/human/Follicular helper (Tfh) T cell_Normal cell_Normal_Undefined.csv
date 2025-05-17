@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,BCL6,BCL6
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CXCR5,CXCR5
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD4,CD4
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,IRF4,IRF4
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,MAF,MAF
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,STAT3,STAT3
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD84,CD84
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,BATF,BATF
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD185,CXCR5
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD154,CD40LG
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD183,CXCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,IL-6,IL6
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD126,IL6R
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD279,PDCD1
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD150,SLAMF1
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD252,TNFSF4
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD278,ICOS
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,IL-21,IL22
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,TCR alpha/beta,
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,IL-12,
+Human,Undefined,Undefined,,Normal,Normal cell,Follicular helper (Tfh) T cell,CL_0002038,c-Maf,

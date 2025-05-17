@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,Acta2,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,Myh11,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,PDGFRB,PDGFRB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,DES,DES
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTG2,ACTG2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Smooth muscle cell,CL_0000192,PLN,PLN

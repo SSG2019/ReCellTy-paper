@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,BDCA1,CD1C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD141,THBD
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD2,CD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,Fc-epsilon RI-alpha,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD1c,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CLEC10A,CLEC10A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,SIRPA,SIRPA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,BTLA,BTLA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CLEC4A,CLEC4A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CLEC9A,CLEC9A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CADM1,CADM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD11c,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,ILT1,LILRA2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,DNAM-1,CD226
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD11b,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,XCR1,XCR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD26,DPP4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,CD226,CD226
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Myeloid conventional dendritic cell,CL_0001056,DCIR,CLEC4A

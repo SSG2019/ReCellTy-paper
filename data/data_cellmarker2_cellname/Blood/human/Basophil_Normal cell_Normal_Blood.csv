@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD19,CD19
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD22,CD22
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD203c,ENPP3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD203c,ENPP3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CCR3,CCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CCR3,CCR3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD203c,ENPP3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Basophil,CL_0000767,CD123,IL3RA

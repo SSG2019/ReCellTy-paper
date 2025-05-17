@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,CAV1,CAV1
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,COL6A1,COL6A1
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,COL6A2,COL6A2
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,FAP,FAP
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,DDR2,DDR2
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA

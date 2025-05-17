@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,GLI3,GLI3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,SOX9 ,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,SLC1A3,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,HES1,HES1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,GLI3,GLI3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,HOPX,HOPX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,NES,NES
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,HOPX,HOPX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Radial glial cell,CL_0000681,FAM107A,FAM107A

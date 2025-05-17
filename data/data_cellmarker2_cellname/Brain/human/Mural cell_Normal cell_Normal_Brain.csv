@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,PDGFRB,PDGFRB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,FOXF2,FOXF2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,CD248,CD248
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,RGS5,RGS5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,MS4A1,MS4A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,IL7R,IL7R
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mural cell,CL_0008034,GLUT-1,SLC2A1

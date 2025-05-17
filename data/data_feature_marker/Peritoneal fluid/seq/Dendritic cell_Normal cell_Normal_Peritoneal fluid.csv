@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Dendritic cell

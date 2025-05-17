@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+glial cell,,GLAST,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,BLBP,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,SLC1A3,Human,Heart,Heart,Normal,Normal cell,Immature glial cell
+glial cell,,FABP7,Human,Heart,Heart,Normal,Normal cell,Immature glial cell

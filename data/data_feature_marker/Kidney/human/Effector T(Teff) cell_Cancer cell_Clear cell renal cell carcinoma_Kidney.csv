@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,MKI67,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Effector,PRF1,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Effector,CD27,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Effector,GZMA,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell
+T cell,Effector,IFNG,Human,Kidney,Kidney,Clear cell renal cell carcinoma,Cancer cell,Effector T(Teff) cell

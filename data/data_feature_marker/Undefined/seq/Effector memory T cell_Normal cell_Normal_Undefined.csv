@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,memory,AHNAK,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Effector,TNFRSF25,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,Effector,LTB,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell
+T cell,memory,SAR1A,Human,Undefined,Undefined,Normal,Normal cell,Effector memory T cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,GZMB,GZMB
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,IL7R,IL7R
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CSF2,CSF2

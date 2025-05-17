@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Atypical,CD72,Human,Blood,Peripheral blood,Normal,Normal cell,Atypical B cell(ABC)
+B cell,Atypical,LILRB2,Human,Blood,Peripheral blood,Normal,Normal cell,Atypical B cell(ABC)
+B cell,,FCRL5,Human,Blood,Peripheral blood,Normal,Normal cell,Atypical B cell(ABC)
+B cell,,ITGAX,Human,Blood,Peripheral blood,Normal,Normal cell,Atypical B cell(ABC)

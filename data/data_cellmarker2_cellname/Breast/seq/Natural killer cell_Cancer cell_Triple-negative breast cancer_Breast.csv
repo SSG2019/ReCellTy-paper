@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Natural killer cell,CL_0000623,NCR1,NCR1

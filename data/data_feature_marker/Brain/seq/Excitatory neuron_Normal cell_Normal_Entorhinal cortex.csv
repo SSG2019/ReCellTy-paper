@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Excitatory,RORB,Human,Brain,Entorhinal cortex,Normal,Normal cell,Excitatory neuron
+Neuron,Excitatory,SLC17A7,Human,Brain,Entorhinal cortex,Normal,Normal cell,Excitatory neuron

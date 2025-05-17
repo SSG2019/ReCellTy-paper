@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Neural crest cell,CL_0011012,P75ntr,

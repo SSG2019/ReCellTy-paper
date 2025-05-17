@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Circulating angiogenic cell,,CD309,KDR
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Circulating angiogenic cell,,CD133,PROM1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Circulating angiogenic cell,,CD34,CD34

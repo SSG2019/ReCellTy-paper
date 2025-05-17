@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,GATA1,GATA1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,NFE2,NFE2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,CD2,CD2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid cell,CL_0000763,CD371,CLEC12A

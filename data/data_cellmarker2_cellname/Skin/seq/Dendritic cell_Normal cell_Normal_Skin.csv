@@ -1,0 +1,29 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,Itgax,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,MHCII,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209d,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209a,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,Mgl2,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1 A,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1 C,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,XIIIa,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CCL17,CCL17
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,ITGAX,ITGAX
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,NRP1,NRP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,LILRA4,LILRA4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,MHCII,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD4,CD4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,THBD,THBD
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CLE4C,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,IL3RA,IL3RA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD14,CD14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,XCR1,XCR1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,C1ORF54,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1A,CD1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD68,CD68
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,ATP1B1,ATP1B1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,IRF8,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,GZMB,GZMB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C

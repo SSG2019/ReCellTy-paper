@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,MZB1,Human,Lung,Lung,Lung Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG1,Human,Lung,Lung,Lung Cancer,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Lung,Lung,Lung Cancer,Cancer cell,Plasma cell
+Plasma cell,,IGHG4,Human,Lung,Lung,Lung Cancer,Cancer cell,Plasma cell
+Plasma cell,,CD38,Human,Lung,Lung,Lung Cancer,Cancer cell,Plasma cell

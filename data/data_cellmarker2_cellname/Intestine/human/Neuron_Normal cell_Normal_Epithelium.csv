@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,SCGN,SCGN
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,VIP,VIP
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,CRABP1,CRABP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,ACHE,ACHE
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,DLL3,DLL3
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,DLL1,DLL1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,SSTR2,SSTR2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,RAMP1,RAMP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,KCTD16,KCTD16
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,ADCYAP1,ADCYAP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,CASZ1,CASZ1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,DGKG,DGKG
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,NEUROD6,NEUROD6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,ONECUT2,ONECUT2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,HTR2B,HTR2B
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,NOS1,NOS1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,TAC1,TAC1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,ELAVL4,ELAVL4
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,ETV1,ETV1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,NPY2R,NPY2R
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,SST,SST
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,GFRA2,GFRA2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Neuron,CL_0000540,PENK,PENK

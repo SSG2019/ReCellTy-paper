@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Naive CD4 T cell,,CCR7,CCR7
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Naive CD4 T cell,,CD3G,CD3G
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Naive CD4 T cell,,CD3D,CD3D

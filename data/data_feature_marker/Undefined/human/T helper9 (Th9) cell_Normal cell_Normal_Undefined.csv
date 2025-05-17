@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th9,CD4,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,GATA3,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,IRF4,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,STAT6,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,IL-4,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,IL-9,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,IL-10,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell
+T cell,Th9,TGF-beta,Human,Undefined,Undefined,Normal,Normal cell,T helper9 (Th9) cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD146,MCAM
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD34,CD34
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD45,PTPRC
+Human,Tooth,Deciduous tooth,UBERON_0007115,Normal,Normal cell,Dental pulp stem cell,CL_0000034,STRO-1,

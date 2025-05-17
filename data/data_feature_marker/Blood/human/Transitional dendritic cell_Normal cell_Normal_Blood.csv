@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Transitional,Ax1,Human,Blood,Blood,Normal,Normal cell,Transitional dendritic cell
+Dendritic cell,,CD33,Human,Blood,Blood,Normal,Normal cell,Transitional dendritic cell
+Dendritic cell,,CD11c,Human,Blood,Blood,Normal,Normal cell,Transitional dendritic cell
+Dendritic cell,,BDCA3,Human,Blood,Blood,Normal,Normal cell,Transitional dendritic cell
+Dendritic cell,,CX3CR1,Human,Blood,Blood,Normal,Normal cell,Transitional dendritic cell

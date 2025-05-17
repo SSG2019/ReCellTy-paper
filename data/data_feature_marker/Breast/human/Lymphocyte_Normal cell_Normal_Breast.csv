@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,sTIL,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,PD-L1,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD274,Human,Breast,Breast,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Breast,Breast,Normal,Normal cell,Lymphocyte

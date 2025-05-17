@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,VGLUT2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,STMN2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,DCX,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,SYT1,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,GAP43,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,NEFM,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,SYT4,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron
+Neuron,,SLC17A6,Human,Brain,Pluripotent stem cell,Normal,Normal cell,Neuron

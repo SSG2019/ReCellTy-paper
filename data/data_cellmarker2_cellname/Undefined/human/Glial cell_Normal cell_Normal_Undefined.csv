@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,FGFR3,FGFR3
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,GFAP,GFAP
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,MBP,MBP
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,BLBP,FABP7
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,S100,S100A1
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,3A7,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,3CB2,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,A2B5,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD11b,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,MHC class I,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,MHC class II,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,Myelin protein zero,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,Neurofilament protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,platelet-derived growth factor(PDGF)receptor,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,Ran2,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,S22,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,Vimentin,
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD44,CD44
+Human,Undefined,Undefined,,Normal,Normal cell,Glial cell,CL_0000125,CD184,CXCR4

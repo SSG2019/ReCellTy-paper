@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+astrocyte,Mature,TNC,Human,Undefined,Undefined,Normal,Normal cell,Mature astrocyte
+astrocyte,,TOP2A,Human,Undefined,Undefined,Normal,Normal cell,Mature astrocyte

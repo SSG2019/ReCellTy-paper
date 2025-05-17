@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,TCF7,TCF7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,S1PR1,S1PR1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,LEF1,LEF1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CD28,CD28
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,IL7Rhi,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,TCF7,TCF7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,LEF1,LEF1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,TCF7,TCF7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,LEF1,LEF1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,SELL,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Naive CD4+ T cell,CL_0000895,TCF7,TCF7

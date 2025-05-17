@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,COL6A2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Fibroblast
+Fibroblast,Myofibroblast,ACTA2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Fibroblast

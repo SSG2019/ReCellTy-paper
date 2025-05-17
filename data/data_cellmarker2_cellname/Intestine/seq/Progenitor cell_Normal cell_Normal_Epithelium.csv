@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,OSR2,OSR2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,CCL25,CCL25
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,SOX11,SOX11
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,TF,TF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,FGB,FGB
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,AFP,AFP
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,HEBP1,HEBP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,VTN,VTN
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Progenitor cell,CL_0011026,FGG,FGG

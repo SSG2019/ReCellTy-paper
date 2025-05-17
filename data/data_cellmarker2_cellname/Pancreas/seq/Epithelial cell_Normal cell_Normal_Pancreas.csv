@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial cell,CL_0000066,EpCAM,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Epithelial cell,CL_0000066,CK19,KRT19

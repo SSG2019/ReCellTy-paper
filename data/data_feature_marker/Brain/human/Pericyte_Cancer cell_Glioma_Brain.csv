@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,DCN,Human,Brain,Brain,Glioma,Cancer cell,Pericyte
+Pericyte,,COL3A1,Human,Brain,Brain,Glioma,Cancer cell,Pericyte
+Pericyte,,PDGFRB,Human,Brain,Brain,Glioma,Cancer cell,Pericyte
+Pericyte,,RGS5,Human,Brain,Brain,Glioma,Cancer cell,Pericyte

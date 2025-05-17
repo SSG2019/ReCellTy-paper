@@ -1,0 +1,36 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem Cell,Cancer,ALDH1A1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,BMI1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD44,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ERBB2,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,GJA1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,GLI1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,GLI2,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CXCR1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,PON1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,PTEN,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CXCR4,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,LGR5,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,DLL4,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD24,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,IL-1 alpha,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD49f,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD90,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD133,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,Integrin alpha 6,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,EpCAM,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,IL-6R-alpha,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,PROCR,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ESA,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALDH,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ALDH1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD61,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD55,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,CD29,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,IL1A,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ITGA6,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,THY1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,PROM1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,FLOT2,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ITGB3,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell
+Stem Cell,Cancer,ITGB1,Human,Undefined,Undefined,Breast Cancer,Cancer cell,Cancer stem cell

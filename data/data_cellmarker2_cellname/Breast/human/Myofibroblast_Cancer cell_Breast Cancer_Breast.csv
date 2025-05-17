@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,COL3A1,COL3A1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,VIM,VIM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,SDC1,SDC1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,COL1A1,COL1A1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,SERPINH1,SERPINH1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myofibroblast,CL_0000186,ACTA2,ACTA2

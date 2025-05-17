@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Capillary cell,,Kdr,Human,Kidney,Kidney,Normal,Normal cell,Capillary cell
+Capillary cell,,Flt1,Human,Kidney,Kidney,Normal,Normal cell,Capillary cell
+Capillary cell,,Smad6,Human,Kidney,Kidney,Normal,Normal cell,Capillary cell
+Capillary cell,,Lpl,Human,Kidney,Kidney,Normal,Normal cell,Capillary cell
+Capillary cell,,Ehd3,Human,Kidney,Kidney,Normal,Normal cell,Capillary cell

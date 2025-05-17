@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Progenitor cell,CL_0011026,ΕΟΜE,
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Progenitor cell,CL_0011026,EMX2,EMX2
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Progenitor cell,CL_0011026,ASCL1,ASCL1
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Progenitor cell,CL_0011026,SOX2,SOX2

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cholangiocyte,,CK19,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte
+Cholangiocyte,,EpCAM,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Biliary tract,Biliary tract,Primary liver cancer,Cancer cell,Cholangiocyte

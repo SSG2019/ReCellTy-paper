@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,Vα24,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,Vβ11,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,TYROBP,TYROBP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,TRAC,TRAC
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Natural killer T(NKT) cell,,STMN1,STMN1

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,BCL6,BCL6
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,CD81,CD81
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,IRF8,IRF8
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,PAX5,PAX5
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,BACH2,BACH2
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,B220,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,AID,AICDA
+Human,Undefined,Undefined,,Normal,Normal cell,Germinal center B cell,CL_0000844,NF-kappa-B,

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,TPH1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-endothelial cell
+Endothelial cell,,FEV,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-endothelial cell
+Endothelial cell,,SLC18A1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-endothelial cell
+Endothelial cell,,LMX1A,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-endothelial cell

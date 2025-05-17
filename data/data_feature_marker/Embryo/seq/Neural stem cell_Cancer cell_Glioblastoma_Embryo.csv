@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural stem cell,Self-renewal,LIFR,Human,Embryo,Embryo,Glioblastoma,Cancer cell,Neural stem cell
+Neural stem cell,Differentiation potential,BLBP,Human,Embryo,Embryo,Glioblastoma,Cancer cell,Neural stem cell
+Neural stem cell,Signaling maintenance,IL6ST,Human,Embryo,Embryo,Glioblastoma,Cancer cell,Neural stem cell
+Neural stem cell,Regulation of quiescence,HOPX,Human,Embryo,Embryo,Glioblastoma,Cancer cell,Neural stem cell
+Neural stem cell,Differentiation potential,FABP7,Human,Embryo,Embryo,Glioblastoma,Cancer cell,Neural stem cell

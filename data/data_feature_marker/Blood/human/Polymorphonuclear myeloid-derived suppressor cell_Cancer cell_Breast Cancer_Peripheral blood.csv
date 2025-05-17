@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid-derived suppressor cell,Polymorphonuclear,CD15,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,,CD11b,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,,CD33,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Polymorphonuclear myeloid-derived suppressor cell
+myeloid-derived suppressor cell,,FUT4,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Polymorphonuclear myeloid-derived suppressor cell

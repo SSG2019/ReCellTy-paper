@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR4,CCR4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL-6,IL6
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL-17,IL17A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD161,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL17,IL17A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL17,IL17A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL22,IL22
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL17A,IL17A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,RORC,RORC

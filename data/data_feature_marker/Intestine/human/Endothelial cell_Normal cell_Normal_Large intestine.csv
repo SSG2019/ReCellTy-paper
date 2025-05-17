@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD31,Human,Intestine,Large intestine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Intestine,Large intestine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Intestine,Large intestine,Normal,Normal cell,Endothelial cell

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,TGFBR1,TGFBR1
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,TREM2,TREM2
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,CD74,CD74
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,FTL,FTL
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,C3,C3
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,PSAP,PSAP
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,ACTB,ACTB
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,C1QB,C1QB
+Human,Eye,Retina,UBERON_0000966,Melanoma,Cancer cell,Microglial cell,CL_0000129,SPP1,SPP1

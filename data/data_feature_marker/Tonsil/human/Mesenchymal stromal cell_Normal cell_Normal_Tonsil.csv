@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,,CD34,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD90,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD44,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD73,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,THY1,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,NT5E,Human,Tonsil,Tonsil,Normal,Normal cell,Mesenchymal stromal cell

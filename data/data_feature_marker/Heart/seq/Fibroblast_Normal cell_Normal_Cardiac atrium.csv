@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,ADAMTS4,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,AXL,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast
+Fibroblast,,VCAN,Human,Heart,Cardiac atrium,Normal,Normal cell,Fibroblast

@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,CD11b,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,S100A4,S100A4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,S100A12,S100A12
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,S100A6,S100A6
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,LGALS1,LGALS1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,FTL,FTL
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8

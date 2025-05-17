@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,UPAR,Human,Intestine,Colon,Colon Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Intestine,Colon,Colon Cancer,Cancer cell,Macrophage
+Macrophage,,PLAUR,Human,Intestine,Colon,Colon Cancer,Cancer cell,Macrophage

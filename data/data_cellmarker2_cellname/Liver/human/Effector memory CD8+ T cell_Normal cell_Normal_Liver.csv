@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8A,CD8A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,ITGA1,ITGA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CXCR3,CXCR3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD8B,CD8B
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Effector memory CD8+ T cell,CL_0000913,CD52,CD52

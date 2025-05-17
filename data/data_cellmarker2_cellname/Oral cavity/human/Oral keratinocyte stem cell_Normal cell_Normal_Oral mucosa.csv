@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Oral cavity,Oral mucosa,UBERON_0003729,Normal,Normal cell,Oral keratinocyte stem cell,CL_0000034,CD71,TFRC
+Human,Oral cavity,Oral mucosa,UBERON_0003729,Normal,Normal cell,Oral keratinocyte stem cell,CL_0000034,Integrin alpha6beta4,

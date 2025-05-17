@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ependymal cell,,FOXJ1,Human,Brain,Brain,Normal,Normal cell,Ependymal cell
+Ependymal cell,,CFAP299,Human,Brain,Brain,Normal,Normal cell,Ependymal cell
+Ependymal cell,,AQP4,Human,Brain,Brain,Normal,Normal cell,Ependymal cell

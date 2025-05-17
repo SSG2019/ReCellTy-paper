@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal-like cell,,KRT5,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell
+Basal-like cell,,KRT14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell
+Basal-like cell,,S100A2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Basal-like cell

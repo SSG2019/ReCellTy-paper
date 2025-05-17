@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,CCR6,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,BANK1,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,,RASGRP2,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor
+B cell,,CELF2,Human,Tonsil,Palatine tonsil,Lymphoma,Cancer cell,Memory B cell precursor

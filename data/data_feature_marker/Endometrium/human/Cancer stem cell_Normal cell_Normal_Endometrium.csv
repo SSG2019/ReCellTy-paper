@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD44,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell
+stem cell,Cancer,CD133,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Endometrium,Endometrium,Normal,Normal cell,Cancer stem cell

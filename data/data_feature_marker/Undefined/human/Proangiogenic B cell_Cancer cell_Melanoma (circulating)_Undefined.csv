@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Proangiogenic,CD73,Human,Undefined,Undefined,Melanoma (circulating),Cancer cell,Proangiogenic B cell
+B cell,Proangiogenic,CD49B,Human,Undefined,Undefined,Melanoma (circulating),Cancer cell,Proangiogenic B cell
+B cell,Proangiogenic,NT5E,Human,Undefined,Undefined,Melanoma (circulating),Cancer cell,Proangiogenic B cell
+B cell,Proangiogenic,ITGA2,Human,Undefined,Undefined,Melanoma (circulating),Cancer cell,Proangiogenic B cell

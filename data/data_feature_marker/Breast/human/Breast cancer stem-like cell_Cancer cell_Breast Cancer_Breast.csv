@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Breast cancer stem-like cell,stem-like,CD44,Human,Breast,Breast,Breast Cancer,Cancer cell,Breast cancer stem-like cell
+Breast cancer stem-like cell,Breast cancer,GD2,Human,Breast,Breast,Breast Cancer,Cancer cell,Breast cancer stem-like cell

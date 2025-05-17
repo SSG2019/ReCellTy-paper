@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT14,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT10,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell

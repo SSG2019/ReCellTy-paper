@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte precursor cell,CL_0002453,OLIG1,OLIG1
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte precursor cell,CL_0002453,APOD,APOD
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte precursor cell,CL_0002453,PDGFRA,PDGFRA

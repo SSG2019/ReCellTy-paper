@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Bone cell,Specific,BGLAP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell
+Bone cell,Specific,COL I,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell
+Bone cell,Specific,BMP2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell
+Bone cell,Specific,RUNX2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell
+Bone cell,Specific,ALPL,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell
+Bone cell,Specific,SPP1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Bone-specific cell

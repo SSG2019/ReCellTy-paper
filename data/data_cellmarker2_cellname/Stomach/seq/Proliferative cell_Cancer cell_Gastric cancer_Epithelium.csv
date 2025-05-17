@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Epithelium,UBERON_0000483,Gastric cancer,Cancer cell,Proliferative cell,,ARID1A,ARID1A

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,GAL,GAL
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,SSTR2,SSTR2
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,PHOX2B,PHOX2B
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,TAC1,TAC1
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,BRN3A,POU4F1
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,SCN9A,SCN9A
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,FGF3,FGF3
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,PRPH,PRPH
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,ISL1,ISL1
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,NTRK2,NTRK2
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Sensory neuron,,PIEZO2,PIEZO2

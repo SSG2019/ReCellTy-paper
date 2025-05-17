@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Central memory,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,SELL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,CD4+,MAL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD3,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD28,CD28
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD4,CD4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD8β,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TCRγδ,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,Vγ9,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD69,CD69
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TCRαβ,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD1a,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,Vδ1,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,Vδ2,

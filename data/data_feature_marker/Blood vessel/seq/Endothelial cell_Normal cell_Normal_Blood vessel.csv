@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Angiogenesis,Pecam1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,VEGFR2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,TIE1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell-cell adhesion,Cdh5,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic,LYVE-1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IB4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Fabp4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SMActin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Endothelial cell

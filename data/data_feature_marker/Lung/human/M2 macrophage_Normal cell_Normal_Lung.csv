@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,CD163,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Fizz1,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,M2,Ym1,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,,CD68,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,,CD11b,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,,MSR1,Human,Lung,Lung,Normal,Normal cell,M2 macrophage

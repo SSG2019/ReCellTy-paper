@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Nerve,UBERON_0001021,Normal,Normal cell,Lower layer neuron,,Sox2,
+Human,Brain,Nerve,UBERON_0001021,Normal,Normal cell,Lower layer neuron,,Emx2,
+Human,Brain,Nerve,UBERON_0001021,Normal,Normal cell,Lower layer neuron,,Fezf2,

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Naive,TCF1,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Naive cell
+cell,,HNF1A,Human,Bladder,Bladder,Muscle-invasive bladder cancer,Cancer cell,Naive cell

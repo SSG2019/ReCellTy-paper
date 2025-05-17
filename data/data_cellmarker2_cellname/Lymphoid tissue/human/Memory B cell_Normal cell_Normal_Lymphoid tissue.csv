@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,Memory B cell,CL_0000787,RB,RB1

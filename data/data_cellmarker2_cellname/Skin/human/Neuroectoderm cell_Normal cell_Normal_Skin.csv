@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neuroectoderm cell,,PAX6,PAX6
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neuroectoderm cell,,OTX1,OTX1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neuroectoderm cell,,HES5,HES5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neuroectoderm cell,,PAX3,PAX3

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,,Cytokeratin-5,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,CD151,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TAZ,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TAFAZZIN,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell

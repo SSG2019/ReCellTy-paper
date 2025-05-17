@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Megakaryocyte,Platelet Function,CD41,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,Platelet Function,CD61,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,CD34,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,Platelet Function,CD41a,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,Platelet Function,ITGA2B,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,Platelet Function,ITGB3,Human,Blood,Umbilical cord blood,Normal,Normal cell,Megakaryocyte

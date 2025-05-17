@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Class switched memory,CD19,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell
+B cell,Class switched memory,CD20,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell
+B cell,Class switched memory,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell
+B cell,Class switched memory,MS4A1,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell
+B cell,IgGκ,IgGκ,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell
+B cell,,IgGΛ,Human,Blood,Peripheral blood,Normal,Normal cell,Class switched memory B IgGκ cell

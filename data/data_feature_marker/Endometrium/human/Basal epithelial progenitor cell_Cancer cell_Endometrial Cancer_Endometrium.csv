@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial cell,progenitor,CD15,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Basal epithelial progenitor cell
+epithelial cell,,FUT4,Human,Endometrium,Endometrium,Endometrial Cancer,Cancer cell,Basal epithelial progenitor cell

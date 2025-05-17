@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD44,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,MET,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A1,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,,CD29,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,,CD90,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD24,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Epcam,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,,ITGB1,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,,THY1,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer stem cell

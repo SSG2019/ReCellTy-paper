@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,DCN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Breast,Breast,Breast Cancer,Cancer cell,Fibroblast

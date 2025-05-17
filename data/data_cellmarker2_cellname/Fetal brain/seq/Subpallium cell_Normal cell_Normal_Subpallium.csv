@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,ANGPT2,ANGPT2
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,NR2F1,NR2F1
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,NR2F2,NR2F2
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,NKX2-1,NKX2-1
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,MEIS2,MEIS2
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,ETV1,ETV1
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,ZFHX3,ZFHX3
+Human,Fetal brain,Subpallium,,Normal,Normal cell,Subpallium cell,,LHX6,LHX6

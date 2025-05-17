@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,GZMH,GZMH
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,KLRG1,KLRG1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,GZMB,GZMB
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,GNLY,GNLY
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,FGFBP2,FGFBP2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell,,TNF,TNF

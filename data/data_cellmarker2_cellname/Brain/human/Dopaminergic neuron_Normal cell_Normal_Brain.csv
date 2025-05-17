@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Dopaminergic neuron,CL_0000700,Pitx3,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Dopaminergic neuron,CL_0000700,KCNJ6,KCNJ6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Dopaminergic neuron,CL_0000700,TH,TH
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Dopaminergic neuron,CL_0000700,NR4A2,NR4A2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Dopaminergic neuron,CL_0000700,TH,TH

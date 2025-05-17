@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Erythroblast,,AHSP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroblast
+Erythroblast,,HBB,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroblast
+Erythroblast,,HBA2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroblast

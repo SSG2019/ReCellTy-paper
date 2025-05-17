@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,Basophil,CL_0000767,CCR3,CCR3
+Human,Nose,Nasal polyp,,Normal,Normal cell,Basophil,CL_0000767,CLC,CLC
+Human,Nose,Nasal polyp,,Normal,Normal cell,Basophil,CL_0000767,PTGDR2,PTGDR2

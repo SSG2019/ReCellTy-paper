@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+microglial cell,Homeostatic,ADGRG1,Human,Brain,Brain,Normal,Normal cell,Homeostatic microglial cell
+microglial cell,Homeostatic,GPR34,Human,Brain,Brain,Normal,Normal cell,Homeostatic microglial cell
+microglial cell,Homeostatic,CX3CR1,Human,Brain,Brain,Normal,Normal cell,Homeostatic microglial cell
+microglial cell,Homeostatic,P2RY13,Human,Brain,Brain,Normal,Normal cell,Homeostatic microglial cell
+microglial cell,Homeostatic,P2RY12,Human,Brain,Brain,Normal,Normal cell,Homeostatic microglial cell

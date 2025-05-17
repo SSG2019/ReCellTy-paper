@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glioblastoma cell,Proneural,STMN4,Human,Brain,Brain,Glioblastoma,Cancer cell,Proneural glioblastoma cell
+Glioblastoma cell,Proneural,ERBB3,Human,Brain,Brain,Glioblastoma,Cancer cell,Proneural glioblastoma cell
+Glioblastoma cell,Proneural,P2RX7,Human,Brain,Brain,Glioblastoma,Cancer cell,Proneural glioblastoma cell
+Glioblastoma cell,Proneural,SOX10,Human,Brain,Brain,Glioblastoma,Cancer cell,Proneural glioblastoma cell

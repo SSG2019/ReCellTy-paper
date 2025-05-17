@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Blood Coagulation,VWF,Human,Undefined,Undefined,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell Adhesion,CDH5,Human,Undefined,Undefined,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell Adhesion,CD144,Human,Undefined,Undefined,Normal,Normal cell,Endothelial cell
+Endothelial cell,Lymphatic Function,LYVE1,Human,Undefined,Undefined,Normal,Normal cell,Endothelial cell
+Endothelial cell,Fenestration,PLVAP,Human,Undefined,Undefined,Normal,Normal cell,Endothelial cell

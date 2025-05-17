@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetal brain,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell,,NRG1,NRG1
+Human,Fetal brain,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell,,ETV1,ETV1
+Human,Fetal brain,Lateral ganglionic eminence,UBERON_0004025,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell,,PAX6,PAX6

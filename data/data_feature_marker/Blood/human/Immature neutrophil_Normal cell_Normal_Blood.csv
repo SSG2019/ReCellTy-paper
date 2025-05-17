@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Immature,CD15,Human,Blood,Blood,Normal,Normal cell,Immature neutrophil
+Neutrophil,Immature,CD11b,Human,Blood,Blood,Normal,Normal cell,Immature neutrophil
+Neutrophil,Immature,CD101,Human,Blood,Blood,Normal,Normal cell,Immature neutrophil
+Neutrophil,Immature,FUT4,Human,Blood,Blood,Normal,Normal cell,Immature neutrophil

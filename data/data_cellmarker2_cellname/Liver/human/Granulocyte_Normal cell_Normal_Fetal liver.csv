@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Granulocyte,CL_0000094,CD66E,
+Human,Liver,Fetal liver,,Normal,Normal cell,Granulocyte,CL_0000094,CD66B,
+Human,Liver,Fetal liver,,Normal,Normal cell,Granulocyte,CL_0000094,CD66A,
+Human,Liver,Fetal liver,,Normal,Normal cell,Granulocyte,CL_0000094,CD66C,

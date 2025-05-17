@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,CD8,CD8A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,HLA-E,HLA-E
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,CXCL10,CXCL10
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,IDO1,IDO1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,HLA-DRA,HLA-DRA
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,CXCL9,CXCL9
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,STAT1,STAT1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,GZMB,GZMB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,CD8+ T cell,CL_0000625,CD8A,CD8A

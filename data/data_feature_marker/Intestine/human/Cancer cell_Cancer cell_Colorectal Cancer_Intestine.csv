@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,CEACAM5,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,OLFM4,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,Pan-keratin,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,E-Cadherin,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,HCT116,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CEA,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CA-153,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CA-199,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CA-125,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CX3CR1,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Cancer cell

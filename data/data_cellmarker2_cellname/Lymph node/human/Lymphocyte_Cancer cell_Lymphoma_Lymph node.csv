@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,GNLY,GNLY
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,PRF1,PRF1
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,NR4A2,NR4A2
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,GZMA,GZMA
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,GZMB,GZMB
+Human,Lymph node,Lymph node,UBERON_0000029,Lymphoma,Cancer cell,Lymphocyte,CL_0000542,NR4A1,NR4A1

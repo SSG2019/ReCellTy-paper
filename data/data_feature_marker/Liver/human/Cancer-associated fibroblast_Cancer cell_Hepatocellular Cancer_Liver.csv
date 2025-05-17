@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,α-SMA,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFR-β,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FSP1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,S100A4,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFR-α,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer-associated fibroblast

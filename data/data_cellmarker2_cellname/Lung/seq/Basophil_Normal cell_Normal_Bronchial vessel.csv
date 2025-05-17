@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Basophil,CL_0000767,TPSAB1,TPSAB1
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Basophil,CL_0000767,CPA3,CPA3
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Basophil,CL_0000767,MS4A2,MS4A2

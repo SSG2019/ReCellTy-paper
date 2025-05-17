@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD5,CD5
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD7,CD7
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD200,CD200
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,TNF,TNF
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD8,CD8A
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD127,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD10,MME
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD62,SELP
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD165,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD1a,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD3,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD45RA,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,CD45RO,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,Flt3,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,Granzyme A,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,Granzyme B,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,TCR alpha/beta,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,IFN-gamma,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,LT-alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,PRF1,PRF1
+Human,Undefined,Undefined,,Normal,Normal cell,Cytotoxic T cell,CL_0000910,NKG7,NKG7

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Prehypertrophic chondrocyte,,COL11A1,COL11A1
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Prehypertrophic chondrocyte,,COL9A3,COL9A3
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Prehypertrophic chondrocyte,,SOX9,SOX9

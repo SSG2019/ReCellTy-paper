@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,CD22,CD22
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,CXCL13,CXCL13
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,CD72,CD72
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,BLK,BLK
+Human,Nose,Nasal polyp,,Normal,Normal cell,B cell,CL_0000236,CD798,

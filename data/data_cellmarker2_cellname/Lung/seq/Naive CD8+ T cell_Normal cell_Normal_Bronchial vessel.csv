@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Naive CD8+ T cell,,CD8,CD8A
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Naive CD8+ T cell,,GZMB,GZMB
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Naive CD8+ T cell,,GZMH,GZMH
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Naive CD8+ T cell,,CD3E,CD3E

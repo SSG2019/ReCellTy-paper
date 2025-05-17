@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,CD24,CD24
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,PTPRZ1,PTPRZ1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,FABP7,FABP7
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,NCAM2,NCAM2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,SHISA9,SHISA9
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,NRCAM,NRCAM
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neuron,CL_0000540,SNAP25,SNAP25

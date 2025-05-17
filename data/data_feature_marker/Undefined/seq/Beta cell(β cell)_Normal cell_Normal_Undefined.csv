@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Beta cell,Insulin production,INS,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Pancreatic development,PDX1,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Beta cell differentiation,NKX6.1,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Beta cell differentiation,NKX6-1,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Glucose regulation,G6PC2,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)
+Beta cell,Pancreatic development,ISL1,Human,Undefined,Undefined,Normal,Normal cell,Beta cell(β cell)

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,SOX11,SOX11
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,NFIA,NFIA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,ATP1A2,ATP1A2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,GFAP,GFAP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,ALDOC,ALDOC
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,CLU,CLU
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,Nestin,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,CCND2,CCND2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,NES,NES
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Stem cell,CL_0000034,OLIG2,OLIG2

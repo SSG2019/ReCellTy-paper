@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,erythrocyte,CD235a,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,KLF1,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,GYPA,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,CD51,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,CD61,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,CD45,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,MYC,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,EPCAM,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,ITGAV,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,ITGB3,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,Red blood cell (erythrocyte)

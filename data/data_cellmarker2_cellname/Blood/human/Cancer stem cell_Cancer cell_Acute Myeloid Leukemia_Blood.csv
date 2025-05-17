@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,TIE-2,TEK
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,N-cadherin,
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,IL-1RAP,
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CLL-1,CLEC12A
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD244,CD244
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD47,CD47
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD7,CD7
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD34,CD34
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD25,IL2RA
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD96,CD96
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,TIM3,HAVCR2
+Human,Blood,Blood,UBERON_0000178,Acute Myeloid Leukemia,Cancer cell,Cancer stem cell,,CD157,BST1

@@ -1,0 +1,21 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myoblast,Muscle Differentiation,MEF2C,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,TGFB1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,MET,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Tissue,SMTN,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenesis,TCF12,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYF5,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,EYA1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYF6,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,TEAD4,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Precursor Cells,PAX7,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,MEOX1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,EYA2,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,SIX1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYOD1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Myogenic Regulation,MYOG,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Development,NRG1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MAPK12,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MEF2A,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Precursor Cells,PAX3,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast
+Myoblast,Muscle Differentiation,MEF2D,Human,Muscle,Skeletal muscle,Normal,Normal cell,Myoblast

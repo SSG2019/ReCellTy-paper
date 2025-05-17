@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Forebrain cell,,EMX1,EMX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Forebrain cell,,FOXG1,FOXG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Forebrain cell,,OTX2,OTX2

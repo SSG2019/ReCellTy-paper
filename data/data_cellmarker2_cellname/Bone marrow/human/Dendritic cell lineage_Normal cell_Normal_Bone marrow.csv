@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,SIGLEC6,SIGLEC6
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,AXL,AXL
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,CD33,CD33
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,CD2,CD2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell lineage,,SIRPA,SIRPA

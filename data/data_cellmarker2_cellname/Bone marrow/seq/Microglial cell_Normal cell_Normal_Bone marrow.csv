@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,BTG2,BTG2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,TRA2B,TRA2B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,RGS2,RGS2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,JUN,JUN
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,MALAT1,MALAT1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,P2RY12,P2RY12
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,DUSP1,DUSP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,SON,SON
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,MTGENES,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,RGS1,RGS1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,ATF3,ATF3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,FUS,FUS
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,MEF2C,MEF2C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,MEF2A,MEF2A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Microglial cell,CL_0000129,FOS,FOS

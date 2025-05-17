@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,CD29,ITGB1
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,HLA class I,
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,HLA class II,
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,Alkaline phosphatase,
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,THY1,THY1
+Human,Liver,Fetal liver,,Normal,Normal cell,Liver stem cell,CL_0002195,NOTCH3,NOTCH3

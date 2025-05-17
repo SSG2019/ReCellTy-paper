@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendroglial cell,,OLIG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendroglial cell
+Oligodendroglial cell,,OLIG1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendroglial cell

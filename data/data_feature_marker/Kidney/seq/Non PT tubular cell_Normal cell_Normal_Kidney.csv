@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+tubular cell,Non PT,UMOD,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,SLC24A1,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,SLC12A1,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,SLC4A1,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,UPK3A,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,AQP2,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell
+tubular cell,Non PT,KRT17,Human,Kidney,Kidney,Normal,Normal cell,Non PT tubular cell

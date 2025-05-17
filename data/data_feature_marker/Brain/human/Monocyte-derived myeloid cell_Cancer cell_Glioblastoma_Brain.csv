@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid cell,Monocyte-derived,CD209,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell
+myeloid cell,Monocyte-derived,CLEC12A,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell
+myeloid cell,Monocyte-derived,CLEC4E,Human,Brain,Brain,Glioblastoma,Cancer cell,Monocyte-derived myeloid cell

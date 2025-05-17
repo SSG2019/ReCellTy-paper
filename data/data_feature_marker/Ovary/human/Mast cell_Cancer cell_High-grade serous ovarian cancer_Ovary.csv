@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,CD117,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell

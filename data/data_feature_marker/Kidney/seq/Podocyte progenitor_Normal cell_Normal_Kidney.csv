@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Podocyte,progenitor,Foxl1,Human,Kidney,Kidney,Normal,Normal cell,Podocyte progenitor
+Podocyte,progenitor,Efnb2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte progenitor
+Podocyte,,Mafb,Human,Kidney,Kidney,Normal,Normal cell,Podocyte progenitor
+Podocyte,,Wt1,Human,Kidney,Kidney,Normal,Normal cell,Podocyte progenitor
+Podocyte,,Foxc2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte progenitor

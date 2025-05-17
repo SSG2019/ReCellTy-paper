@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Neural,Nestin,Human,Tooth,Tooth,Normal,Normal cell,Neural stem cell
+Stem cell,Neural,CD271,Human,Tooth,Tooth,Normal,Normal cell,Neural stem cell
+Stem cell,Neural,NGFR,Human,Tooth,Tooth,Normal,Normal cell,Neural stem cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD34,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD45,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD133,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PTPRC,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PROM1,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Blood,Peripheral blood,Gastric Cancer,Cancer cell,Endothelial cell

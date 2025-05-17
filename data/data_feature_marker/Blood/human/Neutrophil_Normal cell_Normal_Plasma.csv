@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,CD66b,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,MPO,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A8,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,ELANE,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,CSF3R,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,IFITM1,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,RSAD2,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,IFI6,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,MMP8,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A9,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,ISG10,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,MMP9,Human,Blood,Plasma,Normal,Normal cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Blood,Plasma,Normal,Normal cell,Neutrophil

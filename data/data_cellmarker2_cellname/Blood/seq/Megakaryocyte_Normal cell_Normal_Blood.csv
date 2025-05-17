@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,SPARC,SPARC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,TUBB1,TUBB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,NRGN,NRGN
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PIG6B,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,GNG11,GNG11
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,CAVIN2,CAVIN2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,MYL9,MYL9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,CCL5,CCL5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,GP9,GP9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,FLI1,FLI1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Megakaryocyte,CL_0000556,PPBP,PPBP

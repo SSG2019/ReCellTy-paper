@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Duodenum,UBERON_0002114,Normal,Normal cell,Esophageal cell,,KRT4,KRT4
+Human,Intestine,Duodenum,UBERON_0002114,Normal,Normal cell,Esophageal cell,,KRT13,KRT13
+Human,Intestine,Duodenum,UBERON_0002114,Normal,Normal cell,Esophageal cell,,KRT14,KRT14

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,CTLA4,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAYN,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIGIT,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell

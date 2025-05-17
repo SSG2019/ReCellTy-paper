@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Schwann cell,CL_0002573,CD9,CD9
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Schwann cell,CL_0002573,PLP1,PLP1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Schwann cell,CL_0002573,LGI4,LGI4

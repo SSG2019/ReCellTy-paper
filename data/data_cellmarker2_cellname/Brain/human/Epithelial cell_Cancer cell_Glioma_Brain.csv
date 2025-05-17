@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Epithelial cell,CL_0000066,Vimentin,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Epithelial cell,CL_0000066,SNAI2,SNAI2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Epithelial cell,CL_0000066,CD44,CD44
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Epithelial cell,CL_0000066,N-cadherin,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,

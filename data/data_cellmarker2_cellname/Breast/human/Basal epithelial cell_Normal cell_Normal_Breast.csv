@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,Vimentin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,TP63,TP63
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,MYLK,MYLK
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT14,KRT14
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT5,KRT5

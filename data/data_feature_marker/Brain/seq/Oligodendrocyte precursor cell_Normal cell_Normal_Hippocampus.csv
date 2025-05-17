@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte precursor cell,,OLIG2,Human,Brain,Hippocampus,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte precursor cell,,OLIG1,Human,Brain,Hippocampus,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte precursor cell,,PDGFRA,Human,Brain,Hippocampus,Normal,Normal cell,Oligodendrocyte precursor cell

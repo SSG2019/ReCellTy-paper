@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,CXCR2,CXCR2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,SLC25A37,SLC25A37
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,TECPR2,TECPR2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,CXCR1,CXCR1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,KCNJ15,KCNJ15
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,STEAP4,STEAP4
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,VNN3,VNN3P
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,CYP4F3,CYP4F3
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,TLE3,TLE3
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,TNFRSF10C,TNFRSF10C
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,HAL,HAL
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,MEGF9,MEGF9
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,CEACAM3,CEACAM3
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3B,FCGR3B
+Human,Soft tissue,Soft tissue,UBERON_0034929,Normal,Normal cell,Neutrophil,CL_0000775,CA4,CA4

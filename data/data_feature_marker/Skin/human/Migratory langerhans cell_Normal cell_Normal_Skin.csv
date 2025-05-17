@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Langerhans cell,Migratory,CCR7,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,Migratory,CD83,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,BIRC3,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IRF4,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CLPTM1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IL7R,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CD40,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IDO1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,NUB1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CCL22,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell

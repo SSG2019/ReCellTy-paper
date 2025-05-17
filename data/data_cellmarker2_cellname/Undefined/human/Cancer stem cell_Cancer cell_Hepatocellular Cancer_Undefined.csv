@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,AFP,AFP
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,LIN28B,LIN28B
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,TLR4,TLR4
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,Keratin-19,
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CXCR4,CXCR4
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,SOX12,SOX12
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD90,THY1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD13,ANPEP
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Undefined,Undefined,,Hepatocellular Cancer,Cancer cell,Cancer stem cell,,CD44,CD44

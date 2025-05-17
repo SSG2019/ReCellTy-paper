@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GZMH,Human,Intestine,Intestine,Normal,Normal cell,Cytotoxic T cell 2
+T cell,Cytotoxic,PRF1,Human,Intestine,Intestine,Normal,Normal cell,Cytotoxic T cell 2
+T cell,Cytotoxic,GNLY,Human,Intestine,Intestine,Normal,Normal cell,Cytotoxic T cell 2

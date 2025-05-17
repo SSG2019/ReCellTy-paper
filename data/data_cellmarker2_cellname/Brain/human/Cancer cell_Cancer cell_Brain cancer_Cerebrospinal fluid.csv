@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Brain cancer,Cancer cell,Cancer cell,CL_0001064,LCN2,LCN2
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Brain cancer,Cancer cell,Cancer cell,CL_0001064,SLC22A17,SLC22A17

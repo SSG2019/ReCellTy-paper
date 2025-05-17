@@ -1,0 +1,96 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,ICAM1,ICAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,MUC1,MUC1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD13,ANPEP
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD167,DDR1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD324,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,EMA,ETFA
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD126,IL6R
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD130,IL6ST
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD49f,ITGA6
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD103,ITGAE
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD104,ITGB4
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD227,MUC1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD141,THBD
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD106,VCAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD133,PROM1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD1d,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,iNOS,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Adhesion molecules,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,LFA1,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Adhesion molecules LFA2,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Epithelial Sodium Channels alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Epithelial Sodium Channels beta,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Epithelial Sodium Channels gamma,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Epithelial Sodium Channels delta,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Fc part of the IgG,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-1,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-10,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-14,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-15,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-16,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-18,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-2,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-3,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-5,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-6,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-7,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-8,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Prostate specific antigen,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Surfactant protein A,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Surfactant protein B,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Surfactant protein C,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Surfactant protein D,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Survivin,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VLA2,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VLA3,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VLA4,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VLA5,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VLA6,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD121a,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD326,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD44R,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD66a,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD75,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CD167a,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,MHC class II,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-13,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,Keratin-19,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,DSP,DSP
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,EpCAM,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,EGFR,EGFR
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,HER2,ERBB2
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,SOX9,SOX9
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,VDR,VDR
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,EHF,EHF
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KLF4,KLF4
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,F11R,F11R
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT14,KRT14
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,TP63,TP63
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,WNT7A,WNT7A
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,PLCG1,PLCG1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,TGFBR2,TGFBR2
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CBX4,CBX4
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,NGFR,NGFR
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,PAX6,PAX6
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,PRSS8,PRSS8
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,ITGA6,ITGA6
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,HR,HR
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDSN,CDSN
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,ELF3,ELF3
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,PRDM1,PRDM1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KLF5,KLF5
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,GRHL3,GRHL3
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,SCNNA1,
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,RNF186,RNF186
+Human,Undefined,Undefined,,Normal,Normal cell,Epithelial cell,CL_0000066,KRT7,KRT7

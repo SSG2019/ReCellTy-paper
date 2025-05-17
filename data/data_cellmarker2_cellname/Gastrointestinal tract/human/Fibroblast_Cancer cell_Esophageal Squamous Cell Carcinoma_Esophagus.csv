@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,FN1,FN1
+Human,Gastrointestinal tract,Esophagus,UBERON_0001043,Esophageal Squamous Cell Carcinoma,Cancer cell,Fibroblast,CL_0000057,COL6A1,COL6A1

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,ALB,ALB
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,CYP3A4,CYP3A4
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,TF,TF
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,TAT,TAT
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,KRT18,KRT18
+Human,Liver,Liver,UBERON_0002107,Extrahepatic cholangiocarcinoma,Cancer cell,Hepatocyte,CL_0000182,ICAM1,ICAM1

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,HLA-DQ,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,FcεRIα,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,HLA-DQ,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,FcεRIα,Human,Tonsil,Tonsil,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

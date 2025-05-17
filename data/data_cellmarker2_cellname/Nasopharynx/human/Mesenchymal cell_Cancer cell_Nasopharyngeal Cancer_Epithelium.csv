@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,snail1,
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,slug,
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB2,ZEB2
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,claudin-1,CLDN7
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,β-catenin,
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Nasopharynx,Epithelium,UBERON_0000483,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CDH2,CDH2

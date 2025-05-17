@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Resident memory,GPR15,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,Resident memory,CD103,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,Resident memory,CD69,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,Resident memory,ITGAE,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,CD8+,GPR15,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,CD8+,CD103,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,CD8+,CD69,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell
+T cell,CD8+,ITGAE,Human,Intestine,Intestine,Normal,Normal cell,Resident memory CD8+ T cell

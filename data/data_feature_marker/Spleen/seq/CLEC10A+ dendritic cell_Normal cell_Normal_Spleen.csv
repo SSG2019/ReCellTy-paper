@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,CLEC10A+,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CST3,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QA,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD1C,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD74,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QB,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell

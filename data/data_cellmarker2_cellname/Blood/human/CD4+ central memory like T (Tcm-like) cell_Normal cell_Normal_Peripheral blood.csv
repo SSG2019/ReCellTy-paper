@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,SELL,SELL
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,CD28,CD28
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,CCR7,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4+ central memory like T (Tcm-like) cell,,TCF7,TCF7

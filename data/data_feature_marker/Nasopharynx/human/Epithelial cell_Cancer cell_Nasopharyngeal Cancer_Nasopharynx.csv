@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Krt19,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Epithelial cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Neural crest cell,CL_0011012,NG2,CSPG4
+Human,Undefined,Undefined,,Infantile Hemangiomas,Cancer cell,Neural crest cell,CL_0011012,Nestin,

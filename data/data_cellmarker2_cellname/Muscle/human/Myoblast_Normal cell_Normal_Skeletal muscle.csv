@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MEF2C,MEF2C
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,LEMD2,LEMD2
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,TGFB1,TGFB1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MET,MET
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,SMTN,SMTN
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,TCF12,TCF12
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MYF5,MYF5
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,EYA1,EYA1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MYF6,MYF6
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,TEAD4,TEAD4
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,SIX2,SIX2
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,GLI2,GLI2
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,PAX7,PAX7
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MEOX1,MEOX1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,EYA2,EYA2
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,EMD,EMD
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,SIX1,SIX1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MYOD1,MYOD1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MYOG,MYOG
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,NRG1,NRG1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MAPK12,MAPK12
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MEF2A,MEF2A
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,PAX3,PAX3
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Myoblast,CL_0000056,MEF2D,MEF2D

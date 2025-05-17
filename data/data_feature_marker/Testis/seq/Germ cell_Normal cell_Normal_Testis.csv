@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,,YBX1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,,H1-9P,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Development,FGFR3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,UTF1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Development,YBX2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DDX4,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Male development,TEX101,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Spermatogenesis,ACTL7B,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Meiosis,SYCP3,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin remodeling,TNP1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Spermatid development,HILS1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Acrosome reaction,ACRV1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin condensation,PRM2,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Chromatin condensation,PRM1,Human,Testis,Testis,Normal,Normal cell,Germ cell
+Germ cell,Sex determination,DMRT1,Human,Testis,Testis,Normal,Normal cell,Germ cell

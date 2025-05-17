@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,,KLRB1,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,TNFSF13B,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,AREG,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell

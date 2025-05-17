@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,CD26,DPP4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,NTN1,NTN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,PDPN,PDPN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,COL6A1,COL6A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,APCDD1,APCDD1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,COL23A1,COL23A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,COL23A13,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,PTGDS,PTGDS
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Papillary fibroblast,,APCDD1,APCDD1

@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,BMP4,BMP4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,PLVAP,PLVAP
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CHI3L1,CHI3L1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,XCR1,XCR1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,ACTA2,ACTA2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,WNT2B,WNT2B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CD68,CD68
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,RSPO3,RSPO3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,S100B,S100B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,MADCAM1,MADCAM1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CD36,CD36
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,WNT5B,WNT5B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,SOX17,SOX17
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,VWA1,VWA1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CDH5,CDH5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,SOX10,SOX10
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CCL11,CCL11
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,DARC,ACKR1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,RBP7,RBP7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,TAGLN,TAGLN
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,RGS5,RGS5
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Glial cell,CL_0000125,CLEC9A,CLEC9A

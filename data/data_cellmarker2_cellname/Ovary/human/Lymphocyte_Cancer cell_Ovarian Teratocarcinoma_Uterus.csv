@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Uterus,UBERON_0000995,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte,CL_0000542,PD-1,PDCD1
+Human,Ovary,Uterus,UBERON_0000995,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte,CL_0000542,PD-L1,CD274

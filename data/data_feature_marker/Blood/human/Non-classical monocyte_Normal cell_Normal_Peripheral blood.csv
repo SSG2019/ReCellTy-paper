@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+monocyte,Non-classical,CD16,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+monocyte,Non-classical,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte

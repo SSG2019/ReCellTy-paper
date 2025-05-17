@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Vein cell,,MMRN1,MMRN1
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Vein cell,,DARC,ACKR1

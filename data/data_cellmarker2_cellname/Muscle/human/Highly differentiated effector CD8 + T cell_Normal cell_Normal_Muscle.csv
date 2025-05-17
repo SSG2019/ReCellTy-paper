@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Highly differentiated effector CD8 + T cell,,CD244,CD244
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Highly differentiated effector CD8 + T cell,,KLRG1,KLRG1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Highly differentiated effector CD8 + T cell,,CD57,B3GAT1

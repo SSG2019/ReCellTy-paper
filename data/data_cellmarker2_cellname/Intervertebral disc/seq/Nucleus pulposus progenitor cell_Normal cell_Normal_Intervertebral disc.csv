@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Nucleus pulposus progenitor cell,,PRRX1,PRRX1
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Nucleus pulposus progenitor cell,,PDGFRA,PDGFRA
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Nucleus pulposus progenitor cell,,IGF1,IGF1

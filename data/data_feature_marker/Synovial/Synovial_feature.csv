@@ -1,0 +1,29 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,VWF,Human,Synovial,Synovium,Normal,Normal cell,Endothelial cell
+Fibroblast,,GGT5,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,CD55,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,PDPN,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Leukocyte,,CD45,Human,Synovial,Synovium,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Synovial,Synovium,Normal,Normal cell,Leukocyte
+fibroblast,,PDFGRA,Human,Synovial,Synovium,Normal,Normal cell,Lining fibroblast
+fibroblast,,PRG4,Human,Synovial,Synovium,Normal,Normal cell,Lining fibroblast
+Mural cell,,MCAM,Human,Synovial,Synovium,Normal,Normal cell,Mural cell
+Mural cell,,ACTA2,Human,Synovial,Synovium,Normal,Normal cell,Mural cell
+fibroblast,Sublining,THY1,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast
+fibroblast,,PDFGRA,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast
+Vascular endothelial cell,,CD34,Human,Synovial,Synovium,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,VWF,Human,Synovial,Synovium,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,,VWF,Human,Synovial,Synovium,Normal,Normal cell,Endothelial cell
+Fibroblast,,GGT5,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,CD55,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Fibroblast,,PDPN,Human,Synovial,Synovium,Normal,Normal cell,Fibroblast
+Leukocyte,,CD45,Human,Synovial,Synovium,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Synovial,Synovium,Normal,Normal cell,Leukocyte
+Lining fibroblast,,PDFGRA,Human,Synovial,Synovium,Normal,Normal cell,Lining fibroblast
+Lining fibroblast,,PRG4,Human,Synovial,Synovium,Normal,Normal cell,Lining fibroblast
+Mural cell,,MCAM,Human,Synovial,Synovium,Normal,Normal cell,Mural cell
+Mural cell,,ACTA2,Human,Synovial,Synovium,Normal,Normal cell,Mural cell
+fibroblast,Sublining,THY1,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast
+fibroblast,,PDFGRA,Human,Synovial,Synovium,Normal,Normal cell,Sublining fibroblast
+Vascular endothelial cell,,CD34,Human,Synovial,Synovium,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,VWF,Human,Synovial,Synovium,Normal,Normal cell,Vascular endothelial cell

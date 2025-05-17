@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,,TMEM119,Human,Blood,Peripheral blood,Normal,Normal cell,Microglial cell
+Microglial cell,,CX3CR1,Human,Blood,Peripheral blood,Normal,Normal cell,Microglial cell
+Microglial cell,,P2RY12,Human,Blood,Peripheral blood,Normal,Normal cell,Microglial cell

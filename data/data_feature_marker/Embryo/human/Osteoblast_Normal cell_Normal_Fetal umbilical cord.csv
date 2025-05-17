@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Osteoblast,Bone Formation,ALP,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Formation,Col1al,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Formation,OCN,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Formation,BGLAP,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Remodeling/Mineralization,OPN,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Remodeling/Mineralization,SPP1,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast
+Osteoblast,Bone Remodeling/Mineralization,OCN,Human,Embryo,Fetal umbilical cord,Normal,Normal cell,Osteoblast

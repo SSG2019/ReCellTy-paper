@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tissue migratory,SELK,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)
+T cell,Tissue migratory,SELENOK,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)
+T cell,CD4+,CREM,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)
+T cell,,PP1CB,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)
+T cell,,YPEL5,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)
+T cell,,LRRK2,Human,Undefined,Undefined,Normal,Normal cell,Tissue migratory CD4+ T  cell (TMC)

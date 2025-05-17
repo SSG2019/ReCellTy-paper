@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-7,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-7,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,NCAM,NCAM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,AFP,AFP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,DLK1,DLK1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,NCAM1,NCAM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-7,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,,Keratin-19,

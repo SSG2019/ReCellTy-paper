@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,TCL1A,TCL1A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,TLR7,TLR7
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IRF8,IRF8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL3RC,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C

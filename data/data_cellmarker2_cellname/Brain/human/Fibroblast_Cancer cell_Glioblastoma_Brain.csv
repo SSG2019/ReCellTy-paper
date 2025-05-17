@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,STRA6,STRA6
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,ISLR,ISLR
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,C7,C7
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,TDO2,TDO2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Fibroblast,CL_0000057,COL3A1,COL3A1

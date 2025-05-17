@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,MOBP,MOBP
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,OLIG1,OLIG1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,VCAN,VCAN
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,MOG,MOG
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,PDGFRA,PDGFRA
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,OLIG1,OLIG1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Oligodendrocyte,CL_0000128,OLIG2,OLIG2

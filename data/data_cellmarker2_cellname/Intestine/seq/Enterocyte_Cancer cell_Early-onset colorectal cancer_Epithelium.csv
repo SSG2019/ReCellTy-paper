@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Early-onset colorectal cancer,Cancer cell,Enterocyte,CL_0000584,KRT20,KRT20
+Human,Intestine,Epithelium,UBERON_0000483,Early-onset colorectal cancer,Cancer cell,Enterocyte,CL_0000584,FABP1,FABP1

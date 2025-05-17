@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte,CL_0000312,KRT7,KRT7
+Human,Skin,Skin,UBERON_0002097,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte,CL_0000312,KRT15,KRT15

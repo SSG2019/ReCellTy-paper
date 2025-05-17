@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,GZMK,GZMK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,KLRB1,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFSF13B,TNFSF13B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,TIMP1,TIMP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,LTB,LTB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFRSF4,TNFRSF4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD52,CD52
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,AQP3,AQP3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,IFNγ,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,

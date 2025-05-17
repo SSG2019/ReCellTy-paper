@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD19,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,CD22,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Co-stimulatory,CD80,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Co-stimulatory,CD86,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Immune checkpoint,CTLA4,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Activation,CD27,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Activation,CD38,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Plasma cell,CD138,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,Plasma cell,SDC1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell
+B cell,,B2M,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,B cell

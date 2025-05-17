@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,GPA33,GPA33
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD4,CD4
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,Nrp1,
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,GITR,TNFRSF18
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD39,ENTPD1
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD73,NT5E
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,LAG-3,
+Human,Intestine,Large Intestine,UBERON_0000059,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CTLA-4,CTLA4

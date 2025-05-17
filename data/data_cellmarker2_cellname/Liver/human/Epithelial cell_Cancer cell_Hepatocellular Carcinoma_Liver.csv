@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Epithelial cell,CL_0000066,Cytokeratin,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Epithelial cell,CL_0000066,CPED1,CPED1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Epithelial cell,CL_0000066,ZO-1,TJP1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT,KRT126P

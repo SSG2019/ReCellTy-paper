@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,IGHG2,IGHG2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,IGHG1,IGHG1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,LAG3,LAG3
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,CD38,CD38
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,VCAM1,VCAM1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,B cell,CL_0000236,CD27,CD27

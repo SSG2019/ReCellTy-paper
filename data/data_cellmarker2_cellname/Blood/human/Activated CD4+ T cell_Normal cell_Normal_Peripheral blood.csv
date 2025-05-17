@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,CD69,CD69
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,STAT3,STAT3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,SOCS3,SOCS3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,ICOS,ICOS
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,SELL,SELL
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,CCR7,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,CD154,CD40LG
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Activated CD4+ T cell,CL_0001043,TCF7,TCF7

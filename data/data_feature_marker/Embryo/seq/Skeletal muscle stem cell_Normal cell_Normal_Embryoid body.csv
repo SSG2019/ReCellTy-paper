@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Skeletal muscle,stem cell,NGFR,Human,Embryo,Embryoid body,Normal,Normal cell,Skeletal muscle stem cell
+Skeletal muscle,stem cell,PAX7,Human,Embryo,Embryoid body,Normal,Normal cell,Skeletal muscle stem cell
+Skeletal muscle,stem cell,CD34,Human,Embryo,Embryoid body,Normal,Normal cell,Skeletal muscle stem cell

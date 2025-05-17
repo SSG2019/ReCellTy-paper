@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,MAL,MAL
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,SELL,SELL
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,CCR7,CCR7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,MYC,MYC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,NOSIP,NOSIP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,TCF7,TCF7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,LEF1,LEF1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,TSHZ2,TSHZ2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Central memory CD4+ T cell,CL_0001087,SOCS3,SOCS3

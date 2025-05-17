@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,NEUROD1,NEUROD1
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,CXCR4,CXCR4
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,EZH2,EZH2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,ASCL1,ASCL1
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,SOX2,SOX2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,HES6,HES6
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,NEUROG1,NEUROG1
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Globose basal cell,,KI67,

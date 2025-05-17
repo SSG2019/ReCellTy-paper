@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T follicular helper,ICOS,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CCR6,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CXCR3,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,T follicular helper(Tfh) cell

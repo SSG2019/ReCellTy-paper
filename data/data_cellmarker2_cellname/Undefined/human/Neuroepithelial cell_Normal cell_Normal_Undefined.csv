@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,HES1,HES1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,HES3,HES3
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,E-cadherin,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,Nestin,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,Notch1,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuroepithelial cell,CL_0000098,Occludin,

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,S100A8,S100A8
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,CEACAM8,CEACAM8
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,S100A9,S100A9
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,CD16b,FCGR3B
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,ITGAM,ITGAM
+Human,Undefined,Undefined,,Normal,Normal cell,Neutrophil,CL_0000775,CD11b,

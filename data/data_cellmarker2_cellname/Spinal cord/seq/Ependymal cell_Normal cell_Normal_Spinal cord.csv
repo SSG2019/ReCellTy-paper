@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Ependymal cell,CL_0000065,DANNF1,
+Human,Spinal cord,Spinal cord,UBERON_0002240,Normal,Normal cell,Ependymal cell,CL_0000065,GFAP157,

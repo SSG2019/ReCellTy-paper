@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Fibro-adipogenic,Dcn,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,Fibro-adipogenic,Pdgfra,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6a,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell
+Progenitor cell,,Ly6e,Human,Muscle,Skeletal muscle,Normal,Normal cell,Fibro-adipogenic progenitor cell

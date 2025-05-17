@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,TRAC,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell
+T cell,,CD3D,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell

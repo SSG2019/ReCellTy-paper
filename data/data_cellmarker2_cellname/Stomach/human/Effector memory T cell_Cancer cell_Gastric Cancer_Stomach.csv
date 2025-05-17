@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,GDPD5,GDPD5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,TBCD,TBCD
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,DDX17,DDX17
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,LTK,LTK
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,AKT3,AKT3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,TBC1D5,TBC1D5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,CCR2,CCR2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,PRKY,PRKY
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,NFATC4,NFATC4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,MEFV,MEFV
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,FLI1,FLI1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,TRA,TRA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,VIL2,EZR
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,EWSR1,EWSR1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,C7orf54,SND1-IT1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,RUNX3,RUNX3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,IL7R,IL7R
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Effector memory T cell,CL_0000813,CXCR3,CXCR3

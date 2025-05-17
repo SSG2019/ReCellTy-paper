@@ -1,0 +1,79 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,IGHD,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,IGHM,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+Dendritic cell,,CD1C,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCGR1A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Macrophage,M1,CCL5,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M1 macrophage
+Macrophage,M1,STAT1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M1 macrophage
+macrophage,M2,IL4I1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,MRC1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,MS4A4A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD163,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+Macrophage,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Monocyte,,CD68,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Myeloid cell,,LYZ,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD163,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CSF1R,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+B cell,Naive,TCL1A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+B cell,,IL4R,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+Natural killer cell,,KLRD1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+B cell,Regulatory,CD27,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory,CD24,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Regulatory B(Breg) cell
+T cell,,TRAC,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD2,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+B cell,,IGHD,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,IGHM,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,B cell
+Dendritic cell,,CD1C,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCGR1A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Dendritic cell
+Macrophage,M1,CCL5,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M1 macrophage
+Macrophage,M1,STAT1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M1 macrophage
+macrophage,M2,IL4I1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,MRC1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,MS4A4A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD163,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,M2 macrophage
+Macrophage,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Macrophage
+Monocyte,,CD68,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Monocyte
+Myeloid cell,,LYZ,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD163,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CSF1R,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD14,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+Myeloid cell,,FCGR3A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Myeloid cell
+B cell,Naive,TCL1A,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+B cell,,IL4R,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Naive B cell
+Natural killer cell,,KLRD1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Natural killer cell
+B cell,Regulatory,CD27,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory,CD24,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,Regulatory B(Breg) cell
+T cell,,TRAC,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD2,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell

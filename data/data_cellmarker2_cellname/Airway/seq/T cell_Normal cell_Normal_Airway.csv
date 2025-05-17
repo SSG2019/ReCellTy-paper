@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRBC2,TRBC2
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRGC1,TRGC1
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRAC,TRAC
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRDC,TRDC
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRGC2,TRGC2
+Human,Airway,Airway,,Normal,Normal cell,T cell,CL_0000084,TRBC1,TRBC1

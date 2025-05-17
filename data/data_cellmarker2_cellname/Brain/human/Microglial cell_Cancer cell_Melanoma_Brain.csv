@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Melanoma,Cancer cell,Microglial cell,CL_0000129,C1QC,C1QC
+Human,Brain,Brain,UBERON_0000955,Melanoma,Cancer cell,Microglial cell,CL_0000129,TREM2,TREM2
+Human,Brain,Brain,UBERON_0000955,Melanoma,Cancer cell,Microglial cell,CL_0000129,TMEM119,TMEM119
+Human,Brain,Brain,UBERON_0000955,Melanoma,Cancer cell,Microglial cell,CL_0000129,P2RY12,P2RY12

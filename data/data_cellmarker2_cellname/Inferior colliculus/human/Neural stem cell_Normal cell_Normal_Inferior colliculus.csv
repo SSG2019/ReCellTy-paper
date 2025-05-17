@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Inferior colliculus,Inferior colliculus,UBERON_0001946,Normal,Normal cell,Neural stem cell,CL_0000047,Nestin,
+Human,Inferior colliculus,Inferior colliculus,UBERON_0001946,Normal,Normal cell,Neural stem cell,CL_0000047,CD133,PROM1
+Human,Inferior colliculus,Inferior colliculus,UBERON_0001946,Normal,Normal cell,Neural stem cell,CL_0000047,SOX2,SOX2

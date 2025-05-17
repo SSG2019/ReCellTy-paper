@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,MAL,MAL
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,CD28,CD28
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,THEMIS,THEMIS
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,AQP3,AQP3
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,PRF1,PRF1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,PRDM1,PRDM1
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,ANK3,ANK3
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,CD8B,CD8B
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,ZBTB38,ZBTB38
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,CST7,CST7
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,IKZF3,IKZF3
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD8+ T cell,CL_0000625,CD8A,CD8A

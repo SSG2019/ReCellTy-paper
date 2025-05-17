@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell,,ZFHX3,ZFHX3
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell,,MSEIS2,
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell,,NR2F1,NR2F1
+Human,Brain,Medial ganglionic eminence,UBERON_0004024,Normal,Normal cell,Dorsal medial ganglionic eminence precursor cell,,ZNF503,ZNF503

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,helper 17,CCR6,Human,Blood,Plasma,Normal,Normal cell,CD8+ T helper 17 cell
+T cell,helper 17,CD161,Human,Blood,Plasma,Normal,Normal cell,CD8+ T helper 17 cell

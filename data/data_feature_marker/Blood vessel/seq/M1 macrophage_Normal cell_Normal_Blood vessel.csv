@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,Ccl2,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Cxcl10,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Il1b,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage
+Macrophage,M1,Ccl3,Human,Blood vessel,Blood vessel,Normal,Normal cell,M1 macrophage

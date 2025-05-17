@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Progenitor,KRT19,Human,Embryo,Ectoderm,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,Progenitor,ABCG2,Human,Embryo,Ectoderm,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,Progenitor,TP63,Human,Embryo,Ectoderm,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,,CDH1,Human,Embryo,Ectoderm,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,,KRT18,Human,Embryo,Ectoderm,Normal,Normal cell,Epithelial progenitor cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+germ cell,Retinoid acid signaling-responsive,STRA8,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell
+germ cell,Retinoid acid signaling-responsive,RARG,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell
+germ cell,fetal,DAZL,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell
+germ cell,fetal,DPPA3,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell
+germ cell,germ,PRDM1,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell
+germ cell,germ,DDX4,Human,Gonad,Fetal gonad,Normal,Normal cell,Retinoid acid signaling-responsive fetal germ cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,FCN1,Human,Liver,Liver,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Liver,Liver,Normal,Normal cell,Immune cell
+Immune cell,,KLRF1,Human,Liver,Liver,Normal,Normal cell,Immune cell

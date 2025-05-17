@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD11b,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD66b,CEACAM8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,NGAL,LCN2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD15,FUT4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD11b,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD16,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD64,FCGR1A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,G0S2,G0S2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,RSAD2,RSAD2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,IL1R2,IL1R2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,IL1RN,IL1RN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD15,FUT4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3B,FCGR3B
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD16,FCGR3A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,LYN,LYN
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,HSPA6,HSPA6
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,MRP14,S100A9
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CXCL8,CXCL8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CD66b,CEACAM8
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3B,FCGR3B
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Neutrophil,CL_0000775,S100a9,

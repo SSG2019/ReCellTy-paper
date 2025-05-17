@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural stem cell,Neural,Nestin,Human,Inferior colliculus,Inferior colliculus,Normal,Normal cell,Neural stem cell
+Neural stem cell,stem,CD133,Human,Inferior colliculus,Inferior colliculus,Normal,Normal cell,Neural stem cell
+Neural stem cell,stem,SOX2,Human,Inferior colliculus,Inferior colliculus,Normal,Normal cell,Neural stem cell
+Neural stem cell,stem,PROM1,Human,Inferior colliculus,Inferior colliculus,Normal,Normal cell,Neural stem cell

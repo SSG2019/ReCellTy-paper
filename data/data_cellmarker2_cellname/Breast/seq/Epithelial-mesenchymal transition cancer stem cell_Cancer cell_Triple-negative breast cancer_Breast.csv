@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell,,ALDH1A3,ALDH1A3
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,Epithelial-mesenchymal transition cancer stem cell,,ALDH1A1,ALDH1A1

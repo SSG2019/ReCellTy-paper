@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Lor,Human,Blood,Peripheral blood,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt5,Human,Blood,Peripheral blood,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt10,Human,Blood,Peripheral blood,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt14,Human,Blood,Peripheral blood,Normal,Normal cell,Epithelial cell

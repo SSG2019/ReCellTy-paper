@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Chorionic villus,UBERON_0007106,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD44,CD44
+Human,Placenta,Chorionic villus,UBERON_0007106,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD45,PTPRC
+Human,Placenta,Chorionic villus,UBERON_0007106,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD34,CD34

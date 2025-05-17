@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast-like cell,,COL4A1,COL4A1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast-like cell,,GATA6,GATA6

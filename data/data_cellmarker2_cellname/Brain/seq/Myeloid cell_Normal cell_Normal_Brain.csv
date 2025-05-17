@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD11b,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,Ly6G,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,PTPRC,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD74,CD74
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CX3CR1,CX3CR1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,C1QC,C1QC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,C1QB,C1QB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD33,CD33
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,ITGAM,ITGAM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,TMEM119,TMEM119
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14

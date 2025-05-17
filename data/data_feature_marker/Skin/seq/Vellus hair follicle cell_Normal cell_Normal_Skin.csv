@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vellus hair follicle cell,hair follicle,KRT6B,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,hair follicle,SOX9,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,Vellus,VHF,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,hair follicle,SFRP1,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Gastrointestinal tract,UBERON_0005409,Normal,Normal cell,Natural killer cell,CL_0000623,CD94,KLRD1
+Human,Intestine,Gastrointestinal tract,UBERON_0005409,Normal,Normal cell,Natural killer cell,CL_0000623,NKp80,KLRF1

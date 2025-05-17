@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,MMP2,MMP2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,S100A4,S100A4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,SNAI2,SNAI2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,CD44,CD44
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,ACTA2,ACTA2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,TNC,TNC
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,ZEB2,ZEB2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,FN1,FN1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,TWIST1,TWIST1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,ITGA5,ITGA5
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Mesenchymal cell,CL_0008019,WNT5A,WNT5A

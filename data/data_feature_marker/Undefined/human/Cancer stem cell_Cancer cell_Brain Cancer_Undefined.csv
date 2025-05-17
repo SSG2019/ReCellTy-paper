@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,stem,CD133,Human,Undefined,Undefined,Brain Cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,PROM1,Human,Undefined,Undefined,Brain Cancer,Cancer cell,Cancer stem cell

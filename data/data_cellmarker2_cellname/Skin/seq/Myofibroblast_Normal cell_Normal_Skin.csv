@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,MMP14,MMP14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,MAFB,MAFB
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,ATAC2,KAT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,NRXN1,NRXN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,TYRP1,TYRP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,CCL21,CCL21
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,ENG,ENG
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,Col1a1,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,KRY1,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,PTPRC,PTPRC
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,SCGB1B2P,SCGB1B2P
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,FNDC1,FNDC1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Myofibroblast,CL_0000186,SFRP4,SFRP4

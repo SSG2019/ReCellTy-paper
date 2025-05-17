@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Cardiomyocyte,CL_0000746,NPPA,NPPA

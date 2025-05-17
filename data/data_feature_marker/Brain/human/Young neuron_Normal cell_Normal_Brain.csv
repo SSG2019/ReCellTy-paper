@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Young neuron,,DCX,Human,Brain,Brain,Normal,Normal cell,Young neuron
+Young neuron,,NCAM1,Human,Brain,Brain,Normal,Normal cell,Young neuron
+Young neuron,,STMN1,Human,Brain,Brain,Normal,Normal cell,Young neuron
+Young neuron,,SYP,Human,Brain,Brain,Normal,Normal cell,Young neuron

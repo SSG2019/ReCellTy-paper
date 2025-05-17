@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+beta cell,Stem-cell-derived,ISL1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell
+beta cell,Stem-cell-derived,PAX4,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell
+beta cell,Stem-cell-derived,NKX6.1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell
+beta cell,Stem-cell-derived,PDX1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell
+beta cell,Stem-cell-derived,INS,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell
+beta cell,Stem-cell-derived,NKX6-1,Human,Undefined,Undefined,Normal,Normal cell,Stem-cell-derived-beta cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway epithelium,Distal airway,,Normal,Normal cell,Distal epithelial cell,,SOX9,SOX9
+Human,Airway epithelium,Distal airway,,Normal,Normal cell,Distal epithelial cell,,NAPSA,NAPSA

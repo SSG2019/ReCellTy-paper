@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper,CD4,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CCR4,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CXCR3,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CCR6,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,CD11C,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell

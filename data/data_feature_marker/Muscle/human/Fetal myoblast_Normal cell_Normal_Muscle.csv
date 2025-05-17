@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myoblast,Fetal,NFIX,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast
+myoblast,myoblast,PAX3,Human,Muscle,Muscle,Normal,Normal cell,Fetal myoblast

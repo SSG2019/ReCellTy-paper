@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 2(Th2) cell,CL_0000546,STAT6,STAT6
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 2(Th2) cell,CL_0000546,IL13,IL13
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 2(Th2) cell,CL_0000546,STAT5A,STAT5A
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T helper 2(Th2) cell,CL_0000546,GATA3,GATA3

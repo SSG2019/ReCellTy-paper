@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,KDR,KDR
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,VWF,VWF
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,EFNB2,EFNB2
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,DLL4,DLL4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,EFNB2,EFNB2
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,FLT1,FLT1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,DLL4,DLL4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,VWF,VWF
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,EPHB4,EPHB4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0000115,EPHB4,EPHB4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,FLT1,FLT1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Vascular endothelial cell,CL_0002139,KDR,KDR

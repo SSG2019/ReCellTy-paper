@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ITGB5,ITGB5
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,LEF1,LEF1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,Fn1,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,SNAI2,SNAI2
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,Cdh2,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CADH2,
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Mesenchymal cell,CL_0008019,CDH2,CDH2

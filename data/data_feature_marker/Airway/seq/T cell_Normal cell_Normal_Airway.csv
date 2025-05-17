@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,TRBC2,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,TRGC1,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,TRDC,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,TRGC2,Human,Airway,Airway,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Airway,Airway,Normal,Normal cell,T cell

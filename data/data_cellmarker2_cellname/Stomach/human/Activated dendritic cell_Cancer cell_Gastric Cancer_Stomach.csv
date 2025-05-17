@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Activated dendritic cell,,INDO,IDO1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Activated dendritic cell,,LAMP3,LAMP3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Activated dendritic cell,,OAS3,OAS3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Activated dendritic cell,,EBI3,EBI3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Activated dendritic cell,,CCL1,CCL1

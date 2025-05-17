@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Central nervous system stem cell,Stem cell,CD34,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell
+Central nervous system stem cell,Stem cell,CD133,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell
+Central nervous system stem cell,Stem cell,CD24,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell
+Central nervous system stem cell,,CD45,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell
+Central nervous system stem cell,,PTPRC,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell
+Central nervous system stem cell,Stem cell,PROM1,Human,Brain,Fetal brain,Normal,Normal cell,Central nervous system stem cell

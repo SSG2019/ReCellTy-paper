@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,CD31,PECAM1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,CEBPB,CEBPB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Monocyte,CL_0000576,MRC1,MRC1

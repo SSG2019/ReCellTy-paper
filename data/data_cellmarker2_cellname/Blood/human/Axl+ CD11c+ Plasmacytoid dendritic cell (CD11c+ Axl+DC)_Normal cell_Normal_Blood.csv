@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,Siglec6,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,CD5,CD5
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,CD33,CD33
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,Siglec2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC),,CD2,CD2

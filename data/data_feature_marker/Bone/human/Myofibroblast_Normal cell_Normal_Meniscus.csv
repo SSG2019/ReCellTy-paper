@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,MYLK,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,MYL9,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Bone,Meniscus,Normal,Normal cell,Myofibroblast

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Tumor-initiating,CD24,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Tumor-initiating cell
+cell,,CD47,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Tumor-initiating cell

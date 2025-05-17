@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Blast cell,CL_0000055,CD13,ANPEP
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Blast cell,CL_0000055,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Blast cell,CL_0000055,HLA-DR,

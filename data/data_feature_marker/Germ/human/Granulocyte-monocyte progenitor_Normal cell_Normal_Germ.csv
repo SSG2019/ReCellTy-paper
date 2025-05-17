@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor,Granulocyte,CD34,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,Monocyte,CD123,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,Monocyte,IL3RA,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,,CD38,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor
+Progenitor,,CD45RA,Human,Germ,Germ,Normal,Normal cell,Granulocyte-monocyte progenitor

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,CD164,CD164
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,CD117,KIT
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,EPHB2,EPHB2
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,PTK7,PTK7
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,ALDN1,
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Undefined,Undefined,,Normal,Normal cell,Stem cell,CL_0000034,CD133,PROM1

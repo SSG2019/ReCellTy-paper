@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,NorFollicular lymphoma tumormal,Cancer cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Lymph,Lymph,UBERON_0002391,NorFollicular lymphoma tumormal,Cancer cell,Memory B cell,CL_0000787,CD19,CD19

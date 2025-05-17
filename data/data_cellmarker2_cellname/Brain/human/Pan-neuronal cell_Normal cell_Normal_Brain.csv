@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pan-neuronal cell,,MAP2,MAP2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pan-neuronal cell,,NEUN,RBFOX3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pan-neuronal cell,,SYN1,SYN1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Pan-neuronal cell,,NRCAM,NRCAM

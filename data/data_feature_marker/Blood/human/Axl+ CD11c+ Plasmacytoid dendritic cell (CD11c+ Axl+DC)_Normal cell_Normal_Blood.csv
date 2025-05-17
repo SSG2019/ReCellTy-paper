@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasmacytoid dendritic cell,CD11c+,CD11c,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,Siglec6,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,CD5,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,CD33,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,Siglec2,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)
+Plasmacytoid dendritic cell,,CD2,Human,Blood,Blood,Normal,Normal cell,Axl+ CD11c+ Plasmacytoid dendritic cell (CD11c+ Axl+DC)

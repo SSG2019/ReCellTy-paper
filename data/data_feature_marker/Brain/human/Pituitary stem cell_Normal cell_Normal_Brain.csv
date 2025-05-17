@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pituitary cell,Stem,SOX2,Human,Brain,Brain,Normal,Normal cell,Pituitary stem cell
+Pituitary cell,Stem,SOX9,Human,Brain,Brain,Normal,Normal cell,Pituitary stem cell
+Pituitary cell,,LHX3,Human,Brain,Brain,Normal,Normal cell,Pituitary stem cell

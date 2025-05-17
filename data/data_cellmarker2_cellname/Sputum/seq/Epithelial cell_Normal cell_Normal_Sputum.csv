@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Epithelial cell,CL_0000066,SCEL,SCEL
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Epithelial cell,CL_0000066,KRT80,KRT80
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Epithelial cell,CL_0000066,KRT78,KRT78
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Epithelial cell,CL_0000066,SPRR3,SPRR3
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,Epithelial cell,CL_0000066,KRT19,KRT19

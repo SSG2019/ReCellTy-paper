@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,Non-classical,CD16,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,TNFRFA1,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,CD14,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,TNFRFB2,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,CSF1R,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,FCN1,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,CDKN1C,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte
+Monocyte,,LYZ,Human,Blood,Peripheral blood,Normal,Normal cell,Non-classical monocyte

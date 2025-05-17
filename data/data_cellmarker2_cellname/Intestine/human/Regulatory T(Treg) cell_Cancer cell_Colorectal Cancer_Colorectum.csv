@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,FoxP3,
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,Aire,
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CCR6,CCR6
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,IL7R,IL7R
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,MAGEH1,MAGEH1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,IL2RA,IL2RA
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,OX40,TNFRSF4
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4

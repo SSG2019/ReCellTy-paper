@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,antigen presentation,MHCclass II,Human,Kidney,Kidney,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,conventional dendritic cell,CD11c,Human,Kidney,Kidney,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,cDC2,CD1c,Human,Kidney,Kidney,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,myeloid lineage,CD11b,Human,Kidney,Kidney,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,pathogen recognition,Cd209a,Human,Kidney,Kidney,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

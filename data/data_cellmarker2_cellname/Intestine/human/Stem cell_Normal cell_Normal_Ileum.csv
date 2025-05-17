@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Stem cell,CL_0000034,SMOC2,SMOC2
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Stem cell,CL_0000034,OLFM4,OLFM4
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Stem cell,CL_0000034,ASCL2,ASCL2

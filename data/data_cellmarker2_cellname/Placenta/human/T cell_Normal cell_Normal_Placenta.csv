@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,T cell,CL_0000084,GZMA,GZMA
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,T cell,CL_0000084,CD3,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,T cell,CL_0000084,CD3,

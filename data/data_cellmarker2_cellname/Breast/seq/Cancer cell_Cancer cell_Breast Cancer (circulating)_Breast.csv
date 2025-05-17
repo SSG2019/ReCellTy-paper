@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,STAT1,STAT1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,RIC8A,RIC8A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,IRF9,IRF9
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,ISG15,ISG15
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,STAT2,STAT2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,JAK1,JAK1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,CDH1,CDH1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,CTNNA1,CTNNA1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,GNA13,GNA13
+Human,Breast,Breast,UBERON_0000310,Breast Cancer (circulating),Cancer cell,Cancer cell,CL_0001064,OAS1,OAS1

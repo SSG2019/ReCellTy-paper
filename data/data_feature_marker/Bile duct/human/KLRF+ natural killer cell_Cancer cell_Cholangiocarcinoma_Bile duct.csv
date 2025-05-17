@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+natural killer cell,KLRF+,KLRF1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,PRF5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,IL11R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,TIGIT,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell

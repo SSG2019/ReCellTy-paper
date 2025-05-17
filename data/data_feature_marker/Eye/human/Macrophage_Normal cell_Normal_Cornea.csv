@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD14,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,ITGAM,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Eye,Cornea,Normal,Normal cell,Macrophage

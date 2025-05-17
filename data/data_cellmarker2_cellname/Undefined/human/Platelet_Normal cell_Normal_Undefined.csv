@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD9,CD9
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD36,CD36
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD151,CD151
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD84,CD84
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD226,CD226
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,LAP,LAP
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD147,BSG
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,GARP,CNGB1
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD23,FCER2
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD42d,GP5
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD42a,GP9
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD49f,ITGA6
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD41,ITGA2B
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD51,ITGAV
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD61,ITGB3
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD107a,LAMP1
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD107b,LAMP2
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD110,MPL
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD31,PECAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD92,SLC44A1
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD42b,
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD173,
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD42c,
+Human,Undefined,Undefined,,Normal,Normal cell,Platelet,CL_0000233,CD60a,

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Non-neuron,,PAX6,Human,Brain,Brain,Normal,Normal cell,Non-neuron
+Non-neuron,,S100B,Human,Brain,Brain,Normal,Normal cell,Non-neuron
+Non-neuron,,REST,Human,Brain,Brain,Normal,Normal cell,Non-neuron
+Non-neuron,,MKI67,Human,Brain,Brain,Normal,Normal cell,Non-neuron
+Non-neuron,,SLC1A3,Human,Brain,Brain,Normal,Normal cell,Non-neuron
+Non-neuron,,SOX9,Human,Brain,Brain,Normal,Normal cell,Non-neuron

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CCR7,CCR7
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,SELL,SELL
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD62L,SELL
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD45RA,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,TCF7,TCF7
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CCR7,CCR7
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD27,CD27

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,TAGLN,TAGLN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,cell adhesion,CD44,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,cell adhesion,CD166,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,immunosuppressive,CD73,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,stem cell characteristics,CD90,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,mesenchymal identity,CD105,Human,Germ,Germ,Normal,Normal cell,Mesenchymal stem cell

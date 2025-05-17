@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona reticularis cell,,AKR1B1,AKR1B1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona reticularis cell,,STAR,STAR
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona reticularis cell,,CYP17A1,CYP17A1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona reticularis cell,,TSPAN12,TSPAN12
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Zona reticularis cell,,SULT2A1,SULT2A1

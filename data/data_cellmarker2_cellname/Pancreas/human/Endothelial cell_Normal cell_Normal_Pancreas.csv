@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,KDR,KDR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,B2M,B2M
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,CD36,CD36
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,PLVAP,PLVAP
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,SLCO2A1,SLCO2A1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,Pecam1,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5

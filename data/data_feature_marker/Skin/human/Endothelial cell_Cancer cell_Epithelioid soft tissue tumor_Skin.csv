@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,ERG,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell

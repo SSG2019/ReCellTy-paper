@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,VIM,Human,Liver,Liver,Liver Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD44,Human,Liver,Liver,Liver Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ZEB1,Human,Liver,Liver,Liver Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TWIST1,Human,Liver,Liver,Liver Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ILK,Human,Liver,Liver,Liver Cancer,Cancer cell,Mesenchymal cell

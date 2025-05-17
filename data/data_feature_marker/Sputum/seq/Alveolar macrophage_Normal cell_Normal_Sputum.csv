@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,MSR1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,FABP4,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,APOC1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,MARCO,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,C1QB,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage

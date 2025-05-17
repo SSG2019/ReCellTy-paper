@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD9,CD9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD93,CD93
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD11a,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD61,ITGB3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Classical monocyte,CL_0000860,CD14,CD14

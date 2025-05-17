@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Dendritic cell,CL_0000451,XCR1,XCR1
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,Dendritic cell,CL_0000451,CD1A,CD1A

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,CL_0011026,FRZB,FRZB
+Human,Embryo,Liver,UBERON_0002107,Normal,Normal cell,Progenitor cell,CL_0011026,PTN,PTN

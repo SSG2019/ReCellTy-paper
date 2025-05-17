@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD8,CD8A
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD45RA,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Naive T(Th0) cell,CL_0000898,CD4,CD4

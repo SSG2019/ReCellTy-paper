@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IL-6,IL6
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IL-27,IL27
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IL-1β,
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IL-1α,
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,TSLP,TSLP
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,TNF,TNF
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,CCL24,CCL24
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,TGF-β1,
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,CCL2,CCL2
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IFN-γ,
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,IL-18,IL18
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,TGF-β2,
+Human,Lung,Bronchus,,Normal,Normal cell,Immune cell,CL_0000738,CCL5,CCL5

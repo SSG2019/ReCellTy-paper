@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Fetal heart,,Normal,Normal cell,Epicardium-derived cell,,ACTA2,ACTA2
+Human,Heart,Fetal heart,,Normal,Normal cell,Epicardium-derived cell,,VIM,VIM
+Human,Heart,Fetal heart,,Normal,Normal cell,Epicardium-derived cell,,DDR2,DDR2
+Human,Heart,Fetal heart,,Normal,Normal cell,Epicardium-derived cell,,SNAI2,SNAI2

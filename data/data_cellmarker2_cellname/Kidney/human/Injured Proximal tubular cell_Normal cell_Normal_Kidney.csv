@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Sema5a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Vcam1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Hspa1a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Havcr1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Dcdc2a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Injured Proximal tubular cell,,Krt20,

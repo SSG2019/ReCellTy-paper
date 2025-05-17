@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Liver Cancer,Cancer cell,Cancer stem cell,,BIRC5,BIRC5
+Human,Liver,Liver,UBERON_0002107,Liver Cancer,Cancer cell,Cancer stem cell,,CHEK1,CHEK1
+Human,Liver,Liver,UBERON_0002107,Liver Cancer,Cancer cell,Cancer stem cell,,PLK1,PLK1

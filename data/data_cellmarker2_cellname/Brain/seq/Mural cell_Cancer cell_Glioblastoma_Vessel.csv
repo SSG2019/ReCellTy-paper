@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Vessel,,Glioblastoma,Cancer cell,Mural cell,CL_0008034,PDGFRB,PDGFRB
+Human,Brain,Vessel,,Glioblastoma,Cancer cell,Mural cell,CL_0008034,NOTCH3,NOTCH3
+Human,Brain,Vessel,,Glioblastoma,Cancer cell,Mural cell,CL_0008034,RGS5,RGS5

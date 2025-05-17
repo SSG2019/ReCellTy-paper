@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,LYZ,LYZ
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,MS4A7,MS4A7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,VSIG4,VSIG4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,MARCO,MARCO
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD64,FCGR1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD83,CD83
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,STAT1,STAT1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,TNF,TNF
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,IFI6,IFI6
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,CD36,CD36
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Macrophage,CL_0000235,IL1B,IL1B

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Rab7b,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Rnase6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Plbd1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Basp1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Naaa,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Cbfa2t3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Ppm1m,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Irf8,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,SEP3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,11b- dendritic cell,,Wdfy3,

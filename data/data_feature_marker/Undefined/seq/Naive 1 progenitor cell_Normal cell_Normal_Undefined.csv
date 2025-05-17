@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,CD18,Human,Undefined,Undefined,Normal,Normal cell,Naive 1 progenitor cell
+Progenitor cell,,CD44,Human,Undefined,Undefined,Normal,Normal cell,Naive 1 progenitor cell
+Progenitor cell,,ITGB2,Human,Undefined,Undefined,Normal,Normal cell,Naive 1 progenitor cell

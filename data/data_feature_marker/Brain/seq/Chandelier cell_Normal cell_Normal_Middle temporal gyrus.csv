@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Interneuron,Axon guidance,UNC5B,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Chandelier cell
+Interneuron,Neural development,NOG,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Chandelier cell
+Interneuron,,COL15A1,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Chandelier cell

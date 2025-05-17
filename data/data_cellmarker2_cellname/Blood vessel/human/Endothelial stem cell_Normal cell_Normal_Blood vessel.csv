@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD14,CD14
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD34,CD34
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD114,CSF3R
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD54,ICAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD102,ICAM2
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD49f,ITGA6
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD49e,ITGA5
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD29,ITGB1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD117,KIT
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD146,MCAM
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD31,PECAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD45,PTPRC
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD62L,SELL
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD62P,SELP
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD120a,TNFRSF1A
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD120b,TNFRSF1B
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD106,VCAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD105,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial stem cell,CL_0000034,CD49d,

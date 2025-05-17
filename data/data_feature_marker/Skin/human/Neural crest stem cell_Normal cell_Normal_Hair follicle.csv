@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest stem cell,Stemness,CD271,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Stemness,NGFR,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,CD49d,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,HNK1,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,B3GAT1,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell

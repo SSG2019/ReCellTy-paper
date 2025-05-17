@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Thymic emigrant cell,CL_0000084,CD45RA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Thymic emigrant cell,CL_0000084,CD62L,SELL
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Thymic emigrant cell,CL_0000084,CD31,PECAM1

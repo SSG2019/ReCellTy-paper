@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,Tbr1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,Slc17a7,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NRGN,NRGN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,RANBP17,RANBP17
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,KCNQ3,KCNQ3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,CNKSR2,CNKSR2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,PHF21A,PHF21A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,ELP4,ELP4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,TBR2,EOMES
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,BCL11B,BCL11B
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,STMN2,STMN2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NEUROD2,NEUROD2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,RBFOX1,RBFOX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,IGFBPL1,IGFBPL1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NEUROD1,NEUROD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,SLC17A7,SLC17A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,SLC17A7,SLC17A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,CAMK2A,CAMK2A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,SLC17A7,SLC17A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NRGN,NRGN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,SYT1,SYT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,SLC17A7,SLC17A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NCAM1,NCAM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,ATP1A3,ATP1A3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Excitatory neuron,CL_0008030,NRGN,NRGN

@@ -1,0 +1,133 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,BMP6,Human,Salivary gland,Salivary gland,Normal,Normal cell,Acinar cell
+B cell,Antibody-secreting,CD138,Human,Salivary gland,Salivary gland,Normal,Normal cell,Antibody-secreting cell
+Antigen-presenting cell,,CD80,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,CD86,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,HLA-ABC,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,CD83,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,HLA-DR,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+B cell,,CD20,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+B cell,,CD5,Human,Salivary gland,Salivary gland,Normal,Normal cell,B1 cell
+Basal cell,,P63,Human,Salivary gland,Salivary gland,Adenoid Cystic Carcinoma,Cancer cell,Basal cell
+Basal cell,,Cytokeratin 5,Human,Salivary gland,Salivary gland,Normal,Normal cell,Basal cell
+Basal cell,,P63,Human,Salivary gland,Submandibular gland,Normal,Normal cell,Basal cell
+Cell,Cycling,MKI67,Human,Salivary gland,Salivary gland,Normal,Normal cell,Cycling cell
+Endothelial cell,,Cdh5,Human,Salivary gland,Salivary gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,Pecam1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Endothelial cell
+Epithelial cell,,TJP1,Human,Salivary gland,Epithelium,Human papillomaviruses (HPV),Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Salivary gland,Epithelium,Human papillomaviruses (HPV),Cancer cell,Epithelial cell
+Fibroblast,,Col1a1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Fibroblast
+Fibroblast,,Col1a2,Human,Salivary gland,Salivary gland,Normal,Normal cell,Fibroblast
+T cell,Follicular helper (Tfh),BCL6,Human,Salivary gland,Salivary gland,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,,CD3,Human,Salivary gland,Salivary gland,Normal,Normal cell,Follicular helper (Tfh) T cell
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,CD38,Human,Salivary gland,Salivary gland,Normal,Normal cell,Germinal center B cell
+Innate lymphoid cell,,CD103,Human,Salivary gland,Salivary gland,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,ITGAE,Human,Salivary gland,Salivary gland,Normal,Normal cell,Innate lymphoid cell
+Macrophage,,SPP1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Macrophage,,FCN1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Megakaryocyte,,MYL9,Human,Salivary gland,Salivary gland,Normal,Normal cell,Megakaryocyte
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,Memory B cell
+B cell,Memory,CD27,Human,Salivary gland,Salivary gland,Normal,Normal cell,Memory B cell
+Mesenchymal cell,,CDH11,Human,Salivary gland,Epithelium,Normal,Normal cell,Mesenchymal cell
+Monocyte,,CD14,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD68,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Mucous acinar cell,,CD166 ALCAM,Human,Salivary gland,Salivary gland,Normal,Normal cell,Mucous acinar cell
+Myeloid dendritic cell,,CD1C,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myeloid dendritic cell
+Myoepithelial cell,,Podoplanin,Human,Salivary gland,Parotid gland,Salivary Gland Tumor,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,Podoplanin,Human,Salivary gland,Salivary gland,Salivary Gland Tumor,Cancer cell,Myoepithelial cell
+Myoepithelial cell,,P63,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,SMA,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,S100,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,Calponin,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,CD29,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,Actin,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,SMN1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,S100A1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,ITGB1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myoepithelial cell
+B cell,Naive,IGD,Human,Salivary gland,Salivary gland,Normal,Normal cell,Naive B cell
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,Naive B cell
+Natural killer cell,,KLRF1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp30,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp46,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR3,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,CD3,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer T(NKT) cell
+Oligodendrocyte,,Cnp,Human,Salivary gland,Salivary gland,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,Plp1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Oligodendrocyte
+T cell,Pathogenic,CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,Pathogenic,ICOS,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,Pathogenic,PD-1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,Pathogenic,PDCD1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,peripheral helper,CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,peripheral helper,ICOS,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,peripheral helper,PD-1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+T cell,peripheral helper,PDCD1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pathogenic T peripheral helper cell
+Pericyte,,Pdgfrb,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pericyte
+Pericyte,,Cspg4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Pericyte
+Plasma cell,,CD138,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+Plasma cell,,IGKC,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Red blood cell,erythrocyte,HBB,Human,Salivary gland,Salivary gland,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,CD25,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Salivary gland,Salivary gland,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Responder,CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Responder T cell
+Serous acinar cell,,CD44,Human,Salivary gland,Salivary gland,Normal,Normal cell,Serous acinar cell
+Serous cell,,AMY1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Serous cell
+Serous cell,,LPO,Human,Salivary gland,Salivary gland,Normal,Normal cell,Serous cell
+Serous cell,,STATH,Human,Salivary gland,Salivary gland,Normal,Normal cell,Serous cell
+Serous cell,,AMY1A,Human,Salivary gland,Salivary gland,Normal,Normal cell,Serous cell
+Smooth muscle cell,,Tagln,Human,Salivary gland,Salivary gland,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,Acta2,Human,Salivary gland,Salivary gland,Normal,Normal cell,Smooth muscle cell
+Stem cell,,CD44,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell
+Stem cell,stemness,NANOG,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell
+Stem cell,proliferation,BMI1,Human,Salivary gland,Salivary gland,Mucoepidermoid Carcinoma,Cancer cell,Stem cell
+Stem cell,,ABCG2,Human,Salivary gland,Submandibular gland,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Salivary gland,Submandibular gland,Normal,Normal cell,Stem cell
+Submandibular gland,stem cell,CD34,Human,Salivary gland,Submandibular gland,Normal,Normal cell,Submandibular gland stem cell
+T cell,,CD5,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,,CD3,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,T follicular helper,ICOS,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,CXCR5,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PD-1,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,Bcl6,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T follicular helper,PDCD1,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,,CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,T follicular helper(Tfh) cell
+T helper cell,,CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,T helper cell
+T cell,T helper (Th),CD4,Human,Salivary gland,Salivary gland,Normal,Normal cell,T helper(Th) cell
+B cell,,CD79A,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+B cell,,CD19,Human,Salivary gland,Salivary gland,Normal,Normal cell,B cell
+cell,Cycling,MKI67,Human,Salivary gland,Salivary gland,Normal,Normal cell,Cycling cell
+Macrophage,,SPP1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Macrophage,,FCN1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Macrophage
+Megakaryocyte,,MYL9,Human,Salivary gland,Salivary gland,Normal,Normal cell,Megakaryocyte
+Mesenchymal cell,,CDH11,Human,Salivary gland,Epithelium,Normal,Normal cell,Mesenchymal cell
+Monocyte,,CD14,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Monocyte,,CD68,Human,Salivary gland,Salivary gland,Normal,Normal cell,Monocyte
+Dendritic cell,Myeloid,CD1C,Human,Salivary gland,Salivary gland,Normal,Normal cell,Myeloid dendritic cell
+Natural killer cell,,KLRF1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Natural killer cell
+Plasma cell,,IGKC,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+Plasma cell,,CD138,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasma cell
+dendritic cell,Plasmacytoid,IL3RA,Human,Salivary gland,Salivary gland,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Red blood cell,,HBB,Human,Salivary gland,Salivary gland,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,,CD3D,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell
+T cell,,CD3,Human,Salivary gland,Salivary gland,Normal,Normal cell,T cell

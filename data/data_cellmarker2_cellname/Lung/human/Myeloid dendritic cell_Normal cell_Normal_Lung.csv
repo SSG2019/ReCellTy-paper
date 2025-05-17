@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD4,CD4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD80,CD80
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD86,CD86
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD40,CD40
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD209,CD209
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD207,CD207
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD197,CCR7
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD205,LY75
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD304,NRP1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD273,PDCD1LG2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD11b,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD11c,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1a,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1b,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1c,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD49d,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,F4/80,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,HLA-DR,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,MHC Class II,

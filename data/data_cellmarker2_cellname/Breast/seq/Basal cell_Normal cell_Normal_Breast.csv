@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal cell,CL_0000646,MYLK,MYLK
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal cell,CL_0000646,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal cell,CL_0000646,SNAI2,SNAI2
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Basal cell,CL_0000646,KRT5,KRT5

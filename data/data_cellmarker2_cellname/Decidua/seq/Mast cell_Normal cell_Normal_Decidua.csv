@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,CPA3,CPA3
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,VWA5A,VWA5A
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,MS4A2,MS4A2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,CTSG,CTSG
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,LMNA,LMNA
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,HDC,HDC
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,CLU,CLU
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,GATA2,GATA2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1

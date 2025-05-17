@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Primordial germ cell,,OCT4,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,NANOG,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)
+Primordial germ cell,,POU5F1,Human,Testis,Sperm,Normal,Normal cell,Primordial germ cell (PGC)

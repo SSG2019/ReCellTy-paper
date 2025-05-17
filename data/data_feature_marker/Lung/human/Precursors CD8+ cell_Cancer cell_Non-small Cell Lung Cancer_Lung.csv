@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Precursors,IL-7R,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Precursors CD8+ cell
+T cell,Precursors,TCF7,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Precursors CD8+ cell
+T cell,,CXCR5,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Precursors CD8+ cell

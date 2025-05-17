@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Oviduct-derived,CD146,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,Oviduct-derived,CD105,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,Oviduct-derived,CD73,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,Oviduct-derived,CD44,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,Oviduct-derived,CD54,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,Oviduct-derived,CD166,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,OCT4,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,SOX2,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,CD133,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,CD117,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,CD90,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,ABCG2,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell
+stem cell,,POU5F1,Human,Oviduct,Oviduct,Normal,Normal cell,Oviduct-derived stem cell

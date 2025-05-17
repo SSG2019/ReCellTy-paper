@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Polymorphonuclear neutrophil,,ALPL,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,ADGRG3,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,PROK2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,IL1R2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,CSF3R,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)

@@ -1,0 +1,40 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GFAP,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,AQP4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Neuron,Cholinergic,CHAT,Human,Spinal cord,Spinal cord,Normal,Normal cell,Cholinergic neuron
+Ependymal cell,,DANNF1,Human,Spinal cord,Spinal cord,Normal,Normal cell,Ependymal cell
+Ependymal cell,,GFAP157,Human,Spinal cord,Spinal cord,Normal,Normal cell,Ependymal cell
+Meningeal cell,,COL11A2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Meningeal cell
+Meningeal cell,,PDGFRB,Human,Spinal cord,Spinal cord,Normal,Normal cell,Meningeal cell
+Microglial cell,,PTPRC,Human,Spinal cord,Spinal cord,Normal,Normal cell,Microglial cell
+Microglial cell,,CSF3R,Human,Spinal cord,Spinal cord,Normal,Normal cell,Microglial cell
+Neural cell,progenitor,SOX2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,NES,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell
+Neural stem cell,,Nestin,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural stem cell
+Neuron,,MAP2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,JPH4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,SRRM4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,RBFOX3,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Oligodendrocyte,,PDGFRA,Human,Spinal cord,Spinal cord,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,SOX10,Human,Spinal cord,Spinal cord,Normal,Normal cell,Oligodendrocyte
+Vascular cell,,PDGFRB,Human,Spinal cord,Spinal cord,Normal,Normal cell,Vascular cell
+Vascular cell,,CDH5,Human,Spinal cord,Spinal cord,Normal,Normal cell,Vascular cell
+Astrocyte,,AQP4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Spinal cord,Spinal cord,Normal,Normal cell,Astrocyte
+Ependymal cell,,DANNF1,Human,Spinal cord,Spinal cord,Normal,Normal cell,Ependymal cell
+Ependymal cell,,GFAP157,Human,Spinal cord,Spinal cord,Normal,Normal cell,Ependymal cell
+Meningeal cell,,COL11A2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Meningeal cell
+Meningeal cell,,PDGFRB,Human,Spinal cord,Spinal cord,Normal,Normal cell,Meningeal cell
+Microglial cell,,PTPRC,Human,Spinal cord,Spinal cord,Normal,Normal cell,Microglial cell
+Microglial cell,,CSF3R,Human,Spinal cord,Spinal cord,Normal,Normal cell,Microglial cell
+Neural cell,progenitor,SOX2,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,NES,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neural progenitor cell
+Neuron,,JPH4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,SRRM4,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Neuron,,RBFOX3,Human,Spinal cord,Spinal cord,Normal,Normal cell,Neuron
+Oligodendrocyte,,PDGFRA,Human,Spinal cord,Spinal cord,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,SOX10,Human,Spinal cord,Spinal cord,Normal,Normal cell,Oligodendrocyte
+Vascular cell,,PDGFRB,Human,Spinal cord,Spinal cord,Normal,Normal cell,Vascular cell
+Vascular cell,,CDH5,Human,Spinal cord,Spinal cord,Normal,Normal cell,Vascular cell

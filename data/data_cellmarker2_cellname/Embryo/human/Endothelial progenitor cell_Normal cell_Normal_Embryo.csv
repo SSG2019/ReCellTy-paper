@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial progenitor cell,CL_0002546,GDF15,GDF15
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial progenitor cell,CL_0002619,GDF15,GDF15

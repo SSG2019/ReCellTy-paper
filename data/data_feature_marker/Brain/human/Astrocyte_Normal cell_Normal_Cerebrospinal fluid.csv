@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,Glutamate transport,SLC1A3,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte
+Astrocyte,Calcium-binding,S100B,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte
+Astrocyte,,ALDH1L1,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte
+Astrocyte,Cytoskeleton integrity,GFAP,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte
+Astrocyte,Cell signaling,PEA15,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte
+Astrocyte,Glutamate to glutamine conversion,GLUL,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Astrocyte

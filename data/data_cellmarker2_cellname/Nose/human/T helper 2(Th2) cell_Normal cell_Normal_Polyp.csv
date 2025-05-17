@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Polyp,,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,CD200R,CD200R1
+Human,Nose,Polyp,,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,TCN1,TCN1
+Human,Nose,Polyp,,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,HPGDS,HPGDS

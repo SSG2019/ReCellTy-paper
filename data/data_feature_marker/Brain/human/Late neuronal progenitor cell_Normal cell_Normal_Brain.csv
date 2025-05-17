@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuronal progenitor cell,Late,ASCL1,Human,Brain,Brain,Normal,Normal cell,Late neuronal progenitor cell
+neuronal progenitor cell,,PAX6,Human,Brain,Brain,Normal,Normal cell,Late neuronal progenitor cell

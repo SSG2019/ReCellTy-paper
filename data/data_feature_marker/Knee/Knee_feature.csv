@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD20,Human,Knee,Synovial fluid,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Knee,Synovial fluid,Normal,Normal cell,B cell
+Myeloid cell,,HLA-DR,Human,Knee,Synovial fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11b,Human,Knee,Synovial fluid,Normal,Normal cell,Myeloid cell
+Neutrophil,,CD66b,Human,Knee,Synovial fluid,Normal,Normal cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Knee,Synovial fluid,Normal,Normal cell,Neutrophil
+T cell,,CD3,Human,Knee,Synovial fluid,Normal,Normal cell,T cell

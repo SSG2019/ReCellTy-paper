@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,SOX10,SOX10
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,Melan A,
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,HMB45,PMEL
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,CD36,CD36
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,MLANA,MLANA
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,S100B,S100B
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,DCT,DCT
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,SOX10,SOX10
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,HMB45,PMEL
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,TRP1,PRSS1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,TYR,TYR
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,MITF,MITF
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,TRP2,RANBP2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,ZAR1,ZAR1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,LDH,
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,S100,S100A1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,CD146,MCAM
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Cancer cell,CL_0001064,Pmel-1,

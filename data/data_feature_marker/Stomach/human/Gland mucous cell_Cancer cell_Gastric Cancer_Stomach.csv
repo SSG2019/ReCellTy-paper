@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Gland cell,mucous,MUC6,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Gland mucous cell
+Gland cell,mucous,TFF2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Gland mucous cell

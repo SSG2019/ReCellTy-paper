@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Type II pneumocyte,CL_0002063,Pepsinogen C,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Type II pneumocyte,CL_0002063,CD44v6,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Type II pneumocyte,CL_0002063,SLC34A2,SLC34A2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Type II pneumocyte,CL_0002063,ABCA3,ABCA3

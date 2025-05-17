@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dark zone cell,Dark zone,FOXP1,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Dark zone cell
+Dark zone cell,Dark zone,CXCR4,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Dark zone cell
+Dark zone cell,Dark zone,AICDA,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Dark zone cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Parietal cell,progenitor,H6PD,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,progenitor,ANXA1,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,progenitor,FGD5,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,,KERA,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,,HBB,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,,FKBP14,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell
+Parietal cell,,CFH,Human,Stomach,Stomach,Normal,Normal cell,Parietal progenitor cell

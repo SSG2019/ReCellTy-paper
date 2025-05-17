@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD123,IL3RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD15,FUT4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD33,CD33
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD11b,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD66b,CEACAM8
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD16,FCGR3A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,HLA-DR,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD11c,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,FCER1A,FCER1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CST3,CST3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,CL_0001056,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Monocyte derived dendritic cell,,CD1C,CD1C

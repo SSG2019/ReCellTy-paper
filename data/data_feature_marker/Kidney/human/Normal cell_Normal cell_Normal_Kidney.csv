@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Normal cell,,CDKN2B,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,CDKN2A,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,VHL,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,FLCN,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,BAP1,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,MITF,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,P,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,LAMB1,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,LAMA5,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,COL4A2,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,LAMC1,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,COL4A1,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,LAMB2,Human,Kidney,Kidney,Normal,Normal cell,Normal cell
+Normal cell,,PAX8,Human,Kidney,Kidney,Normal,Normal cell,Normal cell

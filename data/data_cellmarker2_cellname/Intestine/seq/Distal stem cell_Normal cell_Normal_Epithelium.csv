@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Distal stem cell,,PTGDR,PTGDR
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Distal stem cell,,LEFTY1,LEFTY1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Distal stem cell,,SMOC2,SMOC2

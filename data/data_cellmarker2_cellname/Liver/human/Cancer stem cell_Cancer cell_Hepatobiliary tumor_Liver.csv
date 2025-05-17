@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,PROM1,PROM1
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,SOX9,SOX9
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,ANPEP,ANPEP
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,EPCAM,EPCAM
+Human,Liver,Liver,UBERON_0002107,Hepatobiliary tumor,Cancer cell,Cancer stem cell,,CD13,ANPEP

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CD172ab,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CCR2,CCR2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CD11b,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CD68,CD68
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Infiltrating macrophage,,CD14,CD14

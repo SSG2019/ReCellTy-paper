@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TCRγδ,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRGV9,TRGV9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRDC,TRDC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRDV2,TRDV2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,GZMH,GZMH
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,KLRB1,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRDC,TRDC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRDV2,TRDV2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TRGV9,TRGV9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,TCR γ/δ,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Gamma delta(γδ) T cell,CL_0000798,CD3,

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte,CL_0000128,MBP,MBP
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte,CL_0000128,MOG,MOG
+Human,Brain,Brain,UBERON_0000955,Pediatric ependymoma,Cancer cell,Oligodendrocyte,CL_0000128,PLP1,PLP1

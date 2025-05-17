@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,ITGA2B,Human,Liver,Fetal liver,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD45,Human,Liver,Fetal liver,Normal,Normal cell,Myeloid cell
+Myeloid cell,,PTPRC,Human,Liver,Fetal liver,Normal,Normal cell,Myeloid cell

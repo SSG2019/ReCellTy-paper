@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Activation,B-cell-specific activator protein (BSAP),Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Activation,PAX5,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Surface Marker,CD20,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,Surface Marker,MS4A1,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD74,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD86,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD80,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,BLA36,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD40,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,B cell

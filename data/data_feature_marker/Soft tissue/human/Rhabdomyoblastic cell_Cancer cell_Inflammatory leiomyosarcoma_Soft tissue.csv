@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Rhabdomyoblastic cell,,MyoD1,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell
+Rhabdomyoblastic cell,,myogenin,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell
+Rhabdomyoblastic cell,,PAX7,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell

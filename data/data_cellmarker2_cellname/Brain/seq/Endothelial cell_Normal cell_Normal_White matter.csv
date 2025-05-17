@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,White matter,UBERON_0002316,Normal,Normal cell,Endothelial cell,CL_0000115,ICAM2,ICAM2

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,embryonic,SOX2,Human,Embryo,Endoderm,Normal,Normal cell,H1 embryonic stem cell
+stem cell,embryonic,DNMT3B,Human,Embryo,Endoderm,Normal,Normal cell,H1 embryonic stem cell

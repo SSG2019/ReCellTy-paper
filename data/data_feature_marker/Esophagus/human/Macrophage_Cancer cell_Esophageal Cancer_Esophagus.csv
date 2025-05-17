@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD11c,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,CD169,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,MARCO,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage
+Macrophage,,SIGLEC1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Macrophage

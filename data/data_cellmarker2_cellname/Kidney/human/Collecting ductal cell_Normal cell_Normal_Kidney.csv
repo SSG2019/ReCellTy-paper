@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting ductal cell,,AQP2,AQP2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting ductal cell,,TMEM213,TMEM213
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting ductal cell,,ATP6V1G3,ATP6V1G3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting ductal cell,,ATP6V0D2,ATP6V0D2

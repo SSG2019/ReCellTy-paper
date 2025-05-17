@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,NFATc,NFATC1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,GATA5,GATA5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,KLF2,KLF2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,MSX1,MSX1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,CDH5,CDH5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,NOTCH4,NOTCH4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,TBX3,TBX3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,ENG,ENG
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,TBX20,TBX20
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,PECAM,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,Cdh11,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,Npr3,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Endocardial cell,CL_0002350,Npr3,

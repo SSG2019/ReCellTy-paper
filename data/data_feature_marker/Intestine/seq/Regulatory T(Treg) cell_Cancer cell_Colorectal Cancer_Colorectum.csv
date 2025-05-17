@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,FOXP3,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TIGIT,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH1A2,ALDH1A2
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH2,ALDH2
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH1A1,ALDH1A1
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH,
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,CTNNB1,CTNNB1
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,ALDH1A3,ALDH1A3
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,KLF2,KLF2
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell,,SOX2,SOX2

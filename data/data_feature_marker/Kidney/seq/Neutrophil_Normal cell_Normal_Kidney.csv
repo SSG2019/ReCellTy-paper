@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,Cebpb,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Lst1,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Ifitm3,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Tyrobp,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Hp,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Lyz2,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Plac8,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a9,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a8,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil
+Neutrophil,,Fcer1g,Human,Kidney,Kidney,Normal,Normal cell,Neutrophil

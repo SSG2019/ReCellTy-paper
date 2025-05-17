@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+hindbrain cell,dorsal,PAX3,Human,Brain,Brain,Normal,Normal cell,Dorsal anterior hindbrain cell
+hindbrain cell,dorsal,PAX7,Human,Brain,Brain,Normal,Normal cell,Dorsal anterior hindbrain cell
+hindbrain cell,anterior,MSX1,Human,Brain,Brain,Normal,Normal cell,Dorsal anterior hindbrain cell

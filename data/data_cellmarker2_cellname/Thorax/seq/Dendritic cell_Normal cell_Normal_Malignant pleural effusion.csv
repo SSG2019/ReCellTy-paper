@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Dendritic cell,CL_0000451,FCGR1A,FCGR1A
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A

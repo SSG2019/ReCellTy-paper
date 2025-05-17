@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,ATF3,ATF3
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,MT1G,MT1G
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,NANOG,NANOG
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,HIST1H4C,H4C3
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,CDH1,CDH1
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,POU5F1,POU5F1
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,ANXA1,ANXA1
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,PEG10,PEG10
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,KHDC3L,KHDC3L
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,TPM1,TPM1
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,FABP5,FABP5
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,PRR9,
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,KRT19,KRT19
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,ITGA6,ITGA6
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,DPPA5,DPPA5
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,MT1X,MT1X
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,GATA6,GATA6
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,CGA,CGA
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,KHDC1L,KHDC1L
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,LGALS16,LGALS16
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,SOX2,SOX2
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Embryonic stem cell,CL_0002322,PDGFRA,PDGFRA

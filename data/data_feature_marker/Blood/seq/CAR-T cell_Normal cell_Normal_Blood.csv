@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,BTK,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,PLCG2,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,NFKBIE,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,BIRC3,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,SF3B1,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,XPO1,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,RIPK1,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,MGA,Human,Blood,Blood,Normal,Normal cell,CAR-T cell
+T cell,,TCRβ VJ,Human,Blood,Blood,Normal,Normal cell,CAR-T cell

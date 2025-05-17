@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar cell,Type 1,AGER,Human,Lung,Lung,Normal,Normal cell,Alveolar cell Type 1
+Alveolar cell,Type 1,SFTPC,Human,Lung,Lung,Normal,Normal cell,Alveolar cell Type 1
+Alveolar cell,Type 1,SLPI,Human,Lung,Lung,Normal,Normal cell,Alveolar cell Type 1
+Alveolar cell,Type 1,EPCAM,Human,Lung,Lung,Normal,Normal cell,Alveolar cell Type 1

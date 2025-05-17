@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,Acta2,Human,Liver,Liver,Normal,Normal cell,Myofibroblast
+Myofibroblast,,Timp1,Human,Liver,Liver,Normal,Normal cell,Myofibroblast
+Myofibroblast,,Col1a1,Human,Liver,Liver,Normal,Normal cell,Myofibroblast

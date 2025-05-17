@@ -1,0 +1,23 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD163,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,CCR7,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,SELL,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,S1PR1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,TCF7,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,SPI1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,TMEM119,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,CX3CR1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,SIGLEC1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,LYVE1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,LY6E,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,F13A1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,TGFBI,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,LYZ,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,IBA1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,ISG15,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,PU1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,CD45,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Brain,Brain,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Brain,Brain,Normal,Normal cell,Macrophage

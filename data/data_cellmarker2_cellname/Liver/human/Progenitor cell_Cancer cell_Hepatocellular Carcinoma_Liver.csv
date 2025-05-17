@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,,Keratin-19,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,HNF1B,HNF1B
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,HAPLN1,HAPLN1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,IHH,IHH
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,LGR5,LGR5
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,CD44,CD44
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,LFNG,LFNG
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Progenitor cell,CL_0011026,IGFBP5,IGFBP5

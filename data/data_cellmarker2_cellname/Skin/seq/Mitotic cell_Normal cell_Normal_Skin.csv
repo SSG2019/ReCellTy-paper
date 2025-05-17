@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mitotic cell,,MC,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Mitotic cell,,MKI67,MKI67

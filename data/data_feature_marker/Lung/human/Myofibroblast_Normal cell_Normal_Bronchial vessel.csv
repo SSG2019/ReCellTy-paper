@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,COL1A1,Human,Lung,Bronchial vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,,PDGFRA,Human,Lung,Bronchial vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Lung,Bronchial vessel,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ELN,Human,Lung,Bronchial vessel,Normal,Normal cell,Myofibroblast

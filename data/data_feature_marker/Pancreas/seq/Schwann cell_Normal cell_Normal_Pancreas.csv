@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Schwann cell,,S100B,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,PMP22,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,SCN7A,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CRYAB,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Pancreas,Pancreas,Normal,Normal cell,Schwann cell

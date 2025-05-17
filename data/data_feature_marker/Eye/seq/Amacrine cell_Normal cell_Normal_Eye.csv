@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Amacrine cell,,GAD1,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,TFAP2B,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,GAD2,Human,Eye,Eye,Normal,Normal cell,Amacrine cell

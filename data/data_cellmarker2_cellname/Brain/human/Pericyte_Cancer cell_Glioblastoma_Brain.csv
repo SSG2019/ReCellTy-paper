@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,CD248,CD248
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,PDGFRβ,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,αSMA,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,CD13,ANPEP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,CD146,MCAM
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,αSMA,
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pericyte,CL_0000669,PDGFR-β,

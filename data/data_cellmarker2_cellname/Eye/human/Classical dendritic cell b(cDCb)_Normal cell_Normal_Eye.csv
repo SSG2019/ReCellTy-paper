@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Classical dendritic cell b(cDCb),,MRC1,MRC1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Classical dendritic cell b(cDCb),,CLEC10A,CLEC10A

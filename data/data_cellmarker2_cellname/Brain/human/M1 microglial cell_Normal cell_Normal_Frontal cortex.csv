@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,CSF1R,CSF1R
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,TYROBP,TYROBP
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,TREM2,TREM2
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,CX3CR1,CX3CR1
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,P2RY13,P2RY13
+Human,Brain,Frontal cortex,UBERON_0001870,Normal,Normal cell,M1 microglial cell,,P2RY12,P2RY12

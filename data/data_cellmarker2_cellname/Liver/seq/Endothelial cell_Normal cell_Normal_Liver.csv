@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFR2,KDR
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,ENG,ENG
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM128,

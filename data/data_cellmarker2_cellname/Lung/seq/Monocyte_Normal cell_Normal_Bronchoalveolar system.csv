@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchoalveolar system,UBERON_0006524,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14

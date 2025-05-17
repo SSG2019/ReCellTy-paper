@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,stem,ALDN1,Human,Head and neck,Head and neck,Head And Neck Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Head and neck,Head and neck,Head And Neck Squamous Cell Carcinoma,Cancer cell,Cancer stem cell

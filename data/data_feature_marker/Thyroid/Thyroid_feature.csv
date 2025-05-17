@@ -1,0 +1,114 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD74,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79a,Human,Thyroid,Thyroid,Normal,Normal cell,B cell
+Cancer cell,stem,CD44,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH1A2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH1A1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ABCG2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,CTNNB1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,ALDH1A3,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer cell,stem,SOX2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD24,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD133,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH1A1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nestin,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Cancer stem cell
+Endothelial cell,,MGP,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TFPI,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,RAMP2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TIMP3,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,RAMP2,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Thyroid,Thyroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ERG,Human,Thyroid,Thyroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ID1,Human,Thyroid,Thyroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Thyroid,Thyroid,Normal,Normal cell,Endothelial cell
+Epithelial cell,,CDH1,Human,Thyroid,Thyroid,Anaplastic thyroid carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,ID4,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,S100A13,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,TPO,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CLU,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,IYD,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MGST1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,FN1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,TFF3,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,TG,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,DIO2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Fibroblast,,COL1A2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,IGFBP7,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,RGS5,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,myofibroblast,ACTA2,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Fibroblast
+Follicular cell,,PAX8,Human,Thyroid,Thyroid,Normal,Normal cell,Follicular cell
+Follicular cell,,NKX2.1,Human,Thyroid,Thyroid,Normal,Normal cell,Follicular cell
+Follicular cell,,NKX2-1,Human,Thyroid,Thyroid,Normal,Normal cell,Follicular cell
+Macrophage,,CD68,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Macrophage
+Myeloid cell,,TYROBP,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCER1G,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Normal follicular cell,,TPO,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Normal follicular cell
+Parafollicular cell,,CALCA,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Parafollicular cell
+Stem cell,,SOX2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Stem cell
+Stem cell,,ALDH,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Stem cell
+T cell,,CD3D,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,T cell
+T cell,,CD3,Human,Thyroid,Thyroid,Normal,Normal cell,T cell
+T cell,Helper,CD4,Human,Thyroid,Thyroid,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8,Human,Thyroid,Thyroid,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8A,Human,Thyroid,Thyroid,Normal,Normal cell,T cell
+Thyroid cell,,TSHR,Human,Thyroid,Thyroid,Anaplastic thyroid carcinoma,Cancer cell,Thyroid cell
+B cell,,MS4A1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,IGKC,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD74,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+B cell,,CD79B,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,B cell
+Cancer stem cell,stem,ALDH1A2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A3,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,SOX2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,CD44,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,ABCG2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,CTNNB1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,KLF2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Endothelial cell,,MGP,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TFPI,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,RAMP2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TIMP3,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,RAMP2,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,ID4,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,S100A13,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Thyroid,TPO,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CLU,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Thyroid,IYD,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,MGST1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,FN1,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,TFF3,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Thyroid,TG,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Thyroid,DIO2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Epithelial cell
+Fibroblast,,COL1A2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,TAGLN,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,IGFBP7,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,RGS5,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ACTA2,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Fibroblast
+Macrophage,,CD68,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Macrophage
+Myeloid cell,,TYROBP,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,FCER1G,Human,Thyroid,Thyroid,Papillary Thyroid Carcinoma,Cancer cell,Myeloid cell
+Normal follicular cell,,TPO,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Normal follicular cell
+Parafollicular cell,,CALCA,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,Parafollicular cell
+T cell,,CD3D,Human,Thyroid,Thyroid,Thyroid Cancer,Cancer cell,T cell

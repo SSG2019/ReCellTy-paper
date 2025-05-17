@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+neuron,GABAergic,GAD65,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron
+neuron,GABAergic,GABAB receptor 2,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron
+neuron,GABAergic,GABAB receptor 1,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron
+neuron,GABAergic,GABA transporter 1,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron
+neuron,GABAergic,GAD67,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron
+neuron,GABAergic,GAD2,Human,Undefined,Undefined,Normal,Normal cell,GABAergic neuron

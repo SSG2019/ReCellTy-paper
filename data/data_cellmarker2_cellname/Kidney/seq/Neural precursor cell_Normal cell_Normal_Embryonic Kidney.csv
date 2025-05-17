@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Neural precursor cell,,DCX,DCX
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Neural precursor cell,,NES,NES
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Neural precursor cell,,PAX6,PAX6
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Neural precursor cell,,SOX2,SOX2

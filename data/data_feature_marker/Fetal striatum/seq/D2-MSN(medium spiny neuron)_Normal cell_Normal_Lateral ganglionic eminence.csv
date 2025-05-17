@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+medium spiny neuron,D2,GRIK3,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,D2,SIX3-AS1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,MSN,SIX3,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,MSN,SP9,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)

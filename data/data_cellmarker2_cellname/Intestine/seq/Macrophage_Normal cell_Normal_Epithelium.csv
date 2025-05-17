@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,SLC40A1,SLC40A1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,FGL2,FGL2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,FOLR2,FOLR2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,SPP1,SPP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,RNASE1,RNASE1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Macrophage,CL_0000235,HES1,HES1

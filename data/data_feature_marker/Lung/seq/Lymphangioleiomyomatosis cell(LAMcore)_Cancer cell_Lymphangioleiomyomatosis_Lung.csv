@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphangioleiomyomatosis cell,LAMcore,ACTA2,Human,Lung,Lung,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore)
+Lymphangioleiomyomatosis cell,LAMcore,FIGF,Human,Lung,Lung,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore)
+Lymphangioleiomyomatosis cell,LAMcore,VEGFD,Human,Lung,Lung,Lymphangioleiomyomatosis,Cancer cell,Lymphangioleiomyomatosis cell(LAMcore)

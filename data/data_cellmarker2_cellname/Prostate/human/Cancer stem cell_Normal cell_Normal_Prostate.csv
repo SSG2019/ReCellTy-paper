@@ -1,0 +1,32 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD24,CD24
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CXCR4,CXCR4
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,ALDH-1,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CXCR4,CXCR4
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD24,CD24
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,EpCAM,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD49,
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,HGF,HGF
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,POU5F1,POU5F1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,EZH2,EZH2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD44,CD44
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,PSCA,PSCA
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,ITGA2,ITGA2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,PROM1,PROM1
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,TACSTD2,TACSTD2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Cancer stem cell,,CD133,PROM1

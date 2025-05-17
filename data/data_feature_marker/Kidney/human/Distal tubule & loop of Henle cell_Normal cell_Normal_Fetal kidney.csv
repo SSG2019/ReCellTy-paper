@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Distal tubule & loop of Henle cell,Loop of Henle,MAL,Human,Kidney,Fetal kidney,Normal,Normal cell,Distal tubule & loop of Henle cell
+Distal tubule & loop of Henle cell,Distal tubule,SLC12A1,Human,Kidney,Fetal kidney,Normal,Normal cell,Distal tubule & loop of Henle cell
+Distal tubule & loop of Henle cell,,HOXD8,Human,Kidney,Fetal kidney,Normal,Normal cell,Distal tubule & loop of Henle cell
+Distal tubule & loop of Henle cell,,TFCP2L1,Human,Kidney,Fetal kidney,Normal,Normal cell,Distal tubule & loop of Henle cell

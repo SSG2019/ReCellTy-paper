@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,NLRP12,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCDC88B,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LRRC2,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,S100A9,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,C1QC,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD4,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell
+Myeloid cell,,HLA-DR,Human,Intestine,Intestine,Normal,Normal cell,Myeloid cell

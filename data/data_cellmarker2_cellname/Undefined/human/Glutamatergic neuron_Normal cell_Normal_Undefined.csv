@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,NMDAR1,GRIN1
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,NMDAR2B,GRIN2B
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,VGLUT1,SLC17A7
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,VGLUT2,SLC17A6
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,Glutaminase,
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,Glutamine synthetase,
+Human,Undefined,Undefined,,Normal,Normal cell,Glutamatergic neuron,CL_0000679,VGLUT1,SLC17A7

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Classical monocyte,,S100A8,Human,Lung,Bronchial vessel,Normal,Normal cell,Classical monocyte
+Classical monocyte,,CD14,Human,Lung,Bronchial vessel,Normal,Normal cell,Classical monocyte

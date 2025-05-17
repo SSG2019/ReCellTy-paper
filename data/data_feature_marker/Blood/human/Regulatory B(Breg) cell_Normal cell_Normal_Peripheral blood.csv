@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Regulatory (Breg),CD71,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory (Breg),IL-10,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory (Breg),CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory (Breg),TFRC,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory (Breg),IL10,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell
+B cell,Regulatory (Breg),IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Regulatory B(Breg) cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Non-malignant,KRT5,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Non-malignant epithelial cell
+Epithelial cell,Non-malignant,KRT14,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Non-malignant epithelial cell

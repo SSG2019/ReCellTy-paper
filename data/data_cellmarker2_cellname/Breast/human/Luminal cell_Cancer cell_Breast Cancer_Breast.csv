@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal cell,CL_0002235,KRT8,KRT8
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal cell,CL_0002235,KRT18,KRT18

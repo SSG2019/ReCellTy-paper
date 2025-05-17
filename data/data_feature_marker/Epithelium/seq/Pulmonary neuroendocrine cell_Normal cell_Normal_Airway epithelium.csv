@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pulmonary neuroendocrine cell,neuroendocrine,INSM1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,ASCL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CGRP,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CHGA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CALCA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,,HOXB5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell

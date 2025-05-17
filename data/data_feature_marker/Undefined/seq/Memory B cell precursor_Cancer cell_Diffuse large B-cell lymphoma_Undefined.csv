@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,STAT1,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,IFITM2,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,CCR6,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,IFNGR1,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor
+B cell,Memory,IFITM1,Human,Undefined,Undefined,Diffuse large B-cell lymphoma,Cancer cell,Memory B cell precursor

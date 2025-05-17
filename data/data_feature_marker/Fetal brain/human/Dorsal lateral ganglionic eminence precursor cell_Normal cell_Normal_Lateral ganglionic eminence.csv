@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Precursor cell,Dorsal,ETV1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,Ganglionic eminence,NRG1,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell
+Precursor cell,,PAX6,Human,Fetal brain,Lateral ganglionic eminence,Normal,Normal cell,Dorsal lateral ganglionic eminence precursor cell

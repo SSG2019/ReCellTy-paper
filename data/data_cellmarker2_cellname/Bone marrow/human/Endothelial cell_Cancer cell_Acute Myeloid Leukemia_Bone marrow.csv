@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Endothelial cell,CL_0000115,CD144,CDH5
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Acute Myeloid Leukemia,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1

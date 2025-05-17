@@ -1,0 +1,228 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Activated,CD38,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,Activated,CD86,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,FCRL5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,RNA_CD19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,RNA_PNOC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,B cell
+B cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,B cell
+Blood cell,,PIM2,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,OTUD5,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,SLC35A2,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,GRIPAP1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,PQBP1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,TIMM17B,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,KCND1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Cancer cell,,CK19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cancer cell
+T cell,CD40LG+,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD40LG+ T helper cell
+T cell,T helper cell,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD40LG+ T helper cell
+T cell,CD8+,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,PRF6,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+Cholangiocyte,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,FXYD2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Cholangiocyte
+Cholangiocyte,,EPCAM,Human,Bile duct,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,KRT19,Human,Bile duct,Bile duct,Normal,Normal cell,Cholangiocyte
+Cholangiocyte,,CFTR,Human,Bile duct,Bile duct,Normal,Normal cell,Cholangiocyte
+Endothelial cell,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VMF,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,APOC3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Endothelial cell
+Fibroblast,,ACTA2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,APOC3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+Fibroblast,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Fibroblast
+T cell,Foxp3+,FOXP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,regulatory,TIGIT,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,regulatory,CTLA4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,regulatory,IL2RA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,regulatory,TNFRSF18,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,IL8R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,LAIR2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,PRF2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,CD4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Foxp3+ regulatory T cell
+T cell,GZMB+,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMB+,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMB+ T cell
+T cell,GZMK+,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,PRF9,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,IL14R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,LAG3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+T cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,GZMK+ T cell
+Hepatocyte,,APOC3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Hepatocyte
+T cell,T helper,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,T helper,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,PRF8,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,IL14R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+T cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,IL7R T helper cell
+natural killer cell,KLRF+,KLRF1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,PRF5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,IL11R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,TIGIT,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+natural killer cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,KLRF+ natural killer cell
+Lymphocyte,,GATA3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,FOXP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,Tbet,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD56,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD8,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,RORgt,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD20,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD45,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,NCAM1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,MS4A1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,PTPRC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+macrophage,M1,CD80,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M1 macrophage
+macrophage,M1,IL-12,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M1 macrophage
+Macrophage,M2,CD206,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,IL-10,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M2 macrophage
+Macrophage,M2,IL10,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,M2 macrophage
+Macrophage,,CD68,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Macrophage
+Malignant cell,,FXYD2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+Malignant cell,Malignant,KRT19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Malignant cell
+B cell,Memory,FCRL5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Memory B cell
+B cell,Memory,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Memory B cell
+T cell,MKI67+,MKI67,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,TOP2A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,LAG3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,PRF6,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+T cell,,IL12R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,MKI67+ T cell
+Monocyte,,CD1D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Monocyte
+Myeloid cell,Dendritic,DC-LAMP,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Mast,Tryptase,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CSF1R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD163,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD45,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,DC-SIGN,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Granulocyte,CD66D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD68,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Antigen-presenting,MHCII,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,LAMP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,PTPRC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+B Cell,,RNA_PNOC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+B Cell,,CD38,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive B Cell
+T cell,CD4+,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell
+T cell,Naive,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive CD4+ T cell
+T cell,CD8+,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive CD8+ T cell
+T cell,CD8+,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive CD8+ T cell
+T cell,Naive,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive CD8+ T cell
+T cell,Naive,CD69,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive IL7R+ T cell
+T cell,IL7R+,IL9R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive IL7R+ T cell
+T cell,IL7R+,IL13R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Naive IL7R+ T cell
+Natural killer cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Natural killer cell
+Plasma cell,,CD9,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,CD38,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,RNA_PNOC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,FCRL5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasma cell
+Dendritic cell,Plasmacytoid,SPIB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+T cell,Regulatory,FOXP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,PD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD39,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,TIM3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,PDCD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,ENTPD1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,HAVCR2,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,T cell
+T cell,,CD7,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,T cell
+T cell,,CD8a,Human,Bile duct,Bile duct,Normal,Normal cell,T cell
+T cell,,CD274,Human,Bile duct,Bile duct,Normal,Normal cell,T cell
+Blood cell,,PIM2,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,OTUD5,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,SLC35A2,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,GRIPAP1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,PQBP1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,TIMM17B,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Blood cell,,KCND1,Human,Bile duct,Bile duct,Normal,Normal cell,Blood cell
+Lymphocyte,,GATA3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,FOXP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,Tbet,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD56,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD8,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,RORgt,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD4,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD20,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD45,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,NCAM1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,MS4A1,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,PTPRC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Lymphocyte
+Myeloid cell,Dendritic,DC-LAMP,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Mast,Tryptase,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CSF1R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD163,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD45,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,DC-SIGN,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Granulocyte,CD66D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD68,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Antigen-presenting,MHCII,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,LAMP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,PTPRC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+T cell,CD8+,CD8a,Human,Bile duct,Bile duct,Normal,Normal cell,T cell
+T cell,,CD274,Human,Bile duct,Bile duct,Normal,Normal cell,T cell

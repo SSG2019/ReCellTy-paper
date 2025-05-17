@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,ALDH1A1,ALDH1A1
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,Nestin,
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Pancreatic Ductal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD44,CD44

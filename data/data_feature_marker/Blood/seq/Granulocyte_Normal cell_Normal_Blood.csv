@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,MPO,Human,Blood,Blood,Normal,Normal cell,Granulocyte
+Granulocyte,,AZU1,Human,Blood,Blood,Normal,Normal cell,Granulocyte
+Granulocyte,,PRTN3,Human,Blood,Blood,Normal,Normal cell,Granulocyte
+Granulocyte,,GATA2,Human,Blood,Blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD66b,Human,Blood,Blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CEACAM8,Human,Blood,Blood,Normal,Normal cell,Granulocyte

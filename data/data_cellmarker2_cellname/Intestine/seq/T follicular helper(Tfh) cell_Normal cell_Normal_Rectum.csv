@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,ICA1,ICA1
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,TOX2,TOX2

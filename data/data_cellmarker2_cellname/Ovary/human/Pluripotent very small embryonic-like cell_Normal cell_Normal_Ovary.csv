@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Pluripotent very small embryonic-like cell,CL_0000034,CD133,PROM1
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Pluripotent very small embryonic-like cell,CL_0000034,SSEA-4,
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Pluripotent very small embryonic-like cell,CL_0000034,OCT4A,

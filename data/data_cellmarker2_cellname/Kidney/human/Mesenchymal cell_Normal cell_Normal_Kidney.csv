@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRB,PDGFRB
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,PDGFRA,PDGFRA
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL3A1,COL3A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,PITX2,PITX2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,NGAL,LCN2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,COL4A1,COL4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,Cystatin C,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,Clusterin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesenchymal cell,CL_0008019,KIM1,HAVCR1

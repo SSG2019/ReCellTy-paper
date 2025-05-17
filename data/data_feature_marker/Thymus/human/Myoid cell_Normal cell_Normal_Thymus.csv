@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myoid cell,Myoid,MYOD1,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell
+Myoid cell,Myoid,MYOG,Human,Thymus,Thymus,Normal,Normal cell,Myoid cell

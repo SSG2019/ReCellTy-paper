@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Exhausted CD8+ T progenitor cell,,CXCR5,CXCR5
+Human,Undefined,Undefined,,Normal,Normal cell,Exhausted CD8+ T progenitor cell,,TCF1,HNF1A
+Human,Undefined,Undefined,,Normal,Normal cell,Exhausted CD8+ T progenitor cell,,CD8,CD8A

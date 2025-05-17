@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Milk,,Normal,Normal cell,Luminal cell,CL_0002235,KRT19,KRT19
+Human,Breast,Milk,,Normal,Normal cell,Luminal cell,CL_0002235,EPCAM,EPCAM
+Human,Breast,Milk,,Normal,Normal cell,Luminal cell,CL_0002235,KRT18,KRT18

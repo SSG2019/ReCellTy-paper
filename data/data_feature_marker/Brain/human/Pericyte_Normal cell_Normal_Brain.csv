@@ -1,0 +1,27 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,alpha-SMA,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,ITI,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,PDGFR-β,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,ABCC9,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,CD248,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,FOXC1,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,HIGD18,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,FOXF2,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,KCNJ8,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,CD19,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,ATAC2,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,COL1A1,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,COL1A2,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,COL3A1,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,αSMA,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,BMP4,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,FOXC2,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRβ,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,KLF-3,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,MafF,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,AMBP,Human,Brain,Brain,Normal,Normal cell,Pericyte
+Pericyte,,KAT14,Human,Brain,Brain,Normal,Normal cell,Pericyte

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,CAPG,CAPG
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,PVRIG,PVRIG
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,PARP8,PARP8
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,SLC4A10,SLC4A10
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,ABCB1,ABCB1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,DUSP1,DUSP1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,CD69,CD69
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,DPP4,DPP4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,IFNGR1,IFNGR1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,GZMK,GZMK
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,CD3,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper cell,CL_0000912,CD4,CD4

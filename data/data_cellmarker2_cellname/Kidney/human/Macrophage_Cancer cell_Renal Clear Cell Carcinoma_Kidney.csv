@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,APOE,APOE
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,C1Q,
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,TREM2,TREM2
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Macrophage,CL_0000235,CD11C,ITGAX

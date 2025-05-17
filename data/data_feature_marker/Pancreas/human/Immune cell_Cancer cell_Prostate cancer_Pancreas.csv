@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD20,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,CD3,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,CD163,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell
+Immune cell,,MS4A1,Human,Pancreas,Pancreas,Prostate cancer,Cancer cell,Immune cell

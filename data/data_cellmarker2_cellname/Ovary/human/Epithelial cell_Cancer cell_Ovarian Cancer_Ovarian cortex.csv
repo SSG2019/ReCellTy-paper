@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,FOXJ,
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,PIGR,PIGR
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,CAPS,CAPS
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,GDF15,GDF15
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT10,KRT10

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cavernosum,Cavernosum,,Normal,Normal cell,Mural cell,CL_0008034,PDGFRB,PDGFRB
+Human,Cavernosum,Cavernosum,,Normal,Normal cell,Mural cell,CL_0008034,ACTA2,ACTA2
+Human,Cavernosum,Cavernosum,,Normal,Normal cell,Mural cell,CL_0008034,PDLM3,

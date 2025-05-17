@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8A,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,CD8+,CD8B,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,MAIT,KLRB1,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,MAIT,ZBTB16,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,MAIT,SLC4A10,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,MAIT,RORC,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)
+T cell,MAIT,RORA,Human,Blood,Blood,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT)

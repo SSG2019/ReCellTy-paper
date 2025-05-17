@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest cell,,NG2,Human,Undefined,Undefined,Infantile Hemangiomas,Cancer cell,Neural crest cell
+Neural crest cell,,Nestin,Human,Undefined,Undefined,Infantile Hemangiomas,Cancer cell,Neural crest cell
+Neural crest cell,,CSPG4,Human,Undefined,Undefined,Infantile Hemangiomas,Cancer cell,Neural crest cell

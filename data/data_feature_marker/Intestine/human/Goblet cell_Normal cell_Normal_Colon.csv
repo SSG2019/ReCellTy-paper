@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,mucus secretion,ZG16,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,mucus secretion,TFF3,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,mucus secretion,CLCA1,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,mucus secretion,MUC2,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,mucus secretion,Muc2,Human,Intestine,Colon,Normal,Normal cell,Goblet cell
+Goblet cell,mucus secretion,MUC4,Human,Intestine,Colon,Normal,Normal cell,Goblet cell

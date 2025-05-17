@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,THBS1,THBS1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,TYMS,TYMS
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,THBS4,THBS4
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,WNT6,WNT6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,NFKBIA,NFKBIA
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,MKI67,MKI67
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,TOP2A,TOP2A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,MYH11,MYH11
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,ACTA2,ACTA2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,CEBPD,CEBPD
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,MBP,MBP
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,CENPF,CENPF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,BMPER,BMPER
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,GPAT2,GPAT2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,CYGB,CYGB
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,GINS2,GINS2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,TESC,TESC
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,PROCR,PROCR
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,EBF2,EBF2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,PCLAF,PCLAF
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,SPON2,SPON2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Pericyte,CL_0000669,ADIRF,ADIRF

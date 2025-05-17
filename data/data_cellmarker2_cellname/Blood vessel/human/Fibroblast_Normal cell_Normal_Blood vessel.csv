@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRβ,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Fibroblast,CL_0000057,Dcn,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Fibroblast,CL_0000057,Col1a1,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Fibroblast,CL_0000057,Col3a1,

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enteroendocrine cell,Development,NEUROG3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Neuroendocrine,CHGB,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Neuroendocrine,CHGA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Serotonin Synthesis,TPH1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Neuroendocrine,TAC1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Development,PROX1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell
+Enteroendocrine cell,Hormone Production,GAST,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Enteroendocrine cell

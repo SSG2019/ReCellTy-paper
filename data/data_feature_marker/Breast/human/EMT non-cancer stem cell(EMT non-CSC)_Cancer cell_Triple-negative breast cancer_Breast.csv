@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+non-cancer stem cell,EMT,CD44,Human,Breast,Breast,Triple-negative breast cancer,Cancer cell,EMT non-cancer stem cell(EMT non-CSC)

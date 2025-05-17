@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,Contractile,alpha-SMA,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,Desmin,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,Calponin,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,ECM,Fibronectin,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,MYO1D,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,MYO10,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,NEBL,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,MYLK,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Contractile,RYR2,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,ECM,COL1A1,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,ECM,COL3A1,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,ECM,COL14A1,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,ECM,periostin,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Signaling,PDGFRB,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Signaling,ITGA8,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Signaling,CD68,Human,Lung,Lung,Normal,Normal cell,Myofibroblast
+Myofibroblast,Signaling,Hhip,Human,Lung,Lung,Normal,Normal cell,Myofibroblast

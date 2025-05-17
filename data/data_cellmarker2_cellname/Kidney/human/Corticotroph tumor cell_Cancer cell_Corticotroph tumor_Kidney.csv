@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,PITX1,PITX1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,CHGB,CHGB
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,PCSK1N,PCSK1N
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,EPCAM,EPCAM
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,SCG2,SCG2
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,TBX19,TBX19
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,RASD1,RASD1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Corticotroph tumor cell,,POMC,POMC

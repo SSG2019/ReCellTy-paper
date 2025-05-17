@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Peritoneum,Peritoneum,UBERON_0002358,Normal,Normal cell,Fibroblast,CL_0000057,MMP2,MMP2

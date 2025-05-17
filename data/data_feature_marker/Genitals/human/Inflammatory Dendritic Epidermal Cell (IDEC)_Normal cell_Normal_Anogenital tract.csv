@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic Cell,Inflammatory,CD11c,Human,Genitals,Anogenital tract,Normal,Normal cell,Inflammatory Dendritic Epidermal Cell (IDEC)
+Dendritic Cell,Inflammatory,CD36,Human,Genitals,Anogenital tract,Normal,Normal cell,Inflammatory Dendritic Epidermal Cell (IDEC)
+Dendritic Cell,Inflammatory,FCeR1,Human,Genitals,Anogenital tract,Normal,Normal cell,Inflammatory Dendritic Epidermal Cell (IDEC)
+Dendritic Cell,Epidermal,HLA-DR,Human,Genitals,Anogenital tract,Normal,Normal cell,Inflammatory Dendritic Epidermal Cell (IDEC)

@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,LYZ,LYZ
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,TYROBP,TYROBP
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD74,CD74
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,C1QC,C1QC
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,C1QA,C1QA
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,HLA-DRB1,HLA-DRB1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,CD74,CD74
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,HLA-DRA,HLA-DRA
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Macrophage,CL_0000235,C1QB,C1QB

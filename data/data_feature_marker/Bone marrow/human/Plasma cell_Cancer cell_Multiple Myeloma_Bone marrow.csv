@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,CD38,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell
+Plasma cell,,IL6R,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell
+Plasma cell,,CD28,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell
+Plasma cell,,CD138,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Bone marrow,Bone marrow,Multiple myeloma,Cancer cell,Plasma cell

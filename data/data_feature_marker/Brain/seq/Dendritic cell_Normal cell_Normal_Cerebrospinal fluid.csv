@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD1C,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC10A,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Dendritic cell
+Dendritic cell,,FCER1A,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Dendritic cell

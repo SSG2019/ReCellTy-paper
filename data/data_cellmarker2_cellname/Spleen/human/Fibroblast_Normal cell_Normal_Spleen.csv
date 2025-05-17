@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,COL4A1,COL4A1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,IGFBP7,IGFBP7
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,PTGDS,PTGDS
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,TAGLN,TAGLN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,CXCL13,CXCL13
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,TIMP1,TIMP1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,CALD1,CALD1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,C11orf96,C11orf96
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,IGFBP2,IGFBP2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Fibroblast,CL_0000057,SPARCL1,SPARCL1

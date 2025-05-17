@@ -1,0 +1,77 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Bladder epithelial cell,,KRT17,Human,Urine,Urine,Normal,Normal cell,Bladder epithelial cell
+Bladder epithelial cell,,KRT19,Human,Urine,Urine,Normal,Normal cell,Bladder epithelial cell
+Endothelial cell,,IFI44,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFIT1,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFIT3,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Epithelial cell,,PAX8,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CRYAB,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,,OCIAD2,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Fibroblast,,PTTG1,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,UBE2C,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,TOP2A,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,CENPF,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Lymphocyte,,CD79,Human,Urine,Urine,Normal,Normal cell,Lymphocyte
+Macrophage,,C1Q,Human,Urine,Urine,Normal,Normal cell,Macrophage
+Podocyte,,NPHS2,Human,Urine,Urine,Normal,Normal cell,Podocyte
+Podocyte,,NPHS1,Human,Urine,Urine,Normal,Normal cell,Podocyte
+Proximal tubular cell,,GATM,Human,Urine,Urine,Normal,Normal cell,Proximal tubular cell
+Proximal tubular cell,,EPCAM,Human,Urine,Urine,Normal,Normal cell,Proximal tubular cell
+Renal pelvic epithelial cell,,KRT13,Human,Urine,Urine,Normal,Normal cell,Renal pelvic epithelial cell
+Renal pelvic epithelial cell,,KRT4,Human,Urine,Urine,Normal,Normal cell,Renal pelvic epithelial cell
+Tubular cell,,SLC22A6,Human,Urine,Urine,Normal,Normal cell,Tubular cell
+Tubular cell,,ATP1A1,Human,Urine,Urine,Normal,Normal cell,Tubular cell
+Umbrella cell,,TSPAN1,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,PLAT,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,FXYD3,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+stem cell,urine-derived,CD14,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD133,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD45,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD146,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,STRO-1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD24,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD117,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,CD31,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,OCT3/4,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PROM1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PTPRC,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,MCAM,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,THY1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,NT5E,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,ITGB1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,KIT,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,urine-derived,PECAM1,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD34,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD105,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD44,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,SSEA-4,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD90,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD73,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+stem cell,stem cell,CD29,Human,Urine,Urine,Normal,Normal cell,Urine-derived stem cell
+Bladder epithelial cell,,KRT17,Human,Urine,Urine,Normal,Normal cell,Bladder epithelial cell
+Bladder epithelial cell,,KRT19,Human,Urine,Urine,Normal,Normal cell,Bladder epithelial cell
+Endothelial cell,,IFI44,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFIT1,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFIT3,Human,Urine,Urine,Normal,Normal cell,Endothelial cell
+Epithelial cell,,CRYAB,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,,OCIAD2,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Epithelial cell,specific_function,PAX8,Human,Urine,Urine,Normal,Normal cell,Epithelial cell
+Fibroblast,,PTTG1,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,UBE2C,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,TOP2A,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Fibroblast,,CENPF,Human,Urine,Urine,Normal,Normal cell,Fibroblast
+Lymphocyte,,CD79,Human,Urine,Urine,Normal,Normal cell,Lymphocyte
+Macrophage,,C1Q,Human,Urine,Urine,Normal,Normal cell,Macrophage
+Podocyte,,NPHS2,Human,Urine,Urine,Normal,Normal cell,Podocyte
+Podocyte,,NPHS1,Human,Urine,Urine,Normal,Normal cell,Podocyte
+Proximal tubular cell,,GATM,Human,Urine,Urine,Normal,Normal cell,Proximal tubular cell
+Proximal tubular cell,,EPCAM,Human,Urine,Urine,Normal,Normal cell,Proximal tubular cell
+Renal pelvic epithelial cell,,KRT13,Human,Urine,Urine,Normal,Normal cell,Renal pelvic epithelial cell
+Renal pelvic epithelial cell,,KRT4,Human,Urine,Urine,Normal,Normal cell,Renal pelvic epithelial cell
+Tubular cell,,SLC22A6,Human,Urine,Urine,Normal,Normal cell,Tubular cell
+Tubular cell,,ATP1A1,Human,Urine,Urine,Normal,Normal cell,Tubular cell
+Umbrella cell,,TSPAN1,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,PLAT,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,FXYD3,Human,Urine,Urine,Normal,Normal cell,Umbrella cell

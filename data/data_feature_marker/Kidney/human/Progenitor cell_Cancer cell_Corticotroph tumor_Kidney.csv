@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,SOX2,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Progenitor cell
+Progenitor cell,,SOX9,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Progenitor cell

@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,CD15,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,SLC7A7,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,MAFB,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,LILRB1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,CD68,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,CD11b,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,LRP1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,CD86,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,BCL3,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,PSAP,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,SLC15A3,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte
+Monocyte,,FUT4,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Monocyte

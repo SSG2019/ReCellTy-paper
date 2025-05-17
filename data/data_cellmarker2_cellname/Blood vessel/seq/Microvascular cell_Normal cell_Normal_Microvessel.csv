@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Microvessel,,Normal,Normal cell,Microvascular cell,,PRX,PRX
+Human,Blood vessel,Microvessel,,Normal,Normal cell,Microvascular cell,,CA4,CA4

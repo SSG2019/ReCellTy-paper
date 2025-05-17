@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic stem cell,,CD34,Human,Bone marrow,Bone marrow,Acute leukemia,Cancer cell,Hematopoietic stem cell
+Hematopoietic stem cell,,HLA-DR,Human,Bone marrow,Bone marrow,Acute leukemia,Cancer cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD117,Human,Bone marrow,Bone marrow,Acute leukemia,Cancer cell,Hematopoietic stem cell
+Hematopoietic stem cell,,KIT,Human,Bone marrow,Bone marrow,Acute leukemia,Cancer cell,Hematopoietic stem cell

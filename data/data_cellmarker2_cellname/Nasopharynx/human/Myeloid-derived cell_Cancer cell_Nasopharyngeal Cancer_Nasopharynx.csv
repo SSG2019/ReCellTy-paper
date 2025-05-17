@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell,,CD68,CD68
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell,,CSF3R,CSF3R
+Human,Nasopharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Myeloid-derived cell,,LYZ,LYZ

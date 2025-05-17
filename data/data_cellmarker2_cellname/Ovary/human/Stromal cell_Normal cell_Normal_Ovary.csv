@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Stromal cell,CL_0000499,DCN,DCN
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Stromal cell,CL_0000499,LUM,LUM

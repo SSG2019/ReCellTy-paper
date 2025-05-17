@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD13,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,CD65,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,CD15,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,CD117,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,CD33,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,ANPEP,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell
+Myeloid cell,,KIT,Human,Bone marrow,Bone marrow,Acute Lymphoblastic Leukemia(ALL),Cancer cell,Myeloid cell

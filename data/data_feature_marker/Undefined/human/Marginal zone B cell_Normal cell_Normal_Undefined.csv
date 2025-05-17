@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Marginal zone,CD21,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,Marginal zone,CD1d,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD9,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD81,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,EBF1,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD180,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,NOTCH2,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,PAX5,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD103,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,B220,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD307d,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,CD268,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,IgM,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,ITGAE,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,FCRL4,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell
+B cell,,TNFRSF13C,Human,Undefined,Undefined,Normal,Normal cell,Marginal zone B cell

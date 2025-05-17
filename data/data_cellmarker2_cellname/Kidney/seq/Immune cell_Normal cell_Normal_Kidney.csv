@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,FCGR3A,FCGR3A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,LYZ,LYZ
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,MS4A1,MS4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,NKG7,NKG7
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,PTPRC,PTPRC
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Immune cell,CL_0000738,CD3D,CD3D

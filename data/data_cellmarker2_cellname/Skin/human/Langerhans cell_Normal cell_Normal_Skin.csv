@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1,CD1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1A,CD1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207 ,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD1A,CD1A
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Langerhans cell,CL_0000453,CD207,CD207

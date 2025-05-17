@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CD86,CD86
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CD84,CD84
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CD300A,CD300A
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163

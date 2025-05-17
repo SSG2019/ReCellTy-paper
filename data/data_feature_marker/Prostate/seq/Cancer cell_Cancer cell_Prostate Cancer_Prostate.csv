@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EGFR,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,ATAD2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PFKFB4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PIAS2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,UBE2T,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell

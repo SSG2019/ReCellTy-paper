@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,,VCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD146,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD166,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,MCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,ALCAM,Human,Bone,Cartilage,Normal,Normal cell,Mesenchymal stromal cell

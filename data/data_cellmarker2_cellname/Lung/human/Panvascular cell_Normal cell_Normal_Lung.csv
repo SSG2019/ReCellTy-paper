@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,ITM2A,ITM2A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,ACKR1,ACKR1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,ENG,ENG
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,ESAM,ESAM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,CLEC14A,CLEC14A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,CLEC1A,CLEC1A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Panvascular cell,,PCDH17,PCDH17

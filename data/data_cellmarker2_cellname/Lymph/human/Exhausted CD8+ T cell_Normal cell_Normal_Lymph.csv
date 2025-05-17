@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,NFAT,
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,PD1,PDCD1
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,TCF1,HNF1A
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,Tbet,
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,LAG3,LAG3
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,TIM3,HAVCR2
+Human,Lymph,Lymph,UBERON_0002391,Normal,Normal cell,Exhausted CD8+ T cell,CL_0000625,EOMES,EOMES

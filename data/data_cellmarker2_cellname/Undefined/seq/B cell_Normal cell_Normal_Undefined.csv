@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD37,CD37
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CCR7,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD40,CD40
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD3E,CD3E
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,TNFRSF13C,TNFRSF13C
+Human,Undefined,Undefined,,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A

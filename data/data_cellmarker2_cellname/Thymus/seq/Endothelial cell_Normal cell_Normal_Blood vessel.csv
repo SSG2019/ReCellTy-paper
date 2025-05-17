@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,ACKR1,ACKR1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,GJA4,GJA4
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFC,VEGFC
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,SELE,SELE
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,PROX1,PROX1
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,CCL21,CCL21
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,APLNR,APLNR
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Endothelial cell,CL_0000115,LYVE,

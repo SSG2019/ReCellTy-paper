@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+hepatic stellate cell,Activated,FAP,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,Activated,alpha-SMA,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,Quiescent,GFAP,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,Quiescent,LRAT,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,,Synaptophysin,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,,CD271,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)
+hepatic stellate cell,,NGFR,Human,Liver,Liver,Normal,Normal cell,Ito cell (hepatic stellate cell)

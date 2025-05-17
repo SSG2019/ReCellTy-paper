@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD146,MCAM
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,PDGFR,PDGFRB
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,NG2,CSPG4
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,CD29,ITGB1

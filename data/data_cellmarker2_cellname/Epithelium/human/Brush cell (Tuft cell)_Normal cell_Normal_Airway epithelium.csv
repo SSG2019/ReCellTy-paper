@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,DCLK1,DCLK1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,RGS13,RGS13
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,ASCL2,ASCL2
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,POU2F3,POU2F3
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,LRMP,IRAG2
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,GNAT3,GNAT3
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,TRPM5,TRPM5
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,AVIL,AVIL
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Brush cell (Tuft cell),CL_0002204,POU2F3,POU2F3

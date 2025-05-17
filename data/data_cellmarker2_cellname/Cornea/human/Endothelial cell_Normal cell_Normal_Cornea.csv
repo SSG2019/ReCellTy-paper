@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,LGR5,LGR5
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD106,VCAM1
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD105,
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD90,THY1
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD166,ALCAM
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD325,CDH2
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD54,ICAM1
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD47,CD47
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD44,CD44
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD112,NECTIN2
+Human,Cornea,Cornea,UBERON_0000964,Normal,Normal cell,Endothelial cell,CL_0000115,CD73,NT5E

@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Gastrointestinal tract,UBERON_0005409,Normal,Normal cell,Glial cell,CL_0000125,S100,S100A1

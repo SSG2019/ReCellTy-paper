@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Krt5,Human,Tooth,Molar,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cdh1,Human,Tooth,Molar,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Krt14,Human,Tooth,Molar,Normal,Normal cell,Epithelial cell

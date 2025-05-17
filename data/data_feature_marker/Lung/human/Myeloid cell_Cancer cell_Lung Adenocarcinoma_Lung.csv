@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD68,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Myeloid cell

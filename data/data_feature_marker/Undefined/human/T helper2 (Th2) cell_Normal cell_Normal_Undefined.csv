@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th2,GATA3,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-4,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-5,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-13,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,STAT6,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CRTH2,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-9,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-10,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-6,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-2,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-25R,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-33R,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CCR4,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CCR8,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CD193,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CD194,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CD197,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CD278,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,CD365,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,TNF-RI,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-1R,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,IL-33,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,c-Maf,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell
+T cell,Th2,GM-CSF,Human,Undefined,Undefined,Normal,Normal cell,T helper2 (Th2) cell

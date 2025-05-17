@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,CD94,Human,Intestine,Gastrointestinal tract,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp80,Human,Intestine,Gastrointestinal tract,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Intestine,Gastrointestinal tract,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Intestine,Gastrointestinal tract,Normal,Normal cell,Natural killer cell

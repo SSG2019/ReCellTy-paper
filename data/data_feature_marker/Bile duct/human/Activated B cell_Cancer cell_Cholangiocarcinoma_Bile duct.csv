@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Activated,CD38,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,Activated,CD86,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,FCRL5,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,CD79A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,CD27,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,RNA_CD19,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell
+B cell,,RNA_PNOC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Activated B cell

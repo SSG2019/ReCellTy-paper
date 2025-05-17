@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,CD34+,DNTT,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ lympho-myeloid progenitor cell
+Progenitor cell,lympho-myeloid,DNTT,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ lympho-myeloid progenitor cell

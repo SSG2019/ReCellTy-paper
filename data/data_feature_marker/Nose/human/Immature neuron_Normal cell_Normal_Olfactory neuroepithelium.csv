@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Immature,GNG8,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,OLIG2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,LHX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron
+Neuron,Immature,EBF2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Immature neuron

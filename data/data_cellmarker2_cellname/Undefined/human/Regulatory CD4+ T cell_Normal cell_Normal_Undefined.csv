@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,CL_0000815,FOXP3,FOXP3
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,CL_0000815,TGF-beta,
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,CL_0000815,CD25,IL2RA
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,CL_0000815,CD4,CD4
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,,GEM,GEM
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,,TIGIT,TIGIT
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,,IL-2RA,
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,,IL-17RB,
+Human,Undefined,Undefined,,Normal,Normal cell,Regulatory CD4+ T cell,,TNFRSF4,TNFRSF4

@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,,ZAR1,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,BMP15,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,GDF9,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,VASA,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,MATER,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,OCT4,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,DAZL,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,STELLA,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,NANOG,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,PRDM1,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,POU5F1,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,TFAP2C,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,DDX4,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,NLRP5,Human,Embryo,Embryo,Normal,Normal cell,Germ cell
+Germ cell,,DPPA3,Human,Embryo,Embryo,Normal,Normal cell,Germ cell

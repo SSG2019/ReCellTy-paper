@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Venous cell,,EPHB4,EPHB4
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Venous cell,,NR2F2,NR2F2
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Venous cell,,NRP2,NRP2

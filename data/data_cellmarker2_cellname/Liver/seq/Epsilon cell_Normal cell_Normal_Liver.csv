@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epsilon cell,CL_0002311,APOH,APOH
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epsilon cell,CL_0002311,ASCL1,ASCL1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epsilon cell,CL_0002311,SPINK1,SPINK1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epsilon cell,CL_0002311,FRZB,FRZB

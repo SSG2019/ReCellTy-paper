@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest cell,stemlike,GFRA2,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell
+Neural crest cell,stemlike,NGFR,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell
+Neural crest cell,stemlike,GDNF,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell

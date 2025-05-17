@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Meyloid cell,,LYZ,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,CD68,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,MARCO,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,AIF1,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell

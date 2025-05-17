@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,large granular,FCGR3A,Human,Blood,Peripheral blood,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell
+T cell,lymphocytic leukemia,FOS,Human,Blood,Peripheral blood,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell
+T cell,lymphocytic leukemia,CCL4,Human,Blood,Peripheral blood,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell
+T cell,lymphocytic leukemia,IFNG,Human,Blood,Peripheral blood,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell
+T cell,lymphocytic leukemia,CCL5,Human,Blood,Peripheral blood,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell

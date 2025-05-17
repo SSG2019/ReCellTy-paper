@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,FCER1A,FCER1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CLEC10A,CLEC10A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,ID2,ID2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,ZEB2,ZEB2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1C,CD1C
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,KLF4,KLF4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,IRF4,IRF4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,ITGAX,ITGAX
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CLEC4A,CLEC4A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,cDC2,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,FCER1A,FCER1A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CLEC10A,CLEC10A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,SIRPA,SIRPA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1C,CD1C

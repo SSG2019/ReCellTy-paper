@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell,,FOS,FOS
+Human,Blood,Peripheral blood,UBERON_0005408,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell,,FCGR3A,FCGR3A
+Human,Blood,Peripheral blood,UBERON_0005408,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell,,CCL4,CCL4
+Human,Blood,Peripheral blood,UBERON_0005408,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell,,IFNG,IFNG
+Human,Blood,Peripheral blood,UBERON_0005408,T cell large granular lymphocytic leukemia,Cancer cell,T cell large granular lymphocytic leukemia cell,,CCL5,CCL5

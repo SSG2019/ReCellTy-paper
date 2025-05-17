@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Microglial cell,CL_0000129,CSF3R,CSF3R
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Microglial cell,CL_0000129,PLXDC2,PLXDC2

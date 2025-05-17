@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,LAG3,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,CD276,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIGIT,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1LG2,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Exhausted T(Tex) cell
+T cell,,CD8A,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Exhausted T(Tex) cell

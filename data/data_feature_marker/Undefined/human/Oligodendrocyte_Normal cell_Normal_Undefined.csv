@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,myelination,MBP,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,myelination,MOG,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,oligodendrocyte differentiation,SOX10,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,myelination,OSP,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,oligodendrocyte development,Olig 1,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,oligodendrocyte development,Olig 2,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,oligodendrocyte development,Olig 3,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,oligodendrocyte precursor cells,Pdgfra,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,myelination,Mog,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,myelin sheath formation,CLDN11,Human,Undefined,Undefined,Normal,Normal cell,Oligodendrocyte

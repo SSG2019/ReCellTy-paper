@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,CD14,Human,Bone marrow,Bone marrow,Normal,Normal cell,Granulocyte
+Granulocyte,,CD15,Human,Bone marrow,Bone marrow,Normal,Normal cell,Granulocyte
+Granulocyte,,FUT4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Granulocyte

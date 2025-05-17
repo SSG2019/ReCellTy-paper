@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,RORC,RORC
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,COLQ,COLQ
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TMIGD2,TMIGD2
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,IL23R,IL23R
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TLE1,TLE1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,KLRB1,KLRB1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,ZBTB16,ZBTB16
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,ME1,ME1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,NCR3,NCR3

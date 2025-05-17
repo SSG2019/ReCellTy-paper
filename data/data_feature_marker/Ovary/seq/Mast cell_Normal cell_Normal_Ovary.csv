@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,CMA1,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Ovary,Ovary,Normal,Normal cell,Mast cell

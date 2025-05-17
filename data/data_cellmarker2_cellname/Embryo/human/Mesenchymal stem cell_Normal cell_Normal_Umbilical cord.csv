@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD90,THY1
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD146,MCAM
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD105,
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD73,NT5E
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,PDGFRβ,
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD271,NGFR
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,Stro-1,
+Human,Embryo,Umbilical cord,UBERON_0002331,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD44,CD44

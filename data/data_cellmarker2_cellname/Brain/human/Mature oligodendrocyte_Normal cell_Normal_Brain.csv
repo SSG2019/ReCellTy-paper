@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mature oligodendrocyte,,MAG,MAG
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mature oligodendrocyte,,CNP,CNP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mature oligodendrocyte,,PLP1,PLP1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mature oligodendrocyte,,MBP,MBP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Mature oligodendrocyte,,MOG,MOG

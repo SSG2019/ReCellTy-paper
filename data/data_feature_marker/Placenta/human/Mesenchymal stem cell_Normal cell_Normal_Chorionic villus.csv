@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,,CD44,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell

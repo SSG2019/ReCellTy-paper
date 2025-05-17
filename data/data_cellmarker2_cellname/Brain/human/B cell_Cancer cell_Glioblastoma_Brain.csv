@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD20,MS4A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD79A,CD79A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,NUGGC,NUGGC
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,FCRLA,FCRLA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,MZB1,MZB1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,FCER2,FCER2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD79B,CD79B
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,JCHAIN,JCHAIN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,BLK,BLK
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,IKZF3,IKZF3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,HLA-DPB1,HLA-DPB1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,IGHG3,IGHG3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,IGHG1,IGHG1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,HLA-DQA1,HLA-DQA1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,B cell,CL_0000236,CD79A,CD79A

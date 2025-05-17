@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,HLA-DR,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CD141,THBD
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CLEC9A,CLEC9A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,BDCA1,CD1C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,BDCA3,THBD
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,XCR1,XCR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CD1c,

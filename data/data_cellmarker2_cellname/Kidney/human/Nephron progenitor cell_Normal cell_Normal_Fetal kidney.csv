@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CRABP2,CRABP2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,TMEM100,TMEM100
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CCNB2,CCNB2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,NUSAP1,NUSAP1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,MRPL18,MRPL18
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,SIX2,SIX2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,HSPA1A,HSPA1A
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,HAS2,HAS2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CITED1,CITED1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,RSPO3,RSPO3
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CACYBP,CACYBP
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,MDK,MDK
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,ZFAND2A,ZFAND2A
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,HMGB2,HMGB2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CENPF,CENPF
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,NKAIN3,NKAIN3
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,HOXC6,HOXC6
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,DNAJB1,DNAJB1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,CKS2,CKS2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Nephron progenitor cell,,FAM213A,PRXL2A

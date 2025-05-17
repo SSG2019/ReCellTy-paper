@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,Klf1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,Hba-a2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,Gata1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,Gata2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,Epor,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,ALAS2,ALAS2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,HBA1,HBA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,HBG1,HBG1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,GYPA,GYPA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Erythroid cell,CL_0000232,ALAS2,ALAS2

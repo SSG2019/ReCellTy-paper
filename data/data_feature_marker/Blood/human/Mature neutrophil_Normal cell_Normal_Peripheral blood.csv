@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Mature,HMOX1,Human,Blood,Peripheral blood,Normal,Normal cell,Mature neutrophil
+Neutrophil,Mature,TXNRD1,Human,Blood,Peripheral blood,Normal,Normal cell,Mature neutrophil
+Neutrophil,Mature,HMOX2,Human,Blood,Peripheral blood,Normal,Normal cell,Mature neutrophil
+Neutrophil,Mature,SRXN1,Human,Blood,Peripheral blood,Normal,Normal cell,Mature neutrophil
+Neutrophil,Mature,SOD2,Human,Blood,Peripheral blood,Normal,Normal cell,Mature neutrophil

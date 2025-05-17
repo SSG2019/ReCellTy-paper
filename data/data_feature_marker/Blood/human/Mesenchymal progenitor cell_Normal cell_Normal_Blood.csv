@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal progenitor cell,Mesenchymal,Pdgfrα,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,Mesenchymal,Nestin,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,Mesenchymal,Lepr,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,Progenitor,Mx1,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,Progenitor,Cxcl12,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,PαS,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,Cd200,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,Ebf3,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,Prxx1,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal progenitor cell,,Osterix,Human,Blood,Blood,Normal,Normal cell,Mesenchymal progenitor cell

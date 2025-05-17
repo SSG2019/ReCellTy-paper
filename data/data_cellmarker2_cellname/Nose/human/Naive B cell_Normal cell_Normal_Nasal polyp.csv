@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,Naive B cell,CL_0000788,CD27,CD27
+Human,Nose,Nasal polyp,,Normal,Normal cell,Naive B cell,CL_0000788,CD19,CD19
+Human,Nose,Nasal polyp,,Normal,Normal cell,Naive B cell,CL_0000788,IgD,

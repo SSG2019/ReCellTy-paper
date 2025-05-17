@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Plasmablast,CL_0000980,CD38,CD38

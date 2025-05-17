@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,FAP,FAP
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,TAGLN,TAGLN
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,ASPN,ASPN
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,CSPG4,CSPG4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,RGS5,RGS5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,PDGFA,PDGFA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Fibroblast,CL_0000057,S100A4,S100A4

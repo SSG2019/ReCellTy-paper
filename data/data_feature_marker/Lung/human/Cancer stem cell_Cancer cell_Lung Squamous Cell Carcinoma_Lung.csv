@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,Podoplanin,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,P63,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALDH-1,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44 variant6,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,GLI1,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Cancer stem cell

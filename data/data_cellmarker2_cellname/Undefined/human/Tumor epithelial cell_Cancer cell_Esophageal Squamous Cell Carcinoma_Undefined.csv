@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell,,MDK,MDK
+Human,Undefined,Undefined,,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell,,SOX4,SOX4
+Human,Undefined,Undefined,,Esophageal Squamous Cell Carcinoma,Cancer cell,Tumor epithelial cell,,EPCAM,EPCAM

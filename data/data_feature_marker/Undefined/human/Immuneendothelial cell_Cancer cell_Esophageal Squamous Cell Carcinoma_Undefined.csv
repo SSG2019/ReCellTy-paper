@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Immune,CXCL13,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Immuneendothelial cell
+Endothelial cell,Immune,CCL5,Human,Undefined,Undefined,Esophageal Squamous Cell Carcinoma,Cancer cell,Immuneendothelial cell

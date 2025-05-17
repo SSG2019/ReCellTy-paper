@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Regulatory chondrocyte,,EIF5A,EIF5A
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Regulatory chondrocyte,,ANXA1,ANXA1
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Regulatory chondrocyte,,TUBA1A,TUBA1A
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Regulatory chondrocyte,,PGK1,PGK1

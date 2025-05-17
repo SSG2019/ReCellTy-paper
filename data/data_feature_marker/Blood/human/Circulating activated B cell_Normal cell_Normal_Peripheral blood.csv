@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,activated,IgD,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating activated B cell
+B cell,,MTG,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating activated B cell
+B cell,,CD19,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating activated B cell
+B cell,,PRSS3,Human,Blood,Peripheral blood,Normal,Normal cell,Circulating activated B cell

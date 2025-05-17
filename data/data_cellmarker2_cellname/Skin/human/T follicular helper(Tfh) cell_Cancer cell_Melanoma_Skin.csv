@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCL13,CXCL13
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCL13,CXCL13
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,PD1,PDCD1
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5

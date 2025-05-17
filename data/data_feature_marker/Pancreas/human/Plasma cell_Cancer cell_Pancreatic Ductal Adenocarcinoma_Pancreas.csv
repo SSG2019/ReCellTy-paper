@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasma cell,,CD38,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,SLAMF7,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,TNFRSF17,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Plasma cell

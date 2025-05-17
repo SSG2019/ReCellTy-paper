@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+langerhans cell,Activated,CD83,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,Activated,MMP9,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,PIM3,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,PXDC1,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,LMNA,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,STK17B,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,ARL4C,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,C15orf48,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRB1,HLA-DRB1
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA

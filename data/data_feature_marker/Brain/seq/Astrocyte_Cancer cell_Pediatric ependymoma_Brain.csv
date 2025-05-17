@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,ALDOC,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Astrocyte
+Astrocyte,,S100B,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Astrocyte
+Astrocyte,,AQP4,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Astrocyte
+Astrocyte,,GFAP,Human,Brain,Brain,Pediatric ependymoma,Cancer cell,Astrocyte

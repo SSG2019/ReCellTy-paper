@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRF1,KLRF1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,TBX21,TBX21
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,GZMB,GZMB
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,TP53TG5,TP53TG5
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,SPON2,SPON2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,L1TD1,L1TD1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,CASP5,CASP5
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,GSG1,GSG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,FGFBP2,FGFBP2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRC1,KLRC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRB1,KLRB1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,NCR1,NCR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,PTGDR,PTGDR
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,IL18RAP,IL18RAP
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,CLIC3,CLIC3
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,NMUR1,NMUR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,CCL3,CCL3
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,Natural killer cell,CL_0000623,PRF1,PRF1

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Stromal cell,CL_0000499,PRELP,PRELP
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Stromal cell,CL_0000499,TNC,TNC
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Stromal cell,CL_0000499,PDGFRB,PDGFRB
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Stromal cell,CL_0000499,LUM,LUM

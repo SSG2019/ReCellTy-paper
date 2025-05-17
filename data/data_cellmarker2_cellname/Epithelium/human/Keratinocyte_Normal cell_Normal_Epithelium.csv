@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Epithelium,UBERON_0000483,Normal,Normal cell,Keratinocyte,CL_0000312,CD34,CD34

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Crypt cell,Stem cell,LGR5,Human,Intestine,Intestine,Normal,Normal cell,Crypt cell
+Crypt cell,Stem cell,OLFM4,Human,Intestine,Intestine,Normal,Normal cell,Crypt cell
+Crypt cell,Crypt function,EPHB2,Human,Intestine,Intestine,Normal,Normal cell,Crypt cell
+Crypt cell,,TNFRSF19,Human,Intestine,Intestine,Normal,Normal cell,Crypt cell

@@ -1,0 +1,22 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,TdT,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD117,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD8,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD4,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD20,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD11b,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD33,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD19,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD38,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD90,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD34,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,KIT,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD8A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,MS4A1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,IL3RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,THY1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Hematopoietic cell

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD135,FLT3
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD123,IL3RA
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD10,MME
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte-monocyte progenitor,CL_0000553,CD45RA,

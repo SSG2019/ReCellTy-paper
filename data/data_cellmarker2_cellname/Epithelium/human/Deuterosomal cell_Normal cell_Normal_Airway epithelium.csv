@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Deuterosomal cell,,FOXN4,FOXN4
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Deuterosomal cell,,CCDC67,DEUP1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Deuterosomal cell,,CDC20B,CDC20B
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Deuterosomal cell,,FOXJ1,FOXJ1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Deuterosomal cell,,DEUP1,DEUP1

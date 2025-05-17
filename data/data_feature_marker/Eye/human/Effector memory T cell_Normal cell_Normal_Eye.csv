@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,PDL-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,PD-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA-4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,PDCD1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFR1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFRSF1A,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell

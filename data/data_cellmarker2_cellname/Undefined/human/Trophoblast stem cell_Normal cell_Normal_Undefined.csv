@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Trophoblast stem cell,CL_0000034,GATA3,GATA3
+Human,Undefined,Undefined,,Normal,Normal cell,Trophoblast stem cell,CL_0000034,HAND1,HAND1
+Human,Undefined,Undefined,,Normal,Normal cell,Trophoblast stem cell,CL_0000034,TROP2,TACSTD2

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,ZEB2,ZEB2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,DHRS9,DHRS9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,POU4F1,POU4F1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,FCER1G,FCER1G
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,CD86,CD86
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,AICDA,AICDA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,ITGAX,ITGAX
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,STAC3,STAC3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,KREMEN2,KREMEN2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,HES4,HES4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,TBX21,TBX21
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated memory B cell,,FCRL4,FCRL4

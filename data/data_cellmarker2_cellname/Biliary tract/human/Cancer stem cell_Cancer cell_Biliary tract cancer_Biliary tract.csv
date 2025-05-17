@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Biliary tract,Biliary tract,UBERON_0001173,Biliary tract cancer,Cancer cell,Cancer stem cell,,LGR5,LGR5
+Human,Biliary tract,Biliary tract,UBERON_0001173,Biliary tract cancer,Cancer cell,Cancer stem cell,,NANOG,NANOG
+Human,Biliary tract,Biliary tract,UBERON_0001173,Biliary tract cancer,Cancer cell,Cancer stem cell,,SOX2,SOX2

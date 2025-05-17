@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,PASK,PASK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD127,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Central memory T cell,CL_0000813,CD45RA,

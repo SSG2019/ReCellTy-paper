@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ciliated cell,Cilia formation,FOXJ1,Human,Lung,Lung,Normal,Normal cell,Ciliated cell
+Ciliated cell,Ciliary function,PIFO,Human,Lung,Lung,Normal,Normal cell,Ciliated cell
+Ciliated cell,Microtubule formation,TUBA1A,Human,Lung,Lung,Normal,Normal cell,Ciliated cell
+Ciliated cell,Microtubule formation,TUBB4B,Human,Lung,Lung,Normal,Normal cell,Ciliated cell

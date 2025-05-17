@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Tumor‐associated macrophage (TAM),,CD68,CD68
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Tumor‐associated macrophage (TAM),,CCL2,CCL2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Tumor‐associated macrophage (TAM),,IL10,IL10

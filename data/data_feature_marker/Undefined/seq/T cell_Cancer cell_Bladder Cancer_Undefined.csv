@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD2,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,T cell
+T cell,,CD3E,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Undefined,Undefined,Bladder Cancer,Cancer cell,T cell

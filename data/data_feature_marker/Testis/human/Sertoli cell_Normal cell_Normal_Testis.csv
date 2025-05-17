@@ -1,0 +1,19 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Sertoli cell,Anti-Mullerian Hormone,AMH,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Sertoli cell differentiation,SOX9,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Development,WT1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Intermediate Filament,Vimentin,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Cell Survival,Clusterin,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,Intermediate Filament,Cytokeratin-18,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,anti-Mullerian hormone,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,MIS,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,SSEA-4,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CITED,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CLDN11,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,PRND,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,WFDC2,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,FATE1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,BEX5,Human,Testis,Testis,Normal,Normal cell,Sertoli cell
+Sertoli cell,,CITED1,Human,Testis,Testis,Normal,Normal cell,Sertoli cell

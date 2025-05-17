@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Pro-tumor,CD206,Human,Brain,Brain,Lung Cancer,Cancer cell,Pro-tumor M2 microglial cell
+Microglial cell,M2,CD206,Human,Brain,Brain,Lung Cancer,Cancer cell,Pro-tumor M2 microglial cell
+Microglial cell,Pro-tumor,MRC1,Human,Brain,Brain,Lung Cancer,Cancer cell,Pro-tumor M2 microglial cell
+Microglial cell,M2,MRC1,Human,Brain,Brain,Lung Cancer,Cancer cell,Pro-tumor M2 microglial cell

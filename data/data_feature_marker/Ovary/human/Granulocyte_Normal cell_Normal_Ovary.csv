@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,AMH,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,GSTA1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,SERPINE2,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,HSD17B1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte

@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,T-cell/histiocyte-rich large B-cell lymphoma (TCRLBCL),Cancer cell,B cell,CL_0000236,PAX5,PAX5

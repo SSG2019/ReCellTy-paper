@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Mesothelial cell,CL_0000077,MSLN,MSLN
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Mesothelial cell,CL_0000077,PRG4,PRG4
+Human,Thymus,Blood vessel,UBERON_0001981,Normal,Normal cell,Mesothelial cell,CL_0000077,UPK3B,UPK3B

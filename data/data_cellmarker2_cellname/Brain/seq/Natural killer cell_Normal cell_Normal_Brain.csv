@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL3,KIR2DL3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL1,KIR2DL1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DS4,KIR2DS4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,GNLY,GNLY
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,GZMB,GZMB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,SAMD3,SAMD3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Natural killer cell,CL_0000623,DOCK2,DOCK2

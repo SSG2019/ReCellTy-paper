@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Artery,UBERON_0001637,Normal,Normal cell,Macrophage,CL_0000235,LGALS3,LGALS3
+Human,Blood vessel,Artery,UBERON_0001637,Normal,Normal cell,Macrophage,CL_0000235,MAC3,
+Human,Blood vessel,Artery,UBERON_0001637,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood vessel,Artery,UBERON_0001637,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CXCR4,CXCR4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CD1c,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CD1E,CD1E
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,SOCS2,SOCS2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,SLCO5A1,SLCO5A1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,IRF4,IRF4
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CD1B,CD1B

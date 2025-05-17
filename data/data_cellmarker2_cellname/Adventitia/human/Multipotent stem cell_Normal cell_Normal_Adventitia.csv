@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Adventitia,Adventitia,UBERON_0005742,Normal,Normal cell,Multipotent stem cell,CL_0000048,CD34,CD34
+Human,Adventitia,Adventitia,UBERON_0005742,Normal,Normal cell,Multipotent stem cell,CL_0000048,CD45,PTPRC
+Human,Adventitia,Adventitia,UBERON_0005742,Normal,Normal cell,Multipotent stem cell,CL_0000048,CD90,THY1
+Human,Adventitia,Adventitia,UBERON_0005742,Normal,Normal cell,Multipotent stem cell,CL_0000048,CD44,CD44
+Human,Adventitia,Adventitia,UBERON_0005742,Normal,Normal cell,Multipotent stem cell,CL_0000048,CD73,NT5E

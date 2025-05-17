@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Paneth cell,,PLA2G2A,Human,Intestine,Colon epithelium,Normal,Normal cell,Paneth cell
+Paneth cell,,DEFA6,Human,Intestine,Colon epithelium,Normal,Normal cell,Paneth cell
+Paneth cell,,ITLN2,Human,Intestine,Colon epithelium,Normal,Normal cell,Paneth cell
+Paneth cell,,DEFA5,Human,Intestine,Colon epithelium,Normal,Normal cell,Paneth cell

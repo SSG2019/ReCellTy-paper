@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,LAG3,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,CXCL13,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,TOX,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Lymphocyte

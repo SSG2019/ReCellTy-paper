@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,OCT4,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Stem cell marker,CD133,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Hematopoietic,KIT,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Drug resistance,ABCG2,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Proliferation,GNL3,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell
+Stem cell,Migration,PODXL,Human,Embryo,Embryo,Neuroblastoma,Cancer cell,Stem cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Cardiac progenitor cell,,SLC8A1,SLC8A1
+Human,Undefined,Undefined,,Normal,Normal cell,Cardiac progenitor cell,,FLK1,KDR
+Human,Undefined,Undefined,,Normal,Normal cell,Cardiac progenitor cell,,CAR,CASR

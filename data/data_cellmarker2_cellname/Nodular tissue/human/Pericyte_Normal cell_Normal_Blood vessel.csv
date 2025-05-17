@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nodular tissue,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,CD29,ITGB1
+Human,Nodular tissue,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,α-SMA,
+Human,Nodular tissue,Blood vessel,UBERON_0001981,Normal,Normal cell,Pericyte,CL_0000669,CD146,MCAM

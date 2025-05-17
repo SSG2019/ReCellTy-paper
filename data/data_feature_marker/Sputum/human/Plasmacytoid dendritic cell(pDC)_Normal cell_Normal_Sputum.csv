@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Plasmacytoid,IRF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,MZB1,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,TCF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

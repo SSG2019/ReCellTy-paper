@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Memory B cell,CL_0000787,CD44,CD44
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Memory B cell,CL_0000787,CD69 ,

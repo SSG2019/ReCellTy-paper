@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT5,KRT5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT14,KRT14
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal epithelial cell,CL_0002327,ITGB1,ITGB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basal epithelial cell,CL_0002327,ITGA6,ITGA6

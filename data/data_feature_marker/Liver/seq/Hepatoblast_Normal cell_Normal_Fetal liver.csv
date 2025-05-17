@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatoblast,,DLK,Human,Liver,Fetal liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,HNF4A,Human,Liver,Fetal liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,AFP,Human,Liver,Fetal liver,Normal,Normal cell,Hepatoblast

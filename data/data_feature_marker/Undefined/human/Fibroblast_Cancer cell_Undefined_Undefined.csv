@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,CAV1,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,Activation,PDGFRβ,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,Myofibroblast differentiation,α-SMA,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,Activation,FAP,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,,FSP1,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,,CD29,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,Motility,S100A4,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast
+Fibroblast,,ITGB1,Human,Undefined,Undefined,Undefined,Cancer cell,Fibroblast

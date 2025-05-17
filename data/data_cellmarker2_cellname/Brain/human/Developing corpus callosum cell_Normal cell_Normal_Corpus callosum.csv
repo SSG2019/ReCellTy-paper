@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Corpus callosum,UBERON_0002336,Normal,Normal cell,Developing corpus callosum cell,,NRP1,NRP1

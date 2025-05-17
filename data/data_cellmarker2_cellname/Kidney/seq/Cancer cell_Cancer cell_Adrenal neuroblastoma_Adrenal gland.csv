@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Adrenal gland,UBERON_0002369,Adrenal neuroblastoma,Cancer cell,Cancer cell,CL_0001064,SYP,SYP
+Human,Kidney,Adrenal gland,UBERON_0002369,Adrenal neuroblastoma,Cancer cell,Cancer cell,CL_0001064,PHOX2B,PHOX2B

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Eomesodermin homolog(EOMES)+,CHI3L2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Eomesodermin homolog(EOMES)+ regulatory T cell type 1
+T cell,regulatory,CHI3L2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Eomesodermin homolog(EOMES)+ regulatory T cell type 1

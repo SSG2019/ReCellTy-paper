@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Amacrine cell,CL_0000561,CALB1,CALB1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Amacrine cell,CL_0000561,CHAT,CHAT
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Amacrine cell,CL_0000561,GAD1,GAD1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Amacrine cell,CL_0000561,GAD1,GAD1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Amacrine cell,CL_0000561,C1QL2,C1QL2

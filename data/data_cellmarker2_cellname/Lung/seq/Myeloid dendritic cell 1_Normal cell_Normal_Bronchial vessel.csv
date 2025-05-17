@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Myeloid dendritic cell 1,,PLD4,PLD4
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Myeloid dendritic cell 1,,MHCII,
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Myeloid dendritic cell 1,,CLEC9A,CLEC9A
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Myeloid dendritic cell 1,,LAMP3,LAMP3
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Myeloid dendritic cell 1,,CD1C,CD1C

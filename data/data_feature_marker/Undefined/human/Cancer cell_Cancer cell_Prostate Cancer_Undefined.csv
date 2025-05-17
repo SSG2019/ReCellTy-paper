@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EpCAM,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PSA,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,KLK3,Human,Undefined,Undefined,Prostate Cancer,Cancer cell,Cancer cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Malignant stem cell,,IL1RAP,IL1RAP
+Human,Undefined,Undefined,,Normal,Normal cell,Malignant stem cell,,CD45RA,
+Human,Undefined,Undefined,,Normal,Normal cell,Malignant stem cell,,CD123,IL3RA

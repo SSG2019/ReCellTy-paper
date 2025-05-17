@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Plasmacytoid dendritic cell,Axl+,Axl,Human,Blood,Blood,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC)
+Plasmacytoid dendritic cell,CD123+,CD123,Human,Blood,Blood,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC)

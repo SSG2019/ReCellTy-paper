@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell,CL_0002078,VIM,VIM
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell,CL_0002078,CDH1,CDH1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell,CL_0002078,ZEB1,ZEB1
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell,CL_0002078,EPCAM,EPCAM
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell,CL_0002078,ZEB2,ZEB2

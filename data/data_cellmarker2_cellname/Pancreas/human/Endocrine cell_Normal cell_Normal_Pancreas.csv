@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,LRP11,LRP11
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,SLC30A8,SLC30A8
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,SEZ6L2,SEZ6L2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,Solute carrier family 30,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,DISP2,DISP2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,SST,SST
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,GCG,GCG
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,INS,INS
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,ISL1,ISL1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,PPY,PPY
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,Gcg,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,Ins1,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,Sst,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,Ppy,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,CHGA,CHGA
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,INS,INS
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Endocrine cell,CL_0000163,ISL1,ISL1

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,NKG7,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CCL4/5,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell

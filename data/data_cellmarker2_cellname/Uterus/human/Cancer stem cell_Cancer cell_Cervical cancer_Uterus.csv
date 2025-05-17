@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,OCT3,SLC22A3
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,Sox2,
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,CD49f,ITGA6
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Cancer stem cell,,CK-17,KRT17

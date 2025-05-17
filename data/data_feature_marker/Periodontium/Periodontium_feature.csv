@@ -1,0 +1,67 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Arterial,GJA5,Human,Periodontium,Periodontium,Normal,Normal cell,Arterial endothelial cell
+B cell,,MS4A1,Human,Periodontium,Periodontium,Normal,Normal cell,B cell
+dendritic cell,CD1C+,CD1C,Human,Periodontium,Periodontium,Normal,Normal cell,CD1C+ dentritic cell
+T cell,CD4+,CD4,Human,Periodontium,Periodontium,Normal,Normal cell,CD4+ T cell
+dendritic cell,CD5+,CD5,Human,Periodontium,Periodontium,Normal,Normal cell,CD5+ dendritic cell
+T cell,CD8+,CD8,Human,Periodontium,Periodontium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Periodontium,Periodontium,Normal,Normal cell,CD8+ T cell
+Dendritic cell,CLEC9A+,CLEC9A,Human,Periodontium,Periodontium,Normal,Normal cell,CLEC9A+ dendritic cell
+Endothelial cell,,PECAM1,Human,Periodontium,Periodontium,Normal,Normal cell,Endothelial cell
+Epithelial cell,,KRT6A,Human,Periodontium,Periodontium,Normal,Normal cell,Epithelial cell
+Fibroblast,,DCN,Human,Periodontium,Periodontium,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Periodontium,Periodontium,Normal,Normal cell,Fibroblast
+dendritic cell,LAMP3+,LAMP3,Human,Periodontium,Periodontium,Normal,Normal cell,LAMP3+ dentritic cell
+Lymphatic endothelial cell,,PDPN,Human,Periodontium,Periodontium,Normal,Normal cell,Lymphatic endothelial cell
+Macrophage,,C1QA,Human,Periodontium,Periodontium,Normal,Normal cell,Macrophage
+Mast cell,,TPSAB1,Human,Periodontium,Periodontium,Normal,Normal cell,Mast cell
+Monocyte,,MS4A6A,Human,Periodontium,Periodontium,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Periodontium,Periodontium,Normal,Normal cell,Monocyte
+Myeloid,suppressor,LTF,Human,Periodontium,Periodontium,Normal,Normal cell,Myeloid derived suppressor cell (MDSC)
+Myofibroblast,,ACTA2,Human,Periodontium,Periodontium,Normal,Normal cell,Myofibroblast
+T cell,Natural killer,KLRD1,Human,Periodontium,Periodontium,Normal,Normal cell,Natural killer T(NKT) cell
+Neutrophil,,FCGR3B,Human,Periodontium,Periodontium,Normal,Normal cell,Neutrophil
+Osteoclast,,ACP5,Human,Periodontium,Periodontium,Normal,Normal cell,Osteoclast
+Pericyte,,KCNJ8,Human,Periodontium,Periodontium,Normal,Normal cell,Pericyte
+Plasma cell,,IGHG1,Human,Periodontium,Periodontium,Normal,Normal cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Periodontium,Periodontium,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Periodontium,Periodontium,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+cell,Proliferative,MKI67,Human,Periodontium,Periodontium,Normal,Normal cell,Proliferative cell
+Stem cell,,CD90,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+Stem cell,,Stro-1,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+Stem cell,,CD73,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Periodontium,Periodontal ligament,Normal,Normal cell,Stem cell
+T cell,,TRAC,Human,Periodontium,Periodontium,Normal,Normal cell,T cell
+Endothelial cell,Venous,VWF,Human,Periodontium,Periodontium,Normal,Normal cell,Venous endothelial cell
+Endothelial cell,Arterial,GJA5,Human,Periodontium,Periodontium,Normal,Normal cell,Arterial endothelial cell
+B cell,,MS4A1,Human,Periodontium,Periodontium,Normal,Normal cell,B cell
+dendritic cell,CD1C+,CD1C,Human,Periodontium,Periodontium,Normal,Normal cell,CD1C+ dentritic cell
+T cell,CD4+,CD4,Human,Periodontium,Periodontium,Normal,Normal cell,CD4+ T cell
+dendritic cell,CD5+,CD5,Human,Periodontium,Periodontium,Normal,Normal cell,CD5+ dendritic cell
+T cell,CD8+,CD8,Human,Periodontium,Periodontium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Periodontium,Periodontium,Normal,Normal cell,CD8+ T cell
+dendritic cell,CLEC9A+,CLEC9A,Human,Periodontium,Periodontium,Normal,Normal cell,CLEC9A+ dendritic cell
+Endothelial cell,,PECAM1,Human,Periodontium,Periodontium,Normal,Normal cell,Endothelial cell
+Epithelial cell,,KRT6A,Human,Periodontium,Periodontium,Normal,Normal cell,Epithelial cell
+Fibroblast,,DCN,Human,Periodontium,Periodontium,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Periodontium,Periodontium,Normal,Normal cell,Fibroblast
+dendritic cell,LAMP3+,LAMP3,Human,Periodontium,Periodontium,Normal,Normal cell,LAMP3+ dentritic cell
+Lymphatic endothelial cell,,PDPN,Human,Periodontium,Periodontium,Normal,Normal cell,Lymphatic endothelial cell
+Macrophage,,C1QA,Human,Periodontium,Periodontium,Normal,Normal cell,Macrophage
+Mast cell,,TPSAB1,Human,Periodontium,Periodontium,Normal,Normal cell,Mast cell
+Monocyte,,MS4A6A,Human,Periodontium,Periodontium,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Periodontium,Periodontium,Normal,Normal cell,Monocyte
+Myeloid,suppressor,LTF,Human,Periodontium,Periodontium,Normal,Normal cell,Myeloid derived suppressor cell (MDSC)
+Myofibroblast,,ACTA2,Human,Periodontium,Periodontium,Normal,Normal cell,Myofibroblast
+T cell,Natural killer,KLRD1,Human,Periodontium,Periodontium,Normal,Normal cell,Natural killer T(NKT) cell
+Neutrophil,,FCGR3B,Human,Periodontium,Periodontium,Normal,Normal cell,Neutrophil
+Osteoclast,,ACP5,Human,Periodontium,Periodontium,Normal,Normal cell,Osteoclast
+Pericyte,,KCNJ8,Human,Periodontium,Periodontium,Normal,Normal cell,Pericyte
+Plasma cell,,IGHG1,Human,Periodontium,Periodontium,Normal,Normal cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Periodontium,Periodontium,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Periodontium,Periodontium,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+cell,Proliferative,MKI67,Human,Periodontium,Periodontium,Normal,Normal cell,Proliferative cell
+T cell,,TRAC,Human,Periodontium,Periodontium,Normal,Normal cell,T cell
+Endothelial cell,,VWF,Human,Periodontium,Periodontium,Normal,Normal cell,Venous endothelial cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD13,Human,Brain,Choroid plexus,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRβ,Human,Brain,Choroid plexus,Normal,Normal cell,Pericyte
+Pericyte,,ANPEP,Human,Brain,Choroid plexus,Normal,Normal cell,Pericyte

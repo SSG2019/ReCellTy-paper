@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Isthmus cell,,STMN1,STMN1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Isthmus cell,,MKI67,MKI67

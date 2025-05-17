@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,INF γ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PRF,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CXCR5,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR β,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD5,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PD1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR δ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,GATA3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR α,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TBET,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TCR γ,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,GRB,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CXCL13,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,ALK,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD28,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,LAG3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,FOXP3,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,ICOS,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD45RO,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,PDCD1,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,TBX21,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph,Lymph,Non-Hodgkin's Lymphoma,Cancer cell,T cell

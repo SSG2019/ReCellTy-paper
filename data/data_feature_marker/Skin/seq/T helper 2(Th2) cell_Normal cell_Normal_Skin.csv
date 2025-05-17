@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Th2,AADACL2,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,FLG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,ABO,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,RELN,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell

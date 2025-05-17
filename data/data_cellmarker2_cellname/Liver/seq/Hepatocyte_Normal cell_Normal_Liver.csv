@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,AAT,SERPINA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,HNF4A,HNF4A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,TGM2,TGM2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,TTR,TTR
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,FGB,FGB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,GATA6,GATA6
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,ALB,ALB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,AFP,AFP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,A2M,A2M
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,GATA4,GATA4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,SERPINA1,SERPINA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,HAVCR1,HAVCR1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,DUOX2,DUOX2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,FOXA1,FOXA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,SERPINA1,SERPINA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatocyte,CL_0000182,ALB,ALB

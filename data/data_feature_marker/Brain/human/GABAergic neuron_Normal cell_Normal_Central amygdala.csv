@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+GABAergic neuron,,VGAT,Human,Brain,Central amygdala,Normal,Normal cell,GABAergic neuron
+GABAergic neuron,,SLC32A1,Human,Brain,Central amygdala,Normal,Normal cell,GABAergic neuron

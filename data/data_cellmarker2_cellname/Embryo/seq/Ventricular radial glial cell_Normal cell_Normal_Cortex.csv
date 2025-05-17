@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Cortex,UBERON_0000956,Normal,Normal cell,Ventricular radial glial cell,,Fbxo32,
+Human,Embryo,Cortex,UBERON_0000956,Normal,Normal cell,Ventricular radial glial cell,,Cyr61,
+Human,Embryo,Cortex,UBERON_0000956,Normal,Normal cell,Ventricular radial glial cell,,Ctgf,

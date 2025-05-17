@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tissue resident memory,CD69,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD103,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGB7,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD49a,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Uterus,Ectocervix,Normal,Normal cell,Tissue resident memory T(TRM) cell

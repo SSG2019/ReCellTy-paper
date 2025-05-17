@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Coloncyte,,GUCA2A,Human,Intestine,Colon,Normal,Normal cell,Coloncyte
+Coloncyte,,CEACAM1,Human,Intestine,Colon,Normal,Normal cell,Coloncyte
+Coloncyte,,CA1,Human,Intestine,Colon,Normal,Normal cell,Coloncyte

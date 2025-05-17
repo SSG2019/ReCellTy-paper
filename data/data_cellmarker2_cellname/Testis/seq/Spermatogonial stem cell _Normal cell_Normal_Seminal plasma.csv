@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Seminal plasma,,Normal,Normal cell,Spermatogonial stem cell ,,Pou5f1,
+Human,Testis,Seminal plasma,,Normal,Normal cell,Spermatogonial stem cell ,,Nanog,
+Human,Testis,Seminal plasma,,Normal,Normal cell,Spermatogonial stem cell ,,OCT4,POU5F1
+Human,Testis,Seminal plasma,,Normal,Normal cell,Spermatogonial stem cell ,,Dppa3,
+Human,Testis,Seminal plasma,,Normal,Normal cell,Spermatogonial stem cell ,,Sox2,

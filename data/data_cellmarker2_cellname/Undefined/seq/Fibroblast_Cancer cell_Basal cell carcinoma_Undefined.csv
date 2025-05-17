@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Undefined,Undefined,,Basal cell carcinoma,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2

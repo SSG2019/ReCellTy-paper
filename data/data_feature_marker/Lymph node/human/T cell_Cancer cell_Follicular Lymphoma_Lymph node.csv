@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD4,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell

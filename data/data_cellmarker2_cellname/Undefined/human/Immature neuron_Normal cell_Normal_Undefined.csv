@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,TBR1,TBR1
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,beta III tubulin,
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,Doublecortin,
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,NeuroD1,
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,Stathmin 1,
+Human,Undefined,Undefined,,Normal,Normal cell,Immature neuron,CL_0000540,III beta-tubulin,

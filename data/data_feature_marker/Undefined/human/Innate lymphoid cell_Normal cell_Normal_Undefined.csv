@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,ILC2,CRTH2,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,GATA3,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC,IL7Rα,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,ST2,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC,CD161,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD27,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,CD45,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC,CD127,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NK,CD337,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC2,PTGDR2,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC,KLRB1,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,ILC,IL7R,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NK,NCR3,Human,Undefined,Undefined,Normal,Normal cell,Innate lymphoid cell

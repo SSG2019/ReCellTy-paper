@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Venous cell,,ICAM1,Human,Vein,Vein,Normal,Normal cell,Venous cell
+Venous cell,,FOS,Human,Vein,Vein,Normal,Normal cell,Venous cell
+Venous cell,,LRG1,Human,Vein,Vein,Normal,Normal cell,Venous cell
+Venous cell,,EMCN,Human,Vein,Vein,Normal,Normal cell,Venous cell

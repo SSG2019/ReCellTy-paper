@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Immune cell,CL_0000738,CD8B,CD8B
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Immune cell,CL_0000738,CD274,CD274
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Immune cell,CL_0000738,CD8A,CD8A
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Immune cell,CL_0000738,PDCD1LG2,PDCD1LG2
+Human,Prostate,Prostate,UBERON_0002367,Normal,Normal cell,Immune cell,CL_0000738,PDCD1,PDCD1

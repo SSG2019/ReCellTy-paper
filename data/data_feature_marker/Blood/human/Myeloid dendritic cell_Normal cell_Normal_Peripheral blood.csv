@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,FCER1A,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,CLEC10A,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,CD1C,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,ID2,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,ZEB2,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,KLF4,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,IRF4,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,ITGAX,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,,CLEC4A,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,cDC2,cDC2,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell
+Dendritic cell,myeloid,SIRPA,Human,Blood,Peripheral blood,Normal,Normal cell,Myeloid dendritic cell

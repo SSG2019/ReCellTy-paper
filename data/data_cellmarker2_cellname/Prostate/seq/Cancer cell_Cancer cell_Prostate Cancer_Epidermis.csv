@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,PTEN,PTEN
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,EPCAM,EPCAM
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,C-MYC,
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,CDH1,CDH1
+Human,Prostate,Epidermis,UBERON_0001003,Prostate Cancer,Cancer cell,Cancer cell,CL_0001064,AMACR,AMACR

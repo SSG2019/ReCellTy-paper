@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+osteoblast,Mature,OPN,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mature osteoblast
+osteoblast,Mature,OCN,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mature osteoblast
+osteoblast,Mature,SPP1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mature osteoblast
+osteoblast,Mature,BGLAP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Mature osteoblast

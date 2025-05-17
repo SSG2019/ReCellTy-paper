@@ -1,0 +1,22 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Endometrial,CD105,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD90,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD44,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,Nestin,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD133,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD73,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD166,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,CD29,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,SOX2,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,OCT4,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,SSEA-4,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,LGR5,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,THY1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,PROM1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,VCAM1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,NT5E,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,ALCAM,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,ITGB1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,POU5F1,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,KIT,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell
+Stem cell,Endometrial,MCAM,Human,Endometrium,Endometrium,Normal,Normal cell,Endometrial stem cell

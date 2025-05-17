@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Side-population cell,Side-population,CD49f,Human,Undefined,Undefined,Normal,Normal cell,Side-population cell
+Side-population cell,Side-population,CD24,Human,Undefined,Undefined,Normal,Normal cell,Side-population cell
+Side-population cell,Side-population,CD44,Human,Undefined,Undefined,Normal,Normal cell,Side-population cell
+Side-population cell,Side-population,ITGA6,Human,Undefined,Undefined,Normal,Normal cell,Side-population cell

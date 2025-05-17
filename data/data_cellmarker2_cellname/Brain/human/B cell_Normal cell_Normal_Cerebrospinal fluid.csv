@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CD69,CD69
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CD49d,
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CD45RA,
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CXCR3,CXCR3
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,B cell,CL_0000236,CD27,CD27

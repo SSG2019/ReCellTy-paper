@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Iris,LHX2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,Iris,RAX,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,puttative,ZIC2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell

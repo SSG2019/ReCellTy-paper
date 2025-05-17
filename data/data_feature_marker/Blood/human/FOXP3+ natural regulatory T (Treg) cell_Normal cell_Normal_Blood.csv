@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,FOXP3+,CD4,Human,Blood,Blood,Normal,Normal cell,FOXP3+ natural regulatory T (Treg) cell
+T cell,natural regulatory,CD25,Human,Blood,Blood,Normal,Normal cell,FOXP3+ natural regulatory T (Treg) cell
+T cell,natural regulatory,IL2RA,Human,Blood,Blood,Normal,Normal cell,FOXP3+ natural regulatory T (Treg) cell
+T cell,Treg,CD25,Human,Blood,Blood,Normal,Normal cell,FOXP3+ natural regulatory T (Treg) cell
+T cell,Treg,IL2RA,Human,Blood,Blood,Normal,Normal cell,FOXP3+ natural regulatory T (Treg) cell

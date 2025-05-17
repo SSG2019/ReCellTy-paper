@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD3,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD3D,CD3D
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD8,CD8A
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD3,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD103,ITGAE
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD3,
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,T cell,CL_0000084,CD3,

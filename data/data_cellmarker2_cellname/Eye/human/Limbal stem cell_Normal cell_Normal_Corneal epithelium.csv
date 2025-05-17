@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Corneal epithelium,UBERON_0001772,Normal,Normal cell,Limbal stem cell,CL_0000034,SOD2,SOD2
+Human,Eye,Corneal epithelium,UBERON_0001772,Normal,Normal cell,Limbal stem cell,CL_0000034,CK15,KRT15

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,Reverse-migrated neutrophil,,CD54,ICAM1
+Human,Undefined,Undefined,,Undefined,Cancer cell,Reverse-migrated neutrophil,,Cxcr1,

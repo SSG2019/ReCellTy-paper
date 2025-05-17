@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myogenic progenitor cell,,DESMIN,Human,Embryo,Embryo,Normal,Normal cell,Myogenic progenitor cell
+Myogenic progenitor cell,,MYOD,Human,Embryo,Embryo,Normal,Normal cell,Myogenic progenitor cell
+Myogenic progenitor cell,,MYOD1,Human,Embryo,Embryo,Normal,Normal cell,Myogenic progenitor cell

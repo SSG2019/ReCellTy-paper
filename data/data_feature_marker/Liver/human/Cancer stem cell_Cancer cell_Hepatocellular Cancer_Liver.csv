@@ -1,0 +1,27 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD133,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD90,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,EpCAM,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,SOX9,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD13,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44v9,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD24,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,NANOG,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CK19,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CXCR4,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,c-kit,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CK-19,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,OCT4,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCB5,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,Nanog,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD105,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,Sox2,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,BEX1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,THY1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ANPEP,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,KRT19,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,POU5F1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,,CD45,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,,PTPRC,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Cancer stem cell

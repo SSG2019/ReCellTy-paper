@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Salivary gland,Salivary gland,UBERON_0001044,Mucoepidermoid Carcinoma,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Salivary gland,Salivary gland,UBERON_0001044,Mucoepidermoid Carcinoma,Cancer cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Salivary gland,Salivary gland,UBERON_0001044,Mucoepidermoid Carcinoma,Cancer cell,Stem cell,CL_0000034,BMI1,BMI1

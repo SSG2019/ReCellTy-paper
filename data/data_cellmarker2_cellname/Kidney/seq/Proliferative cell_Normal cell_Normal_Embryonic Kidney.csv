@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Proliferative cell,,CENPF,CENPF
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Proliferative cell,,TOP2A,TOP2A
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Proliferative cell,,HIST1H4C,H4C3
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Proliferative cell,,HMGB2,HMGB2

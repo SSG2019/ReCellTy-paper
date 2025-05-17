@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD105,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD90,THY1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD44,CD44
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD29,ITGB1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD73,NT5E
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD56,NCAM1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD105,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD90,THY1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD45,PTPRC
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,PDGFR-alpha,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD14,CD14
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD34,CD34
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD146,MCAM
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Mesenchymal stem cell,CL_0000134,CD73,NT5E

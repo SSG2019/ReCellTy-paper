@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,PECAM1,PECAM1

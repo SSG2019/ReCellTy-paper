@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,CD123,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Cancer cell
+Cancer cell,,CD33,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Cancer cell
+Cancer cell,,CLL1,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Cancer cell
+Cancer cell,,IL3RA,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Cancer cell
+Cancer cell,,COLEC10,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Cancer cell

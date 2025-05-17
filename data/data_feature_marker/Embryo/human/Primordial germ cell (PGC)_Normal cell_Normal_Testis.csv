@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+germ cell,Primordial,TFAP2C,Human,Embryo,Testis,Normal,Normal cell,Primordial germ cell (PGC)

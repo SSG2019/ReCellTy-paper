@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,ASCL1,ASCL1
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,BMP4,BMP4
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,BMP7,BMP7
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,NOTCH1,NOTCH1
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,NOTCH2,NOTCH2
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,PAX3,PAX3
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,SOX10,SOX10
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,FOXD3,FOXD3
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,CHD7,CHD7
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,TNFRSF16,NGFR
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,BMP7 Heterodimer,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Integrin alpha4beta1,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Integrin alpha4beta7,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,CD49d,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Neurogenin-1,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Neurogenin-2,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Neurogenin-3,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Numb,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Slug,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Snail,
+Human,Undefined,Undefined,,Normal,Normal cell,Neural crest cell,CL_0011012,Vimentin,

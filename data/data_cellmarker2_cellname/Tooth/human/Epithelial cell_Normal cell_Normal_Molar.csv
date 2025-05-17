@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Epithelial cell,CL_0000066,Krt5,
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Epithelial cell,CL_0000066,Cdh1,
+Human,Tooth,Molar,UBERON_0003655,Normal,Normal cell,Epithelial cell,CL_0000066,Krt14,

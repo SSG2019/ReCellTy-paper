@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,NGN2,NEUROG2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,EFNB2,EFNB2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,ASCL1,ASCL1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,DCX,DCX
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,GPM6A,GPM6A
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,RUFY3,RUFY3
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,RTN4,RTN4
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,ISLR2,ISLR2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,GPM6B,GPM6B
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Neurogenic retinal progenitor cell,,FZD3,FZD3

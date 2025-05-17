@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD14,Human,Brain,Brain,Glioma,Cancer cell,Myeloid cell
+Myeloid cell,,CD163,Human,Brain,Brain,Glioma,Cancer cell,Myeloid cell
+Myeloid cell,,TYROBP,Human,Brain,Brain,Glioma,Cancer cell,Myeloid cell
+Myeloid cell,,AIF1,Human,Brain,Brain,Glioma,Cancer cell,Myeloid cell
+Myeloid cell,,CD33,Human,Brain,Brain,Glioma,Cancer cell,Myeloid cell

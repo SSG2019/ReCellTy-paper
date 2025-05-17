@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,,SMI32,Human,Undefined,Undefined,Normal,Normal cell,Lower motor neuron
+Neuron,,HB9,Human,Undefined,Undefined,Normal,Normal cell,Lower motor neuron
+Neuron,,MNX1,Human,Undefined,Undefined,Normal,Normal cell,Lower motor neuron

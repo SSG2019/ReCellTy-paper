@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,CCR7,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,SELL,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CD27,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,TCF7,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,S1PR1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,LEF1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Naive T(Th0) cell

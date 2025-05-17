@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Mono,CSF1R,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,C1QA,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage

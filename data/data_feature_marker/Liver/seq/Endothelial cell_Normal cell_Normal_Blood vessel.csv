@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,STAB1,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE-1,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,STAB2,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD32b,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GPR182,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,LYVE1,Human,Liver,Blood vessel,Normal,Normal cell,Endothelial cell

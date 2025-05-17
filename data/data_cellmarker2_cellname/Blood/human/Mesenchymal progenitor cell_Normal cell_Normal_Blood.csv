@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,PαS,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Mx1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Cxcl12,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Nestin,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Lepr,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Pdgfrα,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Cd200,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Ebf3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Prxx1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mesenchymal progenitor cell,CL_0000134,Osterix,

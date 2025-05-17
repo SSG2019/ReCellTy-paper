@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Trophectoderm,Pan,ABCG2,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell
+Trophectoderm,,MUC15,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell
+Trophectoderm,,CYP19A1,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell
+Trophectoderm,,GATA3,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell
+Trophectoderm,,GATA2,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell
+Trophectoderm,,OVOL1,Human,Embryo,Embryo,Normal,Normal cell,Pan-trophectoderm cell

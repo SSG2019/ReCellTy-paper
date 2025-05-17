@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Arthrosis,Arthrosis,,Normal,Normal cell,T helper 1(Th1) cell,CL_0000545,CXCR3,CXCR3

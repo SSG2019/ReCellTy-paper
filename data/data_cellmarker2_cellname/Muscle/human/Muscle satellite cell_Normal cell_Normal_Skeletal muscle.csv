@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle satellite cell,CL_0000514,Myod1,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle satellite cell,CL_0000514,Sdc4,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle satellite cell,CL_0000514,Pax7,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle satellite cell,CL_0000514,Vcam1,

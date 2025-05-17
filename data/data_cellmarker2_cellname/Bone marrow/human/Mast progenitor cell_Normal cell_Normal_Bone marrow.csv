@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast progenitor cell,CL_0002028,CLC,CLC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Mast progenitor cell,CL_0002028,MS4A2,MS4A2

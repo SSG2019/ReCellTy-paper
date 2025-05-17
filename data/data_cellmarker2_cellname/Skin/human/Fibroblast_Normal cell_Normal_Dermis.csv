@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Dermis,,Normal,Normal cell,Fibroblast,CL_0000057,ICAM1,ICAM1
+Human,Skin,Dermis,,Normal,Normal cell,Fibroblast,CL_0000057,IL6,IL6
+Human,Skin,Dermis,,Normal,Normal cell,Fibroblast,CL_0000057,PDPN,PDPN
+Human,Skin,Dermis,,Normal,Normal cell,Fibroblast,CL_0000057,CD34,CD34

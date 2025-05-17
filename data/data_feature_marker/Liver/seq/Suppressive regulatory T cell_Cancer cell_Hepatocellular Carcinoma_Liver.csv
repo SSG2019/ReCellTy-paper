@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,regulatory,FOXP3,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell
+T cell,regulatory,CTLA4,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell
+T cell,regulatory,IL2RA,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell
+T cell,suppressive,TIGIT,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell
+T cell,suppressive,LAYN,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell
+T cell,suppressive,ENTPD1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Suppressive regulatory T cell

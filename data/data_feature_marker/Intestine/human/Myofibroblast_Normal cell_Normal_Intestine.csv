@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,,vimentin,Human,Intestine,Intestine,Normal,Normal cell,Myofibroblast
+Myofibroblast,,CD90,Human,Intestine,Intestine,Normal,Normal cell,Myofibroblast
+Myofibroblast,,α-SMA,Human,Intestine,Intestine,Normal,Normal cell,Myofibroblast
+Myofibroblast,,THY1,Human,Intestine,Intestine,Normal,Normal cell,Myofibroblast

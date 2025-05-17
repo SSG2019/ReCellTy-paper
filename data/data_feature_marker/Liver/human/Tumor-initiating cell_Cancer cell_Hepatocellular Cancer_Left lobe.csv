@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Tumor,Initiating,CACNA2D1,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Tumor-initiating cell
+Tumor,Initiating,PBX3,Human,Liver,Left lobe,Hepatocellular Cancer,Cancer cell,Tumor-initiating cell

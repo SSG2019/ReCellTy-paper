@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,PRSS,
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,SOD2,SOD2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,PDK4,PDK4
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,SST,SST
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,PPY,PPY
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Non-β endocrine cell,,GCG,GCG

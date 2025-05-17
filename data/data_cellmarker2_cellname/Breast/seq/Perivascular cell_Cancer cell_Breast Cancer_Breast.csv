@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,THY1,THY1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,CAV1,CAV1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,ACTA2,ACTA2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,TAGLN,TAGLN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,ITGB1,ITGB1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,RGS5,RGS5
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,MCAM,MCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,S100A4,S100A4
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular cell,,MYH11,MYH11

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Homeostatic,TIMP1,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,TXNIP,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,Homeostatic,GDF15,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte
+Chondrocyte,,IFITM3,Human,Bone,Cartilage,Normal,Normal cell,Homeostatic chondrocyte

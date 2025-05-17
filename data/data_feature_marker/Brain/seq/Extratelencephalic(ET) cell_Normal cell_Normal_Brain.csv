@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Extratelencephalic cell,ET,POU3F1,Human,Brain,Brain,Normal,Normal cell,Extratelencephalic(ET) cell
+Extratelencephalic cell,ET,FAM84B,Human,Brain,Brain,Normal,Normal cell,Extratelencephalic(ET) cell

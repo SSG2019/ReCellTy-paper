@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Mitotic arrest phase,PLK2,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell
+Germ cell,Mitotic arrest phase,MAD1L1,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell
+Germ cell,Mitotic arrest phase,AURKC,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell
+Germ cell,Fetal,DLK1,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell
+Germ cell,Fetal,SOX30,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell
+Germ cell,Fetal,NANOS2,Human,Gonad,Fetal gonad,Normal,Normal cell,Mitotic arrest phase fetal germ cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Bud tip,ID2,Human,Lung,Lung,Normal,Normal cell,Bud tip progenitor cell
+Progenitor cell,Bud tip,SFTPC,Human,Lung,Lung,Normal,Normal cell,Bud tip progenitor cell
+Progenitor cell,,HMGA1,Human,Lung,Lung,Normal,Normal cell,Bud tip progenitor cell

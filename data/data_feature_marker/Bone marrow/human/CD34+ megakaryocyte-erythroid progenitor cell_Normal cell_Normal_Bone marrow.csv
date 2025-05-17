@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+megakaryocyte-erythroid progenitor cell,CD34+,CYTL1,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ megakaryocyte-erythroid progenitor cell
+megakaryocyte-erythroid progenitor cell,,SERPINB1,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ megakaryocyte-erythroid progenitor cell

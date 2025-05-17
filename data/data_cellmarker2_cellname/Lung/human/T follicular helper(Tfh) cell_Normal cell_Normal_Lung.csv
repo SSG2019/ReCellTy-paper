@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,CXCR5,CXCR5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,ICOS,ICOS
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,PD-1,PDCD1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,OX40,TNFRSF4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,T follicular helper(Tfh) cell,CL_0002038,PD-1,PDCD1

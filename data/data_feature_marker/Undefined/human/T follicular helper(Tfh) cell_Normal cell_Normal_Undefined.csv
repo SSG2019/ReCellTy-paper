@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular helper (Tfh),CXCR6,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),Bcl6,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),Interleukin 21,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),ICOS,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PD1,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Undefined,Undefined,Normal,Normal cell,T follicular helper(Tfh) cell

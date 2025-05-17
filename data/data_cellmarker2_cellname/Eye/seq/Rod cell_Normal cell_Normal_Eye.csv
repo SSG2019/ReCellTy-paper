@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Rod cell,CL_0000604,PDE6A,PDE6A
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Rod cell,CL_0000604,RHO,RHO
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Rod cell,CL_0000604,SAG,SAG
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Rod cell,CL_0000604,GNAT1,GNAT1

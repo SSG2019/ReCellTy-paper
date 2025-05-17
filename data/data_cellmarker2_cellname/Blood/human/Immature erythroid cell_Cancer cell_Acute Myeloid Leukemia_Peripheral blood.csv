@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell,,HBM,HBM
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell,,CA2,CA2
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell,,CA1,CA1
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Immature erythroid cell,,HBD,HBD

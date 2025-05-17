@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Neural,Nestin,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,ALPP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,KIT,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Proliferation,CD71,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,Endothelial,CD31,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,CD30,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,PLAP,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,TNFRSF8,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,TFRC,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,PECAM1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Stem cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Monocytic,CD33,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Monocytic myeloid-derived suppressor cell
+Myeloid cell,Monocytic,CD11b,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Monocytic myeloid-derived suppressor cell
+Myeloid cell,Monocytic,CD14,Human,Blood,Peripheral blood,Breast Cancer,Cancer cell,Monocytic myeloid-derived suppressor cell

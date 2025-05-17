@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,Cytokeratin-19,
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,Albumin,
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,c-Met,MET
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,a-fetoprotein,
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,AFP,AFP
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,HNF4A,HNF4A
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,FXYD1,FXYD1
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,GJB1,GJB1
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,AFP,AFP
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,PPARG,PPARG
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,SMAD1,SMAD1
+Human,Liver,Fetal liver,,Normal,Normal cell,Hepatocyte,CL_0000182,NR1H2,NR1H2

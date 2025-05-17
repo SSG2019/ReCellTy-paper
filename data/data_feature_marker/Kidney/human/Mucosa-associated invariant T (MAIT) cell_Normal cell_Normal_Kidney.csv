@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Mucosa-associated,CD103,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,Mucosa-associated,ITGAE,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,invariant,CD161,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,invariant,KLRB1,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD3,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD69,Human,Kidney,Kidney,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell

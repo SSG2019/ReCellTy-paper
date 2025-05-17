@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Tuj1,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SNAP25,SNAP25
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MNX1,MNX1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,VIM,VIM
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NEUROD1,NEUROD1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,HMGB2,HMGB2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,HES5,HES5
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DLX1,DLX1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,LHX6,LHX6
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,VIP,VIP
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SATB2,SATB2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NDNF,NDNF
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NTNG1,NTNG1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,ISL2,ISL2

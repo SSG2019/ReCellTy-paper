@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,M1 macrophage,CL_0000863,IL1B,IL1B
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,M1 macrophage,CL_0000863,NFKB1,NFKB1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,M1 macrophage,CL_0000863,TNF,TNF

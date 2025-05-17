@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Leukocyte,CL_0000738,CD96,CD96

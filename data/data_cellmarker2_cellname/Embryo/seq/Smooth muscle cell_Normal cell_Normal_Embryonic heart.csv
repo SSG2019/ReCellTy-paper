@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic heart,UBERON_0006283,Normal,Normal cell,Smooth muscle cell,CL_0000192,SM22α,
+Human,Embryo,Embryonic heart,UBERON_0006283,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTG,ACTG1
+Human,Embryo,Embryonic heart,UBERON_0006283,Normal,Normal cell,Smooth muscle cell,CL_0000192,MYH11,MYH11

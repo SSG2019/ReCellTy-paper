@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Dorsolateral prefrontal cortex,UBERON_0009834,Normal,Normal cell,Interstitial cell,CL_0000178,NADPH,DECR1

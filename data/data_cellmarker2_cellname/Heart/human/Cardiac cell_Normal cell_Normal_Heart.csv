@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac cell,,MYBPC3,MYBPC3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac cell,,Actin,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac cell,,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac cell,,NPPA,NPPA

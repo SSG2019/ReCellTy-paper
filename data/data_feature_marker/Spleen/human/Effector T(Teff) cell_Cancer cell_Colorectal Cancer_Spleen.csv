@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD27,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell
+T cell,,SEIL,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Mature neuron,,EBF2,EBF2
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Mature neuron,,GNG13,GNG13
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Mature neuron,,CBX8,CBX8
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Mature neuron,,RTP1,RTP1

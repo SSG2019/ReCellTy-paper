@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Interneuron,,GAD2,Human,Brain,Cortex,Normal,Normal cell,Interneuron
+Interneuron,,DLX2,Human,Brain,Cortex,Normal,Normal cell,Interneuron
+Interneuron,,SCGN,Human,Brain,Cortex,Normal,Normal cell,Interneuron
+Interneuron,,DLX5,Human,Brain,Cortex,Normal,Normal cell,Interneuron
+Interneuron,,GAD1,Human,Brain,Cortex,Normal,Normal cell,Interneuron
+Interneuron,,CALB2,Human,Brain,Cortex,Normal,Normal cell,Interneuron

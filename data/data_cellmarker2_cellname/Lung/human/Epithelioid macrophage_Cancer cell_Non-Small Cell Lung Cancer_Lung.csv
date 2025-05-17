@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage,CL_0002150,CD163,CD163
+Human,Lung,Lung,UBERON_0002048,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage,CL_0002150,PD-L1,CD274
+Human,Lung,Lung,UBERON_0002048,Non-Small Cell Lung Cancer,Cancer cell,Epithelioid macrophage,CL_0002150,CD33,CD33

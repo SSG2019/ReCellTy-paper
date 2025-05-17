@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Regulatory,ADA,Human,Undefined,Undefined,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Treg,CD26,Human,Undefined,Undefined,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Treg,DPP4,Human,Undefined,Undefined,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,peripheral helper (Tph),CXCR3,Human,Kidney,Kidney,Normal,Normal cell,T peripheral helper(Tph) cell
+T cell,peripheral helper (Tph),PD-1,Human,Kidney,Kidney,Normal,Normal cell,T peripheral helper(Tph) cell
+T cell,peripheral helper (Tph),CCR2,Human,Kidney,Kidney,Normal,Normal cell,T peripheral helper(Tph) cell
+T cell,,CD4,Human,Kidney,Kidney,Normal,Normal cell,T peripheral helper(Tph) cell
+T cell,peripheral helper (Tph),PDCD1,Human,Kidney,Kidney,Normal,Normal cell,T peripheral helper(Tph) cell

@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,FOXA2,FOXA2
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,PDX1,PDX1
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,PAX6,PAX6
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,SOX17,SOX17
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,NKX6.1,NKX6-1
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,NeuroD1,
+Human,Undefined,Undefined,,Normal,Normal cell,Pancreatic endoderm cell,CL_0000223,CD142,F3

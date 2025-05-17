@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,CD11c,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell(cDC),CL_0000990,HLADR,

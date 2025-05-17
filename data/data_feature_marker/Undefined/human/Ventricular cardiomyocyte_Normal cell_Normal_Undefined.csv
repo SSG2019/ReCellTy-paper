@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiomyocyte,Ventricular,TNNT2,Human,Undefined,Undefined,Normal,Normal cell,Ventricular cardiomyocyte
+Cardiomyocyte,Ventricular,IRX4,Human,Undefined,Undefined,Normal,Normal cell,Ventricular cardiomyocyte

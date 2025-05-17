@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial-specific cell,,Tmem119,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial-specific cell,,P2RY12,P2RY12
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Microglial-specific cell,,CX3CR1,CX3CR1

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Subplate cell,,CRYM,Human,Embryo,Subplate,Normal,Normal cell,Subplate cell
+Subplate cell,,HS3ST4,Human,Embryo,Subplate,Normal,Normal cell,Subplate cell
+Subplate cell,,WNT7B,Human,Embryo,Subplate,Normal,Normal cell,Subplate cell

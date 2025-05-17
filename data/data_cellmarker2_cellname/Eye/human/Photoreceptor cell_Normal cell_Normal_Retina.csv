@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,Rhodopsin,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,Nestin,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,PKC,PRRT2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,Recoverin,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,CRX,CRX
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,Peripherin,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,RPE65,RPE65
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,OTX2,OTX2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Photoreceptor cell,CL_0000210,RCVRN,RCVRN

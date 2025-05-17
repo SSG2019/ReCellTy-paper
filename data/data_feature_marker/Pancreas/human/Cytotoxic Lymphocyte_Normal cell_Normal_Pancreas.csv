@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,Cytotoxic,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte
+Lymphocyte,Cytotoxic,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte
+Lymphocyte,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,Cytotoxic Lymphocyte

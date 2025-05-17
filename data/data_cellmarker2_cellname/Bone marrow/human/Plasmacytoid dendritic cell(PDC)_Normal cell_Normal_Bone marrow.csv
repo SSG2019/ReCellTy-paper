@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,HLA-DR,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD45RA,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,BDCA2,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,BDCA4,NRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,GZMB,GZMB
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,JCHAIN,JCHAIN

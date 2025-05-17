@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Platelet,,CD62P,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,CD42a,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,CD41b,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,SELP,Human,Heart,Blood,Normal,Normal cell,Platelet
+Platelet,,GP9,Human,Heart,Blood,Normal,Normal cell,Platelet

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,OLFM4,OLFM4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CCKBR,CCKBR
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CD44v9,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CD90,THY1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,EpCAM,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,LINGO2,LINGO2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CD24,CD24
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Stem cell,CL_0000034,CXCR4,CXCR4

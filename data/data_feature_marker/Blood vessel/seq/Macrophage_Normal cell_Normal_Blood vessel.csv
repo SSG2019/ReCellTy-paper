@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,Adgre1,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Mac2,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Macrophage

@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CCR7,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,LAT,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD2,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD27,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD28,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,BCL11B,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,CD3,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,LCK,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Bone marrow,Bone marrow,Normal,Normal cell,T cell

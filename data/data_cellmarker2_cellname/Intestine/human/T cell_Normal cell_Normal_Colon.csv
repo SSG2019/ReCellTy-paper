@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD71,TFRC
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CRTH2,PTGDR2
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD4,CD4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD69,CD69
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CXCR3,CXCR3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD25,IL2RA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD8,CD8A
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,Ccr5,
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,Ccr6,
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD3,
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CCR7,CCR7
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD3D,CD3D
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CXCR6,CXCR6
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CTLA4,CTLA4
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,CD8B,CD8B
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,FOXP3,FOXP3
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,NFKBIA,NFKBIA
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,T cell,CL_0000084,PSMB9,PSMB9

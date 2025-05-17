@@ -1,0 +1,27 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,CD133,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ABCG2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYD88,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PROM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,KIT,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,LGR5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD166,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PEG10,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ALCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,BMI1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,NANOG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,SOX2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD24,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD117,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nestin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nanog,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell

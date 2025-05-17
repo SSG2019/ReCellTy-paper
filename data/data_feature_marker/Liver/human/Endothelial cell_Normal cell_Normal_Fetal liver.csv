@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,FLT1,Human,Liver,Fetal liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Liver,Fetal liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR3,Human,Liver,Fetal liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT4,Human,Liver,Fetal liver,Normal,Normal cell,Endothelial cell

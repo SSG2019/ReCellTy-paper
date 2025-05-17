@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,LAG-3,
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TIM-3,
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Cervical squamous cell carcinoma and endocervical adenocarcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PD-1,PDCD1

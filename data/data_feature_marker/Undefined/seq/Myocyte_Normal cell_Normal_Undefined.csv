@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myocyte,,MYO18B,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYOG,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYH3,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,ACTA1,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYOD1,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYH1,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYH6,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYH7,Human,Undefined,Undefined,Normal,Normal cell,Myocyte
+Myocyte,,MYH2,Human,Undefined,Undefined,Normal,Normal cell,Myocyte

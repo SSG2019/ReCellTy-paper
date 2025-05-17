@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,IL6R,IL6R
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,PVR,PVR
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,F11R,F11R
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,TFCP2L1,TFCP2L1
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,CD7,CD7
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,CD75,
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,CD130,IL6ST
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,SUSD2,SUSD2
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,KLF4,KLF4
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,FOLR1,FOLR1
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,CD53,CD53
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,F3,F3
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,GPR64,ADGRG2
+Human,Undefined,Undefined,,Normal,Normal cell,Naive human pluripotent stem cell,,KLF17,KLF17

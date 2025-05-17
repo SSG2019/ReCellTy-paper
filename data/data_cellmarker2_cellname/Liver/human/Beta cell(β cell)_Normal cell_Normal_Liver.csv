@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,INS,INS
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,RBP4,RBP4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,ENTPD3,ENTPD3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,IAPP,IAPP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,HADH,HADH
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,DLK1,DLK1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Beta cell(β cell),CL_0000169,ADCYAP1,ADCYAP1

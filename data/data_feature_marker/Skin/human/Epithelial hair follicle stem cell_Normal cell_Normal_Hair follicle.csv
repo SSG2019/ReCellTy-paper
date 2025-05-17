@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,hair follicle,Cytokeratin-19,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,stem cell,CD200,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,hair follicle,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,stem cell,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell

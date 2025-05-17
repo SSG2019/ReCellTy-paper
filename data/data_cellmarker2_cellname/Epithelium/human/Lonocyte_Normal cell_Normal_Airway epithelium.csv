@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Lonocyte,,CFTR,CFTR
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Lonocyte,,ASCL3,ASCL3
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Lonocyte,,RARRES2,RARRES2
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Lonocyte,,FOXI1,FOXI1

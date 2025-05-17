@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD8+ T cell,CL_0000625,HLA-B,HLA-B
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD8+ T cell,CL_0000625,HLA-II,
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD8+ T cell,CL_0000625,HLA-A,HLA-A
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD8+ T cell,CL_0000625,HLA-C,HLA-C

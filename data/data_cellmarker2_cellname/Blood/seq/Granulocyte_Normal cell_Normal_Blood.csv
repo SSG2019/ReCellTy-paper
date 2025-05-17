@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Granulocyte,CL_0000094,MPO,MPO
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Granulocyte,CL_0000094,AZU1,AZU1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Granulocyte,CL_0000094,PRTN3,PRTN3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Granulocyte,CL_0000094,GATA2,GATA2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Granulocyte,CL_0000094,CD66b,CEACAM8

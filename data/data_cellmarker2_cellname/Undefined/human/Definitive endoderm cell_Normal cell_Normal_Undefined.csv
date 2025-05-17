@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,GATA6,GATA6
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,CXCR4,CXCR4
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,LEFTY1,LEFTY1
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,EOMES,EOMES
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,CER1,CER1
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,MIXL1,MIXL1
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,FOXA2,FOXA2
+Human,Undefined,Undefined,,Normal,Normal cell,Definitive endoderm cell,CL_0000223,GATA6,GATA6

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung tumour,Cancer cell,Conventional dendritic cell 1(cDC1),,CLEC9A,CLEC9A
+Human,Lung,Lung,UBERON_0002048,Lung tumour,Cancer cell,Conventional dendritic cell 1(cDC1),,XCR1,XCR1

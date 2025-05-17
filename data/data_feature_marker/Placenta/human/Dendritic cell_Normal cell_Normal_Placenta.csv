@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD83,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD52,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD14,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD86,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell

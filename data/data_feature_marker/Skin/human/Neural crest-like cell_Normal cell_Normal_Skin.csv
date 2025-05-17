@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural crest-like cell,neural crest-like,MLANA,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural crest-like cell,neural crest-like,SOX10,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural crest-like cell,neural crest-like,S100B,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell

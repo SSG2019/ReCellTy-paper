@@ -1,0 +1,195 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Amnion epithelial cell,,NANOG,Human,Placenta,Amniotic membrane,Normal,Normal cell,Amnion epithelial cell
+Amnion epithelial cell,,OCT3/4,Human,Placenta,Amniotic membrane,Normal,Normal cell,Amnion epithelial cell
+Amnion-like cell,,HEY1,Human,Placenta,Placenta,Normal,Normal cell,Amnion‐like cell
+Amnion-like cell,,VIM1,Human,Placenta,Placenta,Normal,Normal cell,Amnion‐like cell
+Stem cell,,CD44,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Stem cell,,CD73,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Stem cell,,CD90,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Stem cell,,CD105,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Stem cell,,NT5E,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Stem cell,,THY1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Amniotic fluid stem cell
+Mesenchymal stem cell,CD106+,CD106,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD87,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD248,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD47,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,PLAUR,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Cytotrophoblast,,Cytokeratin-17,Human,Placenta,Placenta,Normal,Normal cell,Cytotrophoblast
+Cytotrophoblast,,FGF10,Human,Placenta,Placenta,Normal,Normal cell,Cytotrophoblast
+Decidual cell,,IGFBP1,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell
+Decidual cell,,PRL,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell
+Decidual cell,,DKK1,Human,Placenta,Placenta,Normal,Normal cell,Decidual cell
+Dendritic cell,,CD83,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD52,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD14,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD86,Human,Placenta,Placenta,Normal,Normal cell,Dendritic cell
+Epithelial cell,,E-cadherin,Human,Placenta,Amniotic membrane,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin,Human,Placenta,Amniotic membrane,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin,Human,Placenta,Placenta,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-7,Human,Placenta,Placenta,Normal,Normal cell,Epithelial cell
+Trophoblast cell,Extravillous,HLA-G,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast cell
+Trophoblast cell,Extravillous,PAPPA2,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast cell
+Extravillous trophoblast,Invasive,ITGA5,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,CD9,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,MMP9,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,ITGA1,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Invasive,MMP2,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Extravillous trophoblast,Immune tolerance,HLA-G,Human,Placenta,Placenta,Normal,Normal cell,Extravillous trophoblast
+Macrophage,M2,CD206,Human,Placenta,Placenta,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Placenta,Placenta,Normal,Normal cell,M2 macrophage
+Macrophage,Pathogen Recognition,CD14,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Anti-inflammatory,CD163,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Activation, AIF1,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Survival and Proliferation,CSF1R,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,,CD53,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Pathogen Recognition,CD209,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Phagocytic Activity,CD68,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Mesenchymal stem cell,,CD44,Human,Placenta,Amniotic fluid,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Mesenchymal,CD73,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Mesenchymal,CD105,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Mesenchymal,CD44,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Mesenchymal,NT5E,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD45,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PTPRC,Human,Placenta,Chorionic villus,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD29,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD44,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD73,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,CD105,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stemness,STRO-1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,CD49a,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,CD106,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Adhesion,VCAM1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Angiogenesis,CD146,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Angiogenesis,MCAM,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Differentiation,alpha-SMA,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Differentiation,ITGA1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,HLA-DR,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,CD45,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immune Modulation,PTPRC,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Wnt Signaling,CD349,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Wnt Signaling,FZD9,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ITGB1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,NT5E,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stromal cell,Identity,CD105,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,CD90,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,CD73,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Identity,THY1,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,CD166,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,ALCAM,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Ecto-5'-nucleotidase,NT5E,Human,Placenta,Amniotic membrane,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD90,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD45,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD34,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,HLA-DR,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,CD105,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,THY1,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,,PTPRC,Human,Placenta,Placenta,Normal,Normal cell,Mesenchymal stromal cell
+Macrophage,Monocyte-derived,CD14,Human,Placenta,Placenta,Normal,Normal cell,Monocyte-derived macrophage
+Macrophage,Monocyte-derived,CD163,Human,Placenta,Placenta,Normal,Normal cell,Monocyte-derived macrophage
+Macrophage,,CD68,Human,Placenta,Placenta,Normal,Normal cell,Monocyte-derived macrophage
+Monocyte,,CCR2,Human,Placenta,Placenta,Normal,Normal cell,Monocyte
+Natural killer cell,,CD56 NCAM1,Human,Placenta,Placenta,Normal,Normal cell,Natural killer cell
+Neutrophil,,CD66b,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,CD16,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,Myeloperoxidase,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,Arginase,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,CD15,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,CD10,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,CD11c,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,CEACAM8,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,FUT4,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Neutrophil,,MME,Human,Placenta,Placenta,Normal,Normal cell,Neutrophil
+Placenta cell,,CDX2,Human,Placenta,Placenta,Infantile Hemangiomas,Cancer cell,Placenta cell
+Placental tissue cell,,LIMCH1,Human,Placenta,Placenta,Normal,Normal cell,Placental tissue cell
+Placental tissue cell,,FLT1,Human,Placenta,Placenta,Normal,Normal cell,Placental tissue cell
+Placental tissue cell,,TAP1,Human,Placenta,Placenta,Normal,Normal cell,Placental tissue cell
+Red blood cell,erythrocyte,HBA1,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBG1,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,ALAS2,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBB,Human,Placenta,Placenta,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Placenta,Placenta,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Placenta,Placenta,Normal,Normal cell,Regulatory T(Treg) cell
+Stem cell,,OCT4,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD29,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD44,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD13,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,HLA-ABC,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD73,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD166,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,CD117,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,VEGFR-2,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,VEGFR-1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,POU5F1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,ITGB1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,ANPEP,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,ALCAM,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,KIT,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,FLT1,Human,Placenta,Amniotic fluid,Normal,Normal cell,Stem cell
+Stem cell,,P63,Human,Placenta,Amniotic membrane,Normal,Normal cell,Stem cell
+Stem cell,,ABCG2,Human,Placenta,Amniotic membrane,Normal,Normal cell,Stem cell
+Stem cell,,Vimentin,Human,Placenta,Amniotic membrane,Normal,Normal cell,Stem cell
+Stem cell,,CD105,Human,Placenta,Placenta,Normal,Normal cell,Stem cell
+Stem cell,,CD73,Human,Placenta,Placenta,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Placenta,Placenta,Normal,Normal cell,Stem cell
+Stem cell,,NT5E,Human,Placenta,Placenta,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Placenta,Placenta,Normal,Normal cell,Stem cell
+Stromal cell,,Vimentin,Human,Placenta,Amniotic membrane,Normal,Normal cell,Stromal cell
+Syncytiotrophoblast,,CGA,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,CYP19A1,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,GH2,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,SDC1,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,CD63,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,MUC16,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+Syncytiotrophoblast,,S100P,Human,Placenta,Placenta,Normal,Normal cell,Syncytiotrophoblast
+T cell,,CD3G,Human,Placenta,Placenta,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Placenta,Placenta,Normal,Normal cell,T cell
+T cell,,CD3,Human,Placenta,Placenta,Normal,Normal cell,T cell
+Trophectoderm cell,,TBX3,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,ATP1B3,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,FGFR4,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,CLDN10,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,POU5F1,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,GATA2,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,SOX4,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,S100A6,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophoblast cell,,Cytokeratin,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,Vimentin,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,Cytokeratin-7,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,Laeverin,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,KRT17,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,ITGB4,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,CCNB1,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,ITGA2,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,ITGA6,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Trophoblast cell,,KRT23,Human,Placenta,Placenta,Normal,Normal cell,Trophoblast cell
+Vascular endothelial cell,,ICAM1,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,PLVAP,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,CD34,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,CDH5,Human,Placenta,Placenta,Normal,Normal cell,Vascular endothelial cell
+Vascular smooth muscle cell,VSMC,CNN1,Human,Placenta,Placenta,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vascular smooth muscle cell,VSMC,MYH11,Human,Placenta,Placenta,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Villous cytotrophoblast,,PARP1,Human,Placenta,Placenta,Normal,Normal cell,Villous cytotrophoblast
+Villous stromal cell,,NOV,Human,Placenta,Chorionic villus,Normal,Normal cell,Villous stromal cell
+Villous stromal cell,,CYR61,Human,Placenta,Chorionic villus,Normal,Normal cell,Villous stromal cell
+Villous stromal cell,,CCN3,Human,Placenta,Chorionic villus,Normal,Normal cell,Villous stromal cell
+Villous stromal cell,,CCN1,Human,Placenta,Chorionic villus,Normal,Normal cell,Villous stromal cell
+Villous stromal cell,,Fibromodulin,Human,Placenta,Placenta,Normal,Normal cell,Villous stromal cell
+Villous stromal cell,,ECM1,Human,Placenta,Placenta,Normal,Normal cell,Villous stromal cell
+Mesenchymal stem cell,CD106+,CD106,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD87,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD248,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,CD47,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,PLAUR,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell
+Mesenchymal stem cell,,VCAM1,Human,Placenta,Chorionic villi,Normal,Normal cell,CD106+ mesenchymal stem cell

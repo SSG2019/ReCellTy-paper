@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Lymphocyte,CL_0000542,Prox-1,
+Human,Blood,Umbilical cord blood,UBERON_0012168,Normal,Normal cell,Lymphocyte,CL_0000542,Podoplanin,

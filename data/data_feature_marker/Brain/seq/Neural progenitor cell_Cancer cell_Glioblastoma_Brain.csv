@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural progenitor cell,,DCX,Human,Brain,Brain,Glioblastoma,Cancer cell,Neural progenitor cell
+Neural progenitor cell,,SOX11,Human,Brain,Brain,Glioblastoma,Cancer cell,Neural progenitor cell
+Neural progenitor cell,,SOX4,Human,Brain,Brain,Glioblastoma,Cancer cell,Neural progenitor cell

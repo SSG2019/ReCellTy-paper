@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Distal,PTGDR,Human,Intestine,Epithelium,Normal,Normal cell,Distal stem cell
+Stem cell,Distal,SMOC2,Human,Intestine,Epithelium,Normal,Normal cell,Distal stem cell
+Stem cell,,LEFTY1,Human,Intestine,Epithelium,Normal,Normal cell,Distal stem cell

@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,ITGAM,ITGAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,VIM,VIM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,PTPRC,PTPRC
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD4,CD4
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,LYZ,LYZ
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,ITGAX,ITGAX
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,LAPTM5,LAPTM5
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD33,CD33
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,MSR1,MSR1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD86,CD86
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,HLA-DPA1,HLA-DPA1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,IL1B,IL1B
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CD74,CD74
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Macrophage,CL_0000235,CLEC5A,CLEC5A

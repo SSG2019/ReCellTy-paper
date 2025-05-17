@@ -1,0 +1,23 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,EPAS1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,c-Myc,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,Podoplanin,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYC,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,BMI1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,SOX2,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,Musashi-1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,Nestin,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,A2B5,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,SSEA-1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,ALDH1A1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,CD44,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,L1CAM,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,CXCR4,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,ABCG2,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,CD15,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,CD49f,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,CD133,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,BCRP1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,FUT4,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,ITGA6,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer stem,PROM1,Human,Undefined,Undefined,Glioma,Cancer cell,Cancer stem cell

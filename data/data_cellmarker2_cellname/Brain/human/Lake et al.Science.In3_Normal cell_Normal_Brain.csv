@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,SCTR,SCTR
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,CRIM1,CRIM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,SLC12A7,SLC12A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,PREX1,PREX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,RYR3,RYR3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,SLC6A11,SLC6A11
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,KMO,KMO
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,AHRR,AHRR
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,SYT2,SYT2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,IGFBP5,IGFBP5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,EMID1,EMID1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,SHISA8,SHISA8
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In3,CL_0000540,EXPH5,EXPH5

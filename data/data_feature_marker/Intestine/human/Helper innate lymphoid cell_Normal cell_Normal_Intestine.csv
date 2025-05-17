@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+innate lymphoid cell,Helper,IL7R,Human,Intestine,Intestine,Normal,Normal cell,Helper innate lymphoid cell
+innate lymphoid cell,Helper,KLRB1,Human,Intestine,Intestine,Normal,Normal cell,Helper innate lymphoid cell

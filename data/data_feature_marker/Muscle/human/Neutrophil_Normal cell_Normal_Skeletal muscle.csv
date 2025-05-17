@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,Itgam,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a9,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,Cd14,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil
+Neutrophil,,S100a8,Human,Muscle,Skeletal muscle,Normal,Normal cell,Neutrophil

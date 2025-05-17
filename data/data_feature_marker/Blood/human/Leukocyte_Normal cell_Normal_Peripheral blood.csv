@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,Ly-9,Human,Blood,Peripheral blood,Normal,Normal cell,Leukocyte
+Leukocyte,,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Leukocyte

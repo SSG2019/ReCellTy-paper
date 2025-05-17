@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD64,FCGR1A
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,HLADR,
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD11b,
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD68,CD68
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Monocyte,CL_0000576,CD11C,ITGAX

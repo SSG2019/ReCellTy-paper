@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,VIM,VIM
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,SPARC,SPARC
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,PN1,SERPINE2
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,POSTN,POSTN
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,CXCL12,CXCL12
+Human,Breast,Muscle,UBERON_0001630,Breast Cancer,Cancer cell,Fibroblast,CL_0000057,MMP11,MMP11

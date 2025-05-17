@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,,MAG,Human,Brain,Brain,Normal,Normal cell,Mature oligodendrocyte
+Oligodendrocyte,,CNP,Human,Brain,Brain,Normal,Normal cell,Mature oligodendrocyte
+Oligodendrocyte,,PLP1,Human,Brain,Brain,Normal,Normal cell,Mature oligodendrocyte
+Oligodendrocyte,,MBP,Human,Brain,Brain,Normal,Normal cell,Mature oligodendrocyte
+Oligodendrocyte,,MOG,Human,Brain,Brain,Normal,Normal cell,Mature oligodendrocyte

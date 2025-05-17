@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,MIR155HG,MIR155HG
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,PTGIR,PTGIR
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,GNG8,GNG8
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,PRDM1,PRDM1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,PLN,PLN
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IKZF4,IKZF4

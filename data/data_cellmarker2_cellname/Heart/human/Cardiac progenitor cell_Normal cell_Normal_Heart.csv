@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,CD34,CD34
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,ETV2,ETV2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,GATA4,GATA4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,WT1,WT1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,TBX18,TBX18
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,ABCG2,ABCG2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,SCA-1,CASP3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,NKX2.5,NKX2-5
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,SSEA-1,FUT4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,CD29,ITGB1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,CD117,KIT
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,SCF,KITLG
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,ISLET-1,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiac progenitor cell,,SCA-1,CASP3

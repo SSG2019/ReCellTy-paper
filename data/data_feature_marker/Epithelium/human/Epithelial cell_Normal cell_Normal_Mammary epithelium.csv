@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,ESA,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-8,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD227,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,K19,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FLOT2,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC1,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell

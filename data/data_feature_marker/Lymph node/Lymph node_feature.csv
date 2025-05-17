@@ -1,0 +1,301 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,RFX7,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,RHOA,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,HNRNDP,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,TP53,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,SMARCA4,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,FBXO11,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,ID3,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,TFAP4,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,GNAI2,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,GNA13,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,E2F2,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,CCND3,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,TCF3,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,MYC,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,FOXO1,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,ADNP,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,ARID1A,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,DDX3X,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,PCBP1,Human,Lymph node,Lymph,B-Cell Lymphoma,Cancer cell,B cell
+B cell,,CD20,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,CD19,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,CD79A,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,CD22,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,CD79B,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,B cell
+B cell,,PAX5,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,B cell
+B cell,,CD20,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD21,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD19,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD23,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD32,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD80,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,BOB-1,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,PAX5,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,OCT2,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,IgM,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CD27,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,CR2,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,FCGR2A,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+B cell,,SLC22A2,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+Fibroblast,Cancer associated,FAP,Human,Lymph node,Lymph node,Normal,Normal cell,Cancer associated fibroblast(CAF)
+Cancer cell,,ALK,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD30,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,TNFRSF8,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell
+cell,Cancer,CD56,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell
+cell,Cancer,EBER1,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell
+cell,Cancer,NCAM1,Human,Lymph node,Lymphoid tissue,Hepatosplenic T-cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD15,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,LMP1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,OCT2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD79A,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,EBER,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD3,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD21,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD30,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,BOB1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD20,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD57,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PD1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,Pax-5,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,IgD,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD45,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,FUT4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PDLIM7,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,SLC22A2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CR2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,TNFRSF8,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,POU2AF1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,MS4A1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,B3GAT1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PDCD1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+Cancer cell,,PTPRC,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Cancer cell
+T cell,CD4+,CD26,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD69,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD38,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,DPP4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,OX40,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD160,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD5,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD69,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,,CD57,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,,LAG3,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,,B3GAT1,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD4+ T cell
+T cell,CD8+,CD103,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,ITGAE,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD103,Human,Lymph node,Lymph,Lung Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,ITGAE,Human,Lymph node,Lymph,Lung Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,OX40,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD57,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD69,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD160,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD5,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,LAG3,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,TNFRSF4,Human,Lymph node,Lymphoid tissue,Paediatric cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,PD-1,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,PDCD1,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,PRF1,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+T cell,Cytotoxic,NKG7,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CCL4/5,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Cytotoxic T cell
+Dendritic cell,,CD83,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Dendritic cell
+Endothelial cell,,CD34,Human,Lymph node,Lymph node,Kaposi's Sarcoma,Cancer cell,Endothelial cell
+Endothelial cell,,CD31 PECAM1,Human,Lymph node,Lymph node,Vascular Tumour,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Lymph node,Lymph node,Normal,Normal cell,Endothelial cell
+T cell,Follicular helper (Tfh),PD-1,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),CXCL13,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),ICOS,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),BCL6,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),CD10,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper (Tfh),MME,Human,Lymph node,Lymph node,Normal,Normal cell,Follicular helper (Tfh) T cell
+B cell,Germinal center,AID,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Germinal center B cell
+B cell,Germinal center,BCL-6,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Germinal center B cell
+B cell,Germinal center,AICDA,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Germinal center B cell
+Hodgkin and reed–sternberg cell,Immune Evasion,PDL2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,Immune Evasion,PDL1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,CD52,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,HDAC6,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Hodgkin and reed–sternberg cell,,NOTCH1,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Hodgkin and reed–sternberg cell
+Human rheumatoid synovial cell,,CD30 TNFRSF8,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Human rheumatoid synovial cell(HRSC)
+Langerhans cell,,CD1A,Human,Lymph node,Lymph node,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Lymph node,Lymph node,Normal,Normal cell,Langerhans cell
+Lymph node cell,,CD95,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,CD39,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,RB,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,CD38,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,CD73,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,CD27,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,FAS,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,ENTPD1,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,RB1,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymph node cell,,NT5E,Human,Lymph node,Lymph node,Normal,Normal cell,Lymph node cell
+Lymphatic endothelial cell,,Podoplanin,Human,Lymph node,Lymph node,Renal Clear Cell Carcinoma,Cancer cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,PROX1,Human,Lymph node,Lymph node,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,Podoplanin,Human,Lymph node,Lymph node,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,VEGFR-3,Human,Lymph node,Lymph node,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,FLT4,Human,Lymph node,Lymph node,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,GNLY,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,PRF1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A2,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMA,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMB,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,LY6E,Human,Lymph node,Lymph,Normal,Normal cell,Lymphocyte
+Lymphocyte,,IRF4,Human,Lymph node,Lymphoid tissue,Normal,Normal cell,Lymphocyte
+Macrophage,,CD68,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Lymph node,Lymph node,Normal,Normal cell,Macrophage
+B cell,Memory,IGHG1,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Memory B cell
+B cell,,CD72,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Memory B cell
+T cell,Memory,CD45RO,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Memory T cell
+Myeloid cell,,CD15,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Myeloid cell
+B cell,,CD72,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Naive B cell
+B cell,Naive,IGHM,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Naive B cell
+T cell,Naive,CD45RA,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CD45RA,Human,Lymph node,Lymph node,Normal,Normal cell,Naive T(Th0) cell
+Natural killer cell,,CD56 NCAM1,Human,Lymph node,Lymph node,Natural Killer Cell Lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD57,Human,Lymph node,Lymph node,Nodular lymphocyte predominant Hodgkin lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Lymph node,Lymph node,Nodular lymphocyte predominant Hodgkin lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,NKp46,Human,Lymph node,Lymph node,Normal,Normal cell,Natural killer cell
+B cell,,CD19,Human,Lymph node,Lymph,Normal,Normal cell,Pan-B cell
+Pericyte,,CD146,Human,Lymph node,Lymph node,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Lymph node,Lymph node,Normal,Normal cell,Pericyte
+Plasma cell,,IRF4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Plasma cell
+dendritic cell,Plasmacytoid,IL3RA,Human,Lymph node,Lymph node,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Progenitor cell,,CD34,Human,Lymph node,Lymph node,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD38,Human,Lymph node,Lymph node,Normal,Normal cell,Progenitor cell
+Progenitor cell,,CD45RA,Human,Lymph node,Lymph node,Normal,Normal cell,Progenitor cell
+T cell,Regulatory,CTLA4,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,TOX,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Rosetting T cell
+T cell,,TOX2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Rosetting T cell
+T cell,CD8,CD8,Human,Lymph node,Lymph node,Stage I HPV-positive head and neck squamous cell carcinoma(HNSCC),Cancer cell,Stem-like CD8 T cell
+T cell,CD8,PD-1,Human,Lymph node,Lymph node,Stage I HPV-positive head and neck squamous cell carcinoma(HNSCC),Cancer cell,Stem-like CD8 T cell
+T cell,CD8,CD8A,Human,Lymph node,Lymph node,Stage I HPV-positive head and neck squamous cell carcinoma(HNSCC),Cancer cell,Stem-like CD8 T cell
+T cell,CD8,PDCD1,Human,Lymph node,Lymph node,Stage I HPV-positive head and neck squamous cell carcinoma(HNSCC),Cancer cell,Stem-like CD8 T cell
+T cell,Stem-like,TCF-1,Human,Lymph node,Lymph node,Stage I HPV-positive head and neck squamous cell carcinoma(HNSCC),Cancer cell,Stem-like CD8 T cell
+Stromal cell,,CD34,Human,Lymph node,Lymph node,Normal,Normal cell,Stromal cell
+T cell,,MYC,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,TAL2,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,LMO2,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,USP7,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,TAL1,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,LMO1,Human,Lymph node,Lymph,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell
+T cell,,CD3D,Human,Lymph node,Lymphoid tissue,Colorectal Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph node,Lymphoid tissue,Colorectal Cancer,Cancer cell,T cell
+T cell,,CD4,Human,Lymph node,Lymphoid tissue,Colorectal Cancer,Cancer cell,T cell
+T cell,,CD4,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph node,Lymph node,Follicular Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Lymph node,Lymphoid tissue,Gastric Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Lymph node,Lymphoid tissue,Gastric Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Lymph node,Lymphoid tissue,Gastric Cancer,Cancer cell,T cell
+T cell,,ITGAE,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,ENTPD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,PDCD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,CD3,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,T cell
+T cell,,CD2,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD4,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD5,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD3,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,FCR,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD45,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,THY1,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,CD103,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,TRAV1-2,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,LAG3,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,PRF1,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMB,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,GZMA,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,ENTPD1,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,HAVCR2,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,,ITGAE,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,Follicular helper (Tfh),PD1,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),ICOS,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD4,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,,CD3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),ICOS,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CXCR5,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),BCL6,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CXCL13,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,CXCR5,Human,Lymph node,Lymph node,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Lymph node,Lymph node,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,T helper 1 (Th1),TBX21,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,T helper 1 (Th1),IFNg,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,T helper 2 (Th2),GATA3,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,T helper 2 (Th2),CCR4,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 2(Th2) cell
+T cell,T helper (Th),TOX2,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell
+T cell,T helper (Th),CD200,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell
+T cell,T helper,IL2RA,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CD4,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,,KLF2,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,,PLAC8,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,,CD3,Human,Lymph node,Lymph node,Nodal B-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,Th,CCR6,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell
+T cell,Th,CD161,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell
+T cell,,KLRB1,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell
+B cell,,CD19,Human,Lymph node,Lymph node,Normal,Normal cell,B cell
+T cell,CD4+,CD26,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD69,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD38,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD4+,DPP4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,CD4+ T cell
+T cell,CD8+,PD-1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD103,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD39,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,PDCD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,ITGAE,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,ENTPD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,PRF1,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Lymph node,Lymph,Normal,Normal cell,CD8+ T cell
+Langerhans cell,,CD1A,Human,Lymph node,Lymph node,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Lymph node,Lymph node,Normal,Normal cell,Langerhans cell
+Lymphocyte,,GNLY,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,PRF1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A2,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMA,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMB,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,IRF4,Human,Lymph node,Lymphoid tissue,Normal,Normal cell,Lymphocyte
+T cell,Memory,CD45RO,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Memory T cell
+T cell,Naive,CD45RA,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Naive T(Th0) cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Lymph node,Lymph node,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+T cell,Regulatory,CTLA4,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CD25,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,,TOX,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Rosetting T cell
+T cell,,TOX2,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Rosetting T cell
+T cell,,ITGAE,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,ENTPD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,PDCD1,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Lymph node,Lymph node,Normal,Normal cell,T cell
+T cell,,TRAV1-2,Human,Lymph node,Lymph,Normal,Normal cell,T cell
+T cell,T helper (Th),TOX2,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell
+T cell,T helper (Th),CD200,Human,Lymph node,Lymph,High-grade serous ovarian cancer,Cancer cell,T helper(Th) cell
+T cell,Th,CCR6,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell
+T cell,Th,CD161,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell
+T cell,,KLRB1,Human,Lymph node,Lymph,Normal,Normal cell,T helper(Th) cell

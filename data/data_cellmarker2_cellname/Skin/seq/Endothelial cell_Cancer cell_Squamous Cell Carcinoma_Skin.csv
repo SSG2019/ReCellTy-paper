@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,TFF3,TFF3
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinoma,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF

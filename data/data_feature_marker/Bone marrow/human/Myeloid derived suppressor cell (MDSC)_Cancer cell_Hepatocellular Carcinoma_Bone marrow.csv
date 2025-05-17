@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Derived suppressor,CD11b,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Derived suppressor,CD33,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Myeloid derived suppressor cell (MDSC)

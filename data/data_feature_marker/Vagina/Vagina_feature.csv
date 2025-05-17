@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,CD8,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Cytotoxic T cell
+T cell,,CD3,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Cytotoxic T cell
+Neutrophil,,CD16,Human,Vagina,Vagina,Normal,Normal cell,Neutrophil
+Neutrophil,,CD24,Human,Vagina,Vagina,Normal,Normal cell,Neutrophil
+Neutrophil,,CD15,Human,Vagina,Vagina,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Vagina,Vagina,Normal,Normal cell,Neutrophil
+Neutrophil,,FUT4,Human,Vagina,Vagina,Normal,Normal cell,Neutrophil
+T cell,Regulatory,Foxp3,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,Foxp3,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Vagina,Vagina,Vulvar squamous cell carcinoma,Cancer cell,T helper(Th) cell
+Vaginal cell,,Stratifin,Human,Vagina,Vagina,Normal,Normal cell,Vaginal cell
+Vaginal cell,,Loricrin,Human,Vagina,Vagina,Normal,Normal cell,Vaginal cell

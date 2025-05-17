@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CD3D,CD3D
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CTLA4,CTLA4
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,PDCD1,PDCD1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,SIRPG,SIRPG
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CD27,CD27
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CD2,CD2
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,IL2RA,IL2RA
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CD3E,CD3E
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,CD3G,CD3G
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,RNF19A,RNF19A
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,TNFRSF1B,TNFRSF1B
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,TIGIT,TIGIT
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Regulatory T (Treg) cell,,ICA1,ICA1

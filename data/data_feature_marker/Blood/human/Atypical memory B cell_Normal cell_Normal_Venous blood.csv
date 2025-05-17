@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Atypical,CD10,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,Atypical,MME,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,Memory,CD27,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,,CD20,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,,CD19,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,,CD21,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,,MS4A1,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell
+B cell,,CR2,Human,Blood,Venous blood,Normal,Normal cell,Atypical memory B cell

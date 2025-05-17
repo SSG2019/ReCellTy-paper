@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD335,NCR1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD49a,ITGA1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD56,NCAM1

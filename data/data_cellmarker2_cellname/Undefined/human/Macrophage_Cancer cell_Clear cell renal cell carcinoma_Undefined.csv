@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Clear cell renal cell carcinoma,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Undefined,Undefined,,Clear cell renal cell carcinoma,Cancer cell,Macrophage,CL_0000235,TLR2,TLR2
+Human,Undefined,Undefined,,Clear cell renal cell carcinoma,Cancer cell,Macrophage,CL_0000235,MSR1,MSR1
+Human,Undefined,Undefined,,Clear cell renal cell carcinoma,Cancer cell,Macrophage,CL_0000235,FCGR1A,FCGR1A
+Human,Undefined,Undefined,,Clear cell renal cell carcinoma,Cancer cell,Macrophage,CL_0000235,ITGAM,ITGAM

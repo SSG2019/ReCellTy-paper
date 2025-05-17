@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EPCAM,Human,Liver,Liver,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Liver,Liver,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ALB,Human,Liver,Liver,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Liver,Liver,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Liver,Liver,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Liver,Liver,Normal,Normal cell,Epithelial cell

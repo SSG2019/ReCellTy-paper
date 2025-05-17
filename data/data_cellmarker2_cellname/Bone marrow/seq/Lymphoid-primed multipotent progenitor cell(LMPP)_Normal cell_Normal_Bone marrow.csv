@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP),CL_0000936,ITGA2B,ITGA2B
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP),CL_0000936,SPINK2,SPINK2
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP),CL_0000936,FCER1A,FCER1A
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP),CL_0000936,HBD,HBD
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Lymphoid-primed multipotent progenitor cell(LMPP),CL_0000936,EGR1,EGR1

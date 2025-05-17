@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder carcinoma,Cancer cell,M2 macrophage,CL_0000890,CD206,MRC1
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder carcinoma,Cancer cell,M2 macrophage,CL_0000890,IL10,IL10
+Human,Gall bladder,Gall bladder,UBERON_0002110,Gallbladder carcinoma,Cancer cell,M2 macrophage,CL_0000890,CD163,CD163

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen presentation,HLA-DRA,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,HLA-DPB1,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,HLA-DQB1,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,HLA-DPA1,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,MHC-II,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Immune response modulation,ITGAX,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Immune response modulation,CD1C,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Immune response modulation,NRP1,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell
+Dendritic cell,Immune response modulation,BATF3,Human,Brain,Brain,Glioma,Cancer cell,Dendritic cell

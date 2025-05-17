@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte-derived macrophage,,CD69,CD69
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte-derived macrophage,,LGMN,LGMN
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte-derived macrophage,,LYZ,LYZ
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte-derived macrophage,,CSF1R,CSF1R
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Monocyte-derived macrophage,,CD14,CD14

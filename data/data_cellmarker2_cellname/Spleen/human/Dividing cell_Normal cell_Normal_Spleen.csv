@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing cell,,H2AFZ,H2AZ1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing cell,,TUBB,TUBB
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing cell,,MKI67,MKI67
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing cell,,CDK1,CDK1

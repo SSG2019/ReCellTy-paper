@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Vagina,Vagina,UBERON_0000996,Normal,Normal cell,Vaginal cell,,Stratifin,
+Human,Vagina,Vagina,UBERON_0000996,Normal,Normal cell,Vaginal cell,,Loricrin,

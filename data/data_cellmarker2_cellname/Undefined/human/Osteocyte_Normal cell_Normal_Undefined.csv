@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,Sclerostin,
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,FGF23,FGF23
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,RUNX2,RUNX2
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,BMP2,BMP2
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,SP7,SP7
+Human,Undefined,Undefined,,Normal,Normal cell,Osteocyte,CL_0000137,COL1A,

@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4,CD161,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,CD4,CD69,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,CD4,CD38,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,CD4,LAG3,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,CD4,KLRB1,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Regulatory,CD161,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Regulatory,CD69,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Regulatory,CD38,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Regulatory,LAG3,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Regulatory,KLRB1,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Peripherally derived,CD161,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Peripherally derived,CD69,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Peripherally derived,CD38,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Peripherally derived,LAG3,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell
+T cell,Peripherally derived,KLRB1,Human,Intestine,Intestine,Normal,Normal cell,CD4 peripherally derived regulatory T cell

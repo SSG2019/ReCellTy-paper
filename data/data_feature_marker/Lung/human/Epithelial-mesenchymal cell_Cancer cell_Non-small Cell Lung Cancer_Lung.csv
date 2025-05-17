@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial-mesenchymal cell,Epithelial,CDH1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Epithelial,EPCAM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,VIM,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,ZEB1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell
+Epithelial-mesenchymal cell,Mesenchymal,ZEB2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Epithelial-mesenchymal cell

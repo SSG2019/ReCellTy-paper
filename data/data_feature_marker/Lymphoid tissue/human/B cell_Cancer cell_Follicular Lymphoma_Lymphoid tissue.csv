@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Somatic Hypermutation,AID,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Somatic Hypermutation,AICDA,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Germinal Center,CD10,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,Germinal Center,BCL6,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell
+B cell,,MME,Human,Lymphoid tissue,Lymphoid tissue,Follicular Lymphoma,Cancer cell,B cell

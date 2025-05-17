@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Sclerocorneal tissue,UBERON_0006761,Normal,Normal cell,Limbal mesenchymal cell,CL_0008019,CD105,
+Human,Eye,Sclerocorneal tissue,UBERON_0006761,Normal,Normal cell,Limbal mesenchymal cell,CL_0008019,Vimentin,
+Human,Eye,Sclerocorneal tissue,UBERON_0006761,Normal,Normal cell,Limbal mesenchymal cell,CL_0008019,CD34,CD34
+Human,Eye,Sclerocorneal tissue,UBERON_0006761,Normal,Normal cell,Limbal mesenchymal cell,CL_0008019,N-cadherin,

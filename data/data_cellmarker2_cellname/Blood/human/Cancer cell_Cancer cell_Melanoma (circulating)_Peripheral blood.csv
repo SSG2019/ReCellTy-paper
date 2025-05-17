@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,ABCB5,ABCB5
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,MCSP,CSPG4
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,MCAM,MCAM
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,CD271,NGFR
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,ABCB5,ABCB5
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,CD271,NGFR
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,MCSP,CSPG4
+Human,Blood,Peripheral blood,UBERON_0005408,Melanoma (circulating),Cancer cell,Cancer cell,CL_0001064,MCAM,MCAM

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Vein cell,,MMRN1,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,DARC,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,ACKR1,Human,Eye,Choroid,Normal,Normal cell,Vein cell

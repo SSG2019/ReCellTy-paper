@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,AMY2B,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,PRSS1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,REG3A,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell
+Acinar cell,,Cpa1,Human,Pancreas,Pancreas,Normal,Normal cell,Acinar cell

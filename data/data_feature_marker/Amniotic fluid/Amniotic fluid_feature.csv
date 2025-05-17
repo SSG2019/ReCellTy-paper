@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dermal papilla cell,,ALP,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Dermal papilla cell
+Dermal papilla cell,,ALPP,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Dermal papilla cell
+Hair follicle cell,,CK15,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Hair follicle cell
+Hair follicle cell,,KRT15,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Hair follicle cell
+Mesenchymal cell,EMT,Slug,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,EMT,Snail,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,Matrix remodeling,MMP1,Human,Amniotic fluid,Amniotic fluid,Normal,Normal cell,Mesenchymal cell

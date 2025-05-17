@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,glomerular Endothelial cell (ECg),CL_0002188,EMCN,EMCN
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,glomerular Endothelial cell (ECg),CL_0002188,PECAM1,PECAM1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,glomerular Endothelial cell (ECg),CL_0002188,PLVAP,PLVAP

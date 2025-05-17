@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Plasmacytoid,IRF8,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,CD123,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,E2-2,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,CD303,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,IL3RA,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,TCF4,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,LILRA4,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell
+dendritic cell,Plasmacytoid,CLEC4C,Human,Undefined,Undefined,Normal,Normal cell,Plasmacytoid dendritic cell

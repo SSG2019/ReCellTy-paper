@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Dopaminergic,Pitx3,Human,Brain,Brain,Normal,Normal cell,Dopaminergic neuron
+Neuron,Dopaminergic,KCNJ6,Human,Brain,Brain,Normal,Normal cell,Dopaminergic neuron
+Neuron,Dopaminergic,TH,Human,Brain,Brain,Normal,Normal cell,Dopaminergic neuron
+Neuron,Dopaminergic,NR4A2,Human,Brain,Brain,Normal,Normal cell,Dopaminergic neuron

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CXCR5,CXCR5
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Effector memory T cell,CL_0000813,CD57,B3GAT1

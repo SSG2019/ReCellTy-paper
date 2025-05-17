@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,CXCL2,CXCL2
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,IL1B,IL1B
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,CST3,CST3
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,IL8,CXCL8
+Human,Intestine,Rectum,UBERON_0001052,Normal,Normal cell,Monocyte,CL_0000576,IL1RN,IL1RN

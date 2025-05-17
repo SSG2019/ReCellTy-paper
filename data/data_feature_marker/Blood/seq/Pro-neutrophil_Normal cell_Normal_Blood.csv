@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,Pro,CD63,Human,Blood,Blood,Normal,Normal cell,Pro-neutrophil
+Neutrophil,Pro,CD66b,Human,Blood,Blood,Normal,Normal cell,Pro-neutrophil
+Neutrophil,Pro,CD15,Human,Blood,Blood,Normal,Normal cell,Pro-neutrophil
+Neutrophil,Pro,CEACAM8,Human,Blood,Blood,Normal,Normal cell,Pro-neutrophil
+Neutrophil,Pro,FUT4,Human,Blood,Blood,Normal,Normal cell,Pro-neutrophil

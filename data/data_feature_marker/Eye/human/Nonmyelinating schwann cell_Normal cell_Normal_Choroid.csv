@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Schwann cell,Nonmyelinating,NGFR,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,SCN7A,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,L1CAM,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,NCAM1,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell

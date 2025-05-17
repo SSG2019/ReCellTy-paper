@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Mesoderm,UBERON_0000926,Normal,Normal cell,Mesodermal progenitor cell,,NES,NES
+Human,Embryo,Mesoderm,UBERON_0000926,Normal,Normal cell,Mesodermal progenitor cell,,MCAM,MCAM
+Human,Embryo,Mesoderm,UBERON_0000926,Normal,Normal cell,Mesodermal progenitor cell,,CSPG4,CSPG4

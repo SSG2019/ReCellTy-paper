@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Anti-inflammatory,CD163,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Macrophage
+Macrophage,Alternative activation,CD206,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Macrophage
+Macrophage,Antigen presentation,CD169,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Macrophage
+Macrophage,Scavenger receptor,CD204,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Macrophage

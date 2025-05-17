@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Meiotic prophase,DMC1,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,SPO11,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,SYCP1,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,SYCP3,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,HORMAD1,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,HORMAD2,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,MEIOB,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,MEIOC,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,TEX11,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,TEX12,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,TEX14,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Meiotic prophase,TEX15,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Fetal,DDX4,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Fetal,DAZL,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Fetal,NANOS3,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Fetal,POU5F1,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell
+Germ cell,Fetal,ZPBP,Human,Gonad,Fetal gonad,Normal,Normal cell,Meiotic prophase fetal germ cell

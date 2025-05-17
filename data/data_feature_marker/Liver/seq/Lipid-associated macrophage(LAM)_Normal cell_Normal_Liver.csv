@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,Lipid-associated,gpmb,Human,Liver,Liver,Normal,Normal cell,Lipid-associated macrophage(LAM)
+macrophage,Lipid-associated,Trem2,Human,Liver,Liver,Normal,Normal cell,Lipid-associated macrophage(LAM)
+macrophage,,CD9,Human,Liver,Liver,Normal,Normal cell,Lipid-associated macrophage(LAM)
+macrophage,,Cd63,Human,Liver,Liver,Normal,Normal cell,Lipid-associated macrophage(LAM)

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,stem,ALDH1A2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ALDH1A3,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,SOX2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,CD44,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,ABCG2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer,CTNNB1,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,KLF2,Human,Thyroid,Thyroid,Anaplastic thyroid cancer,Cancer cell,Cancer stem cell

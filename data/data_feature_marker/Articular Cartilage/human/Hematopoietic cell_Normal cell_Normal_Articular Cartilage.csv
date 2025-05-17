@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,CD133,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD34,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD45,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PROM1,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Articular Cartilage,Articular Cartilage,Normal,Normal cell,Hematopoietic cell

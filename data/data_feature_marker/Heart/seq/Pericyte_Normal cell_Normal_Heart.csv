@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,PDGFRB,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CD90,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Heart,Heart,Normal,Normal cell,Pericyte
+Pericyte,,THY1,Human,Heart,Heart,Normal,Normal cell,Pericyte

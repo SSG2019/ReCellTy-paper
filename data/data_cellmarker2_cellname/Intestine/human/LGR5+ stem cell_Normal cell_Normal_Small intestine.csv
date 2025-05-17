@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,LGR5+ stem cell,CL_0000034,TANC1,TANC1
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,LGR5+ stem cell,CL_0000034,FBLN2,FBLN2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,LGR5+ stem cell,CL_0000034,EPYC,EPYC
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,LGR5+ stem cell,CL_0000034,CLDN18,CLDN18

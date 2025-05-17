@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD11b,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,Ly6G,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD11b,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,sCD163,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,SPP1,SPP1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,TYROBP,TYROBP
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,C1QC,C1QC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,APOC1,APOC1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,Iba1,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,PTPRC,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD74,CD74
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CX3CR1,CX3CR1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,C1QC,C1QC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,C1QB,C1QB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD33,CD33
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,ITGAM,ITGAM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,TMEM119,TMEM119
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,Cd45,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,Ccr2,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Myeloid cell,CL_0000763,CD68,CD68

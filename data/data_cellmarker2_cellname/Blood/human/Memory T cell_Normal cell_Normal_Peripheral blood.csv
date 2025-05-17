@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,CD45RA,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,IL32,IL32
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,S100A10,S100A10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,LGALS3,LGALS3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,ALOX5AP,ALOX5AP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,MYL12A,MYL12A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,S100A6,S100A6
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory T cell,CL_0000813,LGALS1,LGALS1

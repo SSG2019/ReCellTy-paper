@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Chronic Myeloid Leukemia,Cancer cell,Basophil,CL_0000767,BSP1,SMAD1

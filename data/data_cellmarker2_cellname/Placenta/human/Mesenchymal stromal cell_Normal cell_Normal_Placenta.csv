@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD90,THY1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD45,PTPRC
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD34,CD34
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,HLA-DR,
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD105,

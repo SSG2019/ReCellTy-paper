@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,HLA-DR,Human,Knee,Synovial fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD11b,Human,Knee,Synovial fluid,Normal,Normal cell,Myeloid cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Immature,TBR1,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron
+Neuron,Immature,beta III tubulin,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron
+Neuron,Immature,Doublecortin,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron
+Neuron,Immature,NeuroD1,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron
+Neuron,Immature,Stathmin 1,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron
+Neuron,Immature,III beta-tubulin,Human,Undefined,Undefined,Normal,Normal cell,Immature neuron

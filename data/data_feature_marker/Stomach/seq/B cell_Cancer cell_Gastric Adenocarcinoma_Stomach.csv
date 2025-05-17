@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,PTPRC,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD19,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,B cell
+B cell,,J-chain,Human,Stomach,Stomach,Gastric Adenocarcinoma,Cancer cell,B cell

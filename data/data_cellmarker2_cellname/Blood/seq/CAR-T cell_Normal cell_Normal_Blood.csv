@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,BTK,BTK
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,PLCG2,PLCG2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,NFKBIE,NFKBIE
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,BIRC3,BIRC3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,SF3B1,SF3B1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,XPO1,XPO1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,RIPK1,RIPK1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,MGA,MGA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CAR-T cell,,TCRβ VJ,

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,Cytokeratin-19,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,CD200,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,Beta-catenin,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,SOX9,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,LRIG1,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,K15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell

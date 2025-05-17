@@ -1,0 +1,25 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glial cell,Astrocytes,GFAP,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Astrocytes,S100,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Astrocytes,Vimentin,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Astrocytes,CD44,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Astrocytes,FABP7,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Oligodendrocytes,MBP,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Oligodendrocytes,Myelin protein zero,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Oligodendrocytes,3A7,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Oligodendrocytes,3CB2,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Oligodendrocytes,A2B5,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,CD14,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,CD68,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,CD11b,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,MHC class I,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,MHC class II,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Microglia,CD45,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Neural stem/progenitor cells,FGFR3,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Neural stem/progenitor cells,BLBP,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Neural stem/progenitor cells,Ran2,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Neural stem/progenitor cells,S100A1,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,Neural stem/progenitor cells,CXCR4,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,,PDGF receptor,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,,Neurofilament protein,Human,Undefined,Undefined,Normal,Normal cell,Glial cell
+Glial cell,,S22,Human,Undefined,Undefined,Normal,Normal cell,Glial cell

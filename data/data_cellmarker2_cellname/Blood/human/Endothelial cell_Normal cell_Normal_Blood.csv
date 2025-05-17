@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD45,PTPRC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,Raftlin,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD105,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,CD146,MCAM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,VEGFR2,KDR
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,VE-cadherin,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM,

@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+fibroblast,,CNN1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,COL11A1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,CD36,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,PPARγ,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MGP,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MFAP5,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,ELN,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MGP35,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast

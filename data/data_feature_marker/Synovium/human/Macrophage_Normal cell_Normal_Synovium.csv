@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Synovium,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Synovium,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CREM,Human,Synovium,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,HBEGF,Human,Synovium,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,IL1B,Human,Synovium,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,PLAUR,Human,Synovium,Synovium,Normal,Normal cell,Macrophage

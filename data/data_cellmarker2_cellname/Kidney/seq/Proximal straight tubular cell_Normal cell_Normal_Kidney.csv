@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,SLC22A7,SLC22A7
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc27a2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc1a1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc22a6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc7a13,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc13a3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Slc16a9,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Proximal straight tubular cell,,Atp11a,

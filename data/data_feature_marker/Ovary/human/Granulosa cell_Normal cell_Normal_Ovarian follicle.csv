@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulosa cell,,CHST8,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,follicle development,FSHR,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,MGARP,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,GLDC,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,GPX3,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell

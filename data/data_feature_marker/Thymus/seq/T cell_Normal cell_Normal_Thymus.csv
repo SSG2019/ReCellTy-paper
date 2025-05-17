@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Helper,CD4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Cytotoxic,CD8A,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Subset,KLRB1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,Activation,DPP4,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CCR6,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD161,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD26,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD5,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG1,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,RAG2,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD7,Human,Thymus,Thymus,Normal,Normal cell,T cell
+T cell,,CD3,Human,Thymus,Thymus,Normal,Normal cell,T cell

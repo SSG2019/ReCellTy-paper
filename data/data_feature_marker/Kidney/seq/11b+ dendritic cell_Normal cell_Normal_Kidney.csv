@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,11b+,Cd209a,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,11b+,Ccl6,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,11b+,Tyrobp,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Ifitm3,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Ctss,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Wfdc17,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Ccl9,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Cd74,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Alox5ap,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell
+Dendritic cell,,Mgl2,Human,Kidney,Kidney,Normal,Normal cell,11b+ dendritic cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,CXCL15,Human,Embryo,Fetal ileums,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CCL21,Human,Embryo,Fetal ileums,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CCL19,Human,Embryo,Fetal ileums,Normal,Normal cell,Mesenchymal cell

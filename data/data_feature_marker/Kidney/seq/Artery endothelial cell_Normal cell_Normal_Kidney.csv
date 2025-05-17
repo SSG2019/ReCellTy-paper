@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+endothelial cell,,Bmx,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Trpv4,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Gja5,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Fbln2,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Mgp,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Sox17,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell
+endothelial cell,,Cxcl12,Human,Kidney,Kidney,Normal,Normal cell,Artery endothelial cell

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Dendritic,DC-LAMP,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Mast,Tryptase,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CSF1R,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD163,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD45,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,DC-SIGN,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Granulocyte,CD66D,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Macrophage,CD68,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Antigen-presenting,MHCII,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,Dendritic,LAMP3,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,PTPRC,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,Myeloid cell

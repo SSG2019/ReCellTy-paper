@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD146,Human,Lymph node,Lymph node,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Lymph node,Lymph node,Normal,Normal cell,Pericyte

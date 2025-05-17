@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Stem cell,CL_0000034,CD29,ITGB1
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Stem cell,CL_0000034,CD24,CD24
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Stem cell,CL_0000034,CD133,PROM1

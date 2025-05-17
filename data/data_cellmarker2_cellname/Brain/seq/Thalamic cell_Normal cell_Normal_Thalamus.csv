@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Thalamus,,Normal,Normal cell,Thalamic cell,,PAX6,PAX6
+Human,Brain,Thalamus,,Normal,Normal cell,Thalamic cell,,TCF7L2,TCF7L2
+Human,Brain,Thalamus,,Normal,Normal cell,Thalamic cell,,OTX2,OTX2
+Human,Brain,Thalamus,,Normal,Normal cell,Thalamic cell,,GBX2,GBX2

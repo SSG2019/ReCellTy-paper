@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD45,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,CD8,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,CD4,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,CD68,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,S100A4,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,C1gb,Human,Lung,Lung,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Lung,Lung,Normal,Normal cell,Immune cell

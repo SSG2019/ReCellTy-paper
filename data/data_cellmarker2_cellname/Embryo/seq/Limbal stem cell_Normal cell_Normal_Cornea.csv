@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,KRT5,KRT5
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,KRT19,KRT19
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,ABCG2,ABCG2
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,KRT15,KRT15
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,VIM,VIM
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,ITGA9,ITGA9
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,TP63,TP63
+Human,Embryo,Cornea,UBERON_0000964,Normal,Normal cell,Limbal stem cell,CL_0000034,KRT14,KRT14

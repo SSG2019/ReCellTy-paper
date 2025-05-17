@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Lymphocyte,CL_0000542,SPPI,
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Lymphocyte,CL_0000542,CD163,CD163

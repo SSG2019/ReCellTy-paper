@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Plasmablast,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Plasmablast
+B cell,Plasmablast,TNFRSF17,Human,Blood,Peripheral blood,Normal,Normal cell,Plasmablast
+B cell,Plasmablast,MZB1,Human,Blood,Peripheral blood,Normal,Normal cell,Plasmablast
+B cell,Plasmablast,CD38,Human,Blood,Peripheral blood,Normal,Normal cell,Plasmablast

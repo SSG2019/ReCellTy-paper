@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD3,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD8α,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,NFAT,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Activated CD8+ T cell,CL_0000625,Ki67,

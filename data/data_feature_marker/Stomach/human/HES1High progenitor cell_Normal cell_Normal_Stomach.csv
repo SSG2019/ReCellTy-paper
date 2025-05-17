@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+progenitor cell,HES1High,ALDH1A3,Human,Stomach,Stomach,Normal,Normal cell,HES1High progenitor cell
+progenitor cell,,PLXDC1,Human,Stomach,Stomach,Normal,Normal cell,HES1High progenitor cell

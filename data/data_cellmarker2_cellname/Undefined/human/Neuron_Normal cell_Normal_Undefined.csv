@@ -1,0 +1,73 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,BCL2,BCL2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD6,CD6
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD47,CD47
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CX3CR1,CX3CR1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD200,CD200
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,PAX5,PAX5
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CX3CL1,CX3CL1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD166,ALCAM
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD325,CDH2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD143,ACE
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,PSD95,DLG4
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,IL-11,IL11
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD171,L1CAM
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD56,NCAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD271,NGFR
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD230,PRNP
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD112,NECTIN2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD90,THY1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD231,TSPAN7
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD106,VCAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD304,NRP1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD133,PROM1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD172b,SIRPB1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD100,SEMA4D
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CXCR7,ACKR3
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,PKC,PRRT2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,160 kDa neurofilament medium,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,200kDa neurofilament heavy,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NeuN,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Synaptophysin,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Doublecortin,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,c-Fos,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,c-Src,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD172a,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Erythropoietin receptor,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,G-CSF,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2ab,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Nestin,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Neurofilament heavy protein (NF-H),
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Neurofilament medium protein (NF-M),
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,TGF-beta,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,Tuj1,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SNAP25,SNAP25
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MNX1,MNX1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CD24,CD24
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,VIM,VIM
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NEUROD1,NEUROD1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,HMGB2,HMGB2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,HES5,HES5
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,DLX1,DLX1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SOX2,SOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,LHX6,LHX6
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,VIP,VIP
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,SATB2,SATB2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NDNF,NDNF
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NTNG1,NTNG1
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,NeuN,
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,ISL2,ISL2
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CSF3R,CSF3R
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,LYZ,LYZ
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,TYROBP,TYROBP
+Human,Undefined,Undefined,,Normal,Normal cell,Neuron,CL_0000540,CST3,CST3

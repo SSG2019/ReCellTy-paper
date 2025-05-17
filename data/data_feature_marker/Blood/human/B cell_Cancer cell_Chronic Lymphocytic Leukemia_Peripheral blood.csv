@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD40,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,CD86,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,CD10,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,CD70,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,HLA-DR,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,CD80,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell
+B cell,,MME,Human,Blood,Peripheral blood,Chronic Lymphocytic Leukemia,Cancer cell,B cell

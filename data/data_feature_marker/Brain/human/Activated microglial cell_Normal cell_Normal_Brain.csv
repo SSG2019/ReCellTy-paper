@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Activated,CD68,Human,Brain,Brain,Normal,Normal cell,Activated microglial cell
+Microglial cell,Activated,HLA,Human,Brain,Brain,Normal,Normal cell,Activated microglial cell
+Microglial cell,,TMEM119,Human,Brain,Brain,Normal,Normal cell,Activated microglial cell

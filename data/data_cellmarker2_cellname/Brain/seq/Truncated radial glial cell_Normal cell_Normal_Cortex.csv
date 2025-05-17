@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Truncated radial glial cell,,DDIT3,DDIT3
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Truncated radial glial cell,,CRYAB,CRYAB
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Truncated radial glial cell,,ENO1,ENO1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Truncated radial glial cell,,PGK1,PGK1

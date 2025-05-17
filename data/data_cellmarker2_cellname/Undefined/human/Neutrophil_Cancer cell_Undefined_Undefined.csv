@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,Neutrophil,CL_0000775,CD62,SELP
+Human,Undefined,Undefined,,Undefined,Cancer cell,Neutrophil,CL_0000775,Cxcr4,
+Human,Undefined,Undefined,,Undefined,Cancer cell,Neutrophil,CL_0000775,CD16,FCGR3A
+Human,Undefined,Undefined,,Undefined,Cancer cell,Neutrophil,CL_0000775,CD66b,CEACAM8

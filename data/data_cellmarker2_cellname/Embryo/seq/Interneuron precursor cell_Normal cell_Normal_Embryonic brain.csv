@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Interneuron precursor cell,,GAD2,GAD2

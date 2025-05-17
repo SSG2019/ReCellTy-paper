@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,M1 macrophage,CL_0000863,CCL5,CCL5
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,M1 macrophage,CL_0000863,CCR7,CCR7
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,M1 macrophage,CL_0000863,TNF,TNF

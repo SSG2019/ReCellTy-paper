@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,NELL2,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,LAT,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,TRAC,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,RCAN3,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD2,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD27,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD28,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,LINC02446,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD3G,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD8B,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,TRAT1,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,BCL11B,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,TRABD2A,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CD3D,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell
+T cell,,CAMK4,Human,Bone marrow,Bone marrow,B-Acute Lymphoblastic Leukemia,Cancer cell,T cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Damage-associated,CDKN1A,Human,Undefined,Undefined,Normal,Normal cell,Damage-associated transient progenitor cell
+Progenitor cell,Transient,KRT8,Human,Undefined,Undefined,Normal,Normal cell,Damage-associated transient progenitor cell
+Progenitor cell,,CLDN4,Human,Undefined,Undefined,Normal,Normal cell,Damage-associated transient progenitor cell

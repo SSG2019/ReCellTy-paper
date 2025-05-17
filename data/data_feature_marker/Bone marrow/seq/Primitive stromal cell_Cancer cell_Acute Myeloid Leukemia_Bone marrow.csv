@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Primitive stromal cell,,LEPR,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Primitive stromal cell
+Primitive stromal cell,,PDGFRA,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Primitive stromal cell

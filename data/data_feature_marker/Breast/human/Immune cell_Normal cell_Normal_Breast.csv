@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,CD86,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD45,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD13,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD14,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD209,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,HLA-DR,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,CD83,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Breast,Breast,Normal,Normal cell,Immune cell
+Immune cell,,ANPEP,Human,Breast,Breast,Normal,Normal cell,Immune cell

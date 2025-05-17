@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Portal vein epithelial cell,,CD63,CD63
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Portal vein epithelial cell,,Ehd4,
+Human,Liver,Blood vessel,UBERON_0001981,Normal,Normal cell,Portal vein epithelial cell,,CD200,CD200

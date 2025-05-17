@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,RET,RET
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,CAPS,CAPS
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,PHLDA2,PHLDA2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,CALB1,CALB1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,KRT18,KRT18
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,ADH1C,ADH1C
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,KRT8,KRT8
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,GATA2,GATA2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,AQP2,AQP2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Collecting duct & Ureteric Bud cell,,ELF5,ELF5

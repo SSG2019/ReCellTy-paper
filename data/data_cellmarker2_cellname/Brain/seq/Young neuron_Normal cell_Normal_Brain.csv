@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,NCAM1,NCAM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,STMN1,STMN1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,STMN1,STMN1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,DCX,DCX
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Young neuron,,SYP,SYP

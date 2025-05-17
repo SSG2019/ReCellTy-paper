@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Metastatic urothelial carcinoma,Cancer cell,Myeloid cell,CL_0000763,IL1B,IL1B
+Human,Blood,Blood,UBERON_0000178,Metastatic urothelial carcinoma,Cancer cell,Myeloid cell,CL_0000763,CXCL8,CXCL8
+Human,Blood,Blood,UBERON_0000178,Metastatic urothelial carcinoma,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14

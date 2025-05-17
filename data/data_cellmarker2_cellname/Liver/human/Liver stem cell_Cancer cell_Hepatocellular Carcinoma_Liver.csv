@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,H19,H19
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,OV6,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,GSTP,GSTP1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,EGF,EGF
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,HGF,HGF
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Liver stem cell,CL_0002195,CK19,KRT19

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Cancer stem cell,,PROM1,PROM1
+Human,Intestine,Colorectum,UBERON_0012652,Colorectal cancer,Cancer cell,Cancer stem cell,,ERBB3,ERBB3

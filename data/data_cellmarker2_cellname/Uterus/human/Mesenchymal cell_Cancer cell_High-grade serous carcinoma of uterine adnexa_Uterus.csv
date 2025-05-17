@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,High-grade serous carcinoma of uterine adnexa,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pancreatic polypeptide cell,Pancreatic polypeptide,PP,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,SPP1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,FOLR1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell
+Pancreatic polypeptide cell,,PPA1,Human,Pancreas,Pancreas,Normal,Normal cell,Pancreatic polypeptide cell

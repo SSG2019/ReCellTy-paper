@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,KRT19,KRT19
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,ALB,ALB
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,KRT7,KRT7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

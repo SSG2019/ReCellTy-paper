@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,PD-1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,Eomes,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,Tim-3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PDCD1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,HAVCR2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PD-1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,Eomes,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,Tim-3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,PDCD1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,CD8+,HAVCR2,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Exhausted CD8+ T cell

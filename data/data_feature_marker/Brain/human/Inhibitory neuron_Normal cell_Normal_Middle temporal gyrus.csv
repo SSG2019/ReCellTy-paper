@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,Inhibitory,CDH12,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Inhibitory neuron
+Neuron,,PAX6,Human,Brain,Middle temporal gyrus,Normal,Normal cell,Inhibitory neuron

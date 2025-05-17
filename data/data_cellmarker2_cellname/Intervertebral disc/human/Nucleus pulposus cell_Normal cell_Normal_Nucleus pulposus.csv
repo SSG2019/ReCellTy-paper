@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,PTN,PTN
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,KRT19,KRT19
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,CD24,CD24
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,CA12,CA12
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,FOXF1,FOXF1
+Human,Intervertebral disc,Nucleus pulposus,UBERON_0002242,Normal,Normal cell,Nucleus pulposus cell,CL_0002564,PAX1,PAX1

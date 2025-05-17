@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Inter-mediate,PPP1R17,Human,Undefined,Undefined,Normal,Normal cell,Inter-mediate progenitor cell
+Progenitor cell,Inter-mediate,NHLH2,Human,Undefined,Undefined,Normal,Normal cell,Inter-mediate progenitor cell
+Progenitor cell,,NHLH1,Human,Undefined,Undefined,Normal,Normal cell,Inter-mediate progenitor cell
+Progenitor cell,,TP53I11,Human,Undefined,Undefined,Normal,Normal cell,Inter-mediate progenitor cell
+Progenitor cell,,SLA1C3,Human,Undefined,Undefined,Normal,Normal cell,Inter-mediate progenitor cell

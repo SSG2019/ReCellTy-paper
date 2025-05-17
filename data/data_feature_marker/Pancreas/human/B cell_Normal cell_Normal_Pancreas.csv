@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,TTR,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,REG1A,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,IAPP,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,INS,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,SST,Human,Pancreas,Pancreas,Normal,Normal cell,B cell
+B cell,,CD19,Human,Pancreas,Pancreas,Normal,Normal cell,B cell

@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,IL1B,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,OLR1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CCL20,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,EREG,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL2,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,FBP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,MARCO,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL3,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,TIMP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte

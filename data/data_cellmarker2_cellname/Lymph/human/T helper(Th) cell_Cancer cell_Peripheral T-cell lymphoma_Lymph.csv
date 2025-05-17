@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell,,PRDM1,PRDM1
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell,,TBX21,TBX21
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell,,BCL6,BCL6
+Human,Lymph,Lymph,UBERON_0002391,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell,,GATA3,GATA3

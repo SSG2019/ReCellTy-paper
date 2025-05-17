@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Erythroid precursor,precursor,GlyA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroid precursor
+Erythroid precursor,,CD35,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroid precursor
+Erythroid precursor,,CR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Erythroid precursor

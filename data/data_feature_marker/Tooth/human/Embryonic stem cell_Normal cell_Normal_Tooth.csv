@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,pluripotency,TRA-1-60,Human,Tooth,Tooth,Normal,Normal cell,Embryonic stem cell
+stem cell,pluripotency,SSEA-3,Human,Tooth,Tooth,Normal,Normal cell,Embryonic stem cell
+stem cell,pluripotency,NANOG,Human,Tooth,Tooth,Normal,Normal cell,Embryonic stem cell
+stem cell,pluripotency,OCT3/4,Human,Tooth,Tooth,Normal,Normal cell,Embryonic stem cell

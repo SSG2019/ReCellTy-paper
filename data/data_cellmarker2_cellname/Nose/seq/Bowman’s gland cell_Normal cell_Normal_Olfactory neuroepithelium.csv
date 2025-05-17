@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Bowman’s gland cell,,GPX3,GPX3
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Bowman’s gland cell,,SOX10,SOX10
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Bowman’s gland cell,,SOX9,SOX9
+Human,Nose,Olfactory neuroepithelium,,Normal,Normal cell,Bowman’s gland cell,,MUC5,MUC5AC

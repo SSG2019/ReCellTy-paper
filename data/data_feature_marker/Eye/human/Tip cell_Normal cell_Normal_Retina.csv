@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Tip,CXCR4,Human,Eye,Retina,Normal,Normal cell,Tip cell
+cell,Tip,DLL4,Human,Eye,Retina,Normal,Normal cell,Tip cell

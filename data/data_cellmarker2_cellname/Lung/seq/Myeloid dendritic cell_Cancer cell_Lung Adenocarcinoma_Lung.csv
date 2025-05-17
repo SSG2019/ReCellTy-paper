@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Myeloid dendritic cell,CL_0000782,CD1C,CD1C
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Myeloid dendritic cell,CL_0000782,CLEC9A,CLEC9A
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Myeloid dendritic cell,CL_0000782,FCER1A,FCER1A

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Nephron progenitor,CRABP2,Human,Kidney,Fetal kidney,Normal,Normal cell,Nephron progenitor cell
+cell,Nephron progenitor,SIX2,Human,Kidney,Fetal kidney,Normal,Normal cell,Nephron progenitor cell
+cell,Nephron progenitor,CITED1,Human,Kidney,Fetal kidney,Normal,Normal cell,Nephron progenitor cell
+cell,Nephron progenitor,RSPO3,Human,Kidney,Fetal kidney,Normal,Normal cell,Nephron progenitor cell
+cell,Nephron progenitor,HOXC6,Human,Kidney,Fetal kidney,Normal,Normal cell,Nephron progenitor cell

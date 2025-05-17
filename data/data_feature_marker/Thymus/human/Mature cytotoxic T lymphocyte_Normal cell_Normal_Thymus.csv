@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T lymphocyte,Mature,CD57,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,CD57,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Mature,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,CD45RA,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Mature,B3GAT1,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte
+T lymphocyte,Cytotoxic,B3GAT1,Human,Thymus,Thymus,Normal,Normal cell,Mature cytotoxic T lymphocyte

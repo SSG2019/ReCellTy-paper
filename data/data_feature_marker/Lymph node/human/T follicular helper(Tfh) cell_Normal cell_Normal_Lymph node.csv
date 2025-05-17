@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,follicular helper,CXCR5,Human,Lymph node,Lymph node,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Lymph node,Lymph node,Normal,Normal cell,T follicular helper(Tfh) cell

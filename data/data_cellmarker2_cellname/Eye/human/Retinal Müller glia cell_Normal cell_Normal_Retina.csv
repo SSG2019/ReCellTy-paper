@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal Müller glia cell,,REDD1,DDIT4
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Retinal Müller glia cell,,REDD2,DDIT4L

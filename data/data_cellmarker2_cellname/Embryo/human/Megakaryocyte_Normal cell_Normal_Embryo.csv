@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,SELP,SELP
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,GP1BA,GP1BA
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,ITGA2B,ITGA2B
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,CD9,CD9
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,CD42b,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,PF4,PF4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Megakaryocyte,CL_0000556,CD41a,

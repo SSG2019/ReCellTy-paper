@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Corneal epithelial cell,,KRT12,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,KRT14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,TGFBI,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell

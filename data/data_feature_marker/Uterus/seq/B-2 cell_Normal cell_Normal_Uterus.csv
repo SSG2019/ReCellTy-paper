@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,2.0,CD79A,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell
+B cell,,IGLC2,Human,Uterus,Uterus,Normal,Normal cell,B-2 cell

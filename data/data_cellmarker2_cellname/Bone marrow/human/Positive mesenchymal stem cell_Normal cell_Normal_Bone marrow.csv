@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Positive mesenchymal stem cell,,CD105,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Positive mesenchymal stem cell,,CD90,THY1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Positive mesenchymal stem cell,,CD73,NT5E

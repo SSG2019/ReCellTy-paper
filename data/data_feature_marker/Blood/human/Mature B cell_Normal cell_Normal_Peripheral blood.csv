@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Mature,IGHM,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell
+B cell,,LYN,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell
+B cell,,CD37,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell
+B cell,,CD74,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell
+B cell,,HLA-DRA,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell
+B cell,,CD79A,Human,Blood,Peripheral blood,Normal,Normal cell,Mature B cell

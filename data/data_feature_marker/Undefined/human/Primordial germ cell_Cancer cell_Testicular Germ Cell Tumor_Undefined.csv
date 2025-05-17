@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Primordial germ cell,,CyclinA2,Human,Undefined,Undefined,Testicular Germ Cell Tumor,Cancer cell,Primordial germ cell
+Primordial germ cell,,GLUT3,Human,Undefined,Undefined,Testicular Germ Cell Tumor,Cancer cell,Primordial germ cell
+Primordial germ cell,,SLC2A3,Human,Undefined,Undefined,Testicular Germ Cell Tumor,Cancer cell,Primordial germ cell

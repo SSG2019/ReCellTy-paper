@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Myogenic progenitor cell,,PDGFRA,PDGFRA
+Human,Heart,Heart muscle,UBERON_0002349,Normal,Normal cell,Myogenic progenitor cell,,ISL1,ISL1

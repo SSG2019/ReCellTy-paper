@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,PDCD1,PDCD1
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,HAVCR2,HAVCR2
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,CTLA4,CTLA4
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,TIGIT,TIGIT
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,Exhausted T(Tex) cell,CL_0011025,LAG3,LAG3

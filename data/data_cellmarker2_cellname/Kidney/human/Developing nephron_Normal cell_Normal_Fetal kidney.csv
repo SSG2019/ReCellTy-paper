@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,ATP6V1B1,ATP6V1B1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,SLC12A1,SLC12A1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,S100P,S100P
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,PAX2,PAX2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,GPX3,GPX3
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,SIX1,SIX1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,CITED1,CITED1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,CLCNKA,CLCNKA
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,GLYAT,GLYAT
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,UPK1A,UPK1A
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,ALDOB,ALDOB
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Developing nephron,,KRT7,KRT7

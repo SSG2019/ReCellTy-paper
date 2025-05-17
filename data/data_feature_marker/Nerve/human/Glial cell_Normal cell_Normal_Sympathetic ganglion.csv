@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glial cell,,GFAP,Human,Nerve,Sympathetic ganglion,Normal,Normal cell,Glial cell
+Glial cell,,S100,Human,Nerve,Sympathetic ganglion,Normal,Normal cell,Glial cell
+Glial cell,,S100A1,Human,Nerve,Sympathetic ganglion,Normal,Normal cell,Glial cell

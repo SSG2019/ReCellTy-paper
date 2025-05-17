@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer cell,CL_0001064,CD1a,
+Human,Undefined,Undefined,,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer cell,CL_0001064,CD8,CD8A
+Human,Undefined,Undefined,,Acute T Lymphoblastic Leukaemia,Cancer cell,Cancer cell,CL_0001064,CD5,CD5

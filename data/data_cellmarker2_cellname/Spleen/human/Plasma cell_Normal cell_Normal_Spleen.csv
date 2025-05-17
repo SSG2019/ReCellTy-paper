@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHG1,IGHG1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHM,IGHM
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGKC,IGKC
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHA2,IGHA2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,DPEP1,DPEP1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,XBP1,XBP1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGLL5,IGLL5
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHA1,IGHA1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGKC,IGKC
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHG1,IGHG1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGLC2,IGLC2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGLC3,IGLC3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHM,IGHM
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Plasma cell,CL_0000786,IGHA2,IGHA2

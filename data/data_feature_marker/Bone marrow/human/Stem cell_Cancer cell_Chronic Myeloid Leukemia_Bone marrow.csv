@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,IL1RAP,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD26,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD117,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD36,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD123,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD25,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,CD33,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,DPP4,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,KIT,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,IL3RA,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell
+Stem cell,,IL2RA,Human,Bone marrow,Bone marrow,Chronic Myeloid Leukemia,Cancer cell,Stem cell

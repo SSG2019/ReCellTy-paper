@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Malignant tenosynovial giant cell tumor,Cancer cell,Macrophage,CL_0000235,CD11c,
+Human,Undefined,Undefined,,Malignant tenosynovial giant cell tumor,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Undefined,Undefined,,Malignant tenosynovial giant cell tumor,Cancer cell,Macrophage,CL_0000235,CD163,CD163

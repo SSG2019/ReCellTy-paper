@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD105,
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD34,CD34
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD14,CD14
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD9,CD9
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD73,NT5E
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,HLA-DR,
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD13,ANPEP
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD45,PTPRC
+Human,Tooth,Premolar,UBERON_0007120,Normal,Normal cell,Dental pulp stem cell,CL_0000034,CD11b,

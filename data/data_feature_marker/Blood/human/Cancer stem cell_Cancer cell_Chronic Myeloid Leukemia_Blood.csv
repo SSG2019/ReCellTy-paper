@@ -1,0 +1,19 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD133,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD90,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD34,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD44,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD56,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD26,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD33,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD123,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD93,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,CD25,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,IL-RAP,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,NCAM1,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,DPP4,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,IL3RA,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,,IL2RA,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CXCR4,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell
+Stem cell,Cancer,SDF1,Human,Blood,Blood,Chronic Myeloid Leukemia,Cancer cell,Cancer stem cell

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,IGHG1,IGHG1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,LAPTM5,LAPTM5
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,PTPRC,PTPRC
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,IGKC,IGKC
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,VIM,VIM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,CD79A,CD79A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,IGHG2,IGHG2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,CD79A,CD79A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,JCHAIN,JCHAIN
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Plasma cell,CL_0000786,IGHG4,IGHG4

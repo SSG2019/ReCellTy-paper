@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,HLA-DR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,CD141,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,CLEC9A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,BDCA1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,BDCA3,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,XCR1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,CD1c,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,THBD,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,CD1C,Human,Bone marrow,Bone marrow,Normal,Normal cell,Conventional dendritic cell(cDC)

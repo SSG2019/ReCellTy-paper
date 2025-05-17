@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,SLC1A3,SLC1A3
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,CD44,CD44
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,SLC1A2,SLC1A2
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,AQP4,AQP4
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,HSP90AA1,HSP90AA1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,PTN,PTN
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,HSPB1,HSPB1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,TNC,TNC
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,CADM2,CADM2
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,NRXN1,NRXN1
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,GLUL,GLUL
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,GPC5,GPC5
+Human,Brain,Superior frontal gyrus,UBERON_0002661,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP

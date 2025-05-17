@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34

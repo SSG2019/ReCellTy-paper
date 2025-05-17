@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gut,Gut,UBERON_0001555,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,IL10,IL10
+Human,Gut,Gut,UBERON_0001555,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,IL23R,IL23R
+Human,Gut,Gut,UBERON_0001555,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell,CL_0000815,IL1R1,IL1R1

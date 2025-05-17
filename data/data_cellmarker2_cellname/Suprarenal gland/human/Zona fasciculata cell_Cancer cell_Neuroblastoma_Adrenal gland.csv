@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Zona fasciculata cell,,CYP11B1,CYP11B1
+Human,Suprarenal gland,Adrenal gland,UBERON_0002369,Neuroblastoma,Cancer cell,Zona fasciculata cell,,STAR,STAR

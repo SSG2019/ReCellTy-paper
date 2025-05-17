@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T helper cell,Th17,CCR6,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,Memory,CD45RO,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,Th1,CXCR3,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell
+T helper cell,,CD4,Human,Pancreas,Pancreas,Normal,Normal cell,T helper cell

@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,MAL,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD6,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,FLT3LG,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,TRAT1,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD5,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,PBX4,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,ICOS,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD28,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,THEMIS,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,SIRPG,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,TNFRSF25,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CHRM3-AS2,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell

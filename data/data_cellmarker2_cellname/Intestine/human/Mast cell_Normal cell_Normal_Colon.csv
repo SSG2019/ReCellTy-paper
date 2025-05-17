@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Mast cell,CL_0000097,FCER1A,FCER1A
+Human,Intestine,Colon,UBERON_0001153,Normal,Normal cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Intestine,Colon,UBERON_0001155,Normal,Normal cell,Mast cell,CL_0000097,KIT,KIT

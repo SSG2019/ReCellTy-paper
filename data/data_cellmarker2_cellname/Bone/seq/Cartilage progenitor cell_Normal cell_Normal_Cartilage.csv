@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CENPF,CENPF
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,UBE2C,UBE2C
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,KIAA0101,PCLAF
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CDC20,CDC20
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,TMMN1,
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CDKN3,CDKN3
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,BIRC5,BIRC5
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Cartilage progenitor cell,CL_0000138,CKAP2,CKAP2

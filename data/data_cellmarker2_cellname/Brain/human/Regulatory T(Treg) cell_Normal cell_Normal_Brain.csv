@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CECAM4,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,NKG7,NKG7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,PDCD1,PDCD1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD244,CD244
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,UTS2,UTS2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,NT5A,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,IKZF2,IKZF2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,LAG3,LAG3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,HAVCR2,HAVCR2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,ENC1,ENC1

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,ONECUT1,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell
+Stem cell,,HES1,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell
+Stem cell,,PROX1,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell
+Stem cell,,SOX17,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell
+Stem cell,,EpCAM,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell
+Stem cell,,SOX9,Human,Liver,Liver,Extrahepatic cholangiocarcinoma,Cancer cell,Stem cell

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Somatic stem cell,stemness,PROM1,Human,Liver,Liver,Normal,Normal cell,Somatic stem cell
+Somatic stem cell,stemness,LGR5,Human,Liver,Liver,Normal,Normal cell,Somatic stem cell
+Somatic stem cell,stemness,NCAM,Human,Liver,Liver,Normal,Normal cell,Somatic stem cell
+Somatic stem cell,stemness,NCAM1,Human,Liver,Liver,Normal,Normal cell,Somatic stem cell
+Somatic stem cell,stemness,TACSTD2,Human,Liver,Liver,Normal,Normal cell,Somatic stem cell

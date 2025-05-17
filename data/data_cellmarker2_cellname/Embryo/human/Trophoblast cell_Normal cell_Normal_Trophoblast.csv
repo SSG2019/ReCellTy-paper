@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Trophoblast,UBERON_0000088,Normal,Normal cell,Trophoblast cell,CL_0000351,TP63 ,
+Human,Embryo,Trophoblast,UBERON_0000088,Normal,Normal cell,Trophoblast cell,CL_0000351,ELF5,ELF5
+Human,Embryo,Trophoblast,UBERON_0000088,Normal,Normal cell,Trophoblast cell,CL_0000351,GATA3,GATA3

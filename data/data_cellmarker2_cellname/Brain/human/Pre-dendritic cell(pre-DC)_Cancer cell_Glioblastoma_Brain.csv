@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,CD2,CD2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,AXL,AXL
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,LILRA4,LILRA4
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,PPP1R14A,PPP1R14A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,LGMN,LGMN
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,CD5,CD5
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,SIGLEC6,SIGLEC6
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,IL3RA,IL3RA
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,APP,APP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,LTB,LTB
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,TCF4,TCF4
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,SPIB,SPIB
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,UPK3A,UPK3A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,SELL,SELL
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Pre-dendritic cell(pre-DC),,LILRB4,LILRB4

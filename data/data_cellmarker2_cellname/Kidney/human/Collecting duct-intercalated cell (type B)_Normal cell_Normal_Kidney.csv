@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-intercalated cell (type B),,Hmx2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-intercalated cell (type B),,Spink8,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-intercalated cell (type B),,Slc26a4,

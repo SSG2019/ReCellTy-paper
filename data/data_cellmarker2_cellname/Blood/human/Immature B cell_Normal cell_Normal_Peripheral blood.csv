@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,CD10,MME
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,HLA-DPB1,HLA-DPB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,HLA-DRB1,HLA-DRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,HLA-DRA,HLA-DRA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,CD79A,CD79A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,CD74,CD74
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Immature B cell,CL_0000816,CD83,CD83

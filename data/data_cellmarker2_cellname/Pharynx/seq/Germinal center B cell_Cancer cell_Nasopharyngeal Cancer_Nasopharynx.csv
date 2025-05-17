@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,SNX29P2,SNX29P2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,SYNE2,SYNE2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,SERPINA9,SERPINA9
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,NEIL1,NEIL1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,MARCKSL1,MARCKSL1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,DAAM1,DAAM1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,UCP2,UCP2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMCES,HMCES
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,RGS13,RGS13
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,SUGCT,SUGCT
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,RFTN1,RFTN1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,BCL7A,BCL7A
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMGN2,HMGN2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,TCL1A,TCL1A
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,LRMP,IRAG2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,EZR,EZR
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,ACTG1,ACTG1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,PTTG1,PTTG1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,SERF2,SERF2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,LPP,LPP
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMGA1,HMGA1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,GAPDH,GAPDH
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Germinal center B cell,CL_0000844,HMGN1,HMGN1

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,M2 macrophage,CL_0000890,IL-6,IL6
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,M2 macrophage,CL_0000890,CD206,MRC1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,M2 macrophage,CL_0000890,FOLR2,FOLR2

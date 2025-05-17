@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Trachea,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,KRT14,KRT14
+Human,Trachea,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,TP63,TP63
+Human,Trachea,Epithelium,UBERON_0000483,Normal,Normal cell,Basal cell,CL_0000646,KRT5,KRT5

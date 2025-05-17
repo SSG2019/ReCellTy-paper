@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Bone,Bone,UBERON_0002481,Osteosarcoma,Cancer cell,Myeloid cell,CL_0000763,CD74,CD74

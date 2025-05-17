@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,GLUL,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,ΑΡΟΕ,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,CLU,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,SPARCL1,Human,Eye,Retina,Normal,Normal cell,Astrocyte

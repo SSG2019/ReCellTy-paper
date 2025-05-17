@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TNFRSF18,TNFRSF18
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,ICOS,ICOS
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TNFRSF4,TNFRSF4
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,PDCD1,PDCD1
+Human,Skin,Skin,UBERON_0002097,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4

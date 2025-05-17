@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,Myelination,MBP,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,OLIG1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,PLLP,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,MOG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,PLP1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,MAG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,CLDN11,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Myelination,ERMN,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Function,TNR,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Function,OMG,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte
+Oligodendrocyte,Differentiation,MYT1,Human,Brain,Brain,Glioblastoma,Cancer cell,Oligodendrocyte

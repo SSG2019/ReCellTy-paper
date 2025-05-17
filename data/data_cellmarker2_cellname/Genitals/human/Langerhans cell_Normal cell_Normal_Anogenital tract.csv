@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,HLA-DR,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,E-Cadherin,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,EpCAM,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,CD1c,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,Langerin,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Langerhans cell,CL_0000453,CD1a,

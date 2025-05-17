@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Monocyte-derived,CD209,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,DC-SIGN,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,SIRPA,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,CD14,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,CD16,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,SIRPα,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,CD64,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,FCGR3A,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell
+Dendritic cell,Monocyte-derived,FCGR1A,Human,Kidney,Kidney,Normal,Normal cell,Monocyte-derived dendritic cell

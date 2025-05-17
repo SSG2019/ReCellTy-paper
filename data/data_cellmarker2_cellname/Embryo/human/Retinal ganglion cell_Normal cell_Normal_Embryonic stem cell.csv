@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic stem cell,CL_0002322,Normal,Normal cell,Retinal ganglion cell,CL_0000740,THY1,THY1

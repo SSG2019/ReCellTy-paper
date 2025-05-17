@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GZMH,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell
+T cell,Cytotoxic,GZMB,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell
+T cell,Cytotoxic,GNLY,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell
+T cell,Cytotoxic,TNF,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell
+T cell,Double-positive,KLRG1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell
+T cell,Double-positive,FGFBP2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Cytotoxic double-positive T cell

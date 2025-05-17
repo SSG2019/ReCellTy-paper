@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Stem,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Ovarian germ stem cell
+Germ cell,Stem,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Ovarian germ stem cell

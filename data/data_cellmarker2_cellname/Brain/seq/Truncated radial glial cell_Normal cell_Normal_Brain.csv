@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Truncated radial glial cell,,FOXJ1,FOXJ1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Truncated radial glial cell,,NR4A1,NR4A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Truncated radial glial cell,,CRYAB,CRYAB

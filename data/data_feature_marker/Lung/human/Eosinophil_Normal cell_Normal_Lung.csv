@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Eosinophil,,ECP,Human,Lung,Lung,Normal,Normal cell,Eosinophil
+Eosinophil,,CCL13,Human,Lung,Lung,Normal,Normal cell,Eosinophil
+Eosinophil,,CCL5,Human,Lung,Lung,Normal,Normal cell,Eosinophil
+Eosinophil,,CCL11,Human,Lung,Lung,Normal,Normal cell,Eosinophil
+Eosinophil,,RNASE3,Human,Lung,Lung,Normal,Normal cell,Eosinophil

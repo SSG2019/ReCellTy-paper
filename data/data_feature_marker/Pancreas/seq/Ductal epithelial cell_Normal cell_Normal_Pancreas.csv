@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Ductal,S100A14,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell
+Epithelial cell,,CLDN1,Human,Pancreas,Pancreas,Normal,Normal cell,Ductal epithelial cell

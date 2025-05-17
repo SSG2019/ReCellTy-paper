@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,PDGFRB,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,FBLN1,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,MFAP5,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,S100A4,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,ECM2,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast
+Fibroblast,,DDR2,Human,Undefined,Undefined,Normal,Normal cell,Fibroblast

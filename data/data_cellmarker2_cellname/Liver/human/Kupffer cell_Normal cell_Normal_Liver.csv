@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD11b,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD18,ITGB2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD14,CD14
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD32,FCGR2A
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD163,CD163
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD14,CD14
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CLEC4F,CLEC4F
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,VSIG4,VSIG4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD68,CD68
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,Tim4,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,Clec4F,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Kupffer cell,CL_0000091,CD6824,

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,ΤOΡ2Α,
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,ALF1,
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,MKI67,MKI67
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,C1QB,C1QB
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,CD68,CD68
+Human,Brain,Hippocampus,UBERON_0002421,Normal,Normal cell,Microglial cell,CL_0000129,PTPRC,PTPRC

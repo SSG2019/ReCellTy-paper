@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,vimentin,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD44,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Mesenchymal cell

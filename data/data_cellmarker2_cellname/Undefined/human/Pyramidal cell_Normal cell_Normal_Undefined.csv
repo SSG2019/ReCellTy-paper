@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,CD3E,CD3E
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,EMX1,EMX1
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,MAP2,MAP2
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,TBR1,TBR1
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,FEZF2,FEZF2
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,PSD95,DLG4
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,SCIP,POU3F1
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,CaMK2 alpha,
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,MATH-2,
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,mGluR1,
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,mGluR5,
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,Neurogranin,
+Human,Undefined,Undefined,,Normal,Normal cell,Pyramidal cell,CL_0000598,R-PTP-gamma,

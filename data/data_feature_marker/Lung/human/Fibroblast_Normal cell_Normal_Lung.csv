@@ -1,0 +1,26 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Growth Factor Signaling,PDGFR-beta,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Growth Factor Signaling,PDGFR-alpha,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Growth Factor Signaling,PDGFRA,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Growth Factor Signaling,PDGFRB,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Mesenchymal,Vimentin,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Mesenchymal,VIM,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Contractile,alpha-SMA,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Contractile,a-SMA,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Contractile,ACTA2,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Fibroblast Activation,FAP-1,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Fibroblast Activation,S100A4,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen Production,COL1A1,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen Production,COL1A2,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Collagen Production,COL3A1,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Stemness,CD90,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Stemness,THY1,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Connective Tissue Growth,CTGF,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Connective Tissue Growth,CCN2,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Muscle-related,Desmin,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Cell Surface Marker,CD36,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Cell Surface Marker,CD97,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Cell Surface Marker,CD34,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Extracellular Matrix,VCAN,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Extracellular Matrix,FBLN2,Human,Lung,Lung,Normal,Normal cell,Fibroblast
+Fibroblast,Extracellular Matrix,FBN1,Human,Lung,Lung,Normal,Normal cell,Fibroblast

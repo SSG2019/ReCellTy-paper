@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen Presentation,MHC class II,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DR,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Co-stimulatory Molecules,CD40,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Co-stimulatory Molecules,CD80,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Co-stimulatory Molecules,CD86,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Regulation,PDL2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Regulation,PDCD1LG2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1a,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD45,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IRF7,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IRF8,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PLAC8,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PTPRC,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell

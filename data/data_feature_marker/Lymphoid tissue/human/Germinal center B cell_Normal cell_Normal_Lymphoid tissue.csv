@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal center,LMO2,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,HGAL,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell
+B cell,Germinal center,GCSAM,Human,Lymphoid tissue,Lymphoid tissue,Normal,Normal cell,Germinal center B cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,b-catenin,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,N-cadherin,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,slug,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,zeb1,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,snail,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Twist1,Human,Lung,Lung,Lung Squamous Cell Carcinoma,Cancer cell,Mesenchymal cell

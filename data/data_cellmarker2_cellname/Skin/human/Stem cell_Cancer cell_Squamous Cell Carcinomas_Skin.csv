@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,EZH2,EZH2
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,Np63,
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,C-MYC,
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Skin,Skin,UBERON_0002097,Squamous Cell Carcinomas,Cancer cell,Stem cell,CL_0000034,H3K27me3,

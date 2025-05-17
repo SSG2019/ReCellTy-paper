@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular-like cell,,PDGFRB,PDGFRB
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular-like cell,,CD146,MCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular-like cell,,MCAM,MCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Perivascular-like cell,,ACTA2,ACTA2

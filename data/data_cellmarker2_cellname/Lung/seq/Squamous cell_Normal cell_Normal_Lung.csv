@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Squamous cell,,SPRR3,SPRR3
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Squamous cell,,SERPINB5,SERPINB5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Squamous cell,,CLCA2,CLCA2
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Squamous cell,,LGALS7,LGALS7

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Activated double-positive T cell,,CD70,CD70
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Activated double-positive T cell,,GNA15,GNA15

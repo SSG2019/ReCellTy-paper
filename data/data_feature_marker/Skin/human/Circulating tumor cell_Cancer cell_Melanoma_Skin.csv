@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Circulating tumor cell,Circulating,CD146,Human,Skin,Skin,Melanoma,Cancer cell,Circulating tumor cell
+Circulating tumor cell,tumor,MCAM,Human,Skin,Skin,Melanoma,Cancer cell,Circulating tumor cell

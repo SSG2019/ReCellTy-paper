@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB2,ZEB2
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,ETS1,ETS1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,SNAI1,SNAI1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,FN1,FN1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIM,VIM
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,CDH2,CDH2
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,ZEB1,ZEB1
+Human,Kidney,Kidney,UBERON_0002113,Kidney cancer,Cancer cell,Mesenchymal cell,CL_0008019,VIMENTIN,

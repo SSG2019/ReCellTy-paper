@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,MACC1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SLC15A1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BACE2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CA2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,DSC2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ELF3,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TJP2,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Epithelial cell

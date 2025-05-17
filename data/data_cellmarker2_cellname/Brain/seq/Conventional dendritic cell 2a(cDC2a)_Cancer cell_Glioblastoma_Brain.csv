@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CCR6,CCR6
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,SUSD3,SUSD3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CD59,CD59
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,SMAGP,SMAGP
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,TNNI2,TNNI2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CDH17,CDH17
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,NDRG2,NDRG2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CLEC11A,CLEC11A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CEACAM3,CEACAM3
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CD1E,CD1E
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CD207,CD207
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,AREG,AREG
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,GNGT2,GNGT2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CD1A,CD1A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,PARM1,PARM1
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,FCER1A,FCER1A
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,IL22RA2,IL22RA2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a),,CST7,CST7

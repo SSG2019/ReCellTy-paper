@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ductal cell,,TACSTD2,Human,Kidney,Fetal kidney,Normal,Normal cell,Ductal cell
+Ductal cell,,CDH1,Human,Kidney,Fetal kidney,Normal,Normal cell,Ductal cell
+Ductal cell,,ALDH1A1,Human,Kidney,Fetal kidney,Normal,Normal cell,Ductal cell

@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Naive,IGHM,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,Naive,IGHD,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,Naive,CD10,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,PLPP5,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,CXCR4,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,TCL1A,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,FCER2,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,APLP2,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,IL4R,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,CD27,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,CD19,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,IgD,Human,Liver,Liver,Normal,Normal cell,Naive B cell
+B cell,,MME,Human,Liver,Liver,Normal,Normal cell,Naive B cell

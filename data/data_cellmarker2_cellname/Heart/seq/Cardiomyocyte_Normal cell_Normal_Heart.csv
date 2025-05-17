@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,PCM1,PCM1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TTN,TTN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYBPC3,MYBPC3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,CORIN,CORIN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,POPDC2,POPDC2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYL2,MYL2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH7,MYH7
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,CD105,
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,MYH6,MYH6
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Cardiomyocyte,CL_0000746,TNNT2,TNNT2

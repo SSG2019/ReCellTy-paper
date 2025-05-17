@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,EMA,ETFA
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,GCDFP15,PIP
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin-18,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,CD166,ALCAM
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,CD117,KIT
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,SMA,SMN1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1/E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,ZO-1,TJP1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,CK14,KRT14
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,cytokeratins,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,desmoplakins,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,EpCAM,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,S100A9,S100A9
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial cell,CL_0000066,MCAM,MCAM

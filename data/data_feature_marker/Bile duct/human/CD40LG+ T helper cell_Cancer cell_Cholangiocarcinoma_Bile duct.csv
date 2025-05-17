@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD40LG+,CD40LG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD40LG+ T helper cell
+T cell,T helper cell,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD40LG+ T helper cell

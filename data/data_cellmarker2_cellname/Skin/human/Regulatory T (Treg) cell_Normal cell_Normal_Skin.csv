@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,IL-10,IL10
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,TGF-beta,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,CD73,NT5E
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,NRP1,NRP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,CD49b,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,HELIOS,IKZF2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,CD223,LAG3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Regulatory T (Treg) cell,,FOXP3,FOXP3

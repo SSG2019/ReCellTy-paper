@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tumor-associated,GPNMB,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,TREM2,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,SLC40A1,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,APOE,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,C1QA,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,,C1QB,Human,Liver,Liver,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM)

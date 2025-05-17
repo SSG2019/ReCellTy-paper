@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Myeloid cell,CL_0000763,CSF1R,CSF1R
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Thorax,Malignant pleural effusion,UBERON_0000175,Normal,Normal cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A

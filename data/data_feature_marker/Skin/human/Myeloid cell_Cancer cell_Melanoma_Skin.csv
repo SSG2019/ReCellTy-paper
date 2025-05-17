@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,TBX21,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,NR4A2,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,AREG,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC10A,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,PSAP,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell

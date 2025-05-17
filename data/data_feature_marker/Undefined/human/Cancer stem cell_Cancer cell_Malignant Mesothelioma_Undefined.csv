@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,CD26,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD9,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell
+Stem cell,,SP,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell
+Stem cell,,CD24,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell
+Stem cell,,DPP4,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell
+Stem cell,,TFF2,Human,Undefined,Undefined,Malignant Mesothelioma,Cancer cell,Cancer stem cell

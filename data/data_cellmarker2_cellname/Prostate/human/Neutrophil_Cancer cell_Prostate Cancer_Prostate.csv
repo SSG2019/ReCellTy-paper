@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Neutrophil,CL_0000775,CD55,CD55
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Neutrophil,CL_0000775,PCGR2A,

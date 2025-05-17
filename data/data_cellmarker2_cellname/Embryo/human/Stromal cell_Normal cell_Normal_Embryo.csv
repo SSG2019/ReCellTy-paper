@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stromal cell,CL_0000499,HLA-A,HLA-A
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stromal cell,CL_0000499,HLA-B,HLA-B
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stromal cell,CL_0000499,VIM,VIM
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Stromal cell,CL_0000499,THY1,THY1

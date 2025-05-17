@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Oviduct,UBERON_0000993,Normal,Normal cell,Ciliated epithelial Cell,CL_0000067,FOXJ1,FOXJ1
+Human,Ovary,Oviduct,UBERON_0000993,Normal,Normal cell,Ciliated epithelial Cell,CL_0000067,KRT9,KRT9

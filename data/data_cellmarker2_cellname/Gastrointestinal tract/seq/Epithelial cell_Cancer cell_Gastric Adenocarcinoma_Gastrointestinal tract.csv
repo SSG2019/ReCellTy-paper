@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT18,KRT18
+Human,Gastrointestinal tract,Gastrointestinal tract,UBERON_0005409,Gastric Adenocarcinoma,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8

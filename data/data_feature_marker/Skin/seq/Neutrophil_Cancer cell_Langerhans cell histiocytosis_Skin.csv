@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,VNN2,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil
+Neutrophil,,FCGR3B,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil

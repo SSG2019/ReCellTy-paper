@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,,PROM1,Human,Intestine,Colorectum,Colorectal cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,ERBB3,Human,Intestine,Colorectum,Colorectal cancer,Cancer cell,Cancer stem cell

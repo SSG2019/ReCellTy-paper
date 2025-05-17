@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,GPC3,Human,Liver,Liver,Hepatoblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,AFP,Human,Liver,Liver,Hepatoblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,KRT19,Human,Liver,Liver,Hepatoblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,EPCAM,Human,Liver,Liver,Hepatoblastoma,Cancer cell,Progenitor cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Hematopoietic progenitor cell,CL_0002031,CD41,ITGA2B
+Human,Blood,Blood,UBERON_0000178,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Hematopoietic progenitor cell,CL_0002031,CD34,CD34
+Human,Blood,Blood,UBERON_0000178,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Hematopoietic progenitor cell,CL_0002031,CD235a,GYPA

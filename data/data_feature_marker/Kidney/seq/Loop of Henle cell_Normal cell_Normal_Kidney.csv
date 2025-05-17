@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Loop of Henle cell,,UMOD,Human,Kidney,Kidney,Normal,Normal cell,Loop of Henle cell
+Loop of Henle cell,,CLDN16,Human,Kidney,Kidney,Normal,Normal cell,Loop of Henle cell
+Loop of Henle cell,,SLC12A1,Human,Kidney,Kidney,Normal,Normal cell,Loop of Henle cell

@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,AMACR,AMACR
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,Beta-catenin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,E-Cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,FRMD6,FRMD6
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,N-cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,Zeb1,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,EpCAM,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,Vimentin,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT5,KRT5
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,KRT8,KRT8
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

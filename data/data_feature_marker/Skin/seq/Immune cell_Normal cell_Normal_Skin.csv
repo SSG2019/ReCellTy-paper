@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,IC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD45,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Skin,Skin,Normal,Normal cell,Immune cell

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tfh,CD40LG,Human,Liver,Liver,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Liver,Liver,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,ICOS,Human,Liver,Liver,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCL13,Human,Liver,Liver,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,PDCD1,Human,Liver,Liver,Normal,Normal cell,T follicular helper(Tfh) cell

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+photoreceptor cell,Cone,PDE6C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,CNBG3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,PDE6H,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GUCA1C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GRK7,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNGT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,RXRG,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,ARR3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,THRB,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell

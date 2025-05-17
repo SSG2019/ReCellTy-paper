@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,CD8A,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell

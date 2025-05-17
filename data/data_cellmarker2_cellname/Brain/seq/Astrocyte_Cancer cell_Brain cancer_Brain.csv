@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Astrocyte,CL_0000127,S100β,
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Astrocyte,CL_0000127,CLU,CLU
+Human,Brain,Brain,UBERON_0000955,Brain cancer,Cancer cell,Astrocyte,CL_0000127,AQP4,AQP4

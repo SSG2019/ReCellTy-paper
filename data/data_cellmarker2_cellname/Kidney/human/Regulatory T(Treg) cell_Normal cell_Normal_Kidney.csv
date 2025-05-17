@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,ab22510,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Abcam,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Tnfrsf4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Ltb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Cd3g,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Ikzf2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Ifi27l2a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Tnfrsf18,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,S100a4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Rgs1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Capg,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,Izumo1r,

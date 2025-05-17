@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,CCND1,CCND1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,H2AFY,MACROH2A1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,CALCA,CALCA
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,RANBP1,RANBP1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,LHX1,LHX1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,WNT4,WNT4
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Pretubular aggregate cell,,RAN,RAN

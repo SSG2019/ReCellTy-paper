@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epidermal cell,Cell adhesion,E-cadherin,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Basal cell,ITGA6,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,WNT signaling,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,WNT signaling,LEF1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Basal layer,KRT14,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Differentiation,KRT10,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Differentiation,KRT1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell

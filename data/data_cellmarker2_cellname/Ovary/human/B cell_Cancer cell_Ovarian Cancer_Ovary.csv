@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD20,MS4A1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD79B,CD79B
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,MS4A1,MS4A1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD79A,CD79A
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,IGLC2,IGLC2
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,IGHG4,IGHG4
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,IGKC,IGKC
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,IGLC3,IGLC3
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,B cell,CL_0000236,JCHAIN,JCHAIN

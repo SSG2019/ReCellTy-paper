@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,ALDH1,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH2,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1A1,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD34,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCC3,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCC6,Human,Lymph,Lymph,Mantle cell lymphoma,Cancer cell,Cancer stem cell

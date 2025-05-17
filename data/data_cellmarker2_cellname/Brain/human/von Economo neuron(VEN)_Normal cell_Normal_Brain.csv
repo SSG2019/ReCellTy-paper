@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,von Economo neuron(VEN),,ITGA4,ITGA4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,von Economo neuron(VEN),,GABRQ,GABRQ
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,von Economo neuron(VEN),,BMP3,BMP3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,von Economo neuron(VEN),,ADRA1A,ADRA1A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,von Economo neuron(VEN),,POU3F1,POU3F1

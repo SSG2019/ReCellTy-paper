@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Stemness,Nestin,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4A,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Stemness,SOX2,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Stemness,Musashi-1,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,CD133,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,CD44,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,ALDH1,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,ALDH1A1,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,ABCG2,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,Cancer Association,PROM1,Human,Lung,Lung,Normal,Normal cell,Cancer stem cell

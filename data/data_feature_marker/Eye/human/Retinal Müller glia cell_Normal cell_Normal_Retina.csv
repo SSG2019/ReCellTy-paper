@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Retinal Müller glia cell,,REDD1,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,REDD2,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,DDIT4,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,DDIT4L,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell

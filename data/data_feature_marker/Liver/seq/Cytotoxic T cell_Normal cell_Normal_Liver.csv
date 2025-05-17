@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GZMK,Human,Liver,Liver,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Liver,Liver,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8,Human,Liver,Liver,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Liver,Liver,Normal,Normal cell,Cytotoxic T cell

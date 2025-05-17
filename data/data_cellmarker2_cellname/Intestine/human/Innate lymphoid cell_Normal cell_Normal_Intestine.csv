@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,GZMB,GZMB
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,IL7R,IL7R
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CSF2,CSF2
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CXCR6,CXCR6
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD94,KLRD1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD335,NCR1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD103,ITGAE
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD56,NCAM1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD49a,ITGA1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Innate lymphoid cell,CL_0001065,CD336,NCR2

@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Lymph node,UBERON_0000029,Colorectal Cancer,Cancer cell,Mature B cell,CL_0000785,DHX9,DHX9

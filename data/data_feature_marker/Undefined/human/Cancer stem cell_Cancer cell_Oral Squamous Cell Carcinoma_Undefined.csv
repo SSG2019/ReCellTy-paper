@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Stemness,CD44,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Tumor Initiation,CD44,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,ALDH,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Drug Resistance,ALDH,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Drug Resistance,ABCG2,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,OCT4,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,NANOG,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD133,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Tumor Initiation,CD133,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,Nestin,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,CD117,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Tumor Initiation,CD117,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,POU5F1,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stemness,PROM1,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Tumor Initiation,PROM1,Human,Undefined,Undefined,Oral Squamous Cell Carcinoma,Cancer cell,Cancer stem cell

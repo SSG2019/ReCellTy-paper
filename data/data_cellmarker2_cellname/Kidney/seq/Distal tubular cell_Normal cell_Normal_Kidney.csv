@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,UMOD,UMOD
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,DEFB1,DEFB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,ECAD,CDH1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,CALB1,CALB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,SLC8A1,SLC8A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Distal tubular cell,,SLC12A3,SLC12A3

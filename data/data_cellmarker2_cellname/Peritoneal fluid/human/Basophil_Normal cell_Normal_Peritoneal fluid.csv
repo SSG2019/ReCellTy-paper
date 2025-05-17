@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Basophil,CL_0000767,CD123,IL3RA
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Basophil,CL_0000767,FceRIα,

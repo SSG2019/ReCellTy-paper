@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper(Th),CXCL13,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,T helper(Th) cell

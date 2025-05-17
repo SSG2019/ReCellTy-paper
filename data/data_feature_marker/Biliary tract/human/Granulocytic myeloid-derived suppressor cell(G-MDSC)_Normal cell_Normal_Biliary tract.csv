@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid-derived suppressor cell,Granulocytic,CD11b,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+Myeloid-derived suppressor cell,Granulocytic,CD15,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)
+Myeloid-derived suppressor cell,Granulocytic,FUT4,Human,Biliary tract,Biliary tract,Normal,Normal cell,Granulocytic myeloid-derived suppressor cell(G-MDSC)

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3B,FCGR3B
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Neutrophil,CL_0000775,S100A8,S100A8
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Neutrophil,CL_0000775,S100A9,S100A9
+Human,Lung,Bronchial vessel,,Normal,Normal cell,Neutrophil,CL_0000775,IFITM2,IFITM2

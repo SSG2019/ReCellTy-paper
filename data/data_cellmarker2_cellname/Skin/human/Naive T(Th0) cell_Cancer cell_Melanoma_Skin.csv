@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Naive T(Th0) cell,CL_0000898,CCR7,CCR7
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Naive T(Th0) cell,CL_0000898,CD27,CD27
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Naive T(Th0) cell,CL_0000898,CD45RA,

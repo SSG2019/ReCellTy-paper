@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Trophectoderm cell,,TBX3,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,ATP1B3,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,FGFR4,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,CLDN10,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,POU5F1,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,GATA2,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,SOX4,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell
+Trophectoderm cell,,S100A6,Human,Placenta,Placenta,Normal,Normal cell,Trophectoderm cell

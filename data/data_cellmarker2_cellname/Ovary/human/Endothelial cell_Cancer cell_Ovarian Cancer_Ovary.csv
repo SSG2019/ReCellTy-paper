@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,IFI27,IFI27
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,MGP,MGP
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,IGFBP7,IGFBP7
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,SPARCL1,SPARCL1
+Human,Ovary,Ovary,UBERON_0000992,Ovarian Cancer,Cancer cell,Endothelial cell,CL_0000115,VWF,VWF

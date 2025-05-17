@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,VGLUT2,SLC17A6
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,STMN2,STMN2
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,DCX,DCX
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,SYT1,SYT1
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,GAP43,GAP43
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,NEFM,NEFM
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,SYT4,SYT4
+Human,Brain,Pluripotent stem cell,CL_0002248,Normal,Normal cell,Neuron,CL_0000540,MAP2,MAP2

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,TPSD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CMA1,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CTSG,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell
+Mast cell,,CPA3,Human,Breast,Breast,Breast Cancer,Cancer cell,Mast cell

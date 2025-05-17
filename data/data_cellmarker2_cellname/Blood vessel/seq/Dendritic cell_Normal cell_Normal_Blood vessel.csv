@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,Ifitm1,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,Ccr7,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,Cd209a,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,CLEC10A,CLEC10A
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Leukemia,CD123,Human,Undefined,Undefined,Normal,Normal cell,Leukemia stem cell
+stem cell,Leukemia,IL1RAP,Human,Undefined,Undefined,Normal,Normal cell,Leukemia stem cell
+stem cell,Leukemia,IL3RA,Human,Undefined,Undefined,Normal,Normal cell,Leukemia stem cell

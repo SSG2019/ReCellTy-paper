@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,phagocytosis and antigen presentation,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,HLADR,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,LPS receptor,CD14,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,Fc receptor,CD16,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion and migration,CD11b,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,scavenger receptor,CD68,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,CD11C,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,high-affinity IgG receptor,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,low-affinity IgG receptor,FCGR3A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion and migration,ITGAX,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,Monocyte

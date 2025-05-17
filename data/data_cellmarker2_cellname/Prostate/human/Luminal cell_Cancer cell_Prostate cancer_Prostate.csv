@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate cancer,Cancer cell,Luminal cell,CL_0002235,KRT18,KRT18
+Human,Prostate,Prostate,UBERON_0002367,Prostate cancer,Cancer cell,Luminal cell,CL_0002235,AR,AR
+Human,Prostate,Prostate,UBERON_0002367,Prostate cancer,Cancer cell,Luminal cell,CL_0002235,KRT8,KRT8

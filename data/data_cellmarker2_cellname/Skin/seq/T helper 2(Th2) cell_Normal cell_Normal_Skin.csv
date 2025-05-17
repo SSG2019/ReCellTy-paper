@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,AADACL2,AADACL2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,KIAA0319,KIAA0319
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,FLG,FLG
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,NCAPG,NCAPG
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,ABO,ABO
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,LMAN1,LMAN1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,RELN,RELN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,T helper 2(Th2) cell,CL_0000546,COL5A1,COL5A1

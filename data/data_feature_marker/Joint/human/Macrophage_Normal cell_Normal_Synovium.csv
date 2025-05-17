@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,TIMD-4,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MerTK,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Joint,Synovium,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Joint,Synovium,Normal,Normal cell,Macrophage

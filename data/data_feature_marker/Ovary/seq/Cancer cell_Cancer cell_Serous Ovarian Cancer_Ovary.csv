@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Cancer,KRT18,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+cell,Cancer,EPCAM,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+cell,Cancer,PAX8,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell

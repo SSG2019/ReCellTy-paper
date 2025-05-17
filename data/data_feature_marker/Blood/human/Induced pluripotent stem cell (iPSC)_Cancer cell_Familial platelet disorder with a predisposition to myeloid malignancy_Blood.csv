@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,CD41,Human,Blood,Blood,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Induced pluripotent stem cell (iPSC)
+Stem cell,,CD42,Human,Blood,Blood,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Induced pluripotent stem cell (iPSC)
+Stem cell,,ITGA2B,Human,Blood,Blood,Familial platelet disorder with a predisposition to myeloid malignancy,Cancer cell,Induced pluripotent stem cell (iPSC)

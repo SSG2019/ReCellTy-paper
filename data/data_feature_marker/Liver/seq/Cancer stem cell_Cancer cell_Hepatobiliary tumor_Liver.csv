@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,PROM1,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EPCAM,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,SOX9,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,OCT4,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,POU5F1,Human,Liver,Liver,Hepatobiliary tumor,Cancer cell,Cancer stem cell

@@ -1,0 +1,266 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,B cell
+B cell,,BLNK,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,B cell
+B cell,,CD79B,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,B cell
+B cell,,CD20,Human,Prostate,Prostate,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Prostate,Prostate,Normal,Normal cell,B cell
+Basal cell,,KRT14,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Basal cell
+Basal cell,,KRT5,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Basal cell
+Basal cell,,KRT5,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Basal cell
+Basal cell,,TP63,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Basal cell
+Basal cell,,P63,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Keratin-14,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Keratin-5,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Calcyclin,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,TSC-22,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,HMWCK,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,TEAD1,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Cancer cell,,PTEN,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,C-MYC,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,CDH1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,AMACR,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,WFDC2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,AMACR,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,EGFR,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,ATAD2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PFKFB4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PIAS2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,UBE2T,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Stem cell,Cancer,CD133,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Nestin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ABCG2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,OCT4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,BMI1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,NANOG,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Jagged-1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD49f,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Patched,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,deltaNp63,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Smoothened,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD201,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,HES1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,SOX2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD117,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,POU5F1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ITGA6,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,KIT,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALCAM,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,,CD44,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,CD133,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,CD24,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,Integrin alpha2beta1,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,CXCR4,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,ABCG2,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,ALDH-1,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,EpCAM,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,CD49,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,HGF,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,POU5F1,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,EZH2,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,PSCA,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,ITGA2,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,PROM1,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Cancer stem cell,,TACSTD2,Human,Prostate,Prostate,Normal,Normal cell,Cancer stem cell
+Fibroblast,Cancer-associated,THY1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,CD90,Human,Prostate,Prostate,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,THY1,Human,Prostate,Prostate,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD8+,CD8,Human,Prostate,Prostate,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Prostate,Prostate,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Prostate,Prostate,Normal,Normal cell,CD8+ T cell
+Colony-forming cell,,CD49f,Human,Prostate,Prostate,Normal,Normal cell,Colony-forming cell
+Colony-forming cell,,ITGA6,Human,Prostate,Prostate,Normal,Normal cell,Colony-forming cell
+Dendritic cell,,CD11c,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Dendritic cell
+Dentate granule cell,neurogenesis,DCX,Human,Prostate,Prostate,Normal,Normal cell,Dentate granule cell
+epithelial cell,prostate,PSCA,Human,Prostate,Prostate,Normal,Normal cell,Early transit-amplifying prostate epithelial cell
+Endothelial cell,,PECAM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,ENG,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SELE,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,AR,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TMPRSS2,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3.1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3-1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion,E-Cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion,EpCAM,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Cell adhesion,Beta-catenin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural integrity,KRT5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural integrity,KRT8,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,Vimentin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,N-cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,EMT,Zeb1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Prostate,Basilar membrane,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Androgen receptor,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-8,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,P63,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-18,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-Cadherin,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ESRP2,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ESRP1,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Prostate,Prostate,Normal,Normal cell,Epithelial cell
+Fibroblast,,MYH11,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,GJA4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,RSPO3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,TNFAIP6,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,MT1A,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,PTGDS,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,APOD,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,FBLN1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,RGS5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,FGF2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Fibroblast
+Fibroblast,,APOD,Human,Prostate,Epithelium,Normal,Normal cell,Fibroblast
+B cell,GrB+,IgM,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD1d,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD38,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,CD19,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,CD147,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,BSG,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell
+Immune cell,,CD8B,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,CD274,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,PDCD1LG2,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Immune cell,,PDCD1,Human,Prostate,Prostate,Normal,Normal cell,Immune cell
+Prostate epithelial cell,Late transit-amplifying,PSCA,Human,Prostate,Prostate,Normal,Normal cell,Late transit-amplifying prostate epithelial cell
+Leukocyte,,CD45,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Leukocyte
+Leukocyte,,PTPRC,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Leukocyte
+LNCaP cell,,CK9,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,LNCaP cell
+LNCaP cell,,CK44,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,LNCaP cell
+Luminal cell,,KRT8,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT18,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell
+Luminal cell,,AR,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT8,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell
+Luminal cell,,Cytokeratin-18,Human,Prostate,Prostate,Normal,Normal cell,Luminal cell
+Luminal cell,,Cytokeratin-8,Human,Prostate,Prostate,Normal,Normal cell,Luminal cell
+Luminal cell,,CAM 5.2,Human,Prostate,Prostate,Normal,Normal cell,Luminal cell
+Luminal cell,,Androgen receptor,Human,Prostate,Prostate,Normal,Normal cell,Luminal cell
+Luminal epithelial cell,,KLK2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ACPP,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,NKX31,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,MSMB,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,KLK3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Luminal epithelial cell,,ACP3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Macrophage,,CD163,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Macrophage
+Macrophage,,APOE,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Macrophage
+Macrophage,,C1QA,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Macrophage
+Macrophage,,C1QB,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Macrophage
+Macrophage,,MAC1,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,MAC2,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Mesenchymal cell,,N-cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,E-cadherin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Zeb1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,EpCAM,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Prostate,Prostate,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ZEB1,Human,Prostate,Prostate,Normal,Normal cell,Mesenchymal cell
+Myeloid cell,,IL1B,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,APOE,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Natural killer cell,,KLRD1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRK1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Natural killer cell
+Neuroendocrine cell,,Chromogranin A,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Neuroendocrine cell
+Neuron,,ENO2,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Neuron
+Neuron,,BRN2,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Neuron
+Neuron,,CHGA,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Neuron
+Neuron,,SYP,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Neuron
+Neuron,,POU3F2,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Neuron
+Neutrophil,,CD55,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Neutrophil
+Neutrophil,,PCGR2A,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Neutrophil
+Plasma cell,,ADT CD138 syndecan-1 SDC1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Plasma cell
+Progenitor cell,,CK19,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,SCA-1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,CK5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,ABCG2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,PD-1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,CD8,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,TCF1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,KRT19,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,CASP3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,KRT5,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,PDCD1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,CD8A,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+Progenitor cell,,HNF1A,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Progenitor cell
+stem cell,Prostate,CD44,Human,Prostate,Prostate,Normal,Normal cell,Prostate stem cell
+T cell,Regulatory,FOXP3,Human,Prostate,Prostate,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Prostate,Prostate,Normal,Normal cell,Regulatory T(Treg) cell
+Smooth muscle cell,,DES,Human,Prostate,Prostate,Normal,Normal cell,Smooth muscle cell
+Stem cell,,ALDH1,Human,Prostate,Prostate,Castration-resistant prostate cancer,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Prostate,Prostate,Castration-resistant prostate cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Prostate,Prostate,Castration-resistant prostate cancer,Cancer cell,Stem cell
+Stem cell,,ALDH1A1,Human,Prostate,Prostate,Castration-resistant prostate cancer,Cancer cell,Stem cell
+Stem cell,,CD133,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell
+Stem cell,,Lgr5,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Prostate,Prostate,Colorectal cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Prostate,Prostate,Neuroendocrine prostate cancer,Cancer cell,Stem cell
+Stem cell,,CDK12,Human,Prostate,Prostate,Normal,Cancer cell,Stem cell
+Stem cell,Stemness,CD133,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD49f,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD44,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CXCR4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,Nanog,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,PROM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ITGA6,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,stemness,CD133,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,SCA-1,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,CD44,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,CD166,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,TROP2,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,PROM1,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,,CASP3,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,ALCAM,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+Stem cell,stemness,TACSTD2,Human,Prostate,Prostate,Normal,Normal cell,Stem cell
+T cell,,CD3E,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,T cell
+T cell,,CD3D,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,T cell
+T cell,,CD3G,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,T cell
+T cell,,CD8,Human,Prostate,Prostate,Normal,Normal cell,T cell
+T cell,,CD3,Human,Prostate,Prostate,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Prostate,Prostate,Normal,Normal cell,T cell
+Basal cell,,KRT14,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Basal cell
+Basal cell,,KRT5,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Basal cell
+Cancer cell,,PTEN,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,C-MYC,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,CDH1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,AMACR,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,EGFR,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,ATAD2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PFKFB4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,PIAS2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+Cancer cell,,UBE2T,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer cell
+fibroblast,Cancer-associated,THY1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Cancer-associated fibroblast
+Endothelial cell,,PECAM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Endothelial cell
+Epithelial cell,,AR,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TMPRSS2,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3.1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,NKX3-1,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Prostate,Basilar membrane,Normal,Normal cell,Epithelial cell
+Fibroblast,,APOD,Human,Prostate,Epithelium,Normal,Normal cell,Fibroblast
+Luminal cell,,KRT8,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Luminal cell
+epithelial cell,,KLK2,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+epithelial cell,,ACPP,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+epithelial cell,,NKX31,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+epithelial cell,,MSMB,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+epithelial cell,,KLK3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+epithelial cell,,ACP3,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Luminal epithelial cell
+Macrophage,,MAC1,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,MAC2,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Macrophage,,LGALS3,Human,Prostate,Prostate,Normal,Normal cell,Macrophage
+Myeloid cell,,IL1B,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,APOE,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Myeloid cell
+Neuroendocrine cell,,Chromogranin A,Human,Prostate,Epidermis,Prostate Cancer,Cancer cell,Neuroendocrine cell
+Smooth muscle cell,,DES,Human,Prostate,Prostate,Normal,Normal cell,Smooth muscle cell
+Stem cell,,CDK12,Human,Prostate,Prostate,Normal,Cancer cell,Stem cell

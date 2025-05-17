@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Cxcl12,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Gja5,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Bmx,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Trpv4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Mgp,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Fbln2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Arteriole endothelial cell,,Sox17,

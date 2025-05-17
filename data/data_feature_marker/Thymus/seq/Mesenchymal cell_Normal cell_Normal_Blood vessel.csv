@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,LAMA2,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,LUM,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Thymus,Blood vessel,Normal,Normal cell,Mesenchymal cell

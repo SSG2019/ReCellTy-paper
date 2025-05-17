@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,GZMB,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMK,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMA,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,PRF6,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,GZMH,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,IFNG,Human,Bile duct,Bile duct,Cholangiocarcinoma,Cancer cell,CD8+ T cell

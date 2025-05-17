@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,POU6F2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ERBB3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,BCL11A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,NF1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,LGR5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX6,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell

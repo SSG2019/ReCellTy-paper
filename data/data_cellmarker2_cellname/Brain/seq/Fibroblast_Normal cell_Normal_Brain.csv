@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,BRACHYURY,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,SNAI1,SNAI1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,IGFBP5,IGFBP5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,LGALS3,LGALS3
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Fibroblast,CL_0000057,KCNT2,KCNT2

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,EGR2,EGR2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,KLF2,KLF2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,SEPP1,SELENOP
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,CCL3,CCL3
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,MS4A7,MS4A7
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,C1QA,C1QA
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,VSIG4,VSIG4
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,PLTP,PLTP
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,FOLR2,FOLR2
+Human,Decidua,Decidua,UBERON_0002450,Normal,Normal cell,Macrophage,CL_0000235,HAMP,HAMP

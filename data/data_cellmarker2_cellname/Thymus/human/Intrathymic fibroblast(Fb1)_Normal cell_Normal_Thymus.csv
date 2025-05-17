@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Intrathymic fibroblast(Fb1),,GDF10,GDF10
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Intrathymic fibroblast(Fb1),,COLEC11,COLEC11
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Intrathymic fibroblast(Fb1),,ALDH1A2,ALDH1A2

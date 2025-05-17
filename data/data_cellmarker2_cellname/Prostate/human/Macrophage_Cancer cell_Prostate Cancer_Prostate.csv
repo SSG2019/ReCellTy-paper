@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Macrophage,CL_0000235,CD163,CD163
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Macrophage,CL_0000235,APOE,APOE
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Macrophage,CL_0000235,C1QA,C1QA
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Macrophage,CL_0000235,C1QB,C1QB

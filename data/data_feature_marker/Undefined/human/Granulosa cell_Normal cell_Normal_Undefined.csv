@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulosa cell,Follicle regulation,Follicle regulatory protein,Human,Undefined,Undefined,Normal,Normal cell,Granulosa cell
+Granulosa cell,Cell adhesion/migration,CD146,Human,Undefined,Undefined,Normal,Normal cell,Granulosa cell
+Granulosa cell,Cell adhesion/migration,Fibronectin,Human,Undefined,Undefined,Normal,Normal cell,Granulosa cell

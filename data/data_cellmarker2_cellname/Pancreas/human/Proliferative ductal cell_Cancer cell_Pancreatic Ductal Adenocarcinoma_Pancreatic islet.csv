@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell,,PLK1,PLK1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell,,AURKA,AURKA
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Pancreatic Ductal Adenocarcinoma,Cancer cell,Proliferative ductal cell,,CDK1,CDK1

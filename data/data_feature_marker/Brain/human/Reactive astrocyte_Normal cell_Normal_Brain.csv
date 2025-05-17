@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+astrocyte,Reactive,Ctnnb1,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte
+astrocyte,Reactive,Plaur,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte
+astrocyte,Reactive,Axin2,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte
+astrocyte,Reactive,Nes,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte
+astrocyte,Reactive,MMP2,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte
+astrocyte,Reactive,MMP13,Human,Brain,Brain,Normal,Normal cell,Reactive astrocyte

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Activated,IGHM,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Activated B cell
+B cell,Activated,CD79A,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Activated B cell
+B cell,Activated,CD74,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Activated B cell
+B cell,Activated,CD27,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Activated B cell

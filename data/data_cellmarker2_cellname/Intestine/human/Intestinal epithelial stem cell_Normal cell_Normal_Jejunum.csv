@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Jejunum,UBERON_0002115,Normal,Normal cell,Intestinal epithelial stem cell,CL_0000034,CD44,CD44
+Human,Intestine,Jejunum,UBERON_0002115,Normal,Normal cell,Intestinal epithelial stem cell,CL_0000034,CD24,CD24

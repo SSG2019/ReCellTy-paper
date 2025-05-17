@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFRSF4,TNFRSF4
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,CD52,CD52
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,TIMP1,TIMP1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,AQP3,AQP3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,LTB,LTB
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Effector memory T cell,CL_0000813,IL7R,IL7R

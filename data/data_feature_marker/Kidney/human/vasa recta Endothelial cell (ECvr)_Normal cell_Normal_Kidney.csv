@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,vasa recta,CLDN5,Human,Kidney,Kidney,Normal,Normal cell,vasa recta Endothelial cell (ECvr)
+Endothelial cell,vasa recta,FLT1,Human,Kidney,Kidney,Normal,Normal cell,vasa recta Endothelial cell (ECvr)
+Endothelial cell,vasa recta,PECAM1,Human,Kidney,Kidney,Normal,Normal cell,vasa recta Endothelial cell (ECvr)

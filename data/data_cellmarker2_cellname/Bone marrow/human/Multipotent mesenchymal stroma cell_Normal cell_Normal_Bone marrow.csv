@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD105,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD11b,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD45,PTPRC
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD90,THY1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD73,NT5E
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD14,CD14
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD79a,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Multipotent mesenchymal stroma cell,CL_0000499,CD271,NGFR

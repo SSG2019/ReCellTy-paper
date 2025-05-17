@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,EMT-like cell,,ZEB1,ZEB1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,EMT-like cell,,CDH2,CDH2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,EMT-like cell,,SNAI2,SNAI2

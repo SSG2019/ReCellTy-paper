@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD4+ T cell,CL_0000624,FAM102A,FAM102A
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD4+ T cell,CL_0000624,IL7R,IL7R
+Human,Blood,Blood,UBERON_0000178,Early T-cell progenitor acute lymphoblastic leukemia,Cancer cell,CD4+ T cell,CL_0000624,CCR7,CCR7

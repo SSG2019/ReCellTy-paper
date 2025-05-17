@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stromal cell,Adhesion,CD44,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,CD29,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,CD51,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Adhesion,VCAM1,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Stemness,Nestin,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Stemness,Sca-1,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Stemness,CD90,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Stemness,CD73,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Angiogenesis,CD146,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Immunomodulation,CD105,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell
+Mesenchymal stromal cell,Immunomodulation,CD106,Human,Brain,Brain,Normal,Normal cell,Mesenchymal stromal cell

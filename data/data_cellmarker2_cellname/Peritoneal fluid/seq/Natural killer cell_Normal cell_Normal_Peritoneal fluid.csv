@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,CD94,KLRD1
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,CD127,IL7R
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,CD16,FCGR3A
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL2,
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,KIR2DL3,KIR2DL3
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,HLADR,
+Human,Peritoneal fluid,Peritoneal fluid,UBERON_0001268,Normal,Normal cell,Natural killer cell,CL_0000623,NKG2A,KLRC1

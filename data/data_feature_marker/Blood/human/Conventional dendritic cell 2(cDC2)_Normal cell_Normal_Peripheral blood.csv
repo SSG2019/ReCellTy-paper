@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,FcεRIα,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,HLA-DQ,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1c,Human,Blood,Peripheral blood,Normal,Normal cell,Conventional dendritic cell 2(cDC2)

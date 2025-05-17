@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,GrB+ Regulatory B cell,,CD147,BSG
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,GrB+ Regulatory B cell,,IgM,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,GrB+ Regulatory B cell,,CD1d,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,GrB+ Regulatory B cell,,CD19,CD19
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,GrB+ Regulatory B cell,,CD38,CD38

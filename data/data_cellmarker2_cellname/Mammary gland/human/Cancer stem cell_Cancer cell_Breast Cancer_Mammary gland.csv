@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Mammary gland,Mammary gland,UBERON_0001911,Breast Cancer,Cancer cell,Cancer stem cell,,ESA,FLOT2
+Human,Mammary gland,Mammary gland,UBERON_0001911,Breast Cancer,Cancer cell,Cancer stem cell,,CD61,ITGB3
+Human,Mammary gland,Mammary gland,UBERON_0001911,Breast Cancer,Cancer cell,Cancer stem cell,,CD49f,ITGA6

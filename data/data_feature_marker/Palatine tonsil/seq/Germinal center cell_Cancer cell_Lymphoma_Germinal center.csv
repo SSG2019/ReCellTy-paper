@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germinal center cell,,MEF2B,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Germinal center cell
+Germinal center cell,,RSG13,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Germinal center cell
+Germinal center cell,,BCL6,Human,Palatine tonsil,Germinal center,Lymphoma,Cancer cell,Germinal center cell

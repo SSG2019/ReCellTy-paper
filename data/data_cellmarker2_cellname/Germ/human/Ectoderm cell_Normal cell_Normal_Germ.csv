@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Ectoderm cell,CL_0000221,NOTCH1,NOTCH1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Ectoderm cell,CL_0000221,NCAM,NCAM1

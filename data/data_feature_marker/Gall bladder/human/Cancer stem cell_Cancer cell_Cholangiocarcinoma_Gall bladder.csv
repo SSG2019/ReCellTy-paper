@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Cancer,Nanog,Human,Gall bladder,Gall bladder,Cholangiocarcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Sox2,Human,Gall bladder,Gall bladder,Cholangiocarcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,OCT4,Human,Gall bladder,Gall bladder,Cholangiocarcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,Lin28,Human,Gall bladder,Gall bladder,Cholangiocarcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,POU5F1,Human,Gall bladder,Gall bladder,Cholangiocarcinoma,Cancer cell,Cancer stem cell

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural cell,progenitor,HES5,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,PAX6,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,MKI67,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,TOP2A,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,CENPF,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,UBE2C,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,SOX2,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell
+Neural cell,progenitor,MSI1,Human,Brain,Brain,Normal,Normal cell,Neural progenitor cell

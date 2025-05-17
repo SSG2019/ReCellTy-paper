@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Retinal Progenitor Cell,Multipotent,LIN28A,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Multipotent,LIN28B,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Multipotent,BMP7,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,TGFβ2,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,IGFBP5,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,GJA1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,JAG1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell

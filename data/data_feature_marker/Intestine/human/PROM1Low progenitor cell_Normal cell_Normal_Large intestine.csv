@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,PROM1Low,PTGES3L,Human,Intestine,Large intestine,Normal,Normal cell,PROM1Low progenitor cell
+Progenitor cell,PROM1Low,PART1,Human,Intestine,Large intestine,Normal,Normal cell,PROM1Low progenitor cell
+Progenitor cell,PROM1Low,ALCAM,Human,Intestine,Large intestine,Normal,Normal cell,PROM1Low progenitor cell

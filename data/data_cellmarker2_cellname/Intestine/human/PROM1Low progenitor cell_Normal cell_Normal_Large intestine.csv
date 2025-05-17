@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,PTGES3L,PTGES3L
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,GJC1,GJC1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,MEIS3,MEIS3
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,SGCA,SGCA
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,PART1,PART1
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,RAB9B,RAB9B
+Human,Intestine,Large intestine,UBERON_0000059,Normal,Normal cell,PROM1Low progenitor cell,,ALCAM,ALCAM

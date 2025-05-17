@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,ZO-1,TJP1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,CD24,CD24
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Epithelial cell,CL_0000066,E-cadherin,

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,PRF1,PRF1
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,KLRB1,KLRB1
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,XCL1,XCL1
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,FCGR3A,FCGR3A
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,CD160,CD160
+Human,Kidney,Kidney,UBERON_0002113,Renal Cell Carcinoma,Cancer cell,Natural killer cell,CL_0000623,XCL2,XCL2

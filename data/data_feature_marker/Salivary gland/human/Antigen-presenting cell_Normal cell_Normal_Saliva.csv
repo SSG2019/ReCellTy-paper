@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Antigen-presenting cell,,CD80,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,CD86,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,HLA-ABC,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,CD83,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,,HLA-DR,Human,Salivary gland,Saliva,Normal,Normal cell,Antigen-presenting cell

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,S100A9,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,FCN1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,TLR2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte
+Monocyte,,CD33,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte

@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,PDL-1,
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFR1,TNFRSF1A
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,PD-1,PDCD1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,CTLA-4,CTLA4
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,RIPK3,RIPK3
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Effector memory T cell,CL_0000813,RIPK1,RIPK1

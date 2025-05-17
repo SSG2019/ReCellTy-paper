@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Follicular B cell,CL_0000843,CR2,CR2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Follicular B cell,CL_0000843,FCER2,FCER2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Follicular B cell,CL_0000843,CD19,CD19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Follicular B cell,CL_0000843,CD22,CD22

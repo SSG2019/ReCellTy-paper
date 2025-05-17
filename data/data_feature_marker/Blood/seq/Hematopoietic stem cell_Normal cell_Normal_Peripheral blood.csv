@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic stem cell,,SOX4,Human,Blood,Peripheral blood,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD34,Human,Blood,Peripheral blood,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD59,Human,Blood,Peripheral blood,Normal,Normal cell,Hematopoietic stem cell

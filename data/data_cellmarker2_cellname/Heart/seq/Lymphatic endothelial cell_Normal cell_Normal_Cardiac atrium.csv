@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PDPN,PDPN
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,FLT4,FLT4
+Human,Heart,Cardiac atrium,UBERON_0002081,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PROX1,PROX1

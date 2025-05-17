@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,CD34+,CD34,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,HOXA9,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,PROM1,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell

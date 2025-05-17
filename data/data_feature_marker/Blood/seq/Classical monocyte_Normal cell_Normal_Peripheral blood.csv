@@ -1,0 +1,37 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,Function: CD14,CD14,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Inflammatory Response,S100A8,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Inflammatory Response,S100A9,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Inflammatory Response,S100A12,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DQA1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DRB1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DRA,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DPB1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DPA1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Antigen Presentation,HLA-DQB1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Phagocytosis,FCN1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,Function: Phagocytosis,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,BASP1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,CXCL8,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,IFITM3,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,VNN2,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,IFIT3,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,ALOX5AP,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,HLA-DQA1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,IFI6,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,GPR183,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,ISG15,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,CD74,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,PLBD1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,QAS3,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,IFIT2,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,IFI44L,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,ITGA4,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,MX1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,CYP1B1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,PADI4,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,EPSTI1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,XAF1,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,CDKN1A,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,LYZ,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte
+Monocyte,,VCAN,Human,Blood,Peripheral blood,Normal,Normal cell,Classical monocyte

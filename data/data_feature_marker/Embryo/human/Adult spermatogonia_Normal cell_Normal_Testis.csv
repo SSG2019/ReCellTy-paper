@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Spermatogonia,,PLPPR3,Human,Embryo,Testis,Normal,Normal cell,Adult spermatogonia
+Spermatogonia,,DCAF4L1,Human,Embryo,Testis,Normal,Normal cell,Adult spermatogonia
+Spermatogonia,,EGR4,Human,Embryo,Testis,Normal,Normal cell,Adult spermatogonia
+Spermatogonia,,SIX1,Human,Embryo,Testis,Normal,Normal cell,Adult spermatogonia

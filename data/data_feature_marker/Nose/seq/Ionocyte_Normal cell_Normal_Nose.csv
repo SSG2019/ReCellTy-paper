@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Ionocyte,Ion transport,CFTR,Human,Nose,Nose,Normal,Normal cell,Ionocyte
+Ionocyte,Ion transport,FOXI1,Human,Nose,Nose,Normal,Normal cell,Ionocyte

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Limbal,P63,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,ABCG2,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,CK14,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,KRT14,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell

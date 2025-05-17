@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiosphere-derived cell,Cardiac Development,TBX5,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,Cardiac Development,NKX2-5,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,Cardiac Development,GATA4,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL1,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL6,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,IL1B,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell
+Cardiosphere-derived cell,,CXCL8,Human,Heart,Heart,Normal,Normal cell,Cardiosphere-derived cell

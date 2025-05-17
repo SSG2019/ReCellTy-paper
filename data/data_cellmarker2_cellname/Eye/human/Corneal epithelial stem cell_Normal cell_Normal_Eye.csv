@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial stem cell,CL_0000034,SSEA-4,
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial stem cell,CL_0000034,P63,
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial stem cell,CL_0000034,CK3,KRT3
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial stem cell,CL_0000034,CK14,KRT14

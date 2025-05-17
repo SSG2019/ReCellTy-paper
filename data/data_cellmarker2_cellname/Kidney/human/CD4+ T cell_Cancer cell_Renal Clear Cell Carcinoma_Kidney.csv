@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,CD4+ T cell,CL_0000624,IL7R,IL7R

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural cell,,FZD3,Human,Embryo,Embryoid body,Normal,Normal cell,Neural cell
+Neural cell,,OTX2,Human,Embryo,Embryoid body,Normal,Normal cell,Neural cell
+Neural cell,,PTN,Human,Embryo,Embryoid body,Normal,Normal cell,Neural cell

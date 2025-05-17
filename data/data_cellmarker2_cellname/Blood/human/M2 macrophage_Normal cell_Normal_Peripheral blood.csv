@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,DCIR,CLEC4A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD206,MRC1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD23,FCER2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,IL-1,IL1B
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,TRAIL,TNFSF10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,FIZZ1,RETNLB
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD184,CXCR4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD209,CD209
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CLACSF13,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD36,CD36
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,M60,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,C-type lectin-like receptor dectin-1,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD163,CD163
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CD14,CD14
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,M2 macrophage,CL_0000890,CHI3L1,CHI3L1

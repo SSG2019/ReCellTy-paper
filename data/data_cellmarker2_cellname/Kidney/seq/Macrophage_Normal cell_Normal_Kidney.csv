@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,FCGR3A,FCGR3A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,FCGR1A,FCGR1A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1QB,C1QB
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,CD52,CD52
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,MRC1,MRC1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,LYZ,LYZ
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1QA,C1QA
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1QB,C1QB
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Fcer1g,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Aif1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1qc,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Ctss,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Apoe,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Itgam,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1qa,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Cd74,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,Ms4a7,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1qb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Macrophage,CL_0000235,C1qa,

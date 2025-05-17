@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,Naive B cell,CL_0000788,CD72,CD72
+Human,Lymph node,Lymph node,UBERON_0000029,Nodal B-cell lymphoma,Cancer cell,Naive B cell,CL_0000788,IGHM,IGHM

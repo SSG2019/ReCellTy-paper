@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,TPSAB1,TPSAB1
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,TPSB2,TPSB2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,MS4A2,MS4A2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,CPA33,
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,CLU,CLU
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,KIT,KIT
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,GATA2,GATA2
+Human,Lung,Lung,UBERON_0002048,Lung Adenocarcinoma,Cancer cell,Mast cell,CL_0000097,CPA3,CPA3

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EPCAM,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,NAPSA,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,TTF-1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,CEACAM5,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Cancer cell
+Cancer cell,,NKX2-1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Cancer cell

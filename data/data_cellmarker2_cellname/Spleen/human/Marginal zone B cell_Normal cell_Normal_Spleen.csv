@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD27,CD27
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD79B,CD79B
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,TNFRSF13B,TNFRSF13B
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,MS4A1,MS4A1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD79A,CD79A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Marginal zone B cell,CL_0000845,CD19,CD19

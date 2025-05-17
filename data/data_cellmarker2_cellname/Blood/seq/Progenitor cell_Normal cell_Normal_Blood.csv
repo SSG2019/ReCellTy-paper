@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Progenitor cell,CL_0011026,MS4A2,MS4A2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Progenitor cell,CL_0011026,SOX4,SOX4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Progenitor cell,CL_0011026,MS4A3,MS4A3

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Suprabasal cell,,NOTCH3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,KRT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,TP63 low,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell

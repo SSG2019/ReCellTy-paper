@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Spermatogonial,FGFR3,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,ID4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,UTF1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,Spermatogonial,GFRA1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,SSEA4,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,ITGA6,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell
+Stem cell,,THY1,Human,Testis,Testis,Normal,Normal cell,Spermatogonial stem cell

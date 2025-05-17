@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,TRAC,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD2,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Thorax,Malignant pleural effusion,Normal,Normal cell,T cell

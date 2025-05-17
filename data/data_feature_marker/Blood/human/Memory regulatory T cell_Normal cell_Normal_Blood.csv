@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,regulatory,CCR4,Human,Blood,Blood,Normal,Normal cell,Memory regulatory T cell
+T cell,regulatory,CD25,Human,Blood,Blood,Normal,Normal cell,Memory regulatory T cell
+T cell,regulatory,IL2RA,Human,Blood,Blood,Normal,Normal cell,Memory regulatory T cell
+T cell,memory,CD45RO,Human,Blood,Blood,Normal,Normal cell,Memory regulatory T cell

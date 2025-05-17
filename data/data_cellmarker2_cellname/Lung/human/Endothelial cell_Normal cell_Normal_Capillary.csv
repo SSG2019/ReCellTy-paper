@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,EPAS1,EPAS1
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,NTRK2,NTRK2
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,CA4,CA4
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,ADGRE5,ADGRE5
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,GPIHBP1,GPIHBP1
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,ZNF608,ZNF608
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,FCN3,FCN3
+Human,Lung,Capillary,UBERON_0001982,Normal,Normal cell,Endothelial cell,CL_0000115,PRX,PRX

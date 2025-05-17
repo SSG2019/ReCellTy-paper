@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,SLAMF7,SLAMF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,TNFRSF17,TNFRSF17
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,SLAMF7,SLAMF7
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,SDC1,SDC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,CD27,CD27
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,TNFRSF17,TNFRSF17
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,CD38,CD38
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,MZB1,MZB1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasma cell,CL_0000786,TNFRSF17,TNFRSF17

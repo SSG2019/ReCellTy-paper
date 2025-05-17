@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuroendocrine cell,Gastric,GAST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,Gastric,TFF3,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,CHGA,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,EPCAM,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell
+Neuroendocrine cell,,SST,Human,Gastrointestinal tract,Stomach,Gastric Cancer,Cancer cell,Gastric neuroendocrine cell

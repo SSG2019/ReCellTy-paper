@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M2,MRC1,Human,Lung,Lung,Normal,Normal cell,M2 macrophage
+Macrophage,,TMG2,Human,Lung,Lung,Normal,Normal cell,M2 macrophage

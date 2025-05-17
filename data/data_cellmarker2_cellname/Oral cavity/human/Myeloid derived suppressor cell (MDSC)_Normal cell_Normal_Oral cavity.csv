@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Oral cavity,Oral cavity,UBERON_0000167,Normal,Normal cell,Myeloid derived suppressor cell (MDSC),CL_0000889,Gr1,
+Human,Oral cavity,Oral cavity,UBERON_0000167,Normal,Normal cell,Myeloid derived suppressor cell (MDSC),CL_0000889,CD11b,

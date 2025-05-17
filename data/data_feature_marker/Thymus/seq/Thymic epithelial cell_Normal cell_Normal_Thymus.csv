@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Thymic epithelial cell,Basal epithelial,ck5,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Epithelial,CD49f,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Epithelial,ITGA6,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,Simple epithelial,ck8,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,ZBED2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CTGF,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell
+Thymic epithelial cell,,CCN2,Human,Thymus,Thymus,Normal,Normal cell,Thymic epithelial cell

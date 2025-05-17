@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,PCNA,PCNA
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,CDC20,CDC20
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,ID1,ID1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,CDK1,CDK1
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,TTN,TTN
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,ID3,ID3
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,MYOG,MYOG
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myoblast,CL_0000056,MYOD1,MYOD1

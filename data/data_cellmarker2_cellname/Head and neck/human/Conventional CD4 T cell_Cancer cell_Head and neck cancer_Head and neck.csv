@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Head and neck,Head and neck,,Head and neck cancer,Cancer cell,Conventional CD4 T cell,,CD3E,CD3E
+Human,Head and neck,Head and neck,,Head and neck cancer,Cancer cell,Conventional CD4 T cell,,CD3G,CD3G
+Human,Head and neck,Head and neck,,Head and neck cancer,Cancer cell,Conventional CD4 T cell,,CD3D,CD3D

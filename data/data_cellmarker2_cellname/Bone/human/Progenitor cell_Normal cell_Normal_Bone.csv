@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,,STRO-1,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,,CD105,
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,,CD44,CD44
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,,CD73,NT5E
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,CL_0011026,CD90,THY1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,CL_0011026,CD44,CD44
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Progenitor cell,CL_0011026,CD29,ITGB1

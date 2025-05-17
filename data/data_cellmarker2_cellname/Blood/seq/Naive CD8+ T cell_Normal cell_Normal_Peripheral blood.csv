@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,,CD8B,CD8B
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,,CD8A,CD8A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,TCF7,TCF7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,CD197,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,CD8A,CD8A
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Naive CD8+ T cell,CL_0000900,LEF1,LEF1

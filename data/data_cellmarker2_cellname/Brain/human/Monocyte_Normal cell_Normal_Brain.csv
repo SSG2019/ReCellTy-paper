@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,Ccr2,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,FCGR3A,FCGR3A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,CLEC12A,CLEC12A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,ZFP36L2,ZFP36L2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,MS4A6A,MS4A6A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,H2-Aa,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,Cd74,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,Lyz,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Monocyte,CL_0000576,H2-Ab1,

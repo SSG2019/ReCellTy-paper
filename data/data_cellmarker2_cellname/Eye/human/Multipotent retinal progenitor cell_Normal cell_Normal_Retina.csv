@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,TGFβ2,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,LIN28B,LIN28B
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,IGFBP5,IGFBP5
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,LIN28A,LIN28A
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,BMP7,BMP7
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,PFN1,PFN1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,TMSB10,TMSB10
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,GJA1,GJA1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,ATP1A2,ATP1A2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Multipotent retinal progenitor cell,,JAG1,JAG1

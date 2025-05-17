@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,TRAP,TRAP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTR,CALCR
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTSK,CTSK
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,TRAP,TRAP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,TRAP,TRAP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTSK,CTSK
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTR,CALCR
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CD56,NCAM1
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,RUNX2,RUNX2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTSK,CTSK
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,TRAP,TRAP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,RANK,TNFRSF11A
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,SOFAT,THNSL2
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CALCR,CALCR
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,ACP5,ACP5
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,DCSTAMP,DCSTAMP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,TNFRSF11A,TNFRSF11A
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,MMP9,MMP9
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,CTSK,CTSK
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,OCSTAMP,OCSTAMP
+Human,Bone,Bone,UBERON_0002481,Normal,Normal cell,Osteoclast,CL_0000092,SIGLEC15,SIGLEC15

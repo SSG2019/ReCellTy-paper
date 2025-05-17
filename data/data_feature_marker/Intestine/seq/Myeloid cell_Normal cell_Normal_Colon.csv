@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,TPSAB1,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,,NKG7,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,Inflammation,S100A8,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,Inflammation,S100A9,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,Dendritic,CD1C,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,,OSM,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,,KLRC1,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell
+Myeloid cell,Dendritic,CLEC10A,Human,Intestine,Colon,Normal,Normal cell,Myeloid cell

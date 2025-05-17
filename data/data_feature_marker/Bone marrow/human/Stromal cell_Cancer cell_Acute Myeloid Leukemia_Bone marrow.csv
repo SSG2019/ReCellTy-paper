@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,,FAP,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stromal cell
+Stromal cell,,ACTA2,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stromal cell
+Stromal cell,,TAGLN,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Stromal cell

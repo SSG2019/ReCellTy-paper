@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basophil,CL_0000767,CD63,CD63
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Basophil,CL_0000767,CD203c,ENPP3

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Milk,,Normal,Normal cell,Eosinophil,CL_0000771,SORL1,SORL1
+Human,Breast,Milk,,Normal,Normal cell,Eosinophil,CL_0000771,CORO1A,CORO1A

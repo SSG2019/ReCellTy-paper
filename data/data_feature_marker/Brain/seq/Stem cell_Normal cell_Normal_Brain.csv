@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Neural,BLBP,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Neural,NESTIN,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Neural,PAX6,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Neural,SOX1,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Neural,MSI1,Human,Brain,Brain,Normal,Normal cell,Stem cell
+Stem cell,Neural,FABP7,Human,Brain,Brain,Normal,Normal cell,Stem cell

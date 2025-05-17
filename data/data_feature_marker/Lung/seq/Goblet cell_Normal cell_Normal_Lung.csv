@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,,MUC5AC,Human,Lung,Lung,Normal,Normal cell,Goblet cell
+Goblet cell,,XBP1,Human,Lung,Lung,Normal,Normal cell,Goblet cell
+Goblet cell,,PIGR,Human,Lung,Lung,Normal,Normal cell,Goblet cell
+Goblet cell,,SCGB1A1,Human,Lung,Lung,Normal,Normal cell,Goblet cell
+Goblet cell,,VMO1,Human,Lung,Lung,Normal,Normal cell,Goblet cell
+Goblet cell,,MUC5B,Human,Lung,Lung,Normal,Normal cell,Goblet cell

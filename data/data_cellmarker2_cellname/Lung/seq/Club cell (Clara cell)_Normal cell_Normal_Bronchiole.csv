@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Bronchiole,UBERON_0002186,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SCGB1A1,SCGB1A1

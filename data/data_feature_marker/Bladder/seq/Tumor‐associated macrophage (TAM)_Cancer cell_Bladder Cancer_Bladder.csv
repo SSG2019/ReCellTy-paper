@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Tumor‐associated,MRC1,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor‐associated,CD68,Human,Bladder,Bladder,Bladder Cancer,Cancer cell,Tumor‐associated macrophage (TAM)

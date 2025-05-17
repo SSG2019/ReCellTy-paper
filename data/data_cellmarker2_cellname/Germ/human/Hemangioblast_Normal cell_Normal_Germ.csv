@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD34,CD34
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,EPHB4,EPHB4
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD324,CDH1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD144,CDH5
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD143,ACE
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD309,KDR
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD31,PECAM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD133,PROM1
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,CD202b,
+Human,Germ,Germ,UBERON_0000923,Normal,Normal cell,Hemangioblast,CL_0002418,Podocalyxin,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT19,Human,Lung,Lung,Pulmonary sarcomatoid carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT7,Human,Lung,Lung,Pulmonary sarcomatoid carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Lung,Lung,Pulmonary sarcomatoid carcinoma,Cancer cell,Epithelial cell

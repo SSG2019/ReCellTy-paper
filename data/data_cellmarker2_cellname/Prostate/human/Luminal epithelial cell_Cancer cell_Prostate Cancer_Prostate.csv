@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,KLK2,KLK2
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,ACPP,ACP3
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,NKX31,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002326,NKX31,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,MSMB,MSMB
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002326,MSMB,MSMB
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002326,KLK3,KLK3
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,KLK3,KLK3
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Luminal epithelial cell,CL_0002326,KLK2,KLK2

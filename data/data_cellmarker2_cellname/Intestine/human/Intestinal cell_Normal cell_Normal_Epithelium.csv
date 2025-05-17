@@ -1,0 +1,19 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,CA12,CA12
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,CLPS,CLPS
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,OTOP2,OTOP2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,APOC3,APOC3
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,AQP8,AQP8
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,CKB,CKB
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,BEST4,BEST4
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,MDK,MDK
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,SLC13A2,SLC13A2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,CA7,CA7
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,SLC26A2,SLC26A2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,IL32,IL32
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,FABP2,FABP2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,NEUROG3,NEUROG3
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,FABP6,FABP6
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,ACE,ACE
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,HMGCS2,HMGCS2
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Intestinal cell,,FABP1,FABP1

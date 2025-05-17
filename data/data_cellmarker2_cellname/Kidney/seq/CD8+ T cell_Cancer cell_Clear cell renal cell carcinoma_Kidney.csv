@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,IL7R,IL7R
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,TOX,TOX
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,MKI67,MKI67
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,CCR4,CCR4
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,PDCD1,PDCD1
+Human,Kidney,Kidney,UBERON_0002113,Clear cell renal cell carcinoma,Cancer cell,CD8+ T cell,CL_0000625,CD69,CD69

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,LAMC2,LAMC2
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,UBE2C,UBE2C
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,ADH7,ADH7
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,CRABP2,CRABP2
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,TOP2A,TOP2A
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,CDKN2A,CDKN2A
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,CEACAM1,CEACAM1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,LY6D,LY6D
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,TP63,TP63
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,CACA4,
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Epithelial cell,CL_0000066,SEPP1,SELENOP

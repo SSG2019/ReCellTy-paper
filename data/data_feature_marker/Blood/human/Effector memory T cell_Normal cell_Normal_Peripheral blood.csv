@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD8,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD57,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD45RO,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD45RO,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD27,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD62L,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CXCR5,Human,Blood,Peripheral blood,Normal,Normal cell,Effector memory T cell

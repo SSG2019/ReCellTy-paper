@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD133,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD90,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,EpCAM,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,AFP,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ABCG2,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,LIN28B,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,TLR4,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,Keratin-19,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CXCR4,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,SOX12,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD24,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD13,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,PROM1,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,THY1,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ANPEP,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,Cancer stem cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,CD66E,Human,Liver,Fetal liver,Normal,Normal cell,Granulocyte
+Granulocyte,,CD66B,Human,Liver,Fetal liver,Normal,Normal cell,Granulocyte
+Granulocyte,,CD66A,Human,Liver,Fetal liver,Normal,Normal cell,Granulocyte
+Granulocyte,,CD66C,Human,Liver,Fetal liver,Normal,Normal cell,Granulocyte

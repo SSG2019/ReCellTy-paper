@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Melanocyte,,PMEL,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte

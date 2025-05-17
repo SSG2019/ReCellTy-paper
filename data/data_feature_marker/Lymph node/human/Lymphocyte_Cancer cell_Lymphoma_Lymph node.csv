@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,,GNLY,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,PRF1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A2,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMA,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,GZMB,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte
+Lymphocyte,,NR4A1,Human,Lymph node,Lymph node,Lymphoma,Cancer cell,Lymphocyte

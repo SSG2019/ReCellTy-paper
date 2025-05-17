@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Mucosal-associated,IL23R,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,Mucosal-associated,CCR6,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,Mucosal-associated,CCR2,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,Mucosal-associated,CCR1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,invariant,RORC,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,invariant,ZBTB16,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell
+T cell,invariant,KLRB1,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Mucosal-associated invariant T cell

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal stem cell,,ITGB1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD44,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ISLR,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ALDH1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ABCG2,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Twist,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Slug,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD133,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,ALDH1A1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell
+Mesenchymal stem cell,,PROM1,Human,Lung,Lung,Lung Adenocarcinoma,Cancer cell,Mesenchymal stem cell

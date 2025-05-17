@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD44,CD44
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,EOMES,EOMES
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,KLRG1,KLRG1
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD197,CCR7
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD127,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,AHNAK,AHNAK
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,TNFRSF25,TNFRSF25
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,LTB,LTB
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,NEAT1,NEAT1
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,SAR1A,SAR1A
+Human,Undefined,Undefined,,Normal,Normal cell,Effector memory T cell,CL_0000813,CD45RO,

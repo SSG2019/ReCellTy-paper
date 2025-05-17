@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,ACTA2,ACTA2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,CEBPB,CEBPB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,IGFBP5,IGFBP5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Vascular smooth muscle cell(VSMC),CL_0000359,CDKN1A,CDKN1A

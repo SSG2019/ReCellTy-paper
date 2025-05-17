@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Umbrella cell,,TSPAN1,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,PLAT,Human,Urine,Urine,Normal,Normal cell,Umbrella cell
+Umbrella cell,,FXYD3,Human,Urine,Urine,Normal,Normal cell,Umbrella cell

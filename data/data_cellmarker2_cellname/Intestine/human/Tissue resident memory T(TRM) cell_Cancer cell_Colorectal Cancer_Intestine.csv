@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell,,ITGAE,ITGAE
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell,,CD161,KLRB1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell,,CD69,CD69
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Tissue resident memory T(TRM) cell,,IL7R,IL7R

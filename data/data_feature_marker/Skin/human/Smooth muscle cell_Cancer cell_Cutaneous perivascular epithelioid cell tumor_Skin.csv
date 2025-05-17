@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Smooth muscle cell,Smooth muscle actin,SMA,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,Muscle cell,desmin,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,Smooth muscle contraction,calponin,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,SMN1,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell

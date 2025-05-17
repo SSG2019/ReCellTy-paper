@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Immature,CD1A,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,Immature,CD1B,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,Immature,CD1C,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,Immature,CD1E,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,,TM7SF4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,,PPARG,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,,CSF1R,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell
+Dendritic cell,,DCSTAMP,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Immature dendritic cell

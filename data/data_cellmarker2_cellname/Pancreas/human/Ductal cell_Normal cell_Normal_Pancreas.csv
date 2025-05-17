@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,PROM1,PROM1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT7,KRT7
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,BMPR1A,BMPR1A
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,SOX9,SOX9
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,PDX1,PDX1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,BMP,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,SLC4A4,SLC4A4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,BICC1,BICC1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,SCTR,SCTR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,ANXA4,ANXA4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,MUC6,MUC6
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,CFTR,CFTR
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,SOX9,SOX9
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,Krt19,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT8,KRT8
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,HNF1B,HNF1B
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,PDX1,PDX1
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,SOX9,SOX9
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,ACE2,ACE2
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Ductal cell,CL_0002079,KRT19,KRT19

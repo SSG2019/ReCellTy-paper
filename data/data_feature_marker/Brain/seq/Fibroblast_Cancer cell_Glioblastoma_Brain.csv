@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,STRA6,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,ISLR,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,C7,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,TDO2,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Fibroblast

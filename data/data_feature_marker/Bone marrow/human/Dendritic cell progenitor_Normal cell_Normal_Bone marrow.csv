@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Progenitor,CD34,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD115,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD45RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD135,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD116,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD117,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor
+Dendritic cell,Progenitor,CD33,Human,Bone marrow,Bone marrow,Normal,Normal cell,Dendritic cell progenitor

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,ITGAX,ITGAX
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD11C,ITGAX
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14

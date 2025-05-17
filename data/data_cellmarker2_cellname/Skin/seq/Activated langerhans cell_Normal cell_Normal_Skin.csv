@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,CD83,CD83
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,PIM3,PIM3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,PXDC1,PXDC1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,MMP9,MMP9
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,LMNA,LMNA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,STK17B,STK17B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,ARL4C,ARL4C
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Activated langerhans cell,,C15orf48,C15orf48

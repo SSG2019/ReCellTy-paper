@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,Cd68,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,Cdca3,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte
+Monocyte,,C1qb,Human,Blood vessel,Blood vessel,Normal,Normal cell,Monocyte

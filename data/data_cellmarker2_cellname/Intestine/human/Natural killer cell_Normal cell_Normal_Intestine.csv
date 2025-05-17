@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD122,IL2RB
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD49b,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD56,NCAM1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD45,PTPRC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,NKG2DLs,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,EOMES,EOMES
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,KIRS,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,CD45,PTPRC
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Natural killer cell,CL_0000623,NK1.1,

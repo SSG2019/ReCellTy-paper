@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Proliferative cell,Proliferative,PCNA,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell
+Proliferative cell,Proliferative,MKI67,Human,Muscle,Muscle,Normal,Normal cell,Proliferative cell

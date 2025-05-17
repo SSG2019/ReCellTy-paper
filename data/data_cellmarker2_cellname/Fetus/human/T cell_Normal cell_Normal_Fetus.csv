@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Fetus,Fetus,,Normal,Normal cell,T cell,CL_0000084,CD4,CD4
+Human,Fetus,Fetus,,Normal,Normal cell,T cell,CL_0000084,CD3,
+Human,Fetus,Fetus,,Normal,Normal cell,T cell,CL_0000084,CD45RO,
+Human,Fetus,Fetus,,Normal,Normal cell,T cell,CL_0000084,CD8,CD8A
+Human,Fetus,Fetus,,Normal,Normal cell,T cell,CL_0000084,CD45RA,

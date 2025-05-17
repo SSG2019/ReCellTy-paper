@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic ductal stem cell,CL_0000034,Insulin,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic ductal stem cell,CL_0000034,CK19,KRT19
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,Pancreatic ductal stem cell,CL_0000034,Glucagon,

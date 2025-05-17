@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Activated,CD69,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,CD25,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,CD137,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,CD134,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,Ki67,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,IFNG,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,TNF,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,ICOS,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,IL-2RA,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,CD40LG,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF9,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF4,Human,Undefined,Undefined,Normal,Normal cell,Activated T cell

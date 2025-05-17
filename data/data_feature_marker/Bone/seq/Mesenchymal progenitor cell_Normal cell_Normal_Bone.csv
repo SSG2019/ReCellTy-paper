@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,Progenitor,PDGFR,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,NG2,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,PDGFRB,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,Progenitor,CSPG4,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,,CD29,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell
+Mesenchymal cell,,ITGB1,Human,Bone,Bone,Normal,Normal cell,Mesenchymal progenitor cell

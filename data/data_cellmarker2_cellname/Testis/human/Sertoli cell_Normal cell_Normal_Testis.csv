@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,Cytokeratin-18,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,anti-Mullerian hormone,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,Vimentin,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,MIS,AMH
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,Clusterin,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SSEA-4,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,CITED,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,BEX1,BEX1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,WT1,WT1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,BEX2,BEX2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,CLDN11,CLDN11
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,BEX1,BEX1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,PRND,PRND
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,WFDC2,WFDC2
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,SOX9,SOX9
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,FATE1,FATE1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,BEX5,BEX5
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Sertoli cell,CL_0000216,CITED1,CITED1

@@ -1,0 +1,47 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,IRF8,IRF8
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,IRF7,IRF7
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,ADAM19,ADAM19
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD302,CD302
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD209,CD209
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,TLR7,TLR7
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,TLR9,TLR9
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD13,ANPEP
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD21,CR2
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,IL-6,IL6
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,B220,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CLIP-170,CLIP1
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,TNF-alpha,TNF
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,MADDAM,ADAM19
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,DCLAMP,LAMP3
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,BDCA2,CLEC4C
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD1a,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD1b,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,Clusterin,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,IL-12,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DR,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD11b,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,MHC class II,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD80,CD80
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,MHC class II,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD150,SLAMF1
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,HLA-DRA,HLA-DRA
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD83,CD83
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,IRF1,IRF1
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,LYZ,LYZ
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CST3,CST3
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,TYROBP,TYROBP
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,S100,S100A1
+Human,Undefined,Undefined,,Normal,Normal cell,Dendritic cell,CL_0000451,CD1C,CD1C

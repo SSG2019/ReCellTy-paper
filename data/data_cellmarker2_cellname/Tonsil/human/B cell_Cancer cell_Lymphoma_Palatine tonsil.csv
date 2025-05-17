@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,B cell,CL_0000236,CD83,CD83
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,B cell,CL_0000236,CXCR4,CXCR4
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,B cell,CL_0000236,AICDA,AICDA
+Human,Tonsil,Palatine tonsil,UBERON_0002373,Lymphoma,Cancer cell,B cell,CL_0000236,BCL2A1,BCL2A1

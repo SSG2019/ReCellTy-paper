@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,CDKN2B,CDKN2B
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,CDKN2A,CDKN2A
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,VHL,VHL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,FLCN,FLCN
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,BAP1,BAP1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,MITF P,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,LAMB1,LAMB1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,LAMA5,LAMA5
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,COL4A2,COL4A2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,LAMC1,LAMC1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,COL4A1,COL4A1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,LAMB2,LAMB2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Normal cell,,PAX8,

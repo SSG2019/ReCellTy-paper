@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+LNCaP cell,,CK9,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,LNCaP cell
+LNCaP cell,,CK44,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,LNCaP cell

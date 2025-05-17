@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,CD34,CD34
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,VEGFR-2,
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,CD117,KIT
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,VCAM1,VCAM1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,CD34,CD34
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Muscle-derived cell,,CD56,NCAM1

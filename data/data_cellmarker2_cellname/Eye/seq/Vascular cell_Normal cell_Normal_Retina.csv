@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Vascular cell,,RGS5,RGS5
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Vascular cell,,TM4SF1,TM4SF1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Vascular cell,,CD34,CD34
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Vascular cell,,ADAMTS9,ADAMTS9
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Vascular cell,,CDH5,CDH5

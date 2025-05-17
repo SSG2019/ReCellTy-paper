@@ -1,0 +1,63 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular helper,BCL6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CXCR5,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IRF4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,MAF,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,STAT3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD84,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,BATF,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD185,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD154,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD183,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL-6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD126,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD279,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD150,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD252,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD278,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL-21,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,TCR alpha/beta,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL-12,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,c-Maf,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CD40LG,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,CXCR3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL6R,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,PDCD1,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,SLAMF1,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,TNFSF4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,ICOS,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Follicular helper,IL22,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,BCL6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CXCR5,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IRF4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,MAF,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,STAT3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD84,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,BATF,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD185,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD154,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD183,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL-6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD126,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD279,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD150,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD252,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD278,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL-21,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,TCR alpha/beta,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL-12,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,c-Maf,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CD40LG,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,CXCR3,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL6,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL6R,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,PDCD1,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,SLAMF1,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,TNFSF4,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,ICOS,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell
+T cell,Tfh,IL22,Human,Undefined,Undefined,Normal,Normal cell,Follicular helper (Tfh) T cell

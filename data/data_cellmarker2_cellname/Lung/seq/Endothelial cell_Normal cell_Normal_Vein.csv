@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,NR2F2,NR2F2
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,HDAC9,HDAC9
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,ACKR1,ACKR1
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,VCAM1,VCAM1
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,RGS5,RGS5
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,SELP,SELP
+Human,Lung,Vein,UBERON_0001638,Normal,Normal cell,Endothelial cell,CL_0000115,PTGS1,PTGS1

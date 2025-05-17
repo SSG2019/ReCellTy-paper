@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epidermal cell,Progenitor,TP63,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell
+Epidermal cell,Progenitor,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell

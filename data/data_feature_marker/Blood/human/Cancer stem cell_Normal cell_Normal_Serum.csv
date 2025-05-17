@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Stem,CD24,Human,Blood,Serum,Normal,Normal cell,Cancer stem cell
+Cancer cell,Stem,EpCAM,Human,Blood,Serum,Normal,Normal cell,Cancer stem cell
+Cancer cell,Stem,CXCR4,Human,Blood,Serum,Normal,Normal cell,Cancer stem cell
+Cancer cell,Stem,CD44,Human,Blood,Serum,Normal,Normal cell,Cancer stem cell

@@ -1,0 +1,18 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,MCAB51,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Tight junction,ZO-1,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cell adhesion,E-cadherin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Structural integrity,Cytokeratin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Tight junction,ZO-2,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Tight junction,Occludin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Structural integrity,Cytokeratin-18,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Vimentin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cell adhesion,Beta-catenin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,N-cadherin,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TIE-2,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD34,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Tight junction,Claudin-1,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAX2,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD10,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD13,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cell adhesion,CD326,Human,Kidney,Kidney,Normal,Normal cell,Epithelial cell

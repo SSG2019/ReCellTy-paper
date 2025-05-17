@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,Albumin,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,PDGFR-alpha,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,TER119,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,CD71,TFRC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,CD45,PTPRC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatoblast,CL_0005026,DLK1,DLK1

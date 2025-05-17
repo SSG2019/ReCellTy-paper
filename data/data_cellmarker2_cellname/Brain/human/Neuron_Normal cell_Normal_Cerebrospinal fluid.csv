@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NCAMs,
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NFASC,NFASC
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,L1CAM,L1CAM
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NPTN,NPTN
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,SNAP91,SNAP91
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,SYN1,SYN1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NRXNs,
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NRCAM,NRCAM
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,NPTXs,
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Neuron,CL_0000540,Nestin,

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Exhausted CD4+ T cell,CL_0000624,PD1,PDCD1
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Exhausted CD4+ T cell,CL_0000624,LAG3,LAG3
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Exhausted CD4+ T cell,CL_0000624,TIGIT,TIGIT
+Human,Blood,Blood,UBERON_0000178,Leukemia,Cancer cell,Exhausted CD4+ T cell,CL_0000624,TIM3,HAVCR2

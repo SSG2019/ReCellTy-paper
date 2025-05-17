@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,TBX21,TBX21
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,ITGAX,ITGAX
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,NR4A2,NR4A2
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,AREG,AREG
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,CD1C,CD1C
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,CLEC10A,CLEC10A
+Human,Skin,Skin,UBERON_0002097,Melanoma,Cancer cell,Myeloid cell,CL_0000763,PSAP,PSAP

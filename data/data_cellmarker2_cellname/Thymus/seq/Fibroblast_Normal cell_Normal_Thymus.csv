@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,PI16,PI16
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,SEMA3D,SEMA3D
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,ALDH1A2,ALDH1A2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,FBN1,FBN1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,COLEC11,COLEC11
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,GDF10,GDF10
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,S100A4,S100A4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Fibroblast,CL_0000057,FAP,FAP

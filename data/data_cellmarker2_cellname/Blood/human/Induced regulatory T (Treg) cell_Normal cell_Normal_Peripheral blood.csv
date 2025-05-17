@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD25,IL2RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD127,IL7R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD25,IL2RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD127,IL7R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Induced regulatory T (Treg) cell,CL_0000902,FOXP3,FOXP3

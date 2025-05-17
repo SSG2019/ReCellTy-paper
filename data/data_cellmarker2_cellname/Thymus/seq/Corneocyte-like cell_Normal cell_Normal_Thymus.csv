@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Corneocyte-like cell,,IL1RN,IL1RN
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Corneocyte-like cell,,LYPD2,LYPD2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Corneocyte-like cell,,FXYD3,FXYD3

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Vagina,UBERON_0000996,Normal,Normal cell,Fibroblast,CL_0000057,FBLN1,FBLN1
+Human,Ovary,Vagina,UBERON_0000996,Normal,Normal cell,Fibroblast,CL_0000057,LUM,LUM

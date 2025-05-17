@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,CD73,NT5E
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,CD44,CD44
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,NG2,CSPG4
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,CD105,
+Human,Undefined,Undefined,,Normal,Normal cell,Adventitial cell,CL_0002503,CD90,THY1

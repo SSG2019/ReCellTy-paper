@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,tissue-resident,CD103,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,CD49a,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,memory,PD-1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,ITGAE,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,tissue-resident,ITGA1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell
+T cell,memory,PDCD1,Human,Pancreas,Pancreas,Normal,Normal cell,Non-recirculating tissue-resident memory T cell

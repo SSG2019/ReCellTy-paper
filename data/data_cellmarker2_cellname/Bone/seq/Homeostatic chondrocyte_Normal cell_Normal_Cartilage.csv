@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Homeostatic chondrocyte,,TIMP1,TIMP1
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Homeostatic chondrocyte,,IFITM3,IFITM3
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Homeostatic chondrocyte,,TXNIP,TXNIP
+Human,Bone,Cartilage,UBERON_0002418,Normal,Normal cell,Homeostatic chondrocyte,,GDF15,GDF15

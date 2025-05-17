@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,CD14+,CD14,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ monocyte-derived macrophage
+Macrophage,monocyte-derived,DC-SIGN,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ monocyte-derived macrophage
+Macrophage,monocyte-derived,CD209,Human,Genitals,Anogenital tract,Normal,Normal cell,CD14+ monocyte-derived macrophage

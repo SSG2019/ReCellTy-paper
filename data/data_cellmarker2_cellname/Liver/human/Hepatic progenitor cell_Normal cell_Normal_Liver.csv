@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,TACSD2,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,EPCAM,EPCAM
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,CD24,CD24
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,SOX9,SOX9
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,JAG1,JAG1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,KRT19,KRT19
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Hepatic progenitor cell,,TROP2,TACSTD2

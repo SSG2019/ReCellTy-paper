@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Cancer-associated,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Cancer-associated,CLU,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast
+Fibroblast,Antigen presentation,CD74,Human,Breast,Breast,Breast Cancer,Cancer cell,Antigen presentation cancer-associated fibroblast

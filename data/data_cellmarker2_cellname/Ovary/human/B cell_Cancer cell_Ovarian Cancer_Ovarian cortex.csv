@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,B cell,CL_0000236,CD79A,CD79A
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,B cell,CL_0000236,BANK1,BANK1
+Human,Ovary,Ovarian cortex,UBERON_0013191,Ovarian Cancer,Cancer cell,B cell,CL_0000236,MS4A1,MS4A1

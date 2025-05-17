@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Collecting duct,principal,Scnn1b,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Scnn1g,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Rhbg,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Kcnj10,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Hsd11b2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Aqp2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Aqp3,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,principal,Avpr2,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,,Elf5,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,,Fxyd4,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,,Apela,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,,Npnt,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell
+Collecting duct,,Kcne1,Human,Kidney,Kidney,Normal,Normal cell,Collecting duct-principal cell

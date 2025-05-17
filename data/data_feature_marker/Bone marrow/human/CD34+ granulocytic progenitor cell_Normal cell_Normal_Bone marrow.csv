@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,granulocytic,PRTN3,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ granulocytic progenitor cell
+Progenitor cell,granulocytic,ELANE,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ granulocytic progenitor cell
+Progenitor cell,,PRSS57,Human,Bone marrow,Bone marrow,Normal,Normal cell,CD34+ granulocytic progenitor cell

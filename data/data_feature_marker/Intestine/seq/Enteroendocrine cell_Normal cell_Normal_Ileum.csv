@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enteroendocrine cell,Hormone Secretion,CHGA,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Hormone Secretion,CHGB,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Neuroendocrine Differentiation,NEUROD1,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Hormone Signaling,NTS,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Hormone Synthesis,TPH1,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Endocrine Regulation,SST,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Endocrine Differentiation,NGN3,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,Appetite Regulation,GHRL,Human,Intestine,Ileum,Normal,Normal cell,Enteroendocrine cell

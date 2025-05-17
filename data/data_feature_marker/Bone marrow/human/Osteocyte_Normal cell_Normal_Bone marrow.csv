@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Osteocyte,,SPP1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Osteocyte
+Osteocyte,,BGLAP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Osteocyte
+Osteocyte,,PHEX,Human,Bone marrow,Bone marrow,Normal,Normal cell,Osteocyte
+Osteocyte,,ALPL,Human,Bone marrow,Bone marrow,Normal,Normal cell,Osteocyte

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Amniotic membrane,UBERON_0009742,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD105,
+Human,Placenta,Amniotic membrane,UBERON_0009742,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD90,THY1
+Human,Placenta,Amniotic membrane,UBERON_0009742,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD166,ALCAM
+Human,Placenta,Amniotic membrane,UBERON_0009742,Normal,Normal cell,Mesenchymal stromal cell,CL_2000061,CD73,NT5E

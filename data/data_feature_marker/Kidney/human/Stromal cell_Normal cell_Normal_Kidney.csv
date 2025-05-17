@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,,DCN,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,CXCL12,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,ACTA2,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,MYL9,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,TAGLN,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,PDGFRB,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell
+Stromal cell,,COL1A1,Human,Kidney,Kidney,Normal,Normal cell,Stromal cell

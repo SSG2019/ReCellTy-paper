@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,IL7R,IL7R
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD247,CD247
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD3G,CD3G
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,Cd3g,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,Tcf7,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD3E,CD3E
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD8,CD8A
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD3,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD8A,CD8A
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T cell,CL_0000084,CD4,CD4

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Hypophysoma ,Cancer cell,Epithelial cell,CL_0000066,ERSP1,
+Human,Undefined,Undefined,,Hypophysoma ,Cancer cell,Epithelial cell,CL_0000066,CDH1,CDH1
+Human,Undefined,Undefined,,Hypophysoma ,Cancer cell,Epithelial cell,CL_0000066,CTNNB1,CTNNB1
+Human,Undefined,Undefined,,Hypophysoma ,Cancer cell,Epithelial cell,CL_0000066,EPCAM,EPCAM

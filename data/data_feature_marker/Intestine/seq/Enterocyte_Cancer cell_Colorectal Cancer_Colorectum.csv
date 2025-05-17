@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enterocyte,Fatty Acid Binding,FABP1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,,EPHX2,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,Digestive Enzyme Activity,MEP1A,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,Cytoskeletal Structure,KRT20,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,Carbonic Anhydrase Activity,CA1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte
+Enterocyte,Carbonic Anhydrase Activity,CA2,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Enterocyte

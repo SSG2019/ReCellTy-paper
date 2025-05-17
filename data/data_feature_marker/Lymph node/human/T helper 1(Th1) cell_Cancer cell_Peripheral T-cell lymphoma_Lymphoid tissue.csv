@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,T helper 1 (Th1),TBX21,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 1(Th1) cell
+T cell,T helper 1 (Th1),IFNg,Human,Lymph node,Lymphoid tissue,Peripheral T-cell lymphoma,Cancer cell,T helper 1(Th1) cell

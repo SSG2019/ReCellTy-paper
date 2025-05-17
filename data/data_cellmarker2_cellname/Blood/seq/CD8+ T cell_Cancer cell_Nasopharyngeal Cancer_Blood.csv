@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,CD8+ T cell,CL_0000625,CD3D,CD3D
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,CD8+ T cell,CL_0000625,PTPRC,PTPRC
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,CD8+ T cell,CL_0000625,CD8A,CD8A

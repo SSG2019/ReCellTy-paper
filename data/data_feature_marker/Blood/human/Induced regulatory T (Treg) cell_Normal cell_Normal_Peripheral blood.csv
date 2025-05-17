@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Induced,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,Induced regulatory T (Treg) cell
+T cell,Induced,CD127,Human,Blood,Peripheral blood,Normal,Normal cell,Induced regulatory T (Treg) cell
+T cell,regulatory,CD25,Human,Blood,Peripheral blood,Normal,Normal cell,Induced regulatory T (Treg) cell
+T cell,regulatory,FOXP3,Human,Blood,Peripheral blood,Normal,Normal cell,Induced regulatory T (Treg) cell
+T cell,regulatory,IL2RA,Human,Blood,Peripheral blood,Normal,Normal cell,Induced regulatory T (Treg) cell

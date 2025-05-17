@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,GPNMB,GPNMB
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,SLC40A1,SLC40A1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,APOE,APOE
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,C1QA,C1QA
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,TREM2,TREM2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Tumor‐associated macrophage (TAM),,C1QB,C1QB

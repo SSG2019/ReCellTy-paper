@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,PGE,
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,TRGs,
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,Itga6 (CD49f),
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,Ly6a (Sca‐1),
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,TSPAN8,TSPAN8
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,GP2,GP2
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,Cd86,
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,Aire,
+Human,Thymus,Epithelium,UBERON_0000483,Normal,Normal cell,Mature medullary thymic epithelial cell,,Cd80,

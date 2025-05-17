@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Podocyte,,Ezrin,Human,Kidney,Renal glomerulus,Normal,Normal cell,Podocyte
+Podocyte,,PODXL,Human,Kidney,Renal glomerulus,Normal,Normal cell,Podocyte

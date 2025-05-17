@@ -1,0 +1,131 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD79B,Human,Decidua,Decidua,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Decidua,Decidua,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Decidua,Decidua,Normal,Normal cell,B cell
+Dendritic cell,,CPVL,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DQA1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LGALS2,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DPB1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD74,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DRA,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PPT1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DQB1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Macrophage,,EGR2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,KLF2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,SEPP1,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,CCL3,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,VSIG4,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,PLTP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,FOLR2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,HAMP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,SELENOP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Mast cell,,CPA3,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,VWA5A,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,CTSG,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,LMNA,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,CLU,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,GATA2,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Monocyte,,IL1B,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,OLR1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CCL20,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,EREG,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL2,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,FBP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,MARCO,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL3,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,TIMP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Natural killer cell,,XCL1,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL2RB,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CTSW,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD7,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TMIGD2,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TESC,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CHST12,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TNFRSF18,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRDC,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+T cell,,ICOS,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,LCK,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CCL5,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Decidua,Decidua,Normal,Normal cell,T cell
+B cell,,CD79B,Human,Decidua,Decidua,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Decidua,Decidua,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Decidua,Decidua,Normal,Normal cell,B cell
+Dendritic cell,,CPVL,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DQA1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LGALS2,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DPB1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD74,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DRA,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PPT1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HLA-DQB1,Human,Decidua,Decidua,Normal,Normal cell,Dendritic cell
+Macrophage,Anti-inflammatory,EGR2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Regulation of activation,KLF2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Antioxidant,SEPP1,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Pro-inflammatory,CCL3,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,C1QA,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Anti-inflammatory,VSIG4,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Phagocytosis,FCGR3A,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Lipid handling,PLTP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Anti-inflammatory,FOLR2,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Iron handling,HAMP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Macrophage,Antioxidant,SELENOP,Human,Decidua,Decidua,Normal,Normal cell,Macrophage
+Mast cell,,CPA3,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,VWA5A,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,CTSG,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,LMNA,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,CLU,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,GATA2,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Decidua,Decidua,Normal,Normal cell,Mast cell
+Monocyte,,IL1B,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,OLR1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CCL20,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,EREG,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL2,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,FBP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,MARCO,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,CXCL3,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Monocyte,,TIMP1,Human,Decidua,Decidua,Normal,Normal cell,Monocyte
+Natural killer cell,,XCL1,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL2RB,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DL3,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CTSW,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD7,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TMIGD2,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TESC,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CHST12,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TNFRSF18,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRDC,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Decidua,Decidua,Normal,Normal cell,Natural killer cell
+T cell,,ICOS,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,GZMK,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,LCK,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CD8A,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,CCL5,Human,Decidua,Decidua,Normal,Normal cell,T cell
+T cell,,IFNG,Human,Decidua,Decidua,Normal,Normal cell,T cell

@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endocrine cell,,LRP11,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,SLC30A8,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,SEZ6L2,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,Solute carrier family 30,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,DISP2,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Somatostatin,SST,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Somatostatin,Sst,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Glucagon,GCG,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Glucagon,Gcg,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Insulin,INS,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Insulin,Ins1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Pancreatic polypeptide,PPY,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Pancreatic polypeptide,Ppy,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,,ISL1,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell
+Endocrine cell,Neuroendocrine,CHGA,Human,Pancreas,Pancreas,Normal,Normal cell,Endocrine cell

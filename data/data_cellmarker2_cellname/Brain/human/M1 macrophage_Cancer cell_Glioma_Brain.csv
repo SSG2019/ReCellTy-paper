@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,CD163,CD163
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,FPR3,FPR3
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,SIGLEC1,SIGLEC1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,NOS2,NOS2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,PTGS2,PTGS2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,M1 macrophage,CL_0000863,IRF5,IRF5

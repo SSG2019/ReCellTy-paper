@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+thymic epithelial cell,Mature,PGE TRGs,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Mature,Ly6a (Sca‐1),Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,Itga6 (CD49f),Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,GP2,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell
+thymic epithelial cell,Medullary,Aire,Human,Thymus,Epithelium,Normal,Normal cell,Mature medullary thymic epithelial cell

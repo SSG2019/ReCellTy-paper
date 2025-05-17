@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,FOXJ1,FOXJ1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,EPCAM,EPCAM
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,PIFO,PIFO
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,ISG20,ISG20
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,TUBA1A,TUBA1A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,PLAUR,PLAUR
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,TUBB4B,TUBB4B
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Ciliated cell,CL_0000064,FOXJ1,FOXJ1

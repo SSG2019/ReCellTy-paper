@@ -1,0 +1,25 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD161,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD3,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,Vα7.2,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRAV1-2,TRAV1-2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CCR6,CCR6
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,KLRB1,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD161,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,RORC,RORC
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRGV9,TRGV9
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD26,DPP4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,NCR3,NCR3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,CD161,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,GZMK,GZMK
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,DPP4,DPP4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,IL7R,IL7R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,KLRB1,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRAV1-2/TRAJ33,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRAV1-2/TRAJ20,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRAV1-2/TRAJ12,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,SLC4A10,SLC4A10
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Mucosa-associated invariant T (MAIT) cell,CL_0000940,TRAV1-2,TRAV1-2

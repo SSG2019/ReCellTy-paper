@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,IC,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,PTPRC,PTPRC
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,CD45,PTPRC
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,CD3E,CD3E
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,ITGAM,ITGAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Immune cell,CL_0000738,CD45,PTPRC

@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD11C,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD38,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte

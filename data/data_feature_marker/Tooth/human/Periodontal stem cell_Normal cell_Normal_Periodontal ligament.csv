@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Periodontal,STRO-1,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal stem cell
+Stem cell,,SSEA-4,Human,Tooth,Periodontal ligament,Normal,Normal cell,Periodontal stem cell

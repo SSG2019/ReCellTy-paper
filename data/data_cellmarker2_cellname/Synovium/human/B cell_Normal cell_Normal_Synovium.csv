@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,CD20,MS4A1
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,RALGPS2,RALGPS2
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,CD45,PTPRC
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,CD19,CD19
+Human,Synovium,Synovium,UBERON_0007616,Normal,Normal cell,B cell,CL_0000236,CD79A,CD79A

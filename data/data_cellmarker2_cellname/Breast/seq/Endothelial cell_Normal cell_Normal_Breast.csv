@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Endothelial cell,CL_0000115,CD36,CD36
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34

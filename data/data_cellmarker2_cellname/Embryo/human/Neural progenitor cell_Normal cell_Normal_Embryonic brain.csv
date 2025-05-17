@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Neural progenitor cell,CL_0011020,NKX2-1,NKX2-1
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Neural progenitor cell,CL_0011020,TOP2A,TOP2A
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Neural progenitor cell,CL_0011020,HES5,HES5
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Neural progenitor cell,CL_0011020,LHX6,LHX6

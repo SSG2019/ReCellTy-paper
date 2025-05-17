@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,M1,CD64,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M1,CD40,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage
+Macrophage,M1,FCGR1A,Human,Peritoneal fluid,Peritoneal fluid,Normal,Normal cell,M1 macrophage

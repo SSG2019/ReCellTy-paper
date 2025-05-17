@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neutrophil,CL_0000775,FPR2,FPR2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neutrophil,CL_0000775,CXCR2,CXCR2
+Human,Brain,Brain,UBERON_0000955,Glioblastoma,Cancer cell,Neutrophil,CL_0000775,IL1R2,IL1R2

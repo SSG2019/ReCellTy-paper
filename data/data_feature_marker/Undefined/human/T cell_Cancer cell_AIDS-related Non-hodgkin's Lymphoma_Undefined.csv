@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD7,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD4,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD2,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD1,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD5,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD8A,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell
+T cell,,CD1A,Human,Undefined,Undefined,AIDS-related Non-hodgkin's Lymphoma,Cancer cell,T cell

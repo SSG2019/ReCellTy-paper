@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,helper 1(Th1),IFNG,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,helper 1(Th1),IL12RB2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,helper 1(Th1),CSF2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,helper 1(Th1),LTA,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,T helper 1(Th1) cell

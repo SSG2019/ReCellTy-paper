@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Gas6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Klf4,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Efnb2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Fbln5,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Cryab,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Cldn5,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Podxl,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Vas afferen cell,,Edn1,

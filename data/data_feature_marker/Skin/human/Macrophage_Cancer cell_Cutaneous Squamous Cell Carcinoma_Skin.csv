@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,H2-M2,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Ly6c1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Itgax,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Csf1r,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Ly6g6c,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Cx3cr1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage

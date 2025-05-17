@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Intestinal cell,Intestinal metaplasia,CDX2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal metaplasia cell
+Intestinal cell,Intestinal metaplasia,CDX1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal metaplasia cell
+Intestinal cell,Intestinal metaplasia,PGC,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal metaplasia cell
+Intestinal cell,Intestinal metaplasia,TFF3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Intestinal metaplasia cell

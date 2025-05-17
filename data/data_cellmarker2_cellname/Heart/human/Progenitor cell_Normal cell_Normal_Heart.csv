@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Progenitor cell,CL_0011026,TAGLN,TAGLN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Progenitor cell,CL_0011026,NOTCH3,NOTCH3
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Progenitor cell,CL_0011026,RGS5,RGS5

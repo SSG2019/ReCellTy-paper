@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Microglial cell,CL_0000129,LYVE1,LYVE1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Microglial cell,CL_0000129,TREM2,TREM2
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Microglial cell,CL_0000129,APOE,APOE

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Killer cell,Cytokine induced,CD56,Human,Blood,Blood,Lung Cancer,Cancer cell,Cytokine induced killer cell
+Killer cell,Cytokine induced,NCAM1,Human,Blood,Blood,Lung Cancer,Cancer cell,Cytokine induced killer cell
+Killer cell,,CD3,Human,Blood,Blood,Lung Cancer,Cancer cell,Cytokine induced killer cell

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,KLRB1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Breast,Breast,Breast Cancer,Cancer cell,Natural killer cell

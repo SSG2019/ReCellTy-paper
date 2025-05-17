@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,CCR7,CCR7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,TCF7,TCF7
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,SOCS3,SOCS3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,MAL,MAL
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,MYC,MYC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,NOSIP,NOSIP
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,LEF1,LEF1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,TSHZ2,TSHZ2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Naive CD4 T cell,,SELL,SELL

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulosa cell,,FOXL2,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,SPRR2,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,INHBA,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,AMH,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell

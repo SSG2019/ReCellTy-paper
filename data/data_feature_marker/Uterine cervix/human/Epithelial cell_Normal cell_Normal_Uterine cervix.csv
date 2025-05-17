@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,GATA3,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ERBB2,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Uterine cervix,Uterine cervix,Normal,Normal cell,Epithelial cell

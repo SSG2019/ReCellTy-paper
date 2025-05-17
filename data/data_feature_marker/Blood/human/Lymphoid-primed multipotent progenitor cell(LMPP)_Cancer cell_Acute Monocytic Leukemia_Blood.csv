@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,Lymphoid-primed,CD45RA,Human,Blood,Blood,Acute Monocytic Leukemia,Cancer cell,Lymphoid-primed multipotent progenitor cell(LMPP)
+Progenitor cell,Multipotent,CD34,Human,Blood,Blood,Acute Monocytic Leukemia,Cancer cell,Lymphoid-primed multipotent progenitor cell(LMPP)

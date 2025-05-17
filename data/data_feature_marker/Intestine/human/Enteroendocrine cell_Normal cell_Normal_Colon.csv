@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Enteroendocrine cell,,PYY,Human,Intestine,Colon,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,NEUROD1,Human,Intestine,Colon,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,CPE,Human,Intestine,Colon,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,CHGA,Human,Intestine,Colon,Normal,Normal cell,Enteroendocrine cell
+Enteroendocrine cell,,CHGB,Human,Intestine,Colon,Normal,Normal cell,Enteroendocrine cell

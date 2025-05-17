@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,CD1C,CLEC7A,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell
+Dendritic cell,CD1C,CD97,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell
+Dendritic cell,CD1C,CD244,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell
+Dendritic cell,CD141,CLEC12A,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell
+Dendritic cell,CD141,CD68,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell
+Dendritic cell,CD141,CD300E,Human,Blood,Blood,Normal,Normal cell,CD1C-CD141- dendritic cell

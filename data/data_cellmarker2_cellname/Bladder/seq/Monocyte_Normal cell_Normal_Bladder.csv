@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Monocyte,CL_0000576,LYZ,LYZ
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Monocyte,CL_0000576,MS4A7,MS4A7
+Human,Bladder,Bladder,UBERON_0001255,Normal,Normal cell,Monocyte,CL_0000576,CD14,CD14

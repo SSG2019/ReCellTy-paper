@@ -1,0 +1,17 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Leukemic,CD96,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,CD33,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,CD123,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,CD244,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,TIM3,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,TIM-3,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,IL3RA,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CD157,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CLL1,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CD7,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CD47,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,ADGRG1,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,GPR56,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,BST1,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,COLEC10,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,HAVCR2,Human,Blood,Blood,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell

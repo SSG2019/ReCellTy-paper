@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Early T cell progenitor (ETP),,CD7,CD7
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Early T cell progenitor (ETP),,LYL1,LYL1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Early T cell progenitor (ETP),,CD34,CD34

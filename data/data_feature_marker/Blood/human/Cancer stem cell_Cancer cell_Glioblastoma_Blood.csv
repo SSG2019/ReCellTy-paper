@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,stem,CD133,Human,Blood,Blood,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer cell,stem,Nestin,Human,Blood,Blood,Glioblastoma,Cancer cell,Cancer stem cell
+Cancer cell,stem,PROM1,Human,Blood,Blood,Glioblastoma,Cancer cell,Cancer stem cell

@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,MKI67,MKI67
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,KRT15,KRT15
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,KRT23,KRT23
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,KRT81,KRT81
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,ESR1,ESR1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,EPCAM,EPCAM
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,MUC1,MUC1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,ERBB2,ERBB2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,AR,AR
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,CDH1,CDH1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Luminal epithelial cell,CL_0002237,PGR,PGR

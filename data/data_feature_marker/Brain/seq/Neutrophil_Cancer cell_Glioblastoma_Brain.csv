@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,FPR2,Human,Brain,Brain,Glioblastoma,Cancer cell,Neutrophil
+Neutrophil,,CXCR2,Human,Brain,Brain,Glioblastoma,Cancer cell,Neutrophil
+Neutrophil,,IL1R2,Human,Brain,Brain,Glioblastoma,Cancer cell,Neutrophil

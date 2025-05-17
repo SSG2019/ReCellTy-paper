@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Endothelial cell,CL_0000115,GJA5,GJA5
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Endothelial cell,CL_0000115,NT5E,NT5E
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Endothelial cell,CL_0000115,NRP2,NRP2
+Human,Embryo,Transformed artery,UBERON_0006591,Normal,Normal cell,Endothelial cell,CL_0000115,CXCR4,CXCR4

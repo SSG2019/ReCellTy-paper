@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Periosteum,Periosteum,UBERON_0002515,Normal,Normal cell,Periosteum-derived progenitor cell,,CD166,ALCAM
+Human,Periosteum,Periosteum,UBERON_0002515,Normal,Normal cell,Periosteum-derived progenitor cell,,CD9,CD9
+Human,Periosteum,Periosteum,UBERON_0002515,Normal,Normal cell,Periosteum-derived progenitor cell,,CD45,PTPRC
+Human,Periosteum,Periosteum,UBERON_0002515,Normal,Normal cell,Periosteum-derived progenitor cell,,CD90,THY1

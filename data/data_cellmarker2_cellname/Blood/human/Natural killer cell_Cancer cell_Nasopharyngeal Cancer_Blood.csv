@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,NCAM1,NCAM1
+Human,Blood,Blood,UBERON_0000178,Nasopharyngeal Cancer,Cancer cell,Natural killer cell,CL_0000623,FCGR3A,FCGR3A

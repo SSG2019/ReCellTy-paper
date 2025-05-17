@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD24,CD24
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD13,ANPEP
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD324,CDH1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD126,IL6R
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD130,IL6ST
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD103,ITGAE
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD141,THBD
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD106,VCAM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CD1d,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,iNOS,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,IVL,IVL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,ANLN,ANLN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,FOXM1,FOXM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,TP63,TP63
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,TGM1,TGM1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,ITGB1,ITGB1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,CKAP2L,CKAP2L
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,HMGB2,HMGB2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Epithelial cell,CL_0000066,pan-Cytokeratin,

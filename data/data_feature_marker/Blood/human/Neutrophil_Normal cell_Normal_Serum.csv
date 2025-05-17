@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,IL-18,Human,Blood,Serum,Normal,Normal cell,Neutrophil
+Neutrophil,,IL-1β,Human,Blood,Serum,Normal,Normal cell,Neutrophil
+Neutrophil,,IL18,Human,Blood,Serum,Normal,Normal cell,Neutrophil

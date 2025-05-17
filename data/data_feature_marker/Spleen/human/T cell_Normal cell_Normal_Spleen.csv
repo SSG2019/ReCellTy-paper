@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD4,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CD3,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR6,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CX3CR1,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CCR7,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T cell

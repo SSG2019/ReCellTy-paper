@@ -1,0 +1,19 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,stem,ABCG2,Human,Tongue,Tongue,Tongue Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44v6,Human,Tongue,Tongue,Tongue Cancer,Cancer cell,Cancer stem cell
+stem cell,stem,BMI1,Human,Tongue,Tongue,Tongue Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD44,Human,Tongue,Tongue,Tongue Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,OCT4,Human,Tongue,Tongue,Tongue Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,NANOG,Human,Tongue,Tongue,Tongue Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,POU5F1,Human,Tongue,Tongue,Tongue Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Epithelial cell,,TWIST,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,ECAD,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,ZEB1,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SLUG,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SNAIL,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,TWIST1,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SNAI2,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,SNAI1,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Epithelial cell
+Mesenchymal cell,,N-cadherin,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Tongue,Tongue,Oral squamous cell carcinoma,Cancer cell,Mesenchymal cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Gonad,Gonad,UBERON_0000991,Normal,Normal cell,Germ cell,CL_0000586,SYCP3,SYCP3
+Human,Gonad,Gonad,UBERON_0000991,Normal,Normal cell,Germ cell,CL_0000586,OCT4,POU5F1

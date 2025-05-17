@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,JCHAIN,JCHAIN
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,IL3RA,IL3RA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CLEC4C,CLEC4C
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Irf8,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Irf7,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Il3ra,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Spib,

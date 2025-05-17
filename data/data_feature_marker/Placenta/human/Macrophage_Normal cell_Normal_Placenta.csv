@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Pathogen Recognition,CD14,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Anti-inflammatory,CD163,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Activation, AIF1,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Survival and Proliferation,CSF1R,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,,CD53,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Pathogen Recognition,CD209,Human,Placenta,Placenta,Normal,Normal cell,Macrophage
+Macrophage,Phagocytic Activity,CD68,Human,Placenta,Placenta,Normal,Normal cell,Macrophage

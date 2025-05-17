@@ -1,0 +1,75 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,monocyte function,CD14,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,HLA-DR,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,phagocytosis,CR3,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,CD242,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,COX2,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,immune regulation,CD244,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antimicrobial activity,Myeloperoxidase,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,CD162,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,anti-inflammatory function,CD163,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,matrix remodeling,EMMPRIN,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antibody-dependent cellular cytotoxicity,CD16,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,monocyte survival and proliferation,Csf1r,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,monocyte differentiation,Irf8,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,proteolysis,Ctsg,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,CD61,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antimicrobial activity,LYZ,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,phagocytosis,CD64,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,HLADR,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,mitochondrial function,MT-CO3,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,HLA-DOA1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,monocyte function,MS4A7,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,phagocytosis,CD68,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,apoptosis,CD95,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell activation,CD38,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,chemotaxis,CXCR3,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,myeloid cell function,CD33,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,hematopoiesis,GATA2,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antimicrobial activity,MPEG1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,exosome formation,CD63,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,histamine production,HDC,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,innate immunity,FCN1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,extracellular matrix organization,VCAN,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,phagocytosis,CD11b,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,CD112,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antimicrobial activity,MPO,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,chemotaxis,CCR2,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,immune response,PLAC8,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,pathogen recognition,TLR-2,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,IL-6,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,TNF-α,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,chemotaxis,IP-10,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,anti-inflammatory function,IL-10,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,CD1C,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,S100A12,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell growth,TGF-α,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,OSM,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,IL18,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cytotoxicity,GZMH,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell migration,CD87,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,IL1B,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,TNF,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antiviral response,ISG15,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antiviral response,IFI44L,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antiviral response,IFI44,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,CD169,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cytotoxicity,PRF1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cytotoxicity,GNLY,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,granulocyte proliferation,CSF3R,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,IL32,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antiviral response,IFITM1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,scavenging,STAB1,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,proteolysis,CTSW,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,ICAM4,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,SELPLG,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,matrix remodeling,BSG,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,ITGB3,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,phagocytosis,FCGR1A,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,apoptosis,FAS,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell adhesion,NECTIN2,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,inflammation,IL6,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,chemotaxis,CXCL10,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,anti-inflammatory function,IL10,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,cell migration,PLAUR,Human,Blood,Blood,Normal,Normal cell,Monocyte
+Monocyte,antigen presentation,SIGLEC1,Human,Blood,Blood,Normal,Normal cell,Monocyte

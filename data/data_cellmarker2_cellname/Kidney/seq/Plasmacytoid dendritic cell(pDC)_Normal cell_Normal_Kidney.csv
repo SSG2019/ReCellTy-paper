@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Ccr9,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Cd209d,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Lair1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Runx2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Rnase6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Sell,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Cox6a2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Siglech,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Bcl11a,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,Ly6d,

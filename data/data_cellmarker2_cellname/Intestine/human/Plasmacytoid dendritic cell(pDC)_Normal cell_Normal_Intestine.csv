@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,BCL11A,BCL11A
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,LILRA4,LILRA4
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,VEGFB,VEGFB
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,TCF4,TCF4
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Plasmacytoid dendritic cell(pDC),CL_0000784,CD123,IL3RA

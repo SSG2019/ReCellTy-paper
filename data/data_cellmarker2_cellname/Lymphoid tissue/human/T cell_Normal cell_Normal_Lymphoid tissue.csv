@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD4,CD4
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD8,CD8A
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD3,
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD11a,
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD127,IL7R
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD7,CD7
+Human,Lymphoid tissue,Lymphoid tissue,UBERON_0001744,Normal,Normal cell,T cell,CL_0000084,CD5,CD5

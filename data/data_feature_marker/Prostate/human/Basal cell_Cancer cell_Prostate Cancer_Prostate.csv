@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,,KRT5,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Basal cell
+Basal cell,,TP63,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Basal cell

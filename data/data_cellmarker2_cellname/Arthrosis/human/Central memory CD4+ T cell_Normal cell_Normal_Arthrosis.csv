@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Arthrosis,Arthrosis,,Normal,Normal cell,Central memory CD4+ T cell,,CCR7,CCR7
+Human,Arthrosis,Arthrosis,,Normal,Normal cell,Central memory CD4+ T cell,,CD45RO,

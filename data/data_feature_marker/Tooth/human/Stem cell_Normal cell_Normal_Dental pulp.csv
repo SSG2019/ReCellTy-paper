@@ -1,0 +1,22 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotency,SOX2,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT3/4,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Neural,Nestin,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Neural,Nucleostemin,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD45,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD146,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,STRO-1,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD29,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD105,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD166,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD73,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,Vimentin,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD44,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,MCAM,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,ITGB1,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,ALCAM,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,NT5E,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,THY1,Human,Tooth,Dental pulp,Normal,Normal cell,Stem cell

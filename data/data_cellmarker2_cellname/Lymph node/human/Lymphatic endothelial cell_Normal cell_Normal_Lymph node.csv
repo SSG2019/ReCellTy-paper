@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,CD34,CD34
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,PROX1,PROX1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,Podoplanin,
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,CD31,PECAM1
+Human,Lymph node,Lymph node,UBERON_0000029,Normal,Normal cell,Lymphatic endothelial cell,CL_0002138,VEGFR-3,FLT4

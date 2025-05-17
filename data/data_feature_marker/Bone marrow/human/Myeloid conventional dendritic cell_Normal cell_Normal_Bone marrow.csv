@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Myeloid,CD11b,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Myeloid,CD11c,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Myeloid,SIRPA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Conventional,CD1c,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Conventional,BDCA1,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Conventional,CD141,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell
+Dendritic cell,Conventional,CLEC9A,Human,Bone marrow,Bone marrow,Normal,Normal cell,Myeloid conventional dendritic cell

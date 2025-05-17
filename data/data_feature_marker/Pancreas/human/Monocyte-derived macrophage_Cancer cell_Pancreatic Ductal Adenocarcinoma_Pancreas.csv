@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+macrophage,Monocyte-derived,CD63,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,IL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,MARCO,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,APOE,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CCL2,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CCL3,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage
+macrophage,Monocyte-derived,CXCL8,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Monocyte-derived macrophage

@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,Myh11,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,Tagln,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,SM22α,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,Acta2,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,MYH11,MYH11
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,NOTCH3,NOTCH3
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Smooth muscle cell,CL_0000192,MCAM,MCAM

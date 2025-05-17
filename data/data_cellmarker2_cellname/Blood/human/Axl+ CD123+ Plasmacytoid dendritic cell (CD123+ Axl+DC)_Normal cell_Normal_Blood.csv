@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,HLA-DR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,Axl,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,BDCA-2,CLEC4C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,Siglec2,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,CD123,IL3RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,Siglec1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,Siglec6,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,CD2,CD2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,CD45RA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Axl+ CD123+ Plasmacytoid dendritic cell (CD123+ Axl+DC),,CD5,CD5

@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,FLRT2,FLRT2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,CDH9,CDH9
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,PRAF2,PRAF2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,GPX7,GPX7
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,SFRP2,SFRP2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,RAMP2,RAMP2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,GPC3,GPC3
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,CUEDC2,CUEDC2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,MEOX2,MEOX2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,PI15,PI15
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,IGFBP5,IGFBP5
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,PLAC9,PLAC9
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,IL11RA,IL11RA
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,RAB23,RAB23
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,LRRC17,LRRC17
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,LHFP,LHFPL6
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,CD248,CD248
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,MGP,MGP
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,RCN3,RCN3
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,PCOLCE,PCOLCE
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,ITM2A,ITM2A
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,PROCR+ progenitor cell,,MFAP4,MFAP4

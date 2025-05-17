@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EPCAM,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Cancer cell
+Cancer cell,,TP63,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Cancer cell
+Cancer cell,,BCAM,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Cancer cell

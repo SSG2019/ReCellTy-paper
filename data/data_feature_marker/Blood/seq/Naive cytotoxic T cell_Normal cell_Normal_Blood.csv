@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,CD8A,Human,Blood,Blood,Normal,Normal cell,Naive cytotoxic T cell
+T cell,,CD3D,Human,Blood,Blood,Normal,Normal cell,Naive cytotoxic T cell

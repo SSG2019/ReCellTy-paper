@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD163,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Muscle,Muscle,Normal,Normal cell,Macrophage
+Macrophage,,PTPRC,Human,Muscle,Muscle,Normal,Normal cell,Macrophage

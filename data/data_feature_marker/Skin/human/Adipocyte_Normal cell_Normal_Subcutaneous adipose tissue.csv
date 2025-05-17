@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adipocyte,,ADIPOQ,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,SCD,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,COL1A1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte

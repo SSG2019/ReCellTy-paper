@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,OCLN,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,E-CADH,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN3,Human,Uterus,Uterus,High-grade serous carcinoma of uterine adnexa,Cancer cell,Epithelial cell

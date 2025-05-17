@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,Cancer,PAX8,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,Cancer,CA9,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,PAX2,Human,Kidney,Kidney,Renal Clear Cell Carcinoma,Cancer cell,Cancer cell

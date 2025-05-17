@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,COL25A1,COL25A1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,MYLK,MYLK
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,FN1,FN1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Kidney,Kidney,UBERON_0002113,Corticotroph tumor,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2

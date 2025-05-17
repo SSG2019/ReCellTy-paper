@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesothelial cell,,MSLN,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,PRG4,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell
+Mesothelial cell,,UPK3B,Human,Thymus,Blood vessel,Normal,Normal cell,Mesothelial cell

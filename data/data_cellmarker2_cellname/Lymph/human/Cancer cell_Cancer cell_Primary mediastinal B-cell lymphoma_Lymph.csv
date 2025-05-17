@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,TRAF1,TRAF1
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,CD71,TFRC
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,CD23,FCER2
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,STAT6,STAT6
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,MAL,MAL
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,IL4I1,IL4I1
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,CD95,FAS
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,CD30,TNFRSF8
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,PD-L2,PDCD1LG2
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,PD-L1,CD274
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,JAK2,JAK2
+Human,Lymph,Lymph,UBERON_0002391,Primary mediastinal B-cell lymphoma,Cancer cell,Cancer cell,CL_0001064,FGFR1,FGFR1

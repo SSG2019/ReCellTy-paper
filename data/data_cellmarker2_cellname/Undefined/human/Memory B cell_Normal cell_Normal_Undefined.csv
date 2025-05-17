@@ -1,0 +1,15 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,CD19,CD19
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,TLR1,TLR1
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,TLR2,TLR2
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,TLR6,TLR6
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,TLR7,TLR7
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,TLR10,TLR10
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,CBF1,RBPJ
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,IgG,
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,Pax5,
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,Spi-B,
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,IgD,
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Memory B cell,CL_0000787,MS4A1,MS4A1

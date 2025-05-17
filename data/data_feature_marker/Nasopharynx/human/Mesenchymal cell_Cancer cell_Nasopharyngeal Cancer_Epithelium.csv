@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,EMT,snail1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,slug,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ZEB1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,ZEB2,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,β-catenin,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,EMT,CDH2,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,claudin-1,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CLDN7,Human,Nasopharynx,Epithelium,Nasopharyngeal Cancer,Cancer cell,Mesenchymal cell

@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,PTPRC,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,HLA-DRA,HLA-DRA
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CSF1R,CSF1R
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,C1QB,C1QB
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,SPI1,SPI1
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,25F9,
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,APOE,APOE
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,MRC1,MRC1
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,TREM2,TREM2
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,C1QC,C1QC
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,SPP1,SPP1
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68

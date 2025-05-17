@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD2,CD2
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD25,IL2RA
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD3,
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD69,CD69
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD14,CD14
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD8,CD8A
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD40,CD40
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD20,MS4A1
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD1c,
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD19,CD19
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD86,CD86
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD45,PTPRC
+Human,Heart,Blood,UBERON_0000178,Normal,Normal cell,Leukocyte,CL_0000738,CD4,CD4

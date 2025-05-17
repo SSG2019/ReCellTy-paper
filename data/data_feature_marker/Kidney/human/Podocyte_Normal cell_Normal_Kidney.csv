@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Podocyte,,WT1,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,CTGF,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,MAFB,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,ROBO2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,NPHS2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,TCF21,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,VEGFA,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,OLFM3,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,PODXL,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,POXDL,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,PCOLCE2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,NPHS1,Human,Kidney,Kidney,Normal,Normal cell,Podocyte
+Podocyte,,CCN2,Human,Kidney,Kidney,Normal,Normal cell,Podocyte

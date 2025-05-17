@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Oligodendrocyte,CL_0000128,CRYAB,CRYAB
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Oligodendrocyte,CL_0000128,TNR,TNR
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Oligodendrocyte,CL_0000128,EPHX2,EPHX2
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Oligodendrocyte,CL_0000128,PLP1,PLP1
+Human,Brain,Cerebrospinal fluid,UBERON_0001359,Normal,Normal cell,Oligodendrocyte,CL_0000128,MBP,MBP

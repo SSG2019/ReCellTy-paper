@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,Intermediate,CD14,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate monocyte cell
+Monocyte,Intermediate,MARCO,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate monocyte cell
+Monocyte,Intermediate,MARCKSL1,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate monocyte cell
+Monocyte,Intermediate,CD16,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate monocyte cell
+Monocyte,Intermediate,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,Intermediate monocyte cell

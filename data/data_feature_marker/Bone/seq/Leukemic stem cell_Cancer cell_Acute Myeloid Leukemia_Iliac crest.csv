@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Leukemic,CD96,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,Leukemic,IL1RAP,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell
+Stem cell,,CD47,Human,Bone,Iliac crest,Acute Myeloid Leukemia,Cancer cell,Leukemic stem cell

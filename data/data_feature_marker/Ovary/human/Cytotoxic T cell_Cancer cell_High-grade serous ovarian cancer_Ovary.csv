@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GZMA,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3D,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Memory cell,Transitional,CD27,Human,Lymph,Lymph,Normal,Normal cell,Transitional memory cell
+Memory cell,Transitional,CD45RO,Human,Lymph,Lymph,Normal,Normal cell,Transitional memory cell

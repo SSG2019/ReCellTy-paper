@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,TNPO3,TNPO3
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,IRF5,IRF5
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,FLG,FLG
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,FLG2,FLG2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,HRNR,HRNR
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Normal cell,,IGHM,IGHM

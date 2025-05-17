@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Mantle,TNFRSF13B,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell
+B cell,,CD27,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell

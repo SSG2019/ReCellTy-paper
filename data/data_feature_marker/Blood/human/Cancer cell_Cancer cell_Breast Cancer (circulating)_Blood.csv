@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,EpCAM,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,HER2,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,PSA,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CD24,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CD45,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,uPAR,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,CD44,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,Integrin beta-1,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,ERBB2,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,KLK3,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell
+Cancer cell,,PTPRC,Human,Blood,Blood,Breast Cancer (circulating),Cancer cell,Cancer cell

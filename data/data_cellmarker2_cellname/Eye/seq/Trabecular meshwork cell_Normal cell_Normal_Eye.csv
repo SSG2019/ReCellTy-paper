@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Trabecular meshwork cell,,CHI3L1,CHI3L1
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Trabecular meshwork cell,,MYOC,MYOC
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Trabecular meshwork cell,,MGP,MGP
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Trabecular meshwork cell,,aquaporin-1,

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myotube,CL_0002372,MYBPH,MYBPH
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myotube,CL_0002372,MYOG,MYOG
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myotube,CL_0002372,TTN,TTN
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Myotube,CL_0002372,MYH3,MYH3

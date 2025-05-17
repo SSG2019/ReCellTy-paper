@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,HLA-DQA1,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage
+Macrophage,,IL-1RN,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage
+Macrophage,,CD49d,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage
+Macrophage,,TGFβI,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage
+Macrophage,,CCR2,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage
+Macrophage,,IL1RN,Human,Brain,Brain,Brain cancer,Cancer cell,Macrophage

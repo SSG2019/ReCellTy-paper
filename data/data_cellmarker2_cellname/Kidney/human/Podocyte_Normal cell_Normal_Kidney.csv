@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,WT1,WT1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,CTGF,CCN2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,MAFB,MAFB
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,ROBO2,ROBO2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS2,NPHS2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,TCF21,TCF21
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,VEGFA,VEGFA
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,OLFM3,OLFM3
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,PODXL,PODXL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,POXDL,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,MAFB,MAFB
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,PCOLCE2,PCOLCE2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS1,NPHS1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,WT1,WT1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS2,NPHS2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,PODXL,PODXL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS1,NPHS1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS2,NPHS2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,PODXL,PODXL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,PODXL,PODXL
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Podocyte,CL_0000653,NPHS2,NPHS2

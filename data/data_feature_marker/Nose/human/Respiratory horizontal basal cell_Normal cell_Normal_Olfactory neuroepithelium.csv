@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,Respiratory,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Respiratory,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Respiratory,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,SOX2,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,KRT5,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell
+Basal cell,Horizontal,TP63,Human,Nose,Olfactory neuroepithelium,Normal,Normal cell,Respiratory horizontal basal cell

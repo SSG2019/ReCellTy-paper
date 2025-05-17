@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,IFNG,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,NKG7,Human,Intestine,Colorectum,Colorectal Cancer,Cancer cell,Cytotoxic T cell

@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,piRNA pathway,PIWIL1,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,piRNA pathway,PIWIL2,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,piRNA pathway,PIWIL4,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,germ cell marker,DAZL,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,germ cell marker,DDX4,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,testis-specific expression,TEX101,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,testis-specific expression,TEX19,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,testis-specific expression,TEX19.1,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,pluripotency,OCT3/4,Human,Undefined,Undefined,Normal,Normal cell,Germ cell
+Germ cell,germ cell development,KIT,Human,Undefined,Undefined,Normal,Normal cell,Germ cell

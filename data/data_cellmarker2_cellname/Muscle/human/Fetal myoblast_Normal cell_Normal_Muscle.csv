@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Fetal myoblast,,NFIX,NFIX
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Fetal myoblast,,PAX3,PAX3
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Fetal myoblast,,CD82,CD82

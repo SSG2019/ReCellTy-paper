@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,ICAM1,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD54,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Nodular tissue,Blood vessel,Normal,Normal cell,Endothelial cell

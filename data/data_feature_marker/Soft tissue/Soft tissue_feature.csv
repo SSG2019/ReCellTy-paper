@@ -1,0 +1,121 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,IGKC,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,CD19,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,CR2,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,CD22,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,BANK1,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,FCRL2,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+B cell,,PAX5,Human,Soft tissue,Soft tissue,Normal,Normal cell,B cell
+Cancer stem cell,Cancer,c-Myc,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYC,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,CD133,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,CD44,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,ABCG2,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,BMI1,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,OCT4,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,PROM1,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem,POU5F1,Human,Soft tissue,Soft tissue,Soft tissue sarcoma,Cancer cell,Cancer stem cell
+T cell,CD8+,CD8B,Human,Soft tissue,Soft tissue,Normal,Normal cell,CD8+ T cell
+Lymphocyte,Cytotoxic,FGFBP2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,EOMES,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRD1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRC4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,GNLY,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,CD8A,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Lymphocyte,Cytotoxic,KLRC3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Cytotoxic lymphocyte
+Endothelial cell,,ACVRL1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EDN1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MMRN1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FAM124B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEPH1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ESM1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SHE,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MMRN2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MYCT1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ELTD1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PALMD,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HECW2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PTPRB,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PEAR1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ROBO4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ESAM,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EMCN,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SDPR,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PGF,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CXorf36,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEK,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,APLN,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,BMX,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,HHIP,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,BMP6,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,BCL6B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PLXNA2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SHANK3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ADGRL4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CAVIN2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,DIPK2B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Endothelial cell
+Macrophage,,CD68,Human,Soft tissue,Soft tissue,Undifferentiated pleomorphic sarcoma,Cancer cell,M1 macrophage
+Macrophage,M2,CD163,Human,Soft tissue,Soft tissue,Undifferentiated pleomorphic sarcoma,Cancer cell,M2 macrophage
+Monocyte,,PLA2G7,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,RASSF4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,CSF1R,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,TFEC,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,FPR3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,ADAP2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Monocyte,,KYNU,Human,Soft tissue,Soft tissue,Normal,Normal cell,Monocyte
+Myeloid dendritic cell,,CD1E,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CLIC2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,WFDC21P,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD1A,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD1B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CLEC10A,Human,Soft tissue,Soft tissue,Normal,Normal cell,Myeloid dendritic cell
+Natural killer cell,Cytotoxic function,NCR1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Signaling,SH2D1B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation,CD160,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Regulation,KIR3DL1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Regulation,KIR2DL3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Regulation,KIR3DS1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Regulation,KIR2DL1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,Regulation,KIR2DL4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PTGDR,Human,Soft tissue,Soft tissue,Normal,Normal cell,Natural killer cell
+Neutrophil,,CXCR2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,SLC25A37,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,TECPR2,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,CXCR1,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,KCNJ15,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,STEAP4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,VNN3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,CYP4F3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,TLE3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,TNFRSF10C,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,HAL,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,MEGF9,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,CEACAM3,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3B,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,CA4,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Neutrophil,,VNN3P,Human,Soft tissue,Soft tissue,Normal,Normal cell,Neutrophil
+Rhabdomyoblastic cell,,MyoD1,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell
+Rhabdomyoblastic cell,,myogenin,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell
+Rhabdomyoblastic cell,,PAX7,Human,Soft tissue,Soft tissue,Inflammatory leiomyosarcoma,Cancer cell,Rhabdomyoblastic cell
+T cell,,MAL,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD6,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,FLT3LG,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,TRAT1,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD5,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,PBX4,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,ICOS,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD28,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,THEMIS,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,SIRPG,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,TNFRSF25,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell
+T cell,,CHRM3-AS2,Human,Soft tissue,Soft tissue,Normal,Normal cell,T cell

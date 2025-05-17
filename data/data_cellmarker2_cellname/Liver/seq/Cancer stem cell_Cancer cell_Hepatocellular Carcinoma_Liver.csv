@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD13,ANPEP
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,OV-6,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD117,KIT
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Cancer stem cell,,CD90,THY1

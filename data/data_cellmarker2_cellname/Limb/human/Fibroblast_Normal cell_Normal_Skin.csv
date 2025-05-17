@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,CCL19,CCL19
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,COL18A1,COL18A1
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,TNC,TNC
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,CCL2,CCL2
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Fibroblast,CL_0000057,COL6A5,COL6A5

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,AADACL2,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,KIAA0319,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,FLG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,NCAPG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,ABO,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,LMAN1,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,RELN,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,COL5A1,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell

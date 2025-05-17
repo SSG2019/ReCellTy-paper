@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Macrophage,CL_0000235,FCGR2A,FCGR2A
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Macrophage,CL_0000235,CD68,CD68
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Macrophage,CL_0000235,CD14,CD14
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Macrophage,CL_0000235,CD33,CD33

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Hepatic stellate,FRZB,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Hepatic stellate cell
+cell,Hepatic stellate,Lrat,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Hepatic stellate cell
+cell,Hepatic stellate,Lum,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Hepatic stellate cell
+cell,Hepatic stellate,PDGFRB,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Hepatic stellate cell
+cell,Hepatic stellate,Pdgfrb,Human,Liver,Liver,Colorectal Cancer,Cancer cell,Hepatic stellate cell

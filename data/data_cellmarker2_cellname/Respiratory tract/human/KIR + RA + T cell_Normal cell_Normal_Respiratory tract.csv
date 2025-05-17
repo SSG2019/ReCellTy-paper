@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Respiratory tract,Respiratory tract,UBERON_0000065,Normal,Normal cell,KIR + RA + T cell,,CD45RA,
+Human,Respiratory tract,Respiratory tract,UBERON_0000065,Normal,Normal cell,KIR + RA + T cell,,KIR,GEM
+Human,Respiratory tract,Respiratory tract,UBERON_0000065,Normal,Normal cell,KIR + RA + T cell,,CD8,CD8A

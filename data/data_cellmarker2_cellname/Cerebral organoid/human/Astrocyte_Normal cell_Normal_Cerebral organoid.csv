@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Astrocyte,CL_0000127,AGT,AGT
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Astrocyte,CL_0000127,GFAP,GFAP
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Astrocyte,CL_0000127,GLUL,GLUL
+Human,Cerebral organoid,Cerebral organoid,,Normal,Normal cell,Astrocyte,CL_0000127,HES1,HES1

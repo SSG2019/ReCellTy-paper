@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Ovarian Cancer,Cancer cell,Cancer cell,CL_0001064,WFDC2,WFDC2
+Human,Blood,Peripheral blood,UBERON_0005408,Ovarian Cancer,Cancer cell,Cancer cell,CL_0001064,EpCAM,
+Human,Blood,Peripheral blood,UBERON_0005408,Ovarian Cancer,Cancer cell,Cancer cell,CL_0001064,MCAM,MCAM

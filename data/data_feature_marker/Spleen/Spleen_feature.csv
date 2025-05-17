@@ -1,0 +1,733 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Activated,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Activated dendritic cell
+B cell,,CD20,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD38,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD45RA,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD20,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD1C,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CR1,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CR2,Human,Spleen,Spleen,Normal,Normal cell,B cell
+Cancer cell,,EPCAM,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD133,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD24,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,PROM1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Progenitor cell,CD34+,CD34,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,HOXA9,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,PROM1,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+T cell,CD4+,CD4,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD8A,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,IL32,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,TRAC,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Spleen,Spleen,Undefined,Cancer cell,CD4+ T helper cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8,Human,Spleen,Spleen,Undefined,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Undefined,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,CD4,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,CD3E,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,TRDC,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,IL32,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,KLRD1,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,TRAC,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,,TRGC2,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,Central memory,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,SELL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,CD4+,MAL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,CD8+,MAL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,Central memory,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,Central memory,SELL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+monocyte,Classical,CD88,Human,Spleen,Spleen,Normal,Normal cell,Classical monocyte
+monocyte,Classical,C5AR1,Human,Spleen,Spleen,Normal,Normal cell,Classical monocyte
+monocyte,,CD89,Human,Spleen,Spleen,Normal,Normal cell,Classical monocyte
+monocyte,,FCAR,Human,Spleen,Spleen,Normal,Normal cell,Classical monocyte
+dendritic cell,CLEC10A+,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CST3,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QA,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD1C,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD74,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QB,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,CLEC9A+,CLEC9A,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CLEC9Q,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,THBD,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CD74,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CST3,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+Dendritic cell,,XCR1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,CLEC9A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,PTTG1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,HIST1H4C,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,H4C3,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,FcεRIα,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,HLA-DQ,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,HLA-DQA1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,HLA-DQB1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+T cell,Cytotoxic,PRF1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,Cytotoxic,GZMA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,CD8+,PRF1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,CD8+,GZMA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,Cytotoxic,GZMB,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,CD11c,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD83,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD209,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,HLA-DRA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,,SIGLEC6,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,CD11c,CD11c,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,TCF4,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Migration,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Subset,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-presentation,XCR1,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-presentation,CLEC9A,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-presentation,CD141,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dividing cell,Dividing,H2AFZ,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,Dividing,TUBB,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,Dividing,MKI67,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,Dividing,CDK1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,Dividing,H2AZ1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+T cell,Dividing,MK167,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,Dividing,HMGB2,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CORO1A,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,GAPDH,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,ACTG1,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,TUBA1B,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,Effector,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Memory,ITGA1,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8B,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,,CD52,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,memory,TNFRSF4,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,memory,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,CD52,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,TIMP1,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,AQP3,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,LTB,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD27,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell
+T cell,,SEIL,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell
+Endothelial cell,,CD34,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,TIMP3,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TM4SF1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NR2F2,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PCDH17,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PVLAP,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFI27,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ITGA1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Erythroid lineage cell,,SLC25A37,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBA2,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,ALAS2,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,AHSP,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBB,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,SLC4A1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBM,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,CA1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBD,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBA1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Fibroblast,,COL11A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL11A2,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL4A1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,IGFBP7,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,PTGDS,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,TAGLN,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL13,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,TIMP1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,CALD1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,C11orf96,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,IGFBP2,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,SPARCL1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+B cell,Follicular,TCL1A,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,Follicular,FCER2,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,Follicular,IL4R,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,IGHD,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,YBX3,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD79B,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+Follicular dendritic cell,,CD35,Human,Spleen,Spleen,Normal,Normal cell,Follicular dendritic cell
+Follicular dendritic cell,,CD23,Human,Spleen,Spleen,Normal,Normal cell,Follicular dendritic cell
+Follicular dendritic cell,,CR1,Human,Spleen,Spleen,Normal,Normal cell,Follicular dendritic cell
+Follicular dendritic cell,,FCER2,Human,Spleen,Spleen,Normal,Normal cell,Follicular dendritic cell
+Granulocyte,,S100A9,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,S100A8,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,CD66b,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,CEACAM8,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Hematopoietic stem cell,,LRRC75A,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,BCL11A,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,GATA2,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,AVP,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,GSTM3,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,AREG,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Immune cell,,PTPRC,Human,Spleen,Spleen,Normal,Normal cell,Immune cell
+Innate lymphoid cell,,KLRB1,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,TNFSF13B,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,,AREG,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Macrophage,,FCGR2A,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD206,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD64,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,CD5L,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,APOE,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,APOC1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,NUPR1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FABP5,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MARCO,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,HMOX1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,LGMN,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,SELENOP,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,SLC40A1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FTL,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FOLR2,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,GLUL,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FCER1G,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FCGR1A,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+T cell,Mait-like,KLRB1,Human,Spleen,Spleen,Normal,Normal cell,Mait-like cell
+T cell,,SLC4A10,Human,Spleen,Spleen,Normal,Normal cell,Mait-like cell
+B cell,,TNFRSF13B,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell
+B cell,,CD27,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell
+B cell,Marginal zone,CD27,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,Marginal zone,TNFRSF13B,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD79B,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+Megakaryocyte,,GNG11,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PIG6B,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,NRGN,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PPBP,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,MYL9,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,SPARC,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,CAVIN2,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PF4,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,TUBB1,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,ITGA2B,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+melanocytes,,MX2,Human,Spleen,Spleen,Melanoma,Cancer cell,melanocytes
+T cell,,PTPRC,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Memory T(Tm) cell
+Monocyte,,CD14,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,CD11b,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A4,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A6,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LGALS1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,FTL,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Myeloid cell,suppressor,FOLR2,Human,Spleen,Spleen,Normal,Normal cell,Myeloid-derived suppressor cell
+B cell,Naive,CXCR4,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,Naive,TCL1A,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,FCER2,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+T cell,Naive,NOSIP,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,SELL,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,CD4,MAL,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,Naive,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,Naive,SELL,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,Naive,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+Natural killer cell,,CD160,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR6,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD45,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD335,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL4,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PRF1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CST7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD247,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMK,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD57,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG2C,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD49e,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DS1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp46,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD62L,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD69,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD94,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG2D,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD16,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PTPRC,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC2,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,ITGA5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,SELL,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRK1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp46,Human,Spleen,Splenic red pulp,Normal,Normal cell,Natural killer cell
+Naïve cell,Naïve,LEFT,Human,Spleen,Spleen,Normal,Normal cell,Naïve cell
+Neutrophil,,MPO,Human,Spleen,Spleen,Normal,Normal cell,Neutrophil
+Plasma cell,,IGHG1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,XBP1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGKC,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHA2,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,DPEP1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLL5,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHA1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLC2,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLC3,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasmablast,,MKI67,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,,TUBA1B,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGHG1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGHA1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGHA2,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGKC,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGLC3,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,IGLC2,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,,HSP90B1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,Antibody Production,MZB1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Plasmablast,,GAPDH,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Dendritic cell,Plasmacytoid,LILRA4,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IRF8,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,TCF4,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IRF7,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,SPIB,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,,CLEC4C,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell
+Plasmacytoid dendritic cell,,IL3RC,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell
+Platelet,,PF4,Human,Spleen,Spleen,Normal,Normal cell,Platelet
+Platelet,,GP9,Human,Spleen,Spleen,Normal,Normal cell,Platelet
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,CTLA4,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FoxP3,Human,Spleen,Spleen,Undefined,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FoxP3,Human,Spleen,Spleen,Undefined,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+B cell,Somatic hypermutation,AICDA,Human,Spleen,Spleen,Normal,Normal cell,Somatic hypermutation B cell
+T cell,,CD3,Human,Spleen,Spleen,Undefined,Cancer cell,T cell
+T cell,,CD45,Human,Spleen,Spleen,Undefined,Cancer cell,T cell
+T cell,,PTPRC,Human,Spleen,Spleen,Undefined,Cancer cell,T cell
+T cell,,CD4,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CD3,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR6,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CX3CR1,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CCR7,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,Follicular helper (Tfh),ICOS,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),PDCD1,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper (Tfh),CD40LG,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Th1,IFNG,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,Th1,TBX-21,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,T helper 2 (Th2),MAF,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 2(Th2) cell
+T cell,,GZMA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 2(Th2) cell
+TER cell,,CD235a,Human,Spleen,Spleen,Normal,Normal cell,TER cell
+TER cell,,CD71,Human,Spleen,Spleen,Normal,Normal cell,TER cell
+TER cell,,GYPA,Human,Spleen,Spleen,Normal,Normal cell,TER cell
+TER cell,,TFRC,Human,Spleen,Spleen,Normal,Normal cell,TER cell
+B cell,Transitional,CD24,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD38,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD5,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+T cell,γ δ,TRGV2,Human,Spleen,Spleen,Normal,Normal cell,γ δ T cell
+T cell,,FCGR3A,Human,Spleen,Spleen,Normal,Normal cell,γ δ T cell
+Dendritic cell,Activated,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Activated dendritic cell
+B cell,,CD20,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD38,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD20,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CD1C,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CR1,Human,Spleen,Spleen,Normal,Normal cell,B cell
+B cell,,CR2,Human,Spleen,Spleen,Normal,Normal cell,B cell
+Cancer cell,,EPCAM,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD133,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD24,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Cancer cell,,PROM1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cancer cell
+Progenitor cell,CD34+,CD34,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,HOXA9,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+Progenitor cell,,PROM1,Human,Spleen,Spleen,Normal,Normal cell,CD34+ progenitor cell
+T cell,CD4+,CD4,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD8A,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,IL32,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,,TRAC,Human,Spleen,Spleen,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Spleen,Spleen,Normal,Normal cell,CD8+ T cell
+T cell,Central memory,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,SELL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,CD4+,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,CD4+,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD4+ T cell
+T cell,Central memory,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,Central memory,SELL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,MAL,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,RCAN3,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,NOSIP,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,TSHZ2,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,SOCS3,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,MYC,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+T cell,CD8+,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Central memory CD8+ T cell
+dendritic cell,CLEC10A+,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CST3,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QA,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD1C,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,CD74,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,C1QB,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,CLEC10A+ dendritic cell
+dendritic cell,CLEC9A+,CLEC9A,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CLEC9Q,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,THBD,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CD74,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+dendritic cell,,CST3,Human,Spleen,Spleen,Normal,Normal cell,CLEC9A+ dendritic cell
+Dendritic cell,cDC1,XCR1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,cDC1,CLEC9A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,PTTG1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,HIST1H4C,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,,H4C3,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,cDC2,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,HLA-DQA1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,HLA-DQB1,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,FCER1A,Human,Spleen,Spleen,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+T cell,Cytotoxic,PRF1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,Cytotoxic,GZMA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Cytotoxic CD8+ T cell
+T cell,Cytotoxic,GZMB,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Spleen,Spleen,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,CD11c,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Mature,CD83,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CD209,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Antigen Presentation,HLA-DRA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Dendritic cell
+Dendritic cell,Development and Function,TCF4,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CLEC10A,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Migration,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,,SIGLEC6,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Subset Identification,CD1C,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-Presentation,XCR1,Human,Spleen,Spleen,Normal,Normal cell,Dendritic cell
+Dividing cell,cell division,H2AFZ,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,TUBB,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,MKI67,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,CDK1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,H2AZ1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+T cell,Dividing,MK167,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,Dividing,HMGB2,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,CORO1A,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,GAPDH,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,ACTG1,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,,TUBA1B,Human,Spleen,Spleen,Normal,Normal cell,Dividing T cell
+T cell,Effector Memory,ITGA1,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Effector,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8B,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,CD8+,CD8A,Human,Spleen,Spleen,Normal,Normal cell,Effector memory CD8+ T cell
+T cell,Memory,TNFRSF4,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,Memory,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,CD52,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,TIMP1,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,AQP3,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,,LTB,Human,Spleen,Spleen,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD27,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell
+T cell,Effector,SEIL,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Effector T(Teff) cell
+Endothelial cell,,CD34,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,TIMP3,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TM4SF1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NR2F2,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ITGA1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PROX1,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PCDH17,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PVLAP,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Endothelial cell,,IFI27,Human,Spleen,Spleen,Normal,Normal cell,Endothelial cell
+Erythroid lineage cell,,SLC25A37,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBA2,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,ALAS2,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,AHSP,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBB,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,SLC4A1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBM,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,CA1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBD,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Erythroid lineage cell,,HBA1,Human,Spleen,Spleen,Normal,Normal cell,Erythroid lineage cell
+Fibroblast,,COL11A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL3A1,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL11A2,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL4A1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,IGFBP7,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,PTGDS,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,TAGLN,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL13,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,TIMP1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,CALD1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,C11orf96,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,IGFBP2,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+Fibroblast,,SPARCL1,Human,Spleen,Spleen,Normal,Normal cell,Fibroblast
+B cell,Follicular,TCL1A,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,Follicular,FCER2,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,Follicular,IL4R,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,IGHD,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,YBX3,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+B cell,,CD79B,Human,Spleen,Spleen,Normal,Normal cell,Follicular B cell
+Granulocyte,,S100A9,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,S100A8,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,CD66b,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Granulocyte,,CEACAM8,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Granulocyte
+Hematopoietic stem cell,,LRRC75A,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,BCL11A,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,GATA2,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,AVP,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,GSTM3,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,AREG,Human,Spleen,Spleen,Normal,Normal cell,Hematopoietic stem cell
+Immune cell,,PTPRC,Human,Spleen,Spleen,Normal,Normal cell,Immune cell
+Innate lymphoid cell,,TNFSF13B,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,NK,KLRB1,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,Development,IL7R,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Innate lymphoid cell,Immune response,AREG,Human,Spleen,Spleen,Normal,Normal cell,Innate lymphoid cell
+Macrophage,,FCGR2A,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD5L,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,APOE,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,APOC1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,NUPR1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FABP5,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MARCO,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,HMOX1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,LGMN,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,SELENOP,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MRC1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,SLC40A1,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FTL,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FABP4,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,GLUL,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,FCER1G,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QC,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,MS4A7,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QA,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+Macrophage,,C1QB,Human,Spleen,Spleen,Normal,Normal cell,Macrophage
+T cell,MAIT-like,KLRB1,Human,Spleen,Spleen,Normal,Normal cell,Mait-like cell
+B cell,Mantle,TNFRSF13B,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell
+B cell,,CD27,Human,Spleen,Spleen,Normal,Normal cell,Mantle B cell
+B cell,Marginal zone,CD27,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,Marginal zone,TNFRSF13B,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD79B,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,MS4A1,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD79A,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+B cell,,CD19,Human,Spleen,Spleen,Normal,Normal cell,Marginal zone B cell
+Megakaryocyte,,GNG11,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PIG6B,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,NRGN,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PPBP,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,MYL9,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,SPARC,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,CAVIN2,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,PF4,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,TUBB1,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+Megakaryocyte,,ITGA2B,Human,Spleen,Spleen,Normal,Normal cell,Megakaryocyte
+T cell,,PTPRC,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Memory T(Tm) cell
+Monocyte,,FCN1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A4,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LYZ,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A12,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A6,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,LGALS1,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,FTL,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Spleen,Spleen,Normal,Normal cell,Monocyte
+B cell,Naive,CXCR4,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,Naive,TCL1A,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,IGHD,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+B cell,,FCER2,Human,Spleen,Spleen,Normal,Normal cell,Naive B cell
+T cell,Naive,SELL,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD4 T cell
+T cell,Naive,TCF7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,Naive,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,Naive,SELL,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,CD8,LEF1,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+T cell,CD8,MYC,Human,Spleen,Spleen,Normal,Normal cell,Naive CD8 T cell
+Natural killer cell,,CD160,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRF1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR6,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL4,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,PRF1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CST7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD247,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMK,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD57,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG2C,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD49e,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KIR2DS1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKp46,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD62L,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD69,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD94,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG2D,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD16,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC2,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,ITGA5,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,SELL,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRK1,Human,Spleen,Spleen,Normal,Normal cell,Natural killer cell
+Naïve cell,,LEFT,Human,Spleen,Spleen,Normal,Normal cell,Naïve cell
+Plasma cell,,IGHG1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,XBP1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,SDC1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGKC,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHA2,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,DPEP1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLL5,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHA1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLC2,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+Plasma cell,,IGLC3,Human,Spleen,Spleen,Normal,Normal cell,Plasma cell
+B cell,,MKI67,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,TUBA1B,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGHG1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGHM,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGHA1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,HSP90B1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGKC,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,MZB1,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGLC3,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGLC2,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,IGHA2,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+B cell,,GAPDH,Human,Spleen,Spleen,Normal,Normal cell,Plasmablast
+Dendritic cell,Plasmacytoid,LILRA4,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IRF8,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,TCF4,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IRF7,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,SPIB,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,,IL3RC,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell
+Plasmacytoid dendritic cell,Plasmacytoid,CLEC4C,Human,Spleen,Spleen,Normal,Normal cell,Plasmacytoid dendritic cell
+Platelet,,PF4,Human,Spleen,Spleen,Normal,Normal cell,Platelet
+Platelet,,GP9,Human,Spleen,Spleen,Normal,Normal cell,Platelet
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,CTLA4,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Spleen,Spleen,Normal,Normal cell,Regulatory T(Treg) cell
+B cell,Somatic hypermutation,AICDA,Human,Spleen,Spleen,Normal,Normal cell,Somatic hypermutation B cell
+T cell,,CXCR6,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR3,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CX3CR1,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CCR7,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T cell
+T cell,Follicular helper,ICOS,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper,PDCD1,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Follicular helper,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,ICOS,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,PDCD1,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CXCR5,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,LTB,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,CD40LG,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Tfh,GPR183,Human,Spleen,Spleen,Normal,Normal cell,T follicular helper(Tfh) cell
+T cell,Th1,IFNG,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,Th1,TBX-21,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 1(Th1) cell
+T cell,Th2,MAF,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,T helper 2(Th2) cell
+B cell,Transitional,CD24,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD38,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+B cell,Transitional,CD5,Human,Spleen,Spleen,Normal,Normal cell,Transitional B cell
+T cell,γ δ,TRGV2,Human,Spleen,Spleen,Normal,Normal cell,γ δ T cell
+T cell,,FCGR3A,Human,Spleen,Spleen,Normal,Normal cell,γ δ T cell

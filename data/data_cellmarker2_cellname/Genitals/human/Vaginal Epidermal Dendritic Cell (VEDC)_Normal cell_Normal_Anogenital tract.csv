@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC),,HLA-DR,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC),,Langerin,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC),,CD1a,
+Human,Genitals,Anogenital tract,,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC),,CD11c,

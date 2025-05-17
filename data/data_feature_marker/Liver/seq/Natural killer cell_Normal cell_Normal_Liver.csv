@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,ADCC,FCGR3A,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation,KLRF1,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Lymph node homing,CD62L,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Adhesion,CD49e,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition of MHC class I,CD94,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition of HLA-E,NKG2C,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Terminal differentiation,CD57,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Migration and adhesion,CX3CR1,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Inhibition of NK cell activity,KIR2DL1,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Early activation,CD69,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation and recognition of stress-induced ligands,NKG2D,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation,NKp46,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxicity,GNLY,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic granule exocytosis,NKG7,Human,Liver,Liver,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A26,Human,Liver,Liver,Normal,Normal cell,Natural killer cell

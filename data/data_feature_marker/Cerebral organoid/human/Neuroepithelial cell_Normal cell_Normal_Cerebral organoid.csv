@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuroepithelial cell,,KLF4,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VIM,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell
+Neuroepithelial cell,,VCAN,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Neuroepithelial cell

@@ -1,0 +1,29 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,IGJ,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,LILRA4,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,MZB1,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1c,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CST3,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PLD4,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Bmp4,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Sox2,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Myeloid,FCER1A,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune response,ISG15,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,UBC,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Myeloid,CLEC10A,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune response,IRF8,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IFITM3,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IFI6,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CYBA,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,HSPA5,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune response,IRF7,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLEC12A,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LILRB4,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1E,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-presenting,CD141,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,JCHAIN,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Blood,Peripheral blood,Normal,Normal cell,Dendritic cell

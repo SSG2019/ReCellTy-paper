@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Artery,Coronary artery,,Normal,Normal cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN
+Human,Artery,Coronary artery,,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Artery,Coronary artery,,Normal,Normal cell,Smooth muscle cell,CL_0000192,CNN1,CNN1
+Human,Artery,Coronary artery,,Normal,Normal cell,Smooth muscle cell,CL_0000192,MYH11,MYH11

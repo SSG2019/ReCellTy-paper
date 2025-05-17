@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD14,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MMP2,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CDH13,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MRC1,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Myeloid cell
+Myeloid cell,,MPO,Human,Brain,Cerebrospinal fluid,Normal,Normal cell,Myeloid cell

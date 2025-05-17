@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,SMAD4,SMAD4
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,NCAM,NCAM1
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,BAP1,BAP1
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,Mucin,
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,MUC5AC,MUC5AC
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,S100P,S100P
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,N-cadherin,
+Human,Liver,Biliary tract,UBERON_0001173,Cholangiocarcinoma,Cancer cell,Epithelial cell,CL_0000066,MUC6,MUC6

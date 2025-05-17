@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,RGS5,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Pericyte
+Pericyte,,CSPG4,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Pericyte

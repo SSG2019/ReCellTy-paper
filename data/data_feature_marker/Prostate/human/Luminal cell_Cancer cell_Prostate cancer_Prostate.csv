@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Luminal cell,,KRT18,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell
+Luminal cell,,AR,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell
+Luminal cell,,KRT8,Human,Prostate,Prostate,Prostate cancer,Cancer cell,Luminal cell

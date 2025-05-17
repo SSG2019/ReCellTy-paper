@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,EPCAM,EPCAM
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,CK19,KRT19
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,Nanog,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Cancer,Cancer cell,Stem cell,CL_0000034,CD133,PROM1

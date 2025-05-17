@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,GAP43,GAP43
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,MPZ,MPZ
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,S100A1,S100A1
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,NCAM,NCAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,S100,S100A1
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,Glial fibrillary acidic protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,Myelin basic protein,
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,myelin protein zero,
+Human,Undefined,Undefined,,Normal,Normal cell,Schwann cell,CL_0002573,S100,S100A1

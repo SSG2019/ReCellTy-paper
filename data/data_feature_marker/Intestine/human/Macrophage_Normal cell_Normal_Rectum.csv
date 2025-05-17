@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CST3,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,IL8,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,CXCL2,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,IL1B,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,IL1RN,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,LYZ,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,S100A8,Human,Intestine,Rectum,Normal,Normal cell,Macrophage
+Macrophage,,CXCL8,Human,Intestine,Rectum,Normal,Normal cell,Macrophage

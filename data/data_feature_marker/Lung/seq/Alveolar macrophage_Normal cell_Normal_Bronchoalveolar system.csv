@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar macrophage,,CD68,Human,Lung,Bronchoalveolar system,Normal,Normal cell,Alveolar macrophage
+Alveolar macrophage,,SIGLEC1,Human,Lung,Bronchoalveolar system,Normal,Normal cell,Alveolar macrophage

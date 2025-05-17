@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,CD3E,CD3E
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,CD8A,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,KLRB1,KLRB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,CD8B,CD8B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,ZBTB16,ZBTB16
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,SLC4A10,SLC4A10
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,RORC,RORC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,RORA,RORA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,CD8+ mucosal-associated invariant T cell(CD8+ MAIT),,NCR3,NCR3

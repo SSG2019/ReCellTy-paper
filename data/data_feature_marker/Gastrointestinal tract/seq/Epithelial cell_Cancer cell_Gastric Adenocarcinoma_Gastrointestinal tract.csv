@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EPCAM,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Gastrointestinal tract,Gastrointestinal tract,Gastric Adenocarcinoma,Cancer cell,Epithelial cell

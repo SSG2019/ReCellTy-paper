@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mast cell,,HPGDS,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSD1,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,HDC,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Nose,Nasal polyp,Normal,Normal cell,Mast cell

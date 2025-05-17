@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,Granzyme A,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,Granzyme B,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,IFN-gamma,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,LT-alpha,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,NKG7,Human,Undefined,Undefined,Normal,Normal cell,Cytotoxic T cell

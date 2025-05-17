@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,ILT3,LILRB4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,BDCA-4,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD304,NRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,BDCA2,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,DR6,TNFRSF21
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,ILT7,LILRA4
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,NRP1,NRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CD303,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,CLEC4C,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Plasmacytoid dendritic cell,CL_0000784,Fc-epsilon RI-alpha,

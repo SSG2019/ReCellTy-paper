@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,TOP2A,Human,Kidney,Kidney,Normal,Normal cell,Loop progenitor cell
+Progenitor cell,,HMGB2,Human,Kidney,Kidney,Normal,Normal cell,Loop progenitor cell
+Progenitor cell,,UBE2C,Human,Kidney,Kidney,Normal,Normal cell,Loop progenitor cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Dark zone cell,,FOXP1,FOXP1
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Dark zone cell,,CXCR4,CXCR4
+Human,Palatine tonsil,Germinal center,,Lymphoma,Cancer cell,Dark zone cell,,AICDA,AICDA

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+embryonic stem cell,Mesodermal,CD34,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CD325,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CD31,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,CDH2,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell
+embryonic stem cell,Mesodermal,PECAM1,Human,Germ,Germ,Normal,Normal cell,Mesodermal embryonic stem cell

@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,CYB5R2,CYB5R2
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,LIMD1,LIMD1
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,SH3BP5,SH3BP5
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,CREB3L2,CREB3L2
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,IRF4,IRF4
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,RAB7L1,RAB29
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,PIM2,PIM2
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,TACI,TNFRSF13B
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,CCDC50,CCDC50
+Human,Lymph,Lymph,UBERON_0002391,Activated B-cell like——Diffuse large B cell lymphoma (ABC DLBCL),Cancer cell,Cancer cell,CL_0001064,FOXP1,FOXP1

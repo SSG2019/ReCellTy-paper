@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD32,FCGR2A
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD64,FCGR1A
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD80,CD80
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD200R,CD200R1
+Human,Articulation,Synovium,UBERON_0007616,Normal,Normal cell,Macrophage,CL_0000235,CD115,CSF1R

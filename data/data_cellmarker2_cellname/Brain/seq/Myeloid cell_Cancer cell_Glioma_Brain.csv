@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Myeloid cell,CL_0000763,TYROBP,TYROBP
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Myeloid cell,CL_0000763,AIF1,AIF1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Myeloid cell,CL_0000763,CD33,CD33

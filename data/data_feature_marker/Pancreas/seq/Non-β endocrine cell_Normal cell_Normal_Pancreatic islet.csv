@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+endocrine cell,Non-β,PRSS,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,SST,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,PPY,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell
+endocrine cell,Non-β,GCG,Human,Pancreas,Pancreatic islet,Normal,Normal cell,Non-β endocrine cell

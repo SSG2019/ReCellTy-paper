@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CCL4L2,CCL4L2
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,GZMB,GZMB
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CCL5,CCL5
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CCL4,CCL4
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CXCR6,CXCR6
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,CXCR6,CXCR6
+Human,Undefined,Undefined,,Normal,Normal cell,Tissue resident memory T(TRM) cell,,ITGA1,ITGA1

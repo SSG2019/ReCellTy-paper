@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,AQP1,Human,Bone marrow,Spinal cord,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Bone marrow,Spinal cord,Normal,Normal cell,Astrocyte

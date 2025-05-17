@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CAV1,CAV1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CD73,NT5E
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CD184,CXCR4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,RUNX1,RUNX1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Endothelial cell,CL_0000115,PTPRC,PTPRC

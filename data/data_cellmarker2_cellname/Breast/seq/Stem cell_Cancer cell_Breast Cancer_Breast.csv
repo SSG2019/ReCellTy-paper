@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,ALDH1A1,ALDH1A1
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,ID2,ID2
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,EGFR,EGFR
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,KLF4,KLF4
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,LEPR,LEPR
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Stem cell,CL_0000034,ALDH1A1,ALDH1A1

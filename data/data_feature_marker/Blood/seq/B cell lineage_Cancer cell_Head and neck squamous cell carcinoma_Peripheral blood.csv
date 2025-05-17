@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,lineage,CD20,Human,Blood,Peripheral blood,Head and neck squamous cell carcinoma,Cancer cell,B cell lineage
+B cell,lineage,CD19,Human,Blood,Peripheral blood,Head and neck squamous cell carcinoma,Cancer cell,B cell lineage
+B cell,lineage,MS4A1,Human,Blood,Peripheral blood,Head and neck squamous cell carcinoma,Cancer cell,B cell lineage

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,MYH11,MYH11
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,GJA4,GJA4
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,RSPO3,RSPO3
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,TNFAIP6,TNFAIP6
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,MT1A,MT1A
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,PTGDS,PTGDS
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,APOD,APOD
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,FBLN1,FBLN1
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,RGS5,RGS5
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,Fibroblast,CL_0000057,FGF2,FGF2

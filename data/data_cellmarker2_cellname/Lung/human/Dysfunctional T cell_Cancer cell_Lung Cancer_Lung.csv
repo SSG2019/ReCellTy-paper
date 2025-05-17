@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,HAVCR2,HAVCR2
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,BTLA,BTLA
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,TIGIT,TIGIT
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,PDCD1,PDCD1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,ENTPD1,ENTPD1
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,TOX2,TOX2
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,CTLA4,CTLA4
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,TOX,TOX
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,LAG3,LAG3
+Human,Lung,Lung,UBERON_0002048,Lung Cancer,Cancer cell,Dysfunctional T cell,,CD200,CD200

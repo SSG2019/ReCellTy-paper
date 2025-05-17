@@ -1,0 +1,52 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD4,CD4
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD7,CD7
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD27,CD27
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD34,CD34
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD38,CD38
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD68,CD68
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD69,CD69
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD81,CD81
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,FLT3,FLT3
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CXCR3,CXCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,ZAP70,ZAP70
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,KLRG1,KLRG1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD160,CD160
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD244,CD244
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD178,FASLG
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD8,CD8A
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD194,CCR4
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD196,CCR6
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD16,FCGR3A
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD183,CXCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD122,IL2RB
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD127,IL7R
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD212,IL12RB1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD103,ITGAE
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD117,KIT
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD161,KLRB1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD94,KLRD1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD229,LY9
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD10,MME
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD56,NCAM1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD45,PTPRC
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD62L,SELL
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD43,SPN
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,ST2,ST2
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD218a,IL18R1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD336,NCR2
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD335,NCR1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD314,KLRK1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD217,IL17RA
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD57,B3GAT1
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD319,SLAMF7
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD337,NCR3
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD11b,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD11c,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD159a,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD45RA,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,CD49d,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,Granzyme A,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,Granzyme B,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,IL-21R,
+Human,Undefined,Undefined,,Normal,Normal cell,Lymphoid cell,CL_0001065,ROR gamma T,

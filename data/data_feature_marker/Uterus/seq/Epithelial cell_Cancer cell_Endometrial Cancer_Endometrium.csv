@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,KRT19,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT15,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Epithelial cell

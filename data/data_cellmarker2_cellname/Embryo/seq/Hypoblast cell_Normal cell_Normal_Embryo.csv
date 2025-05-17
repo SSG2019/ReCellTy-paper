@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast cell,,COL4A1,COL4A1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast cell,,SOX17,SOX17
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast cell,,FOXA2,FOXA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast cell,,GATA6,GATA6
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Hypoblast cell,,GATA4,GATA4

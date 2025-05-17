@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,hematopoietic,CD34,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,adhesion and migration,CD164,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,stem cell factor receptor,CD117,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,adult stem cells,LGR5,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,cell positioning,EPHB2,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,cell signaling,PTK7,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,self-renewal,SOX2,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,aldehyde dehydrogenase,ALDN1,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,pluripotency,OCT4,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,normal and cancer stem cells,CD133,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,stem cell factor receptor,KIT,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,pluripotency,POU5F1,Human,Undefined,Undefined,Normal,Normal cell,Stem cell
+Stem cell,normal and cancer stem cells,PROM1,Human,Undefined,Undefined,Normal,Normal cell,Stem cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD1a,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,,DC-SIGN,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Dendritic cell
+Dendritic cell,,CD209,Human,Undefined,Undefined,Acute Myeloid Leukemia,Cancer cell,Dendritic cell

@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Underlying hematologic malignancy,Cancer cell,Terminally differentiated effector memory CD8+ T cell,,CD45RA,

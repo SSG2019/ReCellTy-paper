@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD68,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,CD163,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,CD206,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,CD204,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,CD169,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,MRC1,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,MSR1,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte
+Monocyte,,SIGLEC1,Human,Bone marrow,Bone marrow,Hepatocellular Carcinoma,Cancer cell,Monocyte

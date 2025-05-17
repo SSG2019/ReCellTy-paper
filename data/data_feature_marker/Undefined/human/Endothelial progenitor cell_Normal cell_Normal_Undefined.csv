@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Progenitor,PDGFRβ,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Progenitor,CD34,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Progenitor,VEGFR,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,Progenitor,KDR,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,CD31,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell
+Endothelial cell,,PECAM1,Human,Undefined,Undefined,Normal,Normal cell,Endothelial progenitor cell

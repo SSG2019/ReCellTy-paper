@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-alpha cell,,ISL1,ISL1
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-alpha cell,,CD36,CD36
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-alpha cell,,GCG,GCG
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-alpha cell,,IRX2,IRX2
+Human,Undefined,Undefined,,Normal,Normal cell,Stem-cell-derived-alpha cell,,ARX,ARX

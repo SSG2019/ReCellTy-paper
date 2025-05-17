@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial cell,Ki-67+,panCK,Human,Intestine,Rectum,Rectal cancer,Cancer cell,Ki-67+ epithelial cell

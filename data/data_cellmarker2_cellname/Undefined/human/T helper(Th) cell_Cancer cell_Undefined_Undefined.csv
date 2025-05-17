@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,CD3,
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,CD4,CD4
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,TCR,TRBV20OR9-2
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,CD25,IL2RA
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,CD4,CD4
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,FasL,
+Human,Undefined,Undefined,,Undefined,Cancer cell,T helper(Th) cell,,LFA-1,ITGAL

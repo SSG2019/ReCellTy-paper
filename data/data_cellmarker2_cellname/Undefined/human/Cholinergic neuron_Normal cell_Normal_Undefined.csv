@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Cholinergic neuron,CL_0000108,Acetylcholinesterase,
+Human,Undefined,Undefined,,Normal,Normal cell,Cholinergic neuron,CL_0000108,Choline acetyltransferase,
+Human,Undefined,Undefined,,Normal,Normal cell,Cholinergic neuron,CL_0000108,Vesicular acetylcholine transporter,

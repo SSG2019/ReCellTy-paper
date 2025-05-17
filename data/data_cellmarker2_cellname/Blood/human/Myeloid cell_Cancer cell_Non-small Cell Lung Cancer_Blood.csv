@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,PDL-1,
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,CD15,FUT4
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,CD10,MME
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,CXCR4,CXCR4
+Human,Blood,Blood,UBERON_0000178,Non-small Cell Lung Cancer,Cancer cell,Myeloid cell,CL_0000763,CD11b,

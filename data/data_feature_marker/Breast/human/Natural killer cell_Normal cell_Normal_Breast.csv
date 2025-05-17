@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,CD56,CD56,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic,NKG7,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,Inhibitory receptor,KIR2DL4,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,,HAVR2C,Human,Breast,Breast,Normal,Normal cell,Natural killer cell
+Natural killer cell,CD56,NCAM1,Human,Breast,Breast,Normal,Normal cell,Natural killer cell

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SOX17,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell

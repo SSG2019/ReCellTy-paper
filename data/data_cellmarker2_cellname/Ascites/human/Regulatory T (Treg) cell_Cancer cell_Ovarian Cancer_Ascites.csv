@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ascites,Ascites,UBERON_0007795,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell,CL_0000815,CD4,CD4
+Human,Ascites,Ascites,UBERON_0007795,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Ascites,Ascites,UBERON_0007795,Ovarian Cancer,Cancer cell,Regulatory T (Treg) cell,CL_0000815,CD25,IL2RA

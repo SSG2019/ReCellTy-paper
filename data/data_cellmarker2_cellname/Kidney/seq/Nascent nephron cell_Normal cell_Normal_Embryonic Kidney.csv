@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Nascent nephron cell,,PAX8,PAX8
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Nascent nephron cell,,SIX1,SIX1
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Nascent nephron cell,,JAG1,JAG1
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Nascent nephron cell,,LHX1,LHX1
+Human,Kidney,Embryonic Kidney,,Normal,Normal cell,Nascent nephron cell,,EPCAM,EPCAM

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Malignant Peripheral Nerve Sheath Tumor,Cancer cell,Cancer stem cell,,CD271,NGFR
+Human,Brain,Brain,UBERON_0000955,Malignant Peripheral Nerve Sheath Tumor,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Brain,Brain,UBERON_0000955,Malignant Peripheral Nerve Sheath Tumor,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Brain,Brain,UBERON_0000955,Malignant Peripheral Nerve Sheath Tumor,Cancer cell,Cancer stem cell,,Nestin,

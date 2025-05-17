@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Rod cell,,PDE6A,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,RHO,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,SAG,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,GNAT1,Human,Eye,Eye,Normal,Normal cell,Rod cell

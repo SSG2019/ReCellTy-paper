@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,PECAM1,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VEGFR2,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENG,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM128,Human,Liver,Liver,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KDR,Human,Liver,Liver,Normal,Normal cell,Endothelial cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Innate lymphoid cell,ILCs,ID2,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,IL1R1,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,KIT,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,ZBTB16,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)

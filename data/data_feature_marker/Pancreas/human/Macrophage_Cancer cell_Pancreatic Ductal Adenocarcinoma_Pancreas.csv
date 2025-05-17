@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD64,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,FCGR2A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage
+Macrophage,,FCGR1A,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Macrophage

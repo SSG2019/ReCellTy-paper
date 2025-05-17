@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,CD45RO,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD20,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD79a,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD80,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD86,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD19,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,RALY,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,HMGB2,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,HMGB1,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,MS4A127,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,TCL1A,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,MZB1,Human,Liver,Liver,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Liver,Liver,Normal,Normal cell,B cell

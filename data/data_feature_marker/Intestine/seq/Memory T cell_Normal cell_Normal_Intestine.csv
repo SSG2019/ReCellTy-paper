@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,KLRB1,Human,Intestine,Intestine,Normal,Normal cell,Memory T cell
+T cell,,CD69,Human,Intestine,Intestine,Normal,Normal cell,Memory T cell

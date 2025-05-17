@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Dclk1,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Krt1,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Fezf2,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Itga6,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Ly6a,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Krt10,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Ccl21a,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Ivl,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Spink5,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Aire,
+Human,Breast,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,Avil,

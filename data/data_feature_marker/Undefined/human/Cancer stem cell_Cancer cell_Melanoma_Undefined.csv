@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,Cancer,CD133,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ABCG2,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EZH2,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD133,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nestin,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD271,Human,Undefined,Undefined,Melanoma,Cancer cell,Cancer stem cell

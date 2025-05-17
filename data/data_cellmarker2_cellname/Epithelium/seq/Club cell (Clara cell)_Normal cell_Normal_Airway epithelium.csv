@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,KRT19,KRT19
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SLPI,SLPI
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,MSMB,MSMB
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SCGB1A1,SCGB1A1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,BPIFB1,BPIFB1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,TFF3,TFF3
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SLPI,SLPI
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SCGB3A1,SCGB3A1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,MUC5B,MUC5B
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,WFDC2,WFDC2
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,KRT15,KRT15
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,SCGB1A1,SCGB1A1
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,CBR2,
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,CYPD2,
+Human,Epithelium,Airway epithelium,UBERON_0004802,Normal,Normal cell,Club cell (Clara cell),CL_0000158,LYPD2,LYPD2

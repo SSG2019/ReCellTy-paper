@@ -1,0 +1,112 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar macrophage,,MSR1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Alveolar macrophage,,FABP4,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Alveolar macrophage,,APOC1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Alveolar macrophage,,MARCO,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Alveolar macrophage,,C1QB,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+B cell,,MS4A1,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,IGHG3,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,EBF1,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,IGHA2,Human,Sputum,Sputum,Normal,Normal cell,B cell
+dendritic cell,Conventional,LAMP3,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,HLA-DPB1,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CLEC10A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,FCER1A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CD1E,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Eosinophil,,EPO,Human,Sputum,Sputum,Normal,Normal cell,Eosinophil
+Epithelial cell,,SCEL,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT80,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT78,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Monocyte-derived cell,,SDS,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,STARD13,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,FPR3,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,PMP22,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,RNASE1,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte,,CD300E,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,CD93,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,NLRP3,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Mononuclear phagocyte,,LGALS1,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,LYZ,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,HLA-DRB1,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,HLA-DRA,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,FTL,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSL,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSH,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CD74,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSB,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSS,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSZ,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Neutrophil,,HNL,Human,Sputum,Sputum,Normal,Normal cell,Neutrophil
+Dendritic cell,Plasmacytoid,IRF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,MZB1,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,TCF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Polymorphonuclear neutrophil,,ALPL,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,ADGRG3,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,PROK2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,IL1R2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,,CSF3R,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+T cell,,TRAC,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+T cell,,CD3E,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+T cell,,CD2,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+Natural killer cell,,KLRB1,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+Natural killer cell,,GZMA,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+Macrophage,,MSR1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,FABP4,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,APOC1,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,MARCO,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+Macrophage,,C1QB,Human,Sputum,Sputum,Normal,Normal cell,Alveolar macrophage
+B cell,,MS4A1,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,IGHG3,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,EBF1,Human,Sputum,Sputum,Normal,Normal cell,B cell
+B cell,,IGHA2,Human,Sputum,Sputum,Normal,Normal cell,B cell
+Dendritic cell,Conventional,LAMP3,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,HLA-DPB1,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,Conventional,CLEC10A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,,FCER1A,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Dendritic cell,,CD1E,Human,Sputum,Sputum,Normal,Normal cell,Conventional dendritic cell(cDC)
+Epithelial cell,,SCEL,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT80,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT78,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,SPRR3,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Sputum,Sputum,Normal,Normal cell,Epithelial cell
+Monocyte-derived cell,,SDS,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,STARD13,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,FPR3,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,PMP22,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte-derived cell,,RNASE1,Human,Sputum,Sputum,Normal,Normal cell,Monocyte-derived cell
+Monocyte,,CD300E,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,CD93,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,NLRP3,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Mononuclear phagocyte,,LGALS1,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,LYZ,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,HLA-DRB1,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,HLA-DRA,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,FTL,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSL,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSH,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CD74,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSB,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSS,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CTSZ,Human,Sputum,Sputum,Normal,Normal cell,Mononuclear phagocyte
+Dendritic cell,Plasmacytoid,IRF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,JCHAIN,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,MZB1,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,TCF4,Human,Sputum,Sputum,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Polymorphonuclear neutrophil,PMN,ALPL,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,PMN,PROK2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,PMN,IL1R2,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+Polymorphonuclear neutrophil,PMN,CSF3R,Human,Sputum,Sputum,Normal,Normal cell,Polymorphonuclear neutrophil(PMN)
+T cell,,TRAC,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+T cell,,CD3E,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+T cell,,CD2,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+Natural killer cell,,KLRB1,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell
+Natural killer cell,,GZMA,Human,Sputum,Sputum,Normal,Normal cell,T cell & Natural killer cell

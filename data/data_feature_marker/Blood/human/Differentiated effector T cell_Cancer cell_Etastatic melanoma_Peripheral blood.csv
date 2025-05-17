@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,CD95,Human,Blood,Peripheral blood,Etastatic melanoma,Cancer cell,Differentiated effector T cell
+T cell,CD4+,CD4,Human,Blood,Peripheral blood,Etastatic melanoma,Cancer cell,Differentiated effector T cell
+T cell,Differentiated,CD45RO,Human,Blood,Peripheral blood,Etastatic melanoma,Cancer cell,Differentiated effector T cell
+T cell,Effector,FAS,Human,Blood,Peripheral blood,Etastatic melanoma,Cancer cell,Differentiated effector T cell

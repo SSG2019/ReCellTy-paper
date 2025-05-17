@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic Cell,Vaginal Epidermal,HLA-DR,Human,Genitals,Anogenital tract,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC)
+Dendritic Cell,Vaginal Epidermal,Langerin,Human,Genitals,Anogenital tract,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC)
+Dendritic Cell,Vaginal Epidermal,CD1a,Human,Genitals,Anogenital tract,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC)
+Dendritic Cell,Vaginal Epidermal,CD11c,Human,Genitals,Anogenital tract,Normal,Normal cell,Vaginal Epidermal Dendritic Cell (VEDC)

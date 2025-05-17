@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cardiac cell,,MYBPC3,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,Actin,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,TNNT2,Human,Heart,Heart,Normal,Normal cell,Cardiac cell
+Cardiac cell,,NPPA,Human,Heart,Heart,Normal,Normal cell,Cardiac cell

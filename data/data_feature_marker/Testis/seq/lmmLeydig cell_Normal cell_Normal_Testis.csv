@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leydig cell,lmm,CFD,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,DLK1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,lmm,SFRP1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF1,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,NR2F2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,DCN,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell
+Leydig cell,,IGF2,Human,Testis,Testis,Normal,Normal cell,lmmLeydig cell

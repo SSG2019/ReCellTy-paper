@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Spermatogonium,,ITGB1,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,stem cell,c-Kit,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,stem cell,KIT,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,differentiation,SOHLH2,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,NR6A1,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SYCP3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SYCE3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium
+Spermatogonium,,SSX3,Human,Testis,Testis,Normal,Normal cell,Spermatogonium

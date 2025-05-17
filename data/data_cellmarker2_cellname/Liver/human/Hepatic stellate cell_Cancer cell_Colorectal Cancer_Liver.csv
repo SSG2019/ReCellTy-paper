@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,FRZB,FRZB
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,Lrat,
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,GEM,GEM
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,Lum,
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,PDGFRB,PDGFRB
+Human,Liver,Liver,UBERON_0002107,Colorectal Cancer,Cancer cell,Hepatic stellate cell,CL_0000632,Pdgfrb,

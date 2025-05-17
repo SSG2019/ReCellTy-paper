@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,FGFR3,FGFR3
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,ID4,ID4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,UTF1,UTF1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,GFRA1,GFRA1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,SSEA4,
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,ID4,ID4
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,UTF1,UTF1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,GFRA1,GFRA1
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,ITGA6,ITGA6
+Human,Testis,Testis,UBERON_0000473,Normal,Normal cell,Spermatogonial stem cell,CL_0000089,THY1,THY1

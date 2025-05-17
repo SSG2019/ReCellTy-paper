@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Fibroblast,CL_0000057,S100A4,S100A4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Fibroblast,CL_0000057,FSP‐1,
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Fibroblast,CL_0000057,NDUFA4L2,NDUFA4L2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Fibroblast,CL_0000057,RGS5,RGS5

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,TBX3,TBX3
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,ATP1B3,ATP1B3
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,FGFR4,FGFR4
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,CLDN10,CLDN10
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,POU5F1,POU5F1
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,GATA2,GATA2
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,SOX4,SOX4
+Human,Placenta,Placenta,UBERON_0001987,Normal,Normal cell,Trophectoderm cell,CL_0002217,S100A6,S100A6

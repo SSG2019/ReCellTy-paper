@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,Activated,HLA,Human,Brain,Brain,Normal,Normal cell,Activated macrophage
+Macrophage,,CD45,Human,Brain,Brain,Normal,Normal cell,Activated macrophage
+Macrophage,,CD68,Human,Brain,Brain,Normal,Normal cell,Activated macrophage
+Macrophage,,PTPRC,Human,Brain,Brain,Normal,Normal cell,Activated macrophage

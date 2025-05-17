@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD33,CD33
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,HLA-DR,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,FLT-3,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,BDCA4,NRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,BDCA2,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD45RA,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD303,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD304,NRP1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Pre-conventional dendritic cell,CL_0002010,CD116,CSF2RA

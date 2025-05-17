@@ -1,0 +1,23 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Granulocyte,,CD14,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,HLA-DR,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD16,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD203c,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD11c,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD15,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD11b,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD63,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CCR3,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD49d,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD44,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD66b,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD33,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CD123,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,FCGR3B,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,FCGR3A,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,ENPP3,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,FUT4,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,CEACAM8,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte
+Granulocyte,,IL3RA,Human,Blood,Peripheral blood,Normal,Normal cell,Granulocyte

@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MLC2a,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,cTnI,TNNI3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,β-MHC,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MYL7,MYL7
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,α-MHC,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MYH6,MYH6
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MLC2v,
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,TNNI3,TNNI3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,cTnT,TNNT2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MYL2,MYL2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Cardiomyocyte,CL_0002495,MYH7,MYH7

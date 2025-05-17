@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,T-cell Acute Lymphoblastic Leukemia,Cancer cell,T cell,CL_0000084,CD5,CD5
+Human,Undefined,Undefined,,T-cell Acute Lymphoblastic Leukemia,Cancer cell,T cell,CL_0000084,Terminal deoxynucleotidyltransferase,
+Human,Undefined,Undefined,,T-cell Acute Lymphoblastic Leukemia,Cancer cell,T cell,CL_0000084,Terminal deoxynucleotidyltransferase,
+Human,Undefined,Undefined,,T-cell Acute Lymphoblastic Leukemia,Cancer cell,T cell,CL_0000084,CD5,CD5

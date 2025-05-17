@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,suppressor,S100A8,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,FCN1,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,VCAN,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,CD14,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,CD68,Human,Kidney,Kidney,Corticotroph tumor,Cancer cell,Myeloid derived suppressor cell (MDSC)

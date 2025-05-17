@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Uterus,Endometrium,UBERON_0001295,Endometrial Cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1

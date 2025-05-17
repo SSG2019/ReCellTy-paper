@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,FGFBP2,FGFBP2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,GZMH,GZMH
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,GNLY,GNLY
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,CD38,CD38
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,CD127,IL7R
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Memory CD8+ T cell,CL_0000909,CD3,

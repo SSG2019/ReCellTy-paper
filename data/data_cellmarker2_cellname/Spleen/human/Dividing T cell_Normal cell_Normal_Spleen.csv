@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,MK167,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,HMGB2,HMGB2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,CD3D,CD3D
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,CORO1A,CORO1A
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,GAPDH,GAPDH
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,ACTG1,ACTG1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,IL7R,IL7R
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Dividing T cell,,TUBA1B,TUBA1B

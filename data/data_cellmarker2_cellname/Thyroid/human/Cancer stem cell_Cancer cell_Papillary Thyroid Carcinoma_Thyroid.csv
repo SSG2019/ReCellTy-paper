@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Thyroid,Thyroid,UBERON_0002046,Papillary Thyroid Carcinoma,Cancer cell,Cancer stem cell,,CD44,CD44

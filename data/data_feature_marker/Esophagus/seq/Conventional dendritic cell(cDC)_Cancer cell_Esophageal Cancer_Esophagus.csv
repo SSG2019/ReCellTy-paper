@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Conventional dendritic cell,cDC,FCER1A,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)
+Conventional dendritic cell,,HLA-DQA1,Human,Esophagus,Esophagus,Esophageal Cancer,Cancer cell,Conventional dendritic cell(cDC)

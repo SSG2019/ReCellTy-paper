@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone,Iliac crest,UBERON_0014437,Acute Myeloid Leukemia,Cancer cell,Myeloid cell,CL_0000763,MRC1,MRC1
+Human,Bone,Iliac crest,UBERON_0014437,Acute Myeloid Leukemia,Cancer cell,Myeloid cell,CL_0000763,CD206,MRC1
+Human,Bone,Iliac crest,UBERON_0014437,Acute Myeloid Leukemia,Cancer cell,Myeloid cell,CL_0000763,CD163,CD163

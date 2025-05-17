@@ -1,0 +1,788 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Acinar cell,,PRR27,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,HTN1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,LTF,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,SCGB2A1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+T cell,Activated,CD69,Human,Eye,Eye,Normal,Normal cell,Activated T cell
+Neural stem cell,,GJA1,Human,Eye,Retina,Normal,Normal cell,Adult neural stem cell
+Neural stem cell,,ATP1A2,Human,Eye,Retina,Normal,Normal cell,Adult neural stem cell
+Amacrine cell,GABAergic,GAD1,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,GABAergic,GAD2,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,Retinoic acid signaling,CRABPI,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,Retinoic acid signaling,CRABP1,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,TFAP2B,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,CALB1,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,CHAT,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,GAD1,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,C1QL2,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Artery cell,,SEMA3G,Human,Eye,Choroid,Normal,Normal cell,Artery cell
+Artery cell,,HEY1,Human,Eye,Choroid,Normal,Normal cell,Artery cell
+Astrocyte,,GLUL,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,ΑΡΟΕ,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,CLU,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,,SPARCL1,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+B cell,,Cd79a,Human,Eye,Blood,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Eye,Choroid,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,B cell
+Bipolar cell,,PKC-alpha,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,NETO1,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,GRM6,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,PCP2,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,PRKCA,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,Aquaporin-0,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,ISLET-1,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,Go-alpha,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,OTX2,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,VSX2,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,TMEM215,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,TRPM1,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,CAMK2B,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,GRM6,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,VSX1,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,RCVRN,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Cancer stem cell,Cancer,EpCAM,Human,Eye,Eye,Retinoblastoma,Cancer cell,Cancer stem cell
+T cell,CD4+,CD4,Human,Eye,Eye,Normal,Normal cell,CD4+ T cell
+T cell,,CD3G,Human,Eye,Eye,Normal,Normal cell,CD4+ T cell
+T cell,,LAG3,Human,Eye,Eye,Uveal melanoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Eye,Eye,Normal,Normal cell,CD8+ T cell
+T cell,,TRBC2,Human,Eye,Eye,Normal,Normal cell,CD8+ T cell
+Choriocapillaris cell,,CA4,Human,Eye,Choriocapillaris,Normal,Normal cell,Choriocapillaris cell
+Choriocapillaris cell,,PLVAP,Human,Eye,Choroid,Normal,Normal cell,Choriocapillaris cell
+Choriocapillaris cell,,CA4,Human,Eye,Choroid,Normal,Normal cell,Choriocapillaris cell
+Ciliary body cell,,AQP1,Human,Eye,Eye,Normal,Normal cell,Ciliary body cell
+Classical dendritic cell,a,ITGAX,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell a(cDCa)
+Classical dendritic cell,,AXL,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell a(cDCa)
+Classical dendritic cell,b,MRC1,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)
+Classical dendritic cell,,CLEC10A,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)
+Cone cell,,PDE6H,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,GNAT2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,PDE6C,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,GUCA1C,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,GUCA1B,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,GUCA1A,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,ARR3,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,OPN1SW,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,GNGT2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Cone cell
+Cone cell,,ARR3,Human,Eye,Eye,Normal,Normal cell,Cone cell
+Cone cell,,OPN1SW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1MW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,ARR3,Human,Eye,Retinal organoid,Normal,Normal cell,Cone cell
+Cone cell,,PDE6H,Human,Eye,Retinal organoid,Normal,Normal cell,Cone cell
+photoreceptor cell,Cone,PDE6C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,CNBG3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,PDE6H,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GUCA1C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,THRB,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GRK7,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNGT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,RXRG,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,ARR3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+Corneal endothelial cell,Endothelial Function,VEGF,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,Endothelial Function,VEGFR-1,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,Endothelial Function,VEGFA,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,Endothelial Function,type IV collagen,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,Stem Cell Feature,CD133,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,Stem Cell Feature,PROM1,Human,Eye,Corneal endothelium,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,,CD200,Human,Eye,Eye,Normal,Normal cell,Corneal endothelial cell
+Corneal endothelial cell,,GPC4,Human,Eye,Eye,Normal,Normal cell,Corneal endothelial cell
+Corneal epithelial cell,,KRT12,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,KRT14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,TGFBI,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Epithelial cell,Corneal,CK3,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Corneal,KRT3,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,SSEA-4,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,P63,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,CK14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,KRT14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+stem cell,Corneal limbal,LGR5,Human,Eye,Limbal epithelium,Normal,Normal cell,Corneal limbal stem cell
+Ductal cell,,LCN2,Human,Eye,Lacrimal gland,Normal,Normal cell,Ductal cell
+Ductal cell,,WFDC2,Human,Eye,Lacrimal gland,Normal,Normal cell,Ductal cell
+T cell,Effector,PDL-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,PD-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA-4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,PDCD1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFR1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFRSF1A,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+natural killer cell,Effector,NKG7,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,Effector,CD8B,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,,CD2,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+T cell,Effector,NKG7,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+T cell,Effector,CD8B,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+T cell,,CD2,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+Endothelial cell,,CLDN5,Human,Eye,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM2,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLC4A11,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,AQP1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TJP1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH2,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ATP1A1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,COL8A1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT4,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GJA4,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SEMA3G,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ENG,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Eye,Lacrimal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Eye,Lacrimal gland,Normal,Normal cell,Endothelial cell
+Epithelial cell,,KLF6,Human,Eye,Corneal epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXC1,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AQP5,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAX6,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BEST-1,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MITF,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TYR,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BEST1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TYR,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RLBP1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CRX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RAX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,progenitor,P75,Human,Eye,Corneal epithelium,Normal,Normal cell,Epithelial progenitor cell
+Epithelial cell,stem,P75,Human,Eye,Corneal epithelium,Normal,Normal cell,Epithelial stem cell
+Fibroblast,,FBLN1,Human,Eye,Choroid,Normal,Normal cell,Fibroblast
+Fibroblast,,TGF-beta,Human,Eye,Corneal endothelium,Normal,Normal cell,Fibroblast
+Fibroblast,,alpha-smooth muscle actin,Human,Eye,Corneal endothelium,Normal,Normal cell,Fibroblast
+Fibroblast,,MYOC,Human,Eye,Eye,Normal,Normal cell,Fibroblast
+Fibroblast,,MGP,Human,Eye,Eye,Normal,Normal cell,Fibroblast
+cell,Forebrain,FOXG1+,Human,Eye,Retina,Normal,Normal cell,Forebrain cell
+cell,Forebrain,SOX1,Human,Eye,Retina,Normal,Normal cell,Forebrain cell
+T cell,Gamma delta(γδ),TRDC,Human,Eye,Eye,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,,NKG7,Human,Eye,Eye,Normal,Normal cell,Gamma delta(γδ) T cell
+Ganglion cell,,NEFM,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,ALCAM,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,CNTN2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,NRN1,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,EBF3,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,EBF1,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,GAP43,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,POU4F2,Human,Eye,Retina,Retinoblastoma,Cancer cell,Ganglion cell
+Ganglion cell,,SNCG,Human,Eye,Retina,Normal,Normal cell,Ganglion cell
+Glial cell,,SLC1A3,Human,Eye,Retina,Normal,Normal cell,Glial cell
+Glial cell,,RLBP1,Human,Eye,Retina,Normal,Normal cell,Glial cell
+Granulocyte,,CD33,Human,Eye,Eye,Normal,Normal cell,Granulocyte
+Granulocyte,,S100A12,Human,Eye,Eye,Normal,Normal cell,Granulocyte
+Haematopoietic progenitor cell,,CD34,Human,Eye,Eye,Normal,Normal cell,Haematopoietic progenitor cell
+Hematopoietic stem cell,,CD34,Human,Eye,Choroid,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD34,Human,Eye,Corneal endothelium,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD133,Human,Eye,Corneal endothelium,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,c-Kit,Human,Eye,Corneal endothelium,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PROM1,Human,Eye,Corneal endothelium,Normal,Normal cell,Hematopoietic stem cell
+Horizontal cell,,SEP4,Human,Eye,Eye,Normal,Normal cell,Horizontal cell
+Horizontal cell,,ONECUT1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,LHX1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Stem cell,Iris,LHX2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,Iris,RAX,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,puttative,ZIC2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Progenitor cell,Neural,Fabp7,Human,Eye,Retina,Normal,Normal cell,Later-stage progenitor cell
+Progenitor cell,,Rgs16,Human,Eye,Retina,Normal,Normal cell,Later-stage progenitor cell
+Leukocyte,,PTPRC,Human,Eye,Choroid,Normal,Normal cell,Leukocyte
+Leukocyte,,CD45,Human,Eye,Cornea,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Eye,Cornea,Normal,Normal cell,Leukocyte
+epithelial stem cell,Limbal,CD166,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD146,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CXCR4,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD117,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CD144,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,ALCAM,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,MCAM,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,KIT,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+epithelial stem cell,Limbal,CDH5,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal epithelial stem cell
+Limbal mesenchymal cell,Mesenchymal,CD105,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Mesenchymal,Vimentin,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Stem/Progenitor,CD34,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Cell adhesion,N-cadherin,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal stem cell,,SOD2,Human,Eye,Corneal epithelium,Normal,Normal cell,Limbal stem cell
+Limbal stem cell,,CK15,Human,Eye,Corneal epithelium,Normal,Normal cell,Limbal stem cell
+Limbal stem cell,,KRT15,Human,Eye,Corneal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,P63,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,ABCG2,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,CK14,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Stem cell,Limbal,KRT14,Human,Eye,Limbal epithelium,Normal,Normal cell,Limbal stem cell
+Endothelial cell,Lymphatic,LYVE1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,FLT4,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,PROX1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,,PECAM1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,,MMRN1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,PTPRC,Human,Eye,Lacrimal gland,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD2,Human,Eye,Lacrimal gland,Normal,Normal cell,Lymphocyte
+macrophage,M1,HLA-DR,Human,Eye,Cornea,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD282,Human,Eye,Cornea,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD284,Human,Eye,Cornea,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD86,Human,Eye,Cornea,Normal,Normal cell,M1 macrophage
+Macrophage,M2,CD163,Human,Eye,Cornea,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Eye,Cornea,Normal,Normal cell,M2 macrophage
+Macrophage,M2,MRC1,Human,Eye,Cornea,Normal,Normal cell,M2 macrophage
+Macroglial cell,,COL4A3,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macroglial cell,,FOS,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macroglial cell,,FTL,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macrophage,,AIF1,Human,Eye,Choroid,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,ITGAM,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD74,Human,Eye,Cornea,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Eye,Eye,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Mast cell,,KIT,Human,Eye,Choroid,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Mast cell
+Dendritic cell,,CD83,Human,Eye,Eye,Normal,Normal cell,Mature dendritic cell
+Dendritic cell,,LAMP3,Human,Eye,Eye,Normal,Normal cell,Mature dendritic cell
+Melanocyte,,DCT,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP1,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Eye,Eye,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Eye,Eye,Normal,Normal cell,Melanocyte
+Mesenchymal stem cell,,Vimentin,Human,Eye,Corneal endothelium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,Integrin beta-1,Human,Eye,Corneal endothelium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,STRO-1,Human,Eye,Corneal endothelium,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,TGF-beta,Human,Eye,Corneal endothelium,Normal,Normal cell,Mesenchymal stem cell
+Microglial cell,,TGFBR1,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,TREM2,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,CD74,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,FTL,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,C3,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,P2RY12,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,PSAP,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,ACTB,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,C1QB,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,SPP1,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DPA1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DRA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DPB1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Anti-inflammatory,CD163,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Microglia Specific,TMEM119,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Immune Response,C1QA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Activation,AIF1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Monocyte,,LYZ,Human,Eye,Blood,Normal,Normal cell,Monocyte
+Monocyte,,CD74,Human,Eye,Eye,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Eye,Eye,Normal,Normal cell,Monocyte
+Mueller glia cell,,SLC1A3,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Mueller glia cell,,DKK3,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Mueller glia cell,,CRABP1,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Muller cell,,GS,Human,Eye,Retina,Normal,Normal cell,Muller cell
+Muller cell,,APC,Human,Eye,Retina,Normal,Normal cell,Muller cell
+Glia,precursor,CD44,Human,Eye,Retina,Normal,Normal cell,Muller glia precursor cell
+retinal progenitor cell,Multipotent,LIN28A,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,Multipotent,LIN28B,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,Multipotent,BMP7,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,retinal progenitor,TGFβ2,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,retinal progenitor,IGFBP5,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,retinal progenitor,GJA1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+retinal progenitor cell,retinal progenitor,JAG1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Schwann cell,Myelinating,MBP,Human,Eye,Choroid,Normal,Normal cell,Myelinating schwann cell
+Schwann cell,Myelinating,MPZ,Human,Eye,Choroid,Normal,Normal cell,Myelinating schwann cell
+Myeloid cell,,S100A8,Human,Eye,Eye,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCL2,Human,Eye,Eye,Normal,Normal cell,Myeloid cell
+Myoepithelial cell,,MYH11,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,TPM2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,KRT5,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,ACTA2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,MYLK,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Müller glial cell,,RLBP1,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,CRALBP,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,GLUL,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,CLU,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,ΑΡΟΕ,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+B cell,Naive,MS4A1,Human,Eye,Eye,Normal,Normal cell,Naive B cell
+Natural killer cell,,CD2,Human,Eye,Choroid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Eye,Eye,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL7R,Human,Eye,Eye,Normal,Normal cell,Natural killer cell
+Neural cell,progenitor,Nestin,Human,Eye,Eye,Normal,Normal cell,Neural progenitor cell
+Neural retina cell,,RIMS3,Human,Eye,Retina,Normal,Normal cell,Neural retina cell
+retinal progenitor cell,Neurogenic,NGN2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,Neurogenic,ASCL1,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,Neurogenic,DCX,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,Neurogenic,NEUROG2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,retinal progenitor,EFNB2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,retinal progenitor,GPM6A,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,retinal progenitor,ISLR2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+retinal progenitor cell,retinal progenitor,FZD3,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Neuron,,RB1,Human,Eye,Retina,Retinoblastoma,Cancer cell,Neuron
+Neuron,,DCX,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,SEMA5A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NRCAM,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,DCLK1,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,OTX2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,AP2A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NEFL,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,TUBB3,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,POU5F1,Human,Eye,Retina,Normal,Normal cell,Neuron
+Schwann cell,Nonmyelinating,NGFR,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,SCN7A,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,L1CAM,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Schwann cell,,NCAM1,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Pan leukocyte,,CD45,Human,Eye,Cornea,Normal,Normal cell,Pan leukocyte
+Pan leukocyte,,PTPRC,Human,Eye,Cornea,Normal,Normal cell,Pan leukocyte
+Pericyte,,RGS5,Human,Eye,Choroid,Normal,Normal cell,Pericyte
+Photoreceptor cell,,Rhodopsin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,Recoverin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,CRX,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,Peripherin,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,RPE65,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,OTX2,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,RCVRN,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,CRX,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell
+Pigment epithelial cell,,RPE65,Human,Eye,Eye,Normal,Normal cell,Pigment epithelial cell
+Pigment epithelial cell,,class III beta-tubulin,Human,Eye,Retina,Normal,Normal cell,Pigment epithelial cell
+Plasma cell,,IGHG1,Human,Eye,Eye,Normal,Normal cell,Plasma cell
+Dendritic cell,pDC,CLEC4C,Human,Eye,Eye,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,pDC,IL3RA,Human,Eye,Eye,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Platelet,,Tubb1,Human,Eye,Blood,Normal,Normal cell,Platelet
+Progenitor cell,,Integrin beta-1,Human,Eye,Corneal epithelium,Normal,Normal cell,Progenitor cell
+Progenitor cell,,P63,Human,Eye,Corneal epithelium,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX2,Human,Eye,Retina,Normal,Normal cell,Progenitor cell
+Progenitor cell,,VSX2,Human,Eye,Retina,Normal,Normal cell,Progenitor cell
+T cell,Regulatory,IL2RA,Human,Eye,Eye,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Eye,Eye,Normal,Normal cell,Regulatory T(Treg) cell
+Retina cell,,CPODXL,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,SPP1,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,STAC2,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,PCDH9,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina ganglion cell,,POU4F1,Human,Eye,Eye,Normal,Normal cell,Retina ganglion cell
+Retina ganglion cell,,SNCG,Human,Eye,Eye,Normal,Normal cell,Retina ganglion cell
+Astrocyte,,GFAP,Human,Eye,Retina,Normal,Normal cell,Retinal astrocyte
+Retinal cell,,Otx2,Human,Eye,Eye,Normal,Normal cell,Retinal cell
+Retinal ganglion cell,,RBPMS,Human,Eye,Eye,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFL,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,SNCG,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,GAP43,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFM,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,SLC17A6,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,Kcnip2,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal Müller glia cell,,REDD1,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,REDD2,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,DDIT4,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal Müller glia cell,,DDIT4L,Human,Eye,Retina,Normal,Normal cell,Retinal Müller glia cell
+Retinal pigment epithelial cell,,RPE65,Human,Eye,Choroid,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,BEST1,Human,Eye,Choroid,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RPE65,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RBP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CSTV,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CRYAB,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CRABP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TIMP3,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,BEST1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RLBP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CST3,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,ENPP2,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,VEGFA,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RGR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,HNRNPH1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,SERPINF1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TYRP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TYR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,PMEL,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,PLTP,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TTR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal cell,progenitor,c-Kit,Human,Eye,Retina,Normal,Normal cell,Retinal progenitor cell
+Rod cell,,PDE6A,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,RHO,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,SAG,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,GNAT1,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,CNGA1,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,PDE6A,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,RHO,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,PPEF2,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,NR2E3,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,NRL,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,GNGT1,Human,Eye,Retinal organoid,Normal,Normal cell,Rod cell
+Rod cell,,GNAT1,Human,Eye,Retinal organoid,Normal,Normal cell,Rod cell
+Schwann cell,,PLP1,Human,Eye,Choroid,Normal,Normal cell,Schwann cell
+Schwann cell,,CD9,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Schwann cell,,PLP1,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Schwann cell,,LGI4,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Smooth muscle cell,,RGS5,Human,Eye,Choroid,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Eye,Eye,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYL9,Human,Eye,Eye,Normal,Normal cell,Smooth muscle cell
+Stem cell,Maintenance and differentiation,NOTCH1,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT3/4,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD34,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SOX2,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Adhesion and migration,CD44,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SSEA-4,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD90,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Stem cell properties,CD133,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,THY1,Human,Eye,Eye,Normal,Normal cell,Stem cell
+Stem cell,,ABCG2,Human,Eye,Lacrimal gland,Normal,Normal cell,Stem cell
+Stem cell,,ABCG2,Human,Eye,Limbal epithelium,Normal,Normal cell,Stem cell
+T cell,,TRAC,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell
+T cell,,CD3D,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell
+T cell,,CD2,Human,Eye,Choroid,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Eye,Cornea,Normal,Normal cell,T cell
+T cell,,LCK,Human,Eye,Cornea,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Eye,Cornea,Normal,Normal cell,T cell
+T cell,activation,CD25,Human,Eye,Eye,Normal,Normal cell,T cell
+T cell,activation,CD69,Human,Eye,Eye,Normal,Normal cell,T cell
+T cell,activation,IL2RA,Human,Eye,Eye,Normal,Normal cell,T cell
+T cell,,ATOH7,Human,Eye,Retina,Normal,Normal cell,T helper 1(Th1) cell
+T cell,,CD4,Human,Eye,Eye,Normal,Normal cell,T helper cell
+cell,Tip,CXCR4,Human,Eye,Retina,Normal,Normal cell,Tip cell
+cell,Tip,DLL4,Human,Eye,Retina,Normal,Normal cell,Tip cell
+Trabecular meshwork cell,,CHI3L1,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,MYOC,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,MGP,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,aquaporin-1,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Vascular cell,,RGS5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,,TM4SF1,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,,CD34,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,,ADAMTS9,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,,CDH5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular endothelial cell,,KDR,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,VWF,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,EFNB2,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,DLL4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,FLT1,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vascular endothelial cell,,EPHB4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vein cell,,MMRN1,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,DARC,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,ACKR1,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Acinar cell,,PRR27,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,HTN1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,LTF,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+Acinar cell,,SCGB2A1,Human,Eye,Lacrimal gland,Normal,Normal cell,Acinar cell
+T cell,Activated,CD69,Human,Eye,Eye,Normal,Normal cell,Activated T cell
+Neural stem cell,,GJA1,Human,Eye,Retina,Normal,Normal cell,Adult neural stem cell
+Neural stem cell,,ATP1A2,Human,Eye,Retina,Normal,Normal cell,Adult neural stem cell
+Amacrine cell,,GAD1,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,TFAP2B,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,GAD2,Human,Eye,Eye,Normal,Normal cell,Amacrine cell
+Amacrine cell,,CALB1,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,CHAT,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,GAD1,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Amacrine cell,,C1QL2,Human,Eye,Retina,Normal,Normal cell,Amacrine cell
+Artery cell,,SEMA3G,Human,Eye,Choroid,Normal,Normal cell,Artery cell
+Artery cell,,HEY1,Human,Eye,Choroid,Normal,Normal cell,Artery cell
+Astrocyte,Glutamine Synthesis,GLUL,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Lipid Metabolism,APOE,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Structural,GFAP,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Lipid Transport,CLU,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+Astrocyte,Cell Migration,SPARCL1,Human,Eye,Retina,Normal,Normal cell,Astrocyte
+B cell,,Cd79a,Human,Eye,Blood,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Eye,Choroid,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,B cell
+Bipolar cell,,NETO1,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,GRM6,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,PCP2,Human,Eye,Eye,Normal,Normal cell,Bipolar cell
+Bipolar cell,,OTX2,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,VSX2,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,TMEM215,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,TRPM1,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,CAMK2B,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,GRM6,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,VSX1,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+Bipolar cell,,RCVRN,Human,Eye,Retina,Normal,Normal cell,Bipolar cell
+T cell,CD4+,CD4,Human,Eye,Eye,Normal,Normal cell,CD4+ T cell
+T cell,,CD3G,Human,Eye,Eye,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,LAG3,Human,Eye,Eye,Uveal melanoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Eye,Eye,Normal,Normal cell,CD8+ T cell
+T cell,,TRBC2,Human,Eye,Eye,Normal,Normal cell,CD8+ T cell
+Choriocapillaris cell,,CA4,Human,Eye,Choriocapillaris,Normal,Normal cell,Choriocapillaris cell
+Choriocapillaris cell,,PLVAP,Human,Eye,Choroid,Normal,Normal cell,Choriocapillaris cell
+Choriocapillaris cell,,CA4,Human,Eye,Choroid,Normal,Normal cell,Choriocapillaris cell
+Ciliary body cell,,AQP1,Human,Eye,Eye,Normal,Normal cell,Ciliary body cell
+Classical dendritic cell,a,ITGAX,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell a(cDCa)
+Classical dendritic cell,,AXL,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell a(cDCa)
+Classical dendritic cell,b,MRC1,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)
+Classical dendritic cell,b,CLEC10A,Human,Eye,Eye,Normal,Normal cell,Classical dendritic cell b(cDCb)
+Cone cell,,ARR3,Human,Eye,Eye,Normal,Normal cell,Cone cell
+Cone cell,,OPN1SW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1MW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone cell
+Cone cell,,ARR3,Human,Eye,Retinal organoid,Normal,Normal cell,Cone cell
+Cone cell,,PDE6H,Human,Eye,Retinal organoid,Normal,Normal cell,Cone cell
+photoreceptor cell,Cone,PDE6C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNAT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,CNBG3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,PDE6H,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GUCA1C,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GRK7,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,GNGT2,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,RXRG,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,OPN1LW,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,ARR3,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+photoreceptor cell,Cone,THRB,Human,Eye,Retina,Normal,Normal cell,Cone photoreceptor cell
+Corneal epithelial cell,,KRT12,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,KRT14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Corneal epithelial cell,,TGFBI,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial cell
+Ductal cell,,LCN2,Human,Eye,Lacrimal gland,Normal,Normal cell,Ductal cell
+Ductal cell,,WFDC2,Human,Eye,Lacrimal gland,Normal,Normal cell,Ductal cell
+T cell,Effector,PD-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA-4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,PDCD1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CTLA4,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,PDL-1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFR1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,RIPK3,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,RIPK1,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+T cell,Memory,TNFRSF1A,Human,Eye,Eye,Normal,Normal cell,Effector memory T cell
+natural killer cell,Effector,NKG7,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,,CD2,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+natural killer cell,,CD8B,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector natural killer cell
+T cell,Effector,NKG7,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+T cell,Effector,CD8B,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+T cell,,CD2,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Effector T(Teff) cell
+Endothelial cell,,CLDN5,Human,Eye,Artery,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ICAM2,Human,Eye,Choroid,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLC4A11,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,AQP1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TJP1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH2,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ATP1A1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,COL8A1,Human,Eye,Corneal endothelium,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,FLT4,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,GJA4,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SEMA3G,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Eye,Eye,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Eye,Lacrimal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Eye,Lacrimal gland,Normal,Normal cell,Endothelial cell
+Epithelial cell,,FOXC1,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,AQP5,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,PAX6,Human,Eye,Lacrimal gland,Normal,Normal cell,Epithelial cell
+Epithelial cell,,BEST-1,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MITF,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,RPE65,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TYR,Human,Eye,Retina,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal Pigment Epithelium,RPE65,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal Pigment Epithelium,BEST1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Pigmentation,TYR,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal Pigment Epithelium,RLBP1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal,CRX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,Retinal,RAX,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Epithelial cell
+Fibroblast,,FBLN1,Human,Eye,Choroid,Normal,Normal cell,Fibroblast
+Fibroblast,,MYOC,Human,Eye,Eye,Normal,Normal cell,Fibroblast
+Fibroblast,,MGP,Human,Eye,Eye,Normal,Normal cell,Fibroblast
+Forebrain cell,,FOXG1+,Human,Eye,Retina,Normal,Normal cell,Forebrain cell
+Forebrain cell,,SOX1,Human,Eye,Retina,Normal,Normal cell,Forebrain cell
+T cell,Gamma delta(γδ),TRDC,Human,Eye,Eye,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),NKG7,Human,Eye,Eye,Normal,Normal cell,Gamma delta(γδ) T cell
+Ganglion cell,,SNCG,Human,Eye,Retina,Normal,Normal cell,Ganglion cell
+Glial cell,,SLC1A3,Human,Eye,Retina,Normal,Normal cell,Glial cell
+Glial cell,,RLBP1,Human,Eye,Retina,Normal,Normal cell,Glial cell
+Granulocyte,,CD33,Human,Eye,Eye,Normal,Normal cell,Granulocyte
+Granulocyte,,S100A12,Human,Eye,Eye,Normal,Normal cell,Granulocyte
+Haematopoietic progenitor cell,,CD34,Human,Eye,Eye,Normal,Normal cell,Haematopoietic progenitor cell
+Hematopoietic stem cell,,CD34,Human,Eye,Choroid,Normal,Normal cell,Hematopoietic stem cell
+Horizontal cell,,SEP4,Human,Eye,Eye,Normal,Normal cell,Horizontal cell
+Horizontal cell,,ONECUT1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Horizontal cell,,LHX1,Human,Eye,Retina,Normal,Normal cell,Horizontal cell
+Stem cell,Iris puttative,LHX2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,Iris puttative,RAX,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+Stem cell,,ZIC2,Human,Eye,Eye,Normal,Normal cell,Iris puttative stem cell
+progenitor cell,Later-stage,Rgs16,Human,Eye,Retina,Normal,Normal cell,Later-stage progenitor cell
+progenitor cell,,Fabp7,Human,Eye,Retina,Normal,Normal cell,Later-stage progenitor cell
+Leukocyte,,PTPRC,Human,Eye,Choroid,Normal,Normal cell,Leukocyte
+Endothelial cell,Lymphatic,LYVE1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,FLT4,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,PROX1,Human,Eye,Eye,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,PTPRC,Human,Eye,Lacrimal gland,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD2,Human,Eye,Lacrimal gland,Normal,Normal cell,Lymphocyte
+Macroglial cell,,COL4A3,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macroglial cell,,FOS,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macroglial cell,,FTL,Human,Eye,Retina,Normal,Normal cell,Macroglial cell
+Macrophage,,AIF1,Human,Eye,Choroid,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Macrophage
+Mast cell,,KIT,Human,Eye,Choroid,Normal,Normal cell,Mast cell
+Mast cell,,KIT,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Eye,Retinal pigment epithelium,Normal,Normal cell,Mast cell
+Dendritic cell,,CD83,Human,Eye,Eye,Normal,Normal cell,Mature dendritic cell
+Dendritic cell,,LAMP3,Human,Eye,Eye,Normal,Normal cell,Mature dendritic cell
+Melanocyte,,DCT,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP1,Human,Eye,Choroid,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Eye,Eye,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Eye,Eye,Normal,Normal cell,Melanocyte
+Microglial cell,,TGFBR1,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,TREM2,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,CD74,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,FTL,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,C3,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,P2RY12,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,PSAP,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,ACTB,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,C1QB,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,,SPP1,Human,Eye,Retina,Melanoma,Cancer cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DPA1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DRA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DPB1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Anti-inflammatory,CD163,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Microglial Identity,TMEM119,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Synaptic Pruning,C1QA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Microglial Activation,AIF1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Monocyte,,LYZ,Human,Eye,Blood,Normal,Normal cell,Monocyte
+Monocyte,,CD74,Human,Eye,Eye,Normal,Normal cell,Monocyte
+Monocyte,,CD14,Human,Eye,Eye,Normal,Normal cell,Monocyte
+Mueller glia cell,,SLC1A3,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Mueller glia cell,,DKK3,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Mueller glia cell,,CRABP1,Human,Eye,Eye,Normal,Normal cell,Mueller glia cell
+Retinal Progenitor Cell,Multipotent,LIN28A,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Multipotent,LIN28B,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Multipotent,BMP7,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,TGFβ2,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,IGFBP5,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,GJA1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Retinal Progenitor Cell,Retinal Progenitor,JAG1,Human,Eye,Retina,Normal,Normal cell,Multipotent retinal progenitor cell
+Schwann cell,Myelinating,MBP,Human,Eye,Choroid,Normal,Normal cell,Myelinating schwann cell
+Schwann cell,Myelinating,MPZ,Human,Eye,Choroid,Normal,Normal cell,Myelinating schwann cell
+Myeloid cell,,S100A8,Human,Eye,Eye,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CCL2,Human,Eye,Eye,Normal,Normal cell,Myeloid cell
+Myoepithelial cell,,MYH11,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,TPM2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,KRT5,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,ACTA2,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Myoepithelial cell,,MYLK,Human,Eye,Lacrimal gland,Normal,Normal cell,Myoepithelial cell
+Müller glial cell,,RLBP1,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,CRALBP,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,GLUL,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,CLU,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+Müller glial cell,,ΑΡΟΕ,Human,Eye,Retina,Normal,Normal cell,Müller glial cell
+B cell,Naive,MS4A1,Human,Eye,Eye,Normal,Normal cell,Naive B cell
+Natural killer cell,,CD2,Human,Eye,Choroid,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Eye,Eye,Normal,Normal cell,Natural killer cell
+Natural killer cell,,IL7R,Human,Eye,Eye,Normal,Normal cell,Natural killer cell
+Progenitor cell,Neurogenic,NGN2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,ASCL1,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,DCX,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,GPM6A,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,RTN4,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,GPM6B,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,FZD3,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Neurogenic,NEUROG2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Progenitor cell,Retinal,EFNB2,Human,Eye,Retina,Normal,Normal cell,Neurogenic retinal progenitor cell
+Neuron,,DCX,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,SEMA5A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NRCAM,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,DCLK1,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,OTX2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,AP2A,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,NEFL,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,ONECUT2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,MAP2,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,TUBB3,Human,Eye,Retina,Normal,Normal cell,Neuron
+Neuron,,POU5F1,Human,Eye,Retina,Normal,Normal cell,Neuron
+Nonmyelinating schwann cell,,SCN7A,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Nonmyelinating schwann cell,,NGFR,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Nonmyelinating schwann cell,,L1CAM,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Nonmyelinating schwann cell,,NCAM1,Human,Eye,Choroid,Normal,Normal cell,Nonmyelinating schwann cell
+Pericyte,,RGS5,Human,Eye,Choroid,Normal,Normal cell,Pericyte
+Photoreceptor cell,,OTX2,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,RCVRN,Human,Eye,Retina,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,RCVRN,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell
+Photoreceptor cell,,CRX,Human,Eye,Retinal organoid,Normal,Normal cell,Photoreceptor cell
+Plasma cell,,IGHG1,Human,Eye,Eye,Normal,Normal cell,Plasma cell
+Plasmacytoid dendritic cell,pDC,CLEC4C,Human,Eye,Eye,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,IL3RA,Human,Eye,Eye,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Platelet,,Tubb1,Human,Eye,Blood,Normal,Normal cell,Platelet
+Progenitor cell,,SOX2,Human,Eye,Retina,Normal,Normal cell,Progenitor cell
+Progenitor cell,,VSX2,Human,Eye,Retina,Normal,Normal cell,Progenitor cell
+T cell,Regulatory,IL2RA,Human,Eye,Eye,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Eye,Eye,Normal,Normal cell,Regulatory T(Treg) cell
+Retina cell,,CPODXL,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,SPP1,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,STAC2,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina cell,,PCDH9,Human,Eye,Retina,Normal,Normal cell,Retina cell
+Retina ganglion cell,,POU4F1,Human,Eye,Eye,Normal,Normal cell,Retina ganglion cell
+Retina ganglion cell,,SNCG,Human,Eye,Eye,Normal,Normal cell,Retina ganglion cell
+Retinal astrocyte,,GFAP,Human,Eye,Retina,Normal,Normal cell,Retinal astrocyte
+Retinal cell,,Otx2,Human,Eye,Eye,Normal,Normal cell,Retinal cell
+Retinal ganglion cell,,RBPMS,Human,Eye,Eye,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFL,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,SNCG,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,GAP43,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,NEFM,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal ganglion cell,,SLC17A6,Human,Eye,Retina,Normal,Normal cell,Retinal ganglion cell
+Retinal pigment epithelial cell,,RPE65,Human,Eye,Choroid,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,BEST1,Human,Eye,Choroid,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RPE65,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RBP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CSTV,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CRYAB,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CRABP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TIMP3,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,BEST1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RLBP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,CST3,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,ENPP2,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,VEGFA,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,RGR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,HNRNPH1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,SERPINF1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TYRP1,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TYR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,PMEL,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,PLTP,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Retinal pigment epithelial cell,,TTR,Human,Eye,Eye,Normal,Normal cell,Retinal pigment epithelial cell
+Rod cell,,PDE6A,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,RHO,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,SAG,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,GNAT1,Human,Eye,Eye,Normal,Normal cell,Rod cell
+Rod cell,,CNGA1,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,PDE6A,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,RHO,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,PPEF2,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,NR2E3,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,NRL,Human,Eye,Retina,Normal,Normal cell,Rod cell
+Rod cell,,GNGT1,Human,Eye,Retinal organoid,Normal,Normal cell,Rod cell
+Rod cell,,GNAT1,Human,Eye,Retinal organoid,Normal,Normal cell,Rod cell
+Schwann cell,,PLP1,Human,Eye,Choroid,Normal,Normal cell,Schwann cell
+Schwann cell,,CD9,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Schwann cell,,PLP1,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Schwann cell,,LGI4,Human,Eye,Eye,Normal,Normal cell,Schwann cell
+Smooth muscle cell,,RGS5,Human,Eye,Choroid,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Eye,Eye,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYL9,Human,Eye,Eye,Normal,Normal cell,Smooth muscle cell
+T cell,,TRAC,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell
+T cell,,CD3D,Human,Eye,Retina,Retinoblastoma,Cancer cell,T cell
+T cell,,CD2,Human,Eye,Choroid,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Eye,Cornea,Normal,Normal cell,T cell
+T cell,,LCK,Human,Eye,Cornea,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Eye,Cornea,Normal,Normal cell,T cell
+Trabecular meshwork cell,,CHI3L1,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,MYOC,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,MGP,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Trabecular meshwork cell,,aquaporin-1,Human,Eye,Eye,Normal,Normal cell,Trabecular meshwork cell
+Vascular cell,Pericyte,RGS5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,TM4SF1,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,CD34,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Endothelial,CDH5,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Vascular cell,Extracellular matrix,ADAMTS9,Human,Eye,Retina,Normal,Normal cell,Vascular cell
+Endothelial cell,Vascular,KDR,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,VWF,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,EFNB2,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,DLL4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,FLT1,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Endothelial cell,Vascular,EPHB4,Human,Eye,Eye,Normal,Normal cell,Vascular endothelial cell
+Vein cell,,MMRN1,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,DARC,Human,Eye,Choroid,Normal,Normal cell,Vein cell
+Vein cell,,ACKR1,Human,Eye,Choroid,Normal,Normal cell,Vein cell

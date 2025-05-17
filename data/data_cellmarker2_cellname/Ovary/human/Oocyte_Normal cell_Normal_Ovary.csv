@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Oocyte,CL_0000023,NALP9,NLRP9
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Oocyte,CL_0000023,DDX4,DDX4
+Human,Ovary,Ovary,UBERON_0000992,Normal,Normal cell,Oocyte,CL_0000023,NLRP5,NLRP5

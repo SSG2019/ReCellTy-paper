@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Clara cell,CL_0000158,Uteroglobin,
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Clara cell,CL_0000158,CC10,SCGB1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Clara cell,CL_0000158,CC10,SCGB1A1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Clara cell,CL_0000158,CC10,SCGB1A1

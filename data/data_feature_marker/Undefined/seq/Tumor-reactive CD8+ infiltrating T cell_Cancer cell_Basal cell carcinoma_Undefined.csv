@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tumor-reactive,ENTPD1,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-reactive CD8+ infiltrating T cell
+T cell,Infiltrating,ENTPD1,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-reactive CD8+ infiltrating T cell

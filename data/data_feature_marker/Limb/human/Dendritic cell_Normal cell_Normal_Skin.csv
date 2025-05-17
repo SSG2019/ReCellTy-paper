@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Antigen presentation,CD206,Human,Limb,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,MRC1,Human,Limb,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Mature dendritic cell,LAMP3,Human,Limb,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,UBE2C,Human,Limb,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,TOP2A,Human,Limb,Skin,Normal,Normal cell,Dendritic cell

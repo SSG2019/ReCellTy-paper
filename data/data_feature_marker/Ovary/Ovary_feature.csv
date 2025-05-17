@@ -1,0 +1,717 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myofibroblast,Activated,MFGE8,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Activated myofibroblast
+Myofibroblast,,MCAM,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Activated myofibroblast
+Antigen-presenting cell,Antigen-presenting,CD207,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,CD1c,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Antigen-presenting cell
+B cell,,MS4A1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,B cell
+B cell,,BANK1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD20,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79B,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGHG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD19,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Ovary,Ovary,Normal,Normal cell,B cell
+Cancer cell,,KL8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,PAX8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,MUC16,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,KL7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,KL-6,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,WT1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,KL6,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,CA125,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,SOX18,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,Ecadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,CK7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,HE4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,PIK3CA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,MUC1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,KRT18,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,CD24,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,PAX8,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,FAS,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,CA125,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,BRCA2,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Cancer cell,,MUC16,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Stem cell,Cancer,LGR5,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD44,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD133,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ABCG2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,MYD88,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PROM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,KIT,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,LGR5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,CD166,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,PEG10,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Cancer,ALCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,BMI1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,NANOG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,SOX2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD24,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,CD117,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nestin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,ALDH1A3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,Nanog,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+Cancer stem cell,Stem,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+stem cell,Cancer,ALDH1,Human,Ovary,Ovary,Normal,Normal cell,Cancer stem cell
+stem cell,Cancer,ALDH1A1,Human,Ovary,Ovary,Normal,Normal cell,Cancer stem cell
+Fibroblast,Cancer-associated,FAP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Natriuretic peptide B,Human,Ovary,Ovary,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD4+,PD-L1 CD274,Human,Ovary,Myometrium,Cervical cancer,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD4+ T cell
+T cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD4+ T cell
+T cell,,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,PD-L1 CD274,Human,Ovary,Myometrium,Cervical cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8a,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,TNF,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL-13,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,BCL-6,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL-4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,GATA3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,Cd69,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,Klrg1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL-21,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL13,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,IL22,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,CD8+ T cell
+T cell,Central memory,CD27,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Central memory T cell
+epithelial Cell,,FOXJ1,Human,Ovary,Oviduct,Normal,Normal cell,Ciliated epithelial Cell
+epithelial Cell,,KRT9,Human,Ovary,Oviduct,Normal,Normal cell,Ciliated epithelial Cell
+T cell,Cytotoxic,GZMA,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3D,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Cytotoxic T cell
+Dendritic cell,CD1C+,CD1C,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+Dendritic cell,Langerhans,CD207,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+Dendritic cell,CLEC9A+,CLEC9A,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+T cell,CD4+,markerA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD4+ T cell
+T cell,CD4+,markerC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD4+ T cell
+T cell,Effector,markerB,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD4+ T cell
+T cell,Effector,markerD,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD4+ T cell
+T cell,Effector,markerE,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD4+ T cell
+T cell,CD8+,CD8a,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD8+ T cell
+T cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Effector CD8+ T cell
+T cell,Effector,CD45RA,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Effector T(Teff) cell
+Endothelial cell,,CD34,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,IFI27,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,MGP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,IGFBP7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SPARCL1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Ovary,Corpus luteum,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD24,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN4,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KRT18,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,DSP,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EpCAM,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,KRT19,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,OCLN,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Progenitor,CD34,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Tight Junction,CLDN5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NNMT,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TXNIP,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL14,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RGS5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SOCS3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,ANGPT2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CTGF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TM4SF1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,EGFL7,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TFF3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Blood Coagulation,VWF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,Cell Adhesion,CCN2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Ovary,Oviduct,Normal,Normal cell,Endothelial cell
+Epithelial cell,Structural,KRT5,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT8,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT18,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Structural,KRT10,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Identity,EPCAM,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Immune function,PIGR,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,Stress response,GDF15,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,FOXJ,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CAPS,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,OCLN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CD24,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,DSP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E‐cadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,β‐catenin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK18,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,E-cadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CK8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PD-1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,TIGIT,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SOX17,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,PDCD1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT18,Human,Ovary,Ovarian cortex,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Ovary,Ovarian cortex,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MMP7,Human,Ovary,Ovarian cortex,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Ovary,Ovarian cortex,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOLR1,Human,Ovary,Ovary,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Ovary,Ovary,Normal,Normal cell,Epithelial cell
+T cell,CD8+,CD8a,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PD1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,Exhausted,PDCD1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Exhausted CD8+ T cell
+T cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Exhausted CD8+ T cell
+Fibroblast,,ACTA2,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,CAV1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRB,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL6A1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL6A2,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,DDR2,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,FAP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDPN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,BGN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,POSTN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Oviduct,Normal,Normal cell,Fibroblast
+Fibroblast,,FBLN1,Human,Ovary,Vagina,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Ovary,Vagina,Normal,Normal cell,Fibroblast
+Germ cell,,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Germ cell
+Germ cell,,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Germ cell
+Germ cell,Germ cell marker,VASA,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DAZL,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,c-Kit,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,SALL4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,BMP15,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,GDF9,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,ZP4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Maternal effect gene,MATER,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Maternal effect gene,NLRP5,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,OCT3/4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Meiosis,SCP3,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Zygote arrest,ZAR1,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Stem cell,Germinal,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Germinal stem cell
+Stem cell,,IFITM3,Human,Ovary,Ovary,Normal,Normal cell,Germinal stem cell
+Germline stem cell,,DDX4,Human,Ovary,Ovarian cortex,Normal,Normal cell,Germline stem cell
+Germline stem cell,,IFITM3,Human,Ovary,Ovarian cortex,Normal,Normal cell,Germline stem cell
+Granulocyte,,AMH,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,GSTA1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,SERPINE2,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,HSD17B1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulosa cell,,FOXL2,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Granulosa cell
+Granulosa cell,,CHST8,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,follicle development,FSHR,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,MGARP,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,GLDC,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,GPX3,Human,Ovary,Ovarian follicle,Normal,Normal cell,Granulosa cell
+Granulosa cell,,FOXL2,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,SPRR2,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,INHBA,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+Granulosa cell,,AMH,Human,Ovary,Ovary,Normal,Normal cell,Granulosa cell
+B cell,Regulatory,CD1d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,Regulatory,CD38,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,GrB+,CD147,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,GrB+,BSG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,IgM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+B cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,GrB+ Regulatory B cell
+Immune cell,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD20,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD56,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD79A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,FCER1G,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,PTPRC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,MS4A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,NCAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CD56,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD19,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD20,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD14,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD3,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CXCR4,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD53,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,NCAM1,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,MS4A1,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+granulosa cell,Luteinizing,Follicle-stimulating hormone receptor,Human,Ovary,Ovarian follicle,Normal,Normal cell,Luteinizing granulosa cell
+Lymphatic endothelial cell,,Podoplanin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,VEGFR-3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,PROX1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,LYVE-1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,FLT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphatic endothelial cell,,LYVE1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphatic endothelial cell
+Lymphocyte,,CD45 PTPRC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,PD-1,Human,Ovary,Uterus,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,PD-L1,Human,Ovary,Uterus,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,PDCD1,Human,Ovary,Uterus,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte
+Lymphocyte,,CD274,Human,Ovary,Uterus,Ovarian Teratocarcinoma,Cancer cell,Lymphocyte
+Macrophage,M1,IL1B,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,M1 macrophage
+Macrophage,M1,CD80,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,M1 macrophage
+Macrophage,,CD14,Human,Ovary,Ovarian follicle,Follicular Lymphoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Ovary,Ovarian follicle,Follicular Lymphoma,Cancer cell,Macrophage
+Macrophage,,SIRPα,Human,Ovary,Ovarian follicle,Follicular Lymphoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,Anti-inflammatory,CD163,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,Inflammatory,AIF1,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,IBA1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,M2,CD163,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD11b,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,M2,VSIG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD40,Human,Ovary,Ovary,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Ovary,Ovary,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Ovary,Vagina,Normal,Normal cell,Macrophage
+Mast cell,,CD117,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell
+Mast cell,,KIT,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Mast cell
+Mast cell,,CMA1,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Ovary,Oviduct,Normal,Normal cell,Mast cell
+T Cell,Memory,CD45RO,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell
+T Cell,CD8+,CD8a,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell
+T Cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Memory CD8+ T Cell
+Mesenchymal cell,,VIM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,MMP2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TNC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ACTA2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,WNT5A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ZEB1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ZEB2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,ITGA5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,TWIST1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,SNAI2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,S100A4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,N‐cadherin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL3A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,MMP2,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,S100A4,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,SNAI2,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CD44,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,VIM,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ACTA2,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,TNC,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ZEB2,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CDH2,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,FN1,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,TWIST1,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ITGA5,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,ZEB1,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,WNT5A,Human,Ovary,Ovary,Normal,Normal cell,Mesenchymal cell
+Meyloid cell,,LYZ,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,CD68,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,MARCO,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,AIF1,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Monocyte,,CD14,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte
+Monocyte,,HLA-DR,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte
+Monocyte,,CD11c,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Ovary,Oviduct,Normal,Normal cell,Monocyte
+Myeloid cell,Complement system,C1QB,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Myeloid cell
+Myeloid cell,Lysozyme activity,LYZ,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Myeloid cell
+Myeloid cell,,CD33,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Myeloid cell
+T cell,Naive,CD27,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CD45RA,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Naive T(Th0) cell
+T cell,Naive,IL7R,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Naive T(Th0) cell
+T cell,,CD3D,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,CD56,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CD57,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,B3GAT1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,CXCR1,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CR2,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CCR4,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC3,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,Natural killer cell
+Neutrophil,,CD15,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Neutrophil
+Neutrophil,,FUT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Neutrophil
+Oocyte,,NALP9,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,NLRP5,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Oocyte,,NLRP9,Human,Ovary,Ovary,Normal,Normal cell,Oocyte
+Ovarian cell,,CD113,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,ALDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,MMP7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,KLK6,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,CD133,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,NECTIN3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,ALDH1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,PROM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Germ cell,Stem,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Ovarian germ stem cell
+Germ cell,Stem,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Ovarian germ stem cell
+Ovarian somatic cell,,LGR5,Human,Ovary,Ovary,Normal,Normal cell,Ovarian somatic cell
+Ovarian stromal cell,,DLK1,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,FOXL2,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,STAR,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+fibroblast,Pancancer-associated,CD49e,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Pancancer-associated fibroblast
+fibroblast,,ITGA5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Pancancer-associated fibroblast
+Pericyte,,PDGFRB,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Pericyte
+Plasma cell,,MZB1,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Plasma cell
+Plasma cell,,CD38,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Plasma cell
+Dendritic cell,Plasmacytoid,TCF4,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,LILRA4,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Pluripotent stem cell,Pluripotency,OCT4,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,SOX2,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Stem cell characteristics,SSEA-1,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,SSEA-4,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,NANOG,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Pluripotency,POU5F1,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+Pluripotent stem cell,Stem cell characteristics,FUT4,Human,Ovary,Ovarian cortex,Normal,Normal cell,Pluripotent stem cell
+embryonic-like cell,Pluripotent,CD133,Human,Ovary,Ovary,Normal,Normal cell,Pluripotent very small embryonic-like cell
+embryonic-like cell,Pluripotent,SSEA-4,Human,Ovary,Ovary,Normal,Normal cell,Pluripotent very small embryonic-like cell
+embryonic-like cell,Pluripotent,OCT4A,Human,Ovary,Ovary,Normal,Normal cell,Pluripotent very small embryonic-like cell
+embryonic-like cell,Pluripotent,PROM1,Human,Ovary,Ovary,Normal,Normal cell,Pluripotent very small embryonic-like cell
+Primordial germ cell,,VASA,Human,Ovary,Ovary,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,STELLA,Human,Ovary,Ovary,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Primordial germ cell
+Primordial germ cell,,DPPA3,Human,Ovary,Ovary,Normal,Normal cell,Primordial germ cell
+T cell,Regulatory,IL2RA,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Ovary,Ovary,High-grade serous ovarian cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3d,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Regulatory T(Treg) cell
+Epithelial Cell,Secretory,OVGP1,Human,Ovary,Oviduct,Normal,Normal cell,Secretory epithelial Cell
+Epithelial Cell,,KRT8,Human,Ovary,Oviduct,Normal,Normal cell,Secretory epithelial Cell
+Smooth muscle cell,,ACTA2,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,GJA4,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,RGS5,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CRYAB,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PLN,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ADIRF,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PLN,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MT1A,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Stem cell,,CD44,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD117,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD24,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD33,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,KIT,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD133,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,ALDH,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,PROM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Ovary,Ovarian cortex,Normal,Normal cell,Stem cell
+Stem cell,,NANOG,Human,Ovary,Ovarian cortex,Normal,Normal cell,Stem cell
+Stem cell,,OCT4,Human,Ovary,Ovarian cortex,Normal,Normal cell,Stem cell
+Stem cell,,POU5F1,Human,Ovary,Ovarian cortex,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,SALL4,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,NANOG,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Pluripotency,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD133,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR5,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD34,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD44,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD105,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,CD73,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,LGR6,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,Procr,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Stemness,PROM1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,CD45,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Hematopoietic,PTPRC,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD140b,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD105,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,CD73,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,Mesenchymal,NT5E,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,CD28,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,LEF1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,CCR7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,IL7R,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,T Cell,TCF7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stromal cell,Vascular,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Vascular,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Muscle-related,SMA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,Vimentin,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,COL1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,Extracellular matrix,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,FGFR1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,SMN1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Stromal cell
+Stromal cell,,LUM,Human,Ovary,Ovary,Normal,Normal cell,Stromal cell
+T cell,,CD3E,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD2,Human,Ovary,Ovarian cortex,Ovarian Cancer,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD8+,CD8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,FOXP3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,IL2RA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,CTLA4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,GZMA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,NKG7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,IL32,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD28,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD127,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,CD3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,IL7R,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,TRAC,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Ovary,Ovary,Normal,Normal cell,T cell
+Theca cell,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Theca cell
+Theca cell,,LUM,Human,Ovary,Ovary,Normal,Normal cell,Theca cell
+Theca interna cell,,CYP17,Human,Ovary,Ovarian follicle,Normal,Normal cell,Theca interna cell
+Theca interna cell,,OGN,Human,Ovary,Ovarian follicle,Normal,Normal cell,Theca interna cell
+Theca interna cell,,RAMP2,Human,Ovary,Ovarian follicle,Normal,Normal cell,Theca interna cell
+Theca interna cell,,FBLN5,Human,Ovary,Ovarian follicle,Normal,Normal cell,Theca interna cell
+Theca interna cell,,CYP17A1,Human,Ovary,Ovarian follicle,Normal,Normal cell,Theca interna cell
+Thecal cell,,Aminopeptidase-N,Human,Ovary,Ovary,Normal,Normal cell,Thecal cell
+T cell,Memory-like,TCF1,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,Tissue Resident,CD103,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,Tissue Resident,CD69,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,Tissue Resident,ITGAE,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,Tumor-reactive,PD-1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,PDCD1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,CD137,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,TNFRSF9,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Tumor-reactive T cell
+Macrophage,Tumor-associated,CD14,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,CD11c,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM)
+Macrophage,Tumor-associated,HLA-DR,Human,Ovary,Ovary,Granulosa cell tumor,Cancer cell,Tumor‐associated macrophage (TAM)
+Vascular endothelial cell,,VEGFC,Human,Ovary,Ovary,Ovarian clear cell carcinoma,Cancer cell,Vascular endothelial cell
+B cell,,CD19,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79B,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,MS4A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGHG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGLC3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,B cell
+B cell,,IGKC,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD19,Human,Ovary,Ovary,Normal,Normal cell,B cell
+B cell,,CD79B,Human,Ovary,Ovary,Normal,Normal cell,B cell
+Cancer cell,,EpCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,PIK3CA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,PAX8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer cell
+cell,Cancer,KRT18,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+cell,Cancer,EPCAM,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+cell,Cancer,PAX8,Human,Ovary,Ovary,Serous Ovarian Cancer,Cancer cell,Cancer cell
+Cancer cell,,BRCA2,Human,Ovary,Ovary,Normal,Normal cell,Cancer cell
+Stem cell,Cancer,PEG10,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Cancer stem cell
+T cell,CD4+,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,TNF,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,Cd69,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,Klrg1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,CD8+ T cell
+T cell,CD8+,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,CD8+ T cell
+Ciliated epithelial Cell,,FOXJ1,Human,Ovary,Oviduct,Normal,Normal cell,Ciliated epithelial Cell
+Ciliated epithelial Cell,,KRT9,Human,Ovary,Oviduct,Normal,Normal cell,Ciliated epithelial Cell
+Dendritic cell,Conventional,CD1C,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+Dendritic cell,Langerhans,CD207,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+Dendritic cell,DNGR-1+,CLEC9A,Human,Ovary,Ovary,Normal,Normal cell,Dendritic cell
+Endothelial cell,,CD31,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,SPARCL1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,IGFBP7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Endothelial cell
+Endothelial cell,,CD34,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,NNMT,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TXNIP,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL14,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,RGS5,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SOCS3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,ANGPT2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CTGF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TM4SF1,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCL21,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TFF3,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CCN2,Human,Ovary,Ovary,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Ovary,Oviduct,Normal,Normal cell,Endothelial cell
+Epithelial cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SOX17,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CLDN4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,WFDC2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Epithelial cell
+Fibroblast,,FAP,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,PDPN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Fibroblast
+Fibroblast,,BGN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,POSTN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Ovary,Oviduct,Normal,Normal cell,Fibroblast
+Fibroblast,,FBLN1,Human,Ovary,Vagina,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Ovary,Vagina,Normal,Normal cell,Fibroblast
+Granulocyte,,AMH,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,GSTA1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,SERPINE2,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Granulocyte,,HSD17B1,Human,Ovary,Ovary,Normal,Normal cell,Granulocyte
+Immune cell,,CD79A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,FCER1G,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,PTPRC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Immune cell
+Immune cell,,CXCR4,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Immune cell,,CD53,Human,Ovary,Ovary,Normal,Normal cell,Immune cell
+Lymphocyte,,CD45,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphocyte
+Lymphocyte,,PTPRC,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Lymphocyte
+Macrophage,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,VSIG4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD74,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Ovary,Vagina,Normal,Normal cell,Macrophage
+Mast cell,,CMA1,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,MS4A2,Human,Ovary,Ovary,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Ovary,Oviduct,Normal,Normal cell,Mast cell
+Mesenchymal cell,,COL1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL3A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Mesenchymal cell
+Meyloid cell,,LYZ,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,CD68,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,MARCO,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Meyloid cell,,AIF1,Human,Ovary,Ovary,Normal,Normal cell,Meyloid cell
+Monocyte,,CD14,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Ovary,Oviduct,Normal,Normal cell,Monocyte
+Natural killer cell,,CD56 NCAM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC3,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Ovary,Ovary,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD3E,Human,Ovary,Oviduct,Normal,Normal cell,Natural killer cell
+Ovarian cell,,CD113,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,EPCAM,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,ALDH1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,MMP7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,CD44,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,KLK6,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,CD133,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,NECTIN3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,ALDH1A1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian cell,,PROM1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Ovarian cell
+Ovarian stromal cell,,DLK1,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,FOXL2,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Ovarian stromal cell,,STAR,Human,Ovary,Ovary,Normal,Normal cell,Ovarian stromal cell
+Epithelial Cell,Secretory,OVGP1,Human,Ovary,Oviduct,Normal,Normal cell,Secretory epithelial Cell
+Epithelial Cell,,KRT8,Human,Ovary,Oviduct,Normal,Normal cell,Secretory epithelial Cell
+Smooth muscle cell,,ACTA2,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,GJA4,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYH11,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,RGS5,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,CRYAB,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PLN,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ADIRF,Human,Ovary,Ovary,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,PLN,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MT1A,Human,Ovary,Vagina,Normal,Normal cell,Smooth muscle cell
+Stem cell,Stemness,CD44,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Survival and Proliferation,CD117,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD24,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,CD33,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,Survival and Proliferation,KIT,Human,Ovary,Omentum,Ovarian cancer,Cancer cell,Stem cell
+Stem cell,,NANOG,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,OCT4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,POU5F1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stem cell
+Stem cell,,CD28,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,,LEF1,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,,CCR7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,,IL7R,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stem cell,,TCF7,Human,Ovary,Ovary,Normal,Normal cell,Stem cell
+Stromal cell,,COL1A2,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,DCN,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,FGFR1,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,Stromal cell
+Stromal cell,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Stromal cell
+Stromal cell,,LUM,Human,Ovary,Ovary,Normal,Normal cell,Stromal cell
+T cell,CD8+,CD8,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,CD4+,CD4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,FOXP3,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,IL2RA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Regulatory,CTLA4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,GZMA,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL5,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,NKG7,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,CCL4,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,Effector,IL32,Human,Ovary,Ovary,Ovarian Cancer,Cancer cell,T cell
+T cell,,TRAC,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Ovary,Ovary,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Ovary,Ovary,Normal,Normal cell,T cell
+Theca cell,,DCN,Human,Ovary,Ovary,Normal,Normal cell,Theca cell
+Theca cell,,LUM,Human,Ovary,Ovary,Normal,Normal cell,Theca cell
+T cell,memory-like,TCF1,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,CD103,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,CD69,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell
+T cell,tissue resident,ITGAE,Human,Ovary,Ovary,Normal,Normal cell,Tissue resident memory-like T cell

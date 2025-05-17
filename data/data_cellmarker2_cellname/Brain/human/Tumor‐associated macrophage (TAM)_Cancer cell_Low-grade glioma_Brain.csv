@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM),,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM),,CD11b,
+Human,Brain,Brain,UBERON_0000955,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM),,IBA1,AIF1
+Human,Brain,Brain,UBERON_0000955,Low-grade glioma,Cancer cell,Tumor‐associated macrophage (TAM),,CX3CR1,CX3CR1

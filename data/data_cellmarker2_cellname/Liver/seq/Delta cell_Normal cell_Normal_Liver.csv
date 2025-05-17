@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,RGS2,RGS2
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,SLC38A1,SLC38A1
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,FFAR4,FFAR4
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,LEPR,LEPR
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,SEC11C,SEC11C
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Delta cell,CL_0000173,CD9,CD9

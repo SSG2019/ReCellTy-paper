@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,CD21,Human,Bone marrow,Bone marrow,Normal,Normal cell,Memory B cell
+B cell,Memory,CD27,Human,Bone marrow,Bone marrow,Normal,Normal cell,Memory B cell
+B cell,Memory,CR2,Human,Bone marrow,Bone marrow,Normal,Normal cell,Memory B cell

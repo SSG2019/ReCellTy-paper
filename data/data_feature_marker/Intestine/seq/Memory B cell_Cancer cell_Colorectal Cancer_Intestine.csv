@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,CD44,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Memory B cell
+B cell,,CD69,Human,Intestine,Intestine,Colorectal Cancer,Cancer cell,Memory B cell

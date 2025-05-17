@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatoblast,,Albumin,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,PDGFR-alpha,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,TER119,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,CD71,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,CD45,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,DLK1,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,TFRC,Human,Liver,Liver,Normal,Normal cell,Hepatoblast
+Hepatoblast,,PTPRC,Human,Liver,Liver,Normal,Normal cell,Hepatoblast

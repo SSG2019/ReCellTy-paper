@@ -1,0 +1,24 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,NPY,NPY
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,INS,INS
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,LIFR,LIFR
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,CD49a,ITGA1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,INS,INS
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,MAFA,MAFA
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,NKX6.1,NKX6-1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,ADCYAP1,ADCYAP1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,INS,INS
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,PIR,PIR
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,MNX1,MNX1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,IAPP,IAPP
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,MAFA,MAFA
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,PDX1,PDX1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,TFCP2L1,TFCP2L1
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,TGFBR3,TGFBR3
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,BMP5,BMP5
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,NPTX2,NPTX2
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,SIX3,SIX3
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,SYT13,SYT13
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,CDKN1C,CDKN1C
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,SMAD9,SMAD9
+Human,Pancreas,Pancreatic islet,UBERON_0000006,Normal,Normal cell,Beta cell(β cell),CL_0000169,DLK1,DLK1

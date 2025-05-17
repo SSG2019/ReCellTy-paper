@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,ABCG2,ABCG2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,MUC15,MUC15
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,GATA3,GATA3
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,CYP19A1,CYP19A1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,GATA2,GATA2
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Pan-trophectoderm cell,,OVOL1,OVOL1

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD4+,CD4,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Recently activated,KLRG1,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Recently activated,S1PR1,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector memory,CX3CR1,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector,GZMH,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector,GNLY,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector,PRF1,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector,NKG7,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,TBX21,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,CD3E,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,CTSW,Human,Blood,Blood,Normal,Normal cell,CD4+ recently activated effector memory or effector T cell (CTL)

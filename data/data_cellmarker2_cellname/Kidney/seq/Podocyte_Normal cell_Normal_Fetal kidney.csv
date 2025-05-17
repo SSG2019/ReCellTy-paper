@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte,CL_0000653,THSD7A,THSD7A
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte,CL_0000653,TPPP3,TPPP3
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte,CL_0000653,MPP5,PALS1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte,CL_0000653,PTPRO,PTPRO

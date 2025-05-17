@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD18,ITGB2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD25,IL2RA
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD57,B3GAT1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD95,FAS
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD45RA,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,Perforin,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,CD30,TNFRSF8
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,CD4-CD28+ T cell,CL_0000084,BCL2,BCL2

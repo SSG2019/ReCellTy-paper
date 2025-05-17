@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CD68,Human,Blood,Serum,Normal,Normal cell,Macrophage
+Macrophage,,CD11b,Human,Blood,Serum,Normal,Normal cell,Macrophage
+Macrophage,,F4/80,Human,Blood,Serum,Normal,Normal cell,Macrophage
+Macrophage,,CD11c,Human,Blood,Serum,Normal,Normal cell,Macrophage
+Macrophage,,CSF1r,Human,Blood,Serum,Normal,Normal cell,Macrophage

@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MITF,MITF
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,DCT,DCT
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,ME,MMP12
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,TYR,TYR
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,PHLDA1,PHLDA1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,APOD,APOD
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,ATP1B1,ATP1B1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,DCT,DCT
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,DCT,DCT
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,TYRP1,TYRP1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,TYRP2,DCT
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,cKit,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,TRP-1,
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,HMB45,PMEL
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Melanocyte,CL_0000148,MITF,MITF

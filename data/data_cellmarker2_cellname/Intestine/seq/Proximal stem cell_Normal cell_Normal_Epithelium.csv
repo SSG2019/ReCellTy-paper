@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Proximal stem cell,,PLA2G2A,PLA2G2A
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Proximal stem cell,,CASP1,CASP1
+Human,Intestine,Epithelium,UBERON_0000483,Normal,Normal cell,Proximal stem cell,,GRIA4,GRIA4

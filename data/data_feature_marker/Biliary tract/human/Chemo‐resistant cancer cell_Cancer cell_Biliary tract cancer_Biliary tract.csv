@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cancer cell,Chemo-resistant,CD133,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Chemo‐resistant cancer cell
+cancer cell,,PROM1,Human,Biliary tract,Biliary tract,Biliary tract cancer,Cancer cell,Chemo‐resistant cancer cell

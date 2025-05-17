@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Conventional T (Tconv),IL7R,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD127,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD4,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell
+T cell,Conventional T (Tconv),DUSP1,Human,Breast,Breast,Breast Cancer,Cancer cell,Conventional T(Tconv) cell

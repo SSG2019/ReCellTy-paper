@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Lymphocyte,CL_0000542,PTPRC,PTPRC
+Human,Eye,Lacrimal gland,UBERON_0001817,Normal,Normal cell,Lymphocyte,CL_0000542,CD2,CD2

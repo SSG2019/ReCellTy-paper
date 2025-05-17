@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Antigen Presentation,HLA‐DPA1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DRA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA‐DPB1,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Anti-inflammatory,CD163,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Microglial Identity,TMEM119,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Synaptic Pruning,C1QA,Human,Eye,Retina,Normal,Normal cell,Microglial cell
+Microglial cell,Microglial Activation,AIF1,Human,Eye,Retina,Normal,Normal cell,Microglial cell

@@ -1,0 +1,12 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesendodermal cell,Mesodermal differentiation,BRACHYURY,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Mesodermal differentiation,Brachyury,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Endodermal differentiation,MIXL1,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Endodermal differentiation,Mixl1,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Endodermal differentiation,SOX17,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Endodermal differentiation,FOXA2,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Mesodermal differentiation,EOMES,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Mesodermal differentiation,Eomes,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Mesodermal differentiation,Pdgfra,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,Mesodermal differentiation,Gata6,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell
+Mesendodermal cell,,Gbx2,Human,Embryo,Embryo,Normal,Normal cell,Mesendodermal cell

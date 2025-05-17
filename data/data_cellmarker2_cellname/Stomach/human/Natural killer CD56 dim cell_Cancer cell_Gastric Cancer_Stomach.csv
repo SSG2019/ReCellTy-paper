@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,FLJ20699,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR2DS5,KIR2DS5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR2DS2,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR2DS1,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,EDG8,S1PR5
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR3DS1,
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,IL21R,IL21R
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR3DL1,KIR3DL1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR3DL3,KIR3DL3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,GTF3C1,GTF3C1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,TMEPAI,PMEPA1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,GZMB,GZMB
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Natural killer CD56 dim cell,,KIR2DL3,KIR2DL3

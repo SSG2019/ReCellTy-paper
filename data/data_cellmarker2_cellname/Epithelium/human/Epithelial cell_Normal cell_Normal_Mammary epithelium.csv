@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Epithelium,Mammary epithelium,UBERON_0003244,Normal,Normal cell,Epithelial cell,CL_0000066,ESA,FLOT2
+Human,Epithelium,Mammary epithelium,UBERON_0003244,Normal,Normal cell,Epithelial cell,CL_0000066,MUC,
+Human,Epithelium,Mammary epithelium,UBERON_0003244,Normal,Normal cell,Epithelial cell,CL_0000066,Cytokeratin-8,
+Human,Epithelium,Mammary epithelium,UBERON_0003244,Normal,Normal cell,Epithelial cell,CL_0000066,CD227,MUC1
+Human,Epithelium,Mammary epithelium,UBERON_0003244,Normal,Normal cell,Epithelial cell,CL_0000066,K19,KRT19

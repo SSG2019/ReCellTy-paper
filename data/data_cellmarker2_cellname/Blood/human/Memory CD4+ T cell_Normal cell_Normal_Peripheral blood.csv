@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,IL7R,IL7R
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CCR7,CCR7
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD27,CD27
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,GPR183,GPR183
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,S100A4,S100A4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD161,KLRB1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD45RO,
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CCR6,CCR6
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD26,DPP4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD3D,CD3D
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD4,CD4
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,GZMK,GZMK
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,AQP3,AQP3
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD3E,CD3E
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Memory CD4+ T cell,CL_0000897,CD69,CD69

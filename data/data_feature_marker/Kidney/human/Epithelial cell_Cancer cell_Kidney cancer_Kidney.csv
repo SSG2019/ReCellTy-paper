@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,EPCAM,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Epithelial cell
+Epithelial cell,,SDC1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Epithelial cell
+Epithelial cell,,OCLN,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Epithelial cell
+Epithelial cell,,KRT8,Human,Kidney,Kidney,Kidney cancer,Cancer cell,Epithelial cell

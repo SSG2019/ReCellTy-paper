@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,LAMP3,LAMP3
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD40,CD40
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,PD-L1,CD274
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD86,CD86
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CCR7,CCR7
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD123,IL3RA
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,BDCA-4,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,BDCA-2,CLEC4C
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD1c,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,SIRPα,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD11c,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,I-A/E,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Dendritic cell,CL_0000451,CD45,PTPRC

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,,MOBP,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,SOX10,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,MOG,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,GPR37,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,OLIG1,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,VCAN,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,PDGFRA,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte
+Oligodendrocyte,,OLIG2,Human,Brain,Cortex,Normal,Normal cell,Oligodendrocyte

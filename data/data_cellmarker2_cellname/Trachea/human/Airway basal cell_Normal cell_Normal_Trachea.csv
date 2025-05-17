@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Trachea,Trachea,UBERON_0003126,Normal,Normal cell,Airway basal cell,,NRG1,NRG1

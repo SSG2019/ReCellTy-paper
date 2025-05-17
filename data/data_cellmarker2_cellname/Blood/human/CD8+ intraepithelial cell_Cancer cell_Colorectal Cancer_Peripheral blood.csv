@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell,,KLRC2,KLRC2
+Human,Blood,Peripheral blood,UBERON_0005408,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell,,CD160,CD160
+Human,Blood,Peripheral blood,UBERON_0005408,Colorectal Cancer,Cancer cell,CD8+ intraepithelial cell,,KLRC3,KLRC3

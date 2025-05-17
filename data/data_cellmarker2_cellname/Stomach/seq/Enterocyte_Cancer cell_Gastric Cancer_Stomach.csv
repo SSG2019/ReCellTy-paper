@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enterocyte,CL_0000584,CA1,CA1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enterocyte,CL_0000584,FABP1,FABP1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enterocyte,CL_0000584,VIL1,VIL1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enterocyte,CL_0000584,FABP1,FABP1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,Enterocyte,CL_0000584,APOA1,APOA1

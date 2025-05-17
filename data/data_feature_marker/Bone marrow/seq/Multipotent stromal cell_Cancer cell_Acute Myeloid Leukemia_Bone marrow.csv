@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,Multipotent,CD90,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,Multipotent,CD73,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,Multipotent,CD105,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,Multipotent,CD146,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,,CD51,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,,THY1,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,,ITGAV,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,,NT5E,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell
+Stromal cell,,MCAM,Human,Bone marrow,Bone marrow,Acute Myeloid Leukemia,Cancer cell,Multipotent stromal cell

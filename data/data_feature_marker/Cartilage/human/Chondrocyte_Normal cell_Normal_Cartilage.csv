@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,,COL2A1,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte
+Chondrocyte,,SOX9,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte
+Chondrocyte,,AGC1,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte
+Chondrocyte,,Aggrecan,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte
+Chondrocyte,,COMP,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte
+Chondrocyte,,ACAN,Human,Cartilage,Cartilage,Normal,Normal cell,Chondrocyte

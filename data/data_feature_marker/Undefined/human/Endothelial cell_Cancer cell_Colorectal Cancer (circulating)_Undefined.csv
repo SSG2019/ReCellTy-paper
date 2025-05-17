@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,,CD34,Human,Undefined,Undefined,Colorectal Cancer (circulating),Cancer cell,Endothelial cell
+Endothelial cell,,CD133,Human,Undefined,Undefined,Colorectal Cancer (circulating),Cancer cell,Endothelial cell
+Endothelial cell,,CD146,Human,Undefined,Undefined,Colorectal Cancer (circulating),Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Undefined,Undefined,Colorectal Cancer (circulating),Cancer cell,Endothelial cell

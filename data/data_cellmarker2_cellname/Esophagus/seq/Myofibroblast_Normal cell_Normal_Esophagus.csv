@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,PLN,PLN
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,SERPINE1,SERPINE1
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,CTGF,CCN2
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,COL1A1,COL1A1
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,TAGLN,TAGLN
+Human,Esophagus,Esophagus,UBERON_0001043,Normal,Normal cell,Myofibroblast,CL_0000186,ACTA2,ACTA2

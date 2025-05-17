@@ -1,0 +1,22 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pericyte,,CD166,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,STRO-1,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD73,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD44,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD105,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD13,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD29,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,NG2,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,alpha-SMA,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD90,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD140,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CD10,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,ALCAM,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,NT5E,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,ANPEP,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,ITGB1,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,CSPG4,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,THY1,Human,Undefined,Undefined,Normal,Normal cell,Pericyte
+Pericyte,,MME,Human,Undefined,Undefined,Normal,Normal cell,Pericyte

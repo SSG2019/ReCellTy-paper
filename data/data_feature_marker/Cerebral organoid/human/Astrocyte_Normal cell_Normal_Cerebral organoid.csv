@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Astrocyte,,AGT,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GFAP,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,GLUL,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte
+Astrocyte,,HES1,Human,Cerebral organoid,Cerebral organoid,Normal,Normal cell,Astrocyte

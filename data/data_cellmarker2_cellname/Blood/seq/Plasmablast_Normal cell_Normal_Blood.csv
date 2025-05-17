@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,MZB1,MZB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD38,CD38
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,XBP1,XBP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,IGHG,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,IGHA,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,TNFRSF17,TNFRSF17
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD19,CD19
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD38,CD38
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD269,TNFRSF17
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD19,CD19
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD38,CD38
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Plasmablast,CL_0000980,CD27,CD27

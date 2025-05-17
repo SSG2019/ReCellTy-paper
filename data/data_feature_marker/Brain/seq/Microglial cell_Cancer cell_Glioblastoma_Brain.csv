@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,Activation,AIF1,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Response,P2RY12,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Specificity,TMEM119,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Communication,CX3CR1,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Survival,CSF1R,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Marker,CD11B,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Antigen Presentation,HLA-DRA,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Anti-inflammatory,CD163,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Inflammation,IL1B,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell
+Microglial cell,Metabolism,APOE,Human,Brain,Brain,Glioblastoma,Cancer cell,Microglial cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell,,ZFP36L2,ZFP36L2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell,,FTH1,FTH1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell,,GPR183,GPR183
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Naive double-positive T cell,,CCR7,CCR7

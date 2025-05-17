@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basophil,,CCR3,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil
+Basophil,,CLC,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil
+Basophil,,PTGDR2,Human,Nose,Nasal polyp,Normal,Normal cell,Basophil

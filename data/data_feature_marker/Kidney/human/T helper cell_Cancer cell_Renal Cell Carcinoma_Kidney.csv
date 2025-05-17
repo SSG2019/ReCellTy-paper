@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T helper cell,,CD52,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,TRAC,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,TRBC2,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,IL32,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,CD40LG,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,IL7R,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,CD3D,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell
+T helper cell,,CCR6,Human,Kidney,Kidney,Renal Cell Carcinoma,Cancer cell,T helper cell

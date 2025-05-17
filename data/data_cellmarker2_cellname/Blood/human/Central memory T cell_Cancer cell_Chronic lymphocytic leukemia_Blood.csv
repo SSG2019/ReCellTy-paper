@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Central memory T cell,CL_0000813,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Central memory T cell,CL_0000813,CD27,CD27
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Central memory T cell,CL_0000813,CCR7,CCR7
+Human,Blood,Blood,UBERON_0000178,Chronic lymphocytic leukemia,Cancer cell,Central memory T cell,CL_0000813,CD45RA,

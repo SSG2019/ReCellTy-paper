@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,neural differentiation,SOX11,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,glial cell differentiation,NFIA,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,ion transport,ATP1A2,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,astrocyte function,GFAP,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,glycolysis,ALDOC,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,cell survival and stress response,CLU,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,neural stem cells,Nestin,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,pluripotency and self-renewal,SOX2,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,cell cycle regulation,CCND2,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,neural stem cells,NES,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,neuronal migration,DCX,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell
+Stem cell,oligodendrocyte differentiation,OLIG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Stem cell

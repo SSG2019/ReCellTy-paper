@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Transient-amplifying(TA) cell,,CCL2,CCL2
+Human,Intestine,Ileum,UBERON_0002116,Normal,Normal cell,Transient-amplifying(TA) cell,,OLFM4,OLFM4

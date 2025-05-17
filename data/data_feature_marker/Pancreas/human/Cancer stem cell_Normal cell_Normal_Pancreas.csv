@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,stem,LGR5,Human,Pancreas,Pancreas,Normal,Normal cell,Cancer stem cell
+Cancer cell,stem,NANOG,Human,Pancreas,Pancreas,Normal,Normal cell,Cancer stem cell

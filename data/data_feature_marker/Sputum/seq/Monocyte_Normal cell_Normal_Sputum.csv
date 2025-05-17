@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD300E,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,VCAN,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,CD93,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Sputum,Sputum,Normal,Normal cell,Monocyte
+Monocyte,,NLRP3,Human,Sputum,Sputum,Normal,Normal cell,Monocyte

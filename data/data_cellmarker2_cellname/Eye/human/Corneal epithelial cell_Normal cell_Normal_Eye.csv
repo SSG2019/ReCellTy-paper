@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial cell,CL_0000575,KRT12,KRT12
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial cell,CL_0000575,KRT14,KRT14
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Corneal epithelial cell,CL_0000575,TGFBI,TGFBI

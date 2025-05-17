@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+myeloid cell,,CD13,Human,Bone marrow,Bone marrow,Normal,Normal cell,Early myeloid cell
+myeloid cell,,CD123,Human,Bone marrow,Bone marrow,Normal,Normal cell,Early myeloid cell
+myeloid cell,,ANPEP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Early myeloid cell
+myeloid cell,,IL3RA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Early myeloid cell

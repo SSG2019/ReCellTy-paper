@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,CD34+ thymocyte,,CD7,CD7
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,CD34+ thymocyte,,CD123,IL3RA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,CD34+ thymocyte,,CD5,CD5
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,CD34+ thymocyte,,CD34,CD34
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,CD34+ thymocyte,,CD44,CD44

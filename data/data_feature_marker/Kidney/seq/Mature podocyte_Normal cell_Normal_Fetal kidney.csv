@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Podocyte,Mature,PTPRO,Human,Kidney,Fetal kidney,Normal,Normal cell,Mature podocyte
+Podocyte,,CLIC5,Human,Kidney,Fetal kidney,Normal,Normal cell,Mature podocyte
+Podocyte,,NPHS2,Human,Kidney,Fetal kidney,Normal,Normal cell,Mature podocyte
+Podocyte,,NPHS1,Human,Kidney,Fetal kidney,Normal,Normal cell,Mature podocyte

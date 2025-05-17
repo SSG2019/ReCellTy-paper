@@ -1,0 +1,2 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+immune cell,CD45+,PTPRC,Human,Lung,Lung,Lung Cancer,Cancer cell,CD45+ immune cell

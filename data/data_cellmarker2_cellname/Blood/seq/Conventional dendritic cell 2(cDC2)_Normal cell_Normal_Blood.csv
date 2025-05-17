@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,PPA1,PPA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,FCER1A,FCER1A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,HLA-DQA1,HLA-DQA1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CD1C,CD1C
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,HLA-DQB1,HLA-DQB1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Conventional dendritic cell 2(cDC2),,CDIC,

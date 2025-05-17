@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Myenteric plexus,UBERON_0002439,Normal,Normal cell,Enteric neuron,,PENK,PENK
+Human,Intestine,Myenteric plexus,UBERON_0002439,Normal,Normal cell,Enteric neuron,,ELAVL4,ELAVL4
+Human,Intestine,Myenteric plexus,UBERON_0002439,Normal,Normal cell,Enteric neuron,,NF,NFASC

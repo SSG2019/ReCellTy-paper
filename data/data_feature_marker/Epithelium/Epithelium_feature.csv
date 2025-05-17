@@ -1,0 +1,223 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,,CD151,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT15,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,p63,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,cytokeratin 5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LGALS1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,ITGA6,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,S100A2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,PDPN,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,NGFR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,ITGB4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT14,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TP63,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,NPPC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LAMB3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,DST,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,BCAM,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LAMA3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,DAPL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,RPE65,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,Cytokeratin-5,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,CD151,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TAZ,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TAFAZZIN,Human,Epithelium,Epithelium,Normal,Normal cell,Basal cell
+Brush cell,Tuft cell,DCLK1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,POU2F3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,GNAT3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,TRPM5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Ciliated cell,Cilia,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,FAM183A,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,TUBB4B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,TPPP3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,DNAH5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,DNAH12,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,PIFO,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,CCDC153,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,Cilia,LZTFL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Club cell,Clara cell,SCGB1A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Clara cell,SCGB3A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Clara cell,BPIFB1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Clara cell,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,SLPI,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,MSMB,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,TFF3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,WFDC2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,KRT15,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,CBR2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,CYPD2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,,LYPD2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Deuterosomal cell,Deuterosomal,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Deuterosomal cell,Deuterosomal,DEUP1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Epithelial cell,,CD24,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD13,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD324,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD126,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD130,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD103,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD141,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD106,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD1d,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,iNOS,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ANPEP,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,IL6R,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,IL6ST,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ITGAE,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,THBD,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,VCAM1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Epithelium,Epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ESA,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Cytokeratin-8,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD227,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,K19,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FLOT2,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,MUC1,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Epithelium,Mammary epithelium,Normal,Normal cell,Epithelial cell
+Goblet cell,,MSMB,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Mucosal protection and repair,TFF3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,WFDC2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,SCGB3A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Mucus production,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,SLPI,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,BPIFB1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Mucus production,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Differentiation and function,SPDEF,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,,GP2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Hillock cell,,KRT13,Human,Epithelium,Airway epithelium,Normal,Normal cell,Hillock cell
+Hillock cell,,KRT4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Hillock cell
+Ionocyte,ion transport,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,differentiation,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,ion transport,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Keratinocyte,,CD34,Human,Epithelium,Epithelium,Normal,Normal cell,Keratinocyte
+Lonocyte,,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,RARRES2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Mucous cell,,CEACM6,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous cell
+Mucous cell,,Tff2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous cell
+Mucous cell,,Muc5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous cell
+cell,ciliated,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell
+cell,Mucous,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell
+Neuroendocrine cell,Neuroendocrine,ASCL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,Neuroendocrine,CHG1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Neuroendocrine cell
+Pericyte,,ACTA2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pericyte
+Pericyte,,MYL9,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pericyte
+Neuroendocrine cell,Pulmonary,INSM1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Neuroendocrine cell,Pulmonary,ASCL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Neuroendocrine cell,Pulmonary,CGRP,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Neuroendocrine cell,Pulmonary,CHGA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Neuroendocrine cell,Pulmonary,CALCA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Secretory cell,,KRT4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,PIGR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,BPIFB1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,WFDC2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SERPINB3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,MECOM,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SCGB1A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SLC16A9,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SERPINB4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,ALDH1A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SLC6A14,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,B4GALT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,ADH7,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SLPI,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Smooth muscle cell,,ACTA2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYL9,Human,Epithelium,Airway epithelium,Normal,Normal cell,Smooth muscle cell
+Suprabasal cell,Differentiation,NOTCH3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,Maintenance,TP63 low,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,Structural,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,Structural,KRT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Basal cell,,KRT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT15,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LGALS1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,ITGA6,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,S100A2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,PDPN,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,NGFR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,ITGB4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,KRT14,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,TP63,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,NPPC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LAMB3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,DST,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,BCAM,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,LAMA3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Basal cell,,DAPL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Basal cell
+Brush cell,Tuft cell,DCLK1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,POU2F3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,GNAT3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,TRPM5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Ciliated cell,cilia,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,FAM183A,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,LRRIQ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,TUBB4B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,TPPP3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,DNAH5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,DNAH12,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,SNTN,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,PIFO,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,CCDC153,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Ciliated cell,cilia,LZTFL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ciliated cell
+Club cell,Secretory,SCGB1A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Secretory,SCGB3A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Secretory,BPIFB1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Secretory,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Secretory,WFDC2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Epithelial,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Club cell,Epithelial,KRT15,Human,Epithelium,Airway epithelium,Normal,Normal cell,Club cell (Clara cell)
+Deuterosomal cell,,FOXN4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Deuterosomal cell,,CCDC67,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Deuterosomal cell,,CDC20B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Deuterosomal cell,deuterosomal,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Deuterosomal cell,deuterosomal,DEUP1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Deuterosomal cell
+Goblet cell,Mucosal protection and repair,TFF3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Mucus production,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Mucus production,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Goblet cell,Regulation of differentiation,SPDEF,Human,Epithelium,Airway epithelium,Normal,Normal cell,Goblet cell
+Hillock cell,,KRT13,Human,Epithelium,Airway epithelium,Normal,Normal cell,Hillock cell
+Hillock cell,,KRT4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Hillock cell
+Ionocyte,,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Ionocyte,,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Ionocyte
+Lonocyte,,CFTR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,ASCL3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,RARRES2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Lonocyte,,FOXI1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Lonocyte
+Mucous cell,,CEACM6,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous cell
+Ciliated cell,Mucous,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell
+Ciliated cell,,FOXJ1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Mucous-ciliated cell
+Neuroendocrine cell,Neuroendocrine,ASCL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Neuroendocrine cell
+Neuroendocrine cell,Neuroendocrine,CHG1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Neuroendocrine cell
+Pericyte,,ACTA2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pericyte
+Pericyte,,MYL9,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pericyte
+Pulmonary neuroendocrine cell,neuroendocrine,INSM1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,ASCL1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CGRP,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CHGA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,neuroendocrine,CALCA,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Pulmonary neuroendocrine cell,,HOXB5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Pulmonary neuroendocrine cell
+Secretory cell,,KRT4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,PIGR,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,MUC5B,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,BPIFB1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,MUC5AC,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,WFDC2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SERPINB3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SCGB1A1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SERPINB4,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,ADH7,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Secretory cell,,SLPI,Human,Epithelium,Airway epithelium,Normal,Normal cell,Secretory cell
+Smooth muscle cell,,ACTA2,Human,Epithelium,Airway epithelium,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,MYL9,Human,Epithelium,Airway epithelium,Normal,Normal cell,Smooth muscle cell
+Suprabasal cell,,NOTCH3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,KRT19,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,KRT5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell
+Suprabasal cell,,TP63 low,Human,Epithelium,Airway epithelium,Normal,Normal cell,Suprabasal cell

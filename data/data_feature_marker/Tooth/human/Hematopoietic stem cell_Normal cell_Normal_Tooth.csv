@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic stem cell,,CD45,Human,Tooth,Tooth,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,CD117,Human,Tooth,Tooth,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,PTPRC,Human,Tooth,Tooth,Normal,Normal cell,Hematopoietic stem cell
+Hematopoietic stem cell,,KIT,Human,Tooth,Tooth,Normal,Normal cell,Hematopoietic stem cell

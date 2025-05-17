@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,GZMA,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,PRF1,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,CD8+,CD8A,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,CD8+,CD8B,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,,CD3D,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,KLRG1,Human,Blood,Peripheral blood,Normal,Normal cell,Cytotoxic T cell

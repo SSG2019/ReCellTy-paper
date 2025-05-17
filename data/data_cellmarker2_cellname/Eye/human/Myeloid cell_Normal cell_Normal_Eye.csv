@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Myeloid cell,CL_0000763,S100A8,S100A8
+Human,Eye,Eye,UBERON_0000970,Normal,Normal cell,Myeloid cell,CL_0000763,CCL2,CCL2

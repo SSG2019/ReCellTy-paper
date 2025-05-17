@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Conventional,WDFY4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,IRF8,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,CLEC9A,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)

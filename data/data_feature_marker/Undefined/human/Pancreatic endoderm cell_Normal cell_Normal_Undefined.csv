@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Pancreatic endoderm cell,Endoderm,FOXA2,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell
+Pancreatic endoderm cell,Endoderm,SOX17,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell
+Pancreatic endoderm cell,Pancreatic,PDX1,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell
+Pancreatic endoderm cell,Pancreatic,PAX6,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell
+Pancreatic endoderm cell,Pancreatic,NKX6.1,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell
+Pancreatic endoderm cell,Pancreatic,NeuroD1,Human,Undefined,Undefined,Normal,Normal cell,Pancreatic endoderm cell

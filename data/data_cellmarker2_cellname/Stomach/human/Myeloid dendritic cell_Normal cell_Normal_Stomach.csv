@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD4,CD4
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD80,CD80
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD86,CD86
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD40,CD40
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD83,CD83
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD209,CD209
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD207,CD207
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD197,CCR7
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD205,LY75
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD304,NRP1
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD273,PDCD1LG2
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD11b,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD11c,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1a,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1b,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD1c,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,CD49d,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,F4/80,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,HLA-DR,
+Human,Stomach,Stomach,UBERON_0000945,Normal,Normal cell,Myeloid dendritic cell,CL_0000782,MHC Class II,

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Mesenchymal cell,,N-cadherin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Fibronectin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,Vimentin,Human,Pancreas,Pancreas,Breast Cancer,Cancer cell,Mesenchymal cell

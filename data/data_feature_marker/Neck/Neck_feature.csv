@@ -1,0 +1,23 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,MS4A1,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,B cell
+Cancer cell,,KRT5,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Cancer cell
+T cell,Cytotoxic,GZMB,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GNLY,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+Endothelial cell,,AQP1,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Epithelial cell,,CLU,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Fibroblast,,COL3A1,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Head And Neck Squamous Cell,,SOX2,Human,Neck,Neck,Head And Neck Squamous Cell Carcinoma,Cancer cell,Head And Neck Squamous Cell
+Macrophage,M2,CD163,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,M2 macrophage
+Macrophage,,APOC1,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Macrophage
+T cell,Naive,IL7R,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CXCR4,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+Plasma cell,,IGHG3,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHG4,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Plasma cell
+T cell,Regulatory,FOXP3,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,progenitor,MKI67,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,T cell progenitor
+T cell,,HMGB2,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,T cell progenitor
+T cell,,CD3D,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,T helper(Th),CXCL13,Human,Neck,Vocal cord,Laryngeal Squamous Cell Carcinoma,Cancer cell,T helper(Th) cell

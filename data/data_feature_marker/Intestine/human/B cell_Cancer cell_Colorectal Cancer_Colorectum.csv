@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,,DERL3,Human,Intestine,Colorectum,Colorectal cancer,Cancer cell,B cell
+B cell,,MZB1,Human,Intestine,Colorectum,Colorectal cancer,Cancer cell,B cell
+B cell,,JCHAIN,Human,Intestine,Colorectum,Colorectal cancer,Cancer cell,B cell

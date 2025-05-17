@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,TIMP3,TIMP3
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,TM4SF1,TM4SF1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,NR2F2,NR2F2
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,PCDH17,PCDH17
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,PVLAP,
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,VWF,VWF
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,IFI27,IFI27
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,ITGA1,ITGA1
+Human,Spleen,Spleen,UBERON_0002106,Normal,Normal cell,Endothelial cell,CL_0000115,PROX1,PROX1

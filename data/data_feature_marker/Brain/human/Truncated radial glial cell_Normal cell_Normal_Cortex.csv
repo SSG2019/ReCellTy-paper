@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+glial cell,Truncated radial,DDIT3,Human,Brain,Cortex,Normal,Normal cell,Truncated radial glial cell
+glial cell,Truncated radial,CRYAB,Human,Brain,Cortex,Normal,Normal cell,Truncated radial glial cell
+glial cell,,ENO1,Human,Brain,Cortex,Normal,Normal cell,Truncated radial glial cell
+glial cell,,PGK1,Human,Brain,Cortex,Normal,Normal cell,Truncated radial glial cell

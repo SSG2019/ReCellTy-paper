@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In6,CL_0000540,ZNF703,ZNF703
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In6,CL_0000540,PVALB,PVALB
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In6,CL_0000540,LRRC38,LRRC38
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In6,CL_0000540,RPH3AL,RPH3AL

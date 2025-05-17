@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,LCK,LCK
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,GZMA,GZMA
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,IL32,IL32
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,CD3E,CD3E
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,CD45,PTPRC
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,CD7,CD7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,IL2RG,IL2RG
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,CD3,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,MS4A1,MS4A1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,IL7R,IL7R
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lymphocyte,CL_0000542,CD96,CD96

@@ -1,0 +1,17 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,peroxiredoxin-6,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,MCP-1,CCL2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,ALCAM,ALCAM
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,TFPI,TFPI
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,calpastatin,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,MYL9,MYL9
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,FN1,FN1
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,FHL2,FHL2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,CTGF,CCN2
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Fhl2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Serpine2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Des,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Pdgfrb,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Art3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Prkca,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Mesangial cell,CL_0000650,Nt5e,

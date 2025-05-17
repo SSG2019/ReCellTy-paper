@@ -1,0 +1,11 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer stem cell,stemness,Nestin,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer stem cell,CD133,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,Beta-catenin,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,SOX2,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,Nanog,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,OCT4,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,Sox2,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,β-catenin,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,cancer stem cell,PROM1,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stemness,POU5F1,Human,Brain,Brain,Medulloblastoma,Cancer cell,Cancer stem cell

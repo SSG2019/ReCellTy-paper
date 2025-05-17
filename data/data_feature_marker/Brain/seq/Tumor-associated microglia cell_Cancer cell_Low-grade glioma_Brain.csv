@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglia,Tumor-associated,IBA1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell
+Microglia,Tumor-associated,CX3CR1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell
+Microglia,,CD11b,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell
+Microglia,,CD45,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell
+Microglia,,AIF1,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell
+Microglia,,PTPRC,Human,Brain,Brain,Low-grade glioma,Cancer cell,Tumor-associated microglia cell

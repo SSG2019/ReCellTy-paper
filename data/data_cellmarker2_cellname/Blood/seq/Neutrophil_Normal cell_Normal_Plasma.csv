@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,MPO,MPO
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,S100A8,S100A8
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,ELANE,ELANE
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,CSF3R,CSF3R
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,IFITM1,IFITM1
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,RSAD2,RSAD2
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,IFI6,IFI6
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,MMP8,MMP8
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,S100A9,S100A9
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,ISG10,
+Human,Blood,Plasma,UBERON_0001969,Normal,Normal cell,Neutrophil,CL_0000775,MMP9,MMP9

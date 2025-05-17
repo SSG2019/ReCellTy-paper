@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,CD4,CD4
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,CD8A,CD8A
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,CD3E,CD3E
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,FASLG,FASLG
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,ITGA1,ITGA1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMK,GZMK
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,JAML,JAML
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,GZMA,GZMA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,CD8+ T cell,CL_0000625,CXCR6,CXCR6

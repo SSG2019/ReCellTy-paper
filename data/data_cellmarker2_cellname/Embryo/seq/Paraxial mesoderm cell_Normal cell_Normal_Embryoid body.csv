@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Paraxial mesoderm cell,CL_0011007,PAX3,PAX3
+Human,Embryo,Embryoid body,UBERON_0014374,Normal,Normal cell,Paraxial mesoderm cell,CL_0011007,PAX7,PAX7

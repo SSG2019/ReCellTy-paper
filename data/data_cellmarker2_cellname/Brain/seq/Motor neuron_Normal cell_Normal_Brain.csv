@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,VAChT,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,ALDH1A2,ALDH1A2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,MNX1,MNX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,SLC5A7,SLC5A7
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,ACHE,ACHE
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,PRPH,PRPH
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,CHAT,CHAT
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Motor neuron,CL_0000100,SLC18A3,SLC18A3

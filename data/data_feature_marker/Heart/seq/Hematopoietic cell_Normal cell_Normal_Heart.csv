@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hematopoietic cell,,LATEXIN,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,C-KIT,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Heart,Heart,Normal,Normal cell,Hematopoietic cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,T cell,CL_0000084,Cd28,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,T cell,CL_0000084,Cd3g,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,T cell,CL_0000084,Cd3d,

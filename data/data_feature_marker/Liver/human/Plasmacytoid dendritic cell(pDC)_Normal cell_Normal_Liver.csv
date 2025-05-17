@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Plasmacytoid,IRF8,Human,Liver,Liver,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,SPIB,Human,Liver,Liver,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+dendritic cell,Plasmacytoid,LILRA4,Human,Liver,Liver,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)

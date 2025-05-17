@@ -1,0 +1,18 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,PLAP,ALPP
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,CD30,TNFRSF8
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,C-Kit,KIT
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,CD34,CD34
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,CD71,TFRC
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,CD31,PECAM1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,Nestin,
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Blood vessel,Blood vessel,UBERON_0001981,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1

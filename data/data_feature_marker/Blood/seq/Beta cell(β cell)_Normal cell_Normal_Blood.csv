@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Beta cell,β cell,ERBB3,Human,Blood,Blood,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,mTOR,Human,Blood,Blood,Normal,Normal cell,Beta cell(β cell)
+Beta cell,β cell,ERBB2,Human,Blood,Blood,Normal,Normal cell,Beta cell(β cell)

@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,KLK6,KLK6
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,LAMP5,LAMP5
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,SFRP2,SFRP2
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,CCND1,CCND1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,PCP4,PCP4
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,PAX8,PAX8
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,LHX1,LHX1
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Renal vesicle & comma-shaped body cell,,EMID1,EMID1

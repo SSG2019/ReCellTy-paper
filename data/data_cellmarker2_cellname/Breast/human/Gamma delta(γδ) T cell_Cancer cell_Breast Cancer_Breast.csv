@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,CXCR6,CXCR6
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Gamma delta(γδ) T cell,CL_0000798,CCR5,CCR5

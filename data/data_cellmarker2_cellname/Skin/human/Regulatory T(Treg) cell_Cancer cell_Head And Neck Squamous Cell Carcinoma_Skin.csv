@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD3,
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Skin,Skin,UBERON_0002097,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CD4,CD4

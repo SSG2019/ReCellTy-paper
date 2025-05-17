@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,TPM2,TPM2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,TUBA8,TUBA8
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,ARG2,ARG2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,GSS,GSS
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,HOXA5,HOXA5
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,IER3,IER3
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,ZNF609,ZNF609
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,CCL2,CCL2
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,NECAP1,NECAP1
+Human,Intestine,Small intestine,UBERON_0002108,Normal,Normal cell,Tuft progenitor cell,,H1F0,H1-0

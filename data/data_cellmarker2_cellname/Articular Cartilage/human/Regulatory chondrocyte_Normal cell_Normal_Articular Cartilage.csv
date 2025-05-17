@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Regulatory chondrocyte,,HMOX1,HMOX1
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Regulatory chondrocyte,,TMEM176A,TMEM176A
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Regulatory chondrocyte,,CKS2,CKS2
+Human,Articular Cartilage,Articular Cartilage,,Normal,Normal cell,Regulatory chondrocyte,,TUBB4B,TUBB4B

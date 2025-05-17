@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Goblet cell,CL_0000160,TFF2,TFF2
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Goblet cell,CL_0000160,MUC5AC,MUC5AC
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Goblet cell,CL_0000160,TFF1,TFF1
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Goblet cell,CL_0000160,MUC2,MUC2
+Human,Esophagus,Esophagus,UBERON_0001043,Esophageal Cancer,Cancer cell,Goblet cell,CL_0000160,TFF3,TFF3

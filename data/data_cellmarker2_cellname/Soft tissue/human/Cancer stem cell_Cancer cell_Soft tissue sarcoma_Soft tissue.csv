@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,BMI1,BMI1
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,c-Myc,MYC
+Human,Soft tissue,Soft tissue,UBERON_0034929,Soft tissue sarcoma,Cancer cell,Cancer stem cell,,OCT4,POU5F1

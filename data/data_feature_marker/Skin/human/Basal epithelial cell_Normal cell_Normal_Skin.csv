@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+epithelial cell,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGB1,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGA6,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell

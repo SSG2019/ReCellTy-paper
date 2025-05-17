@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neural progenitor cell,Neural,SOX2,Human,Embryo,Embryo,Normal,Normal cell,Neural progenitor cell
+Neural progenitor cell,Neural,SOX1,Human,Embryo,Embryo,Normal,Normal cell,Neural progenitor cell
+Neural progenitor cell,,CDH6,Human,Embryo,Embryo,Normal,Normal cell,Neural progenitor cell

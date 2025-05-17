@@ -1,0 +1,22 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,COL3A1,COL3A1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRB,PDGFRB
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,COL6A1,COL6A1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,S100A4,S100A4
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,LUM,LUM
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,THY1,THY1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,SPARC,SPARC
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,POSTN,POSTN
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,ITGB1,ITGB1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,MGST1,MGST1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,ACTA2,ACTA2
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,COL6A2,COL6A2
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,COL1A1,COL1A1
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,CXCL14,CXCL14
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,DCN,DCN
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,VIM,VIM
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,ISLR,ISLR
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,PDPN,PDPN
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,PDGFRA,PDGFRA
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,COL1A2,COL1A2
+Human,Stomach,Stomach,UBERON_0000945,Gastric cancer,Cancer cell,Fibroblast,CL_0000057,CAV1,CAV1

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Germinal center,PTTG1,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,RGS13,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell
+B cell,Germinal center,H2AZ2,Human,Lung,Lung,Non-small Cell Lung Cancer,Cancer cell,Germinal center B cell

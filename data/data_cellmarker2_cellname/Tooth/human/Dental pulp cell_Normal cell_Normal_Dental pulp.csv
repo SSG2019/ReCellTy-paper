@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tooth,Dental pulp,UBERON_0001754,Normal,Normal cell,Dental pulp cell,CL_0002148,CD105,
+Human,Tooth,Dental pulp,UBERON_0001754,Normal,Normal cell,Dental pulp cell,CL_0002148,CD166,ALCAM
+Human,Tooth,Dental pulp,UBERON_0001754,Normal,Normal cell,Dental pulp cell,CL_0002148,CD90,THY1
+Human,Tooth,Dental pulp,UBERON_0001754,Normal,Normal cell,Dental pulp cell,CL_0002148,CD73,NT5E
+Human,Tooth,Dental pulp,UBERON_0001754,Normal,Normal cell,Dental pulp cell,CL_0002148,STRO-1,

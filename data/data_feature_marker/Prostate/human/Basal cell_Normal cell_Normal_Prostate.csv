@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Basal cell,,P63,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Keratin-14,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Keratin-5,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,Calcyclin,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,TSC-22,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,HMWCK,Human,Prostate,Prostate,Normal,Normal cell,Basal cell
+Basal cell,,TEAD1,Human,Prostate,Prostate,Normal,Normal cell,Basal cell

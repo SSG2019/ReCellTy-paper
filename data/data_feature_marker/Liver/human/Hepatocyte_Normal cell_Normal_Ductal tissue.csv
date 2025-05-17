@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Hepatocyte,,CYP3A4,Human,Liver,Ductal tissue,Normal,Normal cell,Hepatocyte
+Hepatocyte,,TTR,Human,Liver,Ductal tissue,Normal,Normal cell,Hepatocyte
+Hepatocyte,,ALB,Human,Liver,Ductal tissue,Normal,Normal cell,Hepatocyte

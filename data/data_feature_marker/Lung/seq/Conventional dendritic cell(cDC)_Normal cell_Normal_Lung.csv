@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+dendritic cell,Conventional,CLEC9A,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CCL22,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,Conventional,CCL19,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,,EBI3,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell(cDC)
+dendritic cell,,CCR7,Human,Lung,Lung,Normal,Normal cell,Conventional dendritic cell(cDC)

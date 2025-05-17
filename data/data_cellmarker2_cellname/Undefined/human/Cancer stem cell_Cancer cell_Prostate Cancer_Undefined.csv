@@ -1,0 +1,56 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,ALCAM,ALCAM
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,ALDH1A1,ALDH1A1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,BMI1,BMI1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD151,CD151
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,ABCG2,ABCG2
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,AMACR,AMACR
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD166,ALCAM
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,c-Myc,MYC
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,c-Maf,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,TRA-1-60,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,EpCAM,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD24,CD24
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,BrdU,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,SMO,SMO
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD49f,ITGA6
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,P27,IFI27
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,BCL2,BCL2
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CK8,KRT8
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Beta-catenin,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,OCT4,POU5F1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Hoechst 33342,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CK14,KRT14
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,SCA-1,CASP3
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,BMI1,BMI1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,P63,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CK18,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CK5,KRT5
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,OCT3,SLC22A3
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Ki67,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD44,CD44
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,Integrin alpha2beta1,
+Human,Undefined,Undefined,,Prostate Cancer,Cancer cell,Cancer stem cell,,CD133,PROM1

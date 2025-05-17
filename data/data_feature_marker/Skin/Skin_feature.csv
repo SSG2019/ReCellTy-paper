@@ -1,0 +1,2128 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+langerhans cell,Activated,CD83,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,Activated,MMP9,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,PIM3,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,PXDC1,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,LMNA,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,STK17B,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,ARL4C,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+langerhans cell,,C15orf48,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+macrophage,Activated,CD206 MRC1,Human,Skin,Skin,Melanoma,Cancer cell,Activated macrophage
+T cell,Activated,CXCR3,Human,Skin,Scalp,Normal,Normal cell,Activated T cell
+T cell,Activated,ICOS,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD69,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNF,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,IL2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,IFNG,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF9,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD28,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8B,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD27,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,IL2RA,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+cell,Adhesion,ICAM-1,Human,Skin,Skin,Normal,Normal cell,Adhesion cell
+Adipocyte,,CFD,Human,Skin,Skin,Normal,Normal cell,Adipocyte
+Adipocyte,,APOE,Human,Skin,Skin,Normal,Normal cell,Adipocyte
+Adipocyte,,ADIPOQ,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,SCD,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte
+Adipocyte,,COL1A1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Adipocyte
+Anterior cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+Anterior cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+Anterior cell,,DLX5,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+Anterior placode cell,,OTX1,Human,Skin,Skin,Normal,Normal cell,Anterior placode cell
+Antigen-presenting cell,Antigen-presenting,HLA-DPB1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DRA,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DQA1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+B cell,,CD79A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MZB1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGLL1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Identity,CD20,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Identity,CD19,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Identity,MS4A1,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Activation,CD38,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Activation,CD27,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Activation,LAG3,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Activation,VCAM1,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Activation,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Antibody Production,IGHG2,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Antibody Production,JCHAIN,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,Antibody Production,IGHG1,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGJ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGLL5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,TCL1A,Human,Skin,Epidermis,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Skin,Epidermis,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Skin,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD19,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IL-20,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IGHG1,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,TBX21,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IGHD,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,ITGAX,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD27,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,MS4A1A,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD23,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IL4R,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD20,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD21,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IL17B,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CR2,Human,Skin,Skin,Normal,Normal cell,B cell
+Basal cell,,CDH3,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT2,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,TGM3,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,DSC1,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,IVL,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal cell
+epithelial cell,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGB1,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGA6,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+Neuron,Basal forebrain,p75NTR,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,Basal forebrain,ISL1,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,Basal forebrain,NGFR,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,VACHT,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,CHAT,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Neuron,cholinergic,SLC18A3,Human,Skin,Skin,Normal,Normal cell,Basal forebrain cholinergic neuron (BFCN)
+Keratinocyte,Basal,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal keratinocyte
+Keratinocyte,Basal,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal keratinocyte
+Basophil,,CD63,Human,Skin,Skin,Normal,Normal cell,Basophil
+Basophil,,CD203c,Human,Skin,Skin,Normal,Normal cell,Basophil
+Basophil,,ENPP3,Human,Skin,Skin,Normal,Normal cell,Basophil
+Cancer cell,,Krt14,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cancer cell
+Cancer cell,,SOX10,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,Melan A,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,HMB45,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,CD36,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,MLANA,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,S100B,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,DCT,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TRP1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TYR,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,MITF,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TRP2,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,ZAR1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,LDH,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,S100,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,CD146,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,Pmel-1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,PMEL,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,PRSS1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,RANBP2,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,S100A1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,MCAM,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer stem cell,stemness,SOX2,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem cell,CD133,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Cancer stem cell,stem cell,PROM1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD133,Human,Skin,Skin,Melanoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,NESTIN,Human,Skin,Skin,Melanoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,CD166,Human,Skin,Skin,Melanoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,PROM1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer stem cell
+Stem cell,Cancer,ALCAM,Human,Skin,Skin,Melanoma,Cancer cell,Cancer stem cell
+Fibroblast,extracellular matrix,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,extracellular matrix,COL6A3,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,fibroblast activation,PDGFRB,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,OLFML2B,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,Osteopontin,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,YAP,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL11A1,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,DPP4,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,YAP1,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,CD4+ T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Melanoma,Cancer cell,CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,GIPR,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,SYTL2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ABCG2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,LNPEP,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ANXA7,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,FYCO1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ZNF816A,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,STAT3,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,CCDC66,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,AFF3,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,HERC5,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,UBLCP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,IFIH1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,LEKR1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,GJB2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,METTL1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,RASGRP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,BCL2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,IL23R,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,Th17,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,CD69,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ZNF816,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+Lymphocyte,CD8,CD137,Human,Skin,Skin,Melanoma,Cancer cell,CD8 tumour-infiltrating lymphocyte
+Lymphocyte,tumour-infiltrating,CD137,Human,Skin,Skin,Melanoma,Cancer cell,CD8 tumour-infiltrating lymphocyte
+Lymphocyte,tumour-infiltrating,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,CD8 tumour-infiltrating lymphocyte
+Lymphocyte,tumour-infiltrating,TNFRSF9,Human,Skin,Skin,Melanoma,Cancer cell,CD8 tumour-infiltrating lymphocyte
+Lymphocyte,tumour-infiltrating,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,CD8 tumour-infiltrating lymphocyte
+T cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,CD8+ T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Melanoma,Cancer cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,CD8+ T cell
+T cell,,CXCR5,Human,Skin,Skin,Melanoma,Cancer cell,CD8+ T cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,CD8+ T cell
+T cell,CD8+,ITGAE,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GNLY,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,ITGA1,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,PRF1,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CXCR6,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,CD39,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,CX3CR1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,NKG2D,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,GZMK,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,NKG7,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,ENTPD1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,KLRK1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,Central memory,CCR7,Human,Skin,Skin,Melanoma,Cancer cell,Central memory T cell
+T cell,Central memory,CD27,Human,Skin,Skin,Melanoma,Cancer cell,Central memory T cell
+T cell,Central memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,SELL,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD45RO,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+Circulating tumor cell,Circulating,CD146,Human,Skin,Skin,Melanoma,Cancer cell,Circulating tumor cell
+Circulating tumor cell,tumor,MCAM,Human,Skin,Skin,Melanoma,Cancer cell,Circulating tumor cell
+Dendritic cell,Conventional,IRF8,Human,Skin,Skin,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CD141,Human,Skin,Skin,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,THBD,Human,Skin,Skin,Melanoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CD1C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CLEC10A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,WDFY4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,IRF8,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,CLEC9A,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,cDC2,CD1c,Human,Skin,Skin,Melanoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1c,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1E,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,IRF4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,cDC2,CD1B,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+Neural crest cell,Cranial,POSTN,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,PLP1,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,TFAP2A,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,MPZ,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,PAX3,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Neural crest cell,Cranial,SOX10,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+mesenchymal cell,neural crest-derived,TWIST1,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest-derived mesenchymal cell
+Cutaneous squamous cell carcinoma (cSCC),,KRT6A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cutaneous squamous cell carcinoma (cSCC)cell
+Cutaneous squamous cell carcinoma (cSCC),,CDKN2A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cutaneous squamous cell carcinoma (cSCC)cell
+Cell,Cycling,MKI67,Human,Skin,Skin,Normal,Normal cell,Cycling cell
+T cell,Cytotoxic,GZMH,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic effector T cell
+T cell,Cytotoxic,CD8,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic lymphocyte
+T cell,Cytotoxic,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic lymphocyte
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic lymphocyte
+T cell,Cytotoxic,PRF1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,IFN-γ,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,TIA-1,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,granzyme B,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,perforin,Human,Skin,Skin,Cutaneous γδ T cell lymphoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic T cell
+T cell,,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD355,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CRTAM,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,RGS1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,TYROBP,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,Myeloid,CD11C,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,Activation,CD38,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,Myeloid,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Melanoma,Cancer cell,Dendritic cell
+Dendritic cell,,CD205,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,SIRPA,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD209,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD40,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD80,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,AIF1,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD86,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD14,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PD1-L2,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LAMP3,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CIITA,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,PD1-L1,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LY75,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Skin,Lymphoid tissue,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1a,Human,Skin,Scalp,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD209,Human,Skin,Scalp,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD86,Human,Skin,Scalp,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11C,Human,Skin,Scalp,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Skin,Scalp,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Itgax,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,MHCII,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209d,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Cd209a,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Mgl2,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1 A,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1 C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,XIIIa,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CCL17,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ITGAX,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,NRP1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,LILRA4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,THBD,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CLE4C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IL3RA,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD14,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,XCR1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,C1ORF54,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1A,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD68,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,IRF8,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,GZMB,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dermal cell,,Col1a1,Human,Skin,Skin,Melanoma,Cancer cell,Dermal cell
+Dermal cell,,CD26,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,CD90,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,CD45,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,SFRP2,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,TCF4,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,WIF1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,APCDD1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,DPP4,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,THY1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dendritic cell,,CD1C,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Dermal dendritic cell
+Dermal papilla cell,,CD133,Human,Skin,Hair follicle,Normal,Normal cell,Dermal papilla cell
+Dermal papilla cell,,PROM1,Human,Skin,Hair follicle,Normal,Normal cell,Dermal papilla cell
+Keratinocyte,Differentiated,KRT10,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte
+Keratinocyte,Differentiated,KRT1,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte
+neuron,Dopamine,TH,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,SLC6A3,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DRD1,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DRD2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,SLC18A2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,DDC,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,NR4A2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,FOXA2,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,LMX1A,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+neuron,Dopamine,LMX1B,Human,Skin,Skin,Normal,Normal cell,Dopamine neuron
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Effector CD4+ T cell
+T cell,Effector,CD45RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Effector CD4+ T cell
+T cell,Effector,GZMK,Human,Skin,Skin,Melanoma,Cancer cell,Effector CD8 T cell
+T cell,Effector,CD45RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Effector CD8+ T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Effector CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Effector CD8+ T cell
+T cell,Effector,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Effector memory T cell
+T cell,Effector,T-BET,Human,Skin,Skin,Melanoma,Cancer cell,Effector memory T cell
+T cell,,FOXP3,Human,Skin,Skin,Melanoma,Cancer cell,Effector T(Teff) cell
+Embryonic stem cell,,NANOG,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,OCT4,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell
+Embryonic stem cell,,POU5F1,Human,Skin,Hair follicle,Normal,Normal cell,Embryonic stem cell
+Endocrine cell,,Pecam1,Human,Skin,Skin,Normal,Normal cell,Endocrine cell
+Endothelial cell,,Arhgef17,Human,Skin,Skin,Basal cell carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,ERG,Human,Skin,Skin,Epithelioid sarcoma-like hemangioendothelioma,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Skin,Skin,Epithelioid sarcoma-like hemangioendothelioma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Skin,Skin,Epithelioid sarcoma-like hemangioendothelioma,Cancer cell,Endothelial cell
+Endothelial cell,,ERG,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell
+Endothelial cell,,CD31,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Skin,Skin,Epithelioid soft tissue tumor,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TFF3,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Lymphoid tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VE-Cadherin,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VE-cadheri,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EC,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD74,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SERPINE1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CSF3,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLC12A2,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SERPINE1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,MMP1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Endothelial cell
+Epidermal cell,Cell adhesion,E-cadherin,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Basal cell,ITGA6,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,WNT signaling,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,WNT signaling,LEF1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Basal layer,KRT14,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Differentiation,KRT10,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,Differentiation,KRT1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,TP63,Human,Skin,Skin,Normal,Normal cell,Epidermal posterior cell
+Epidermal cell,Progenitor,TP63,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell
+Epidermal cell,Progenitor,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell
+Epidermal cell,Stem,MCSP,Human,Skin,Foreskin,Normal,Normal cell,Epidermal stem cell
+Epidermal cell,Stem,CSPG4,Human,Skin,Foreskin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,CD49f,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,CD29,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,P63,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Cytokeratin-14,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-2,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-3,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,Frizzled-7,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,Epidermal,KRT15,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,CD200,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,MCSP,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,Nestin,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+stem cell,,Tenascin C,Human,Skin,Skin,Normal,Normal cell,Epidermal stem cell
+Epidermal cell,Transit amplifying,PA-FABP,Human,Skin,Foreskin,Normal,Normal cell,Epidermal transit amplifying cell
+Epidermal cell,Transit amplifying,FABP5,Human,Skin,Foreskin,Normal,Normal cell,Epidermal transit amplifying cell
+Epidermis cell,,KRT19,Human,Skin,Skin,Normal,Normal cell,Epidermis cell
+Epidermis cell,,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermis cell
+Epithelial cell,,cytokeratin,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Epithelial cell
+Epithelial cell,,Np63,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell
+Epithelial cell,,EZH2,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell
+Epithelial cell,,BRD4,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Epithelial cell
+Epithelial cell,,KRT14,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT10,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Secretory,SCGB2A2,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Antimicrobial/Barrier,DCD,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Structural,KRT19,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Secretory,PIP,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Mucin production,MUCL1,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD24,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD13,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD324,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD126,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD130,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD103,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD141,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD106,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CD1d,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,iNOS,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EPCAM,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,IVL,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ANLN,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,FOXM1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TP63,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,TGM1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ITGB1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CKAP2L,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,HMGB2,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,pan-Cytokeratin,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ANPEP,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,IL6R,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,IL6ST,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,ITGAE,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,THBD,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,,VCAM1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,hair follicle,Cytokeratin-19,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,stem cell,CD200,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,hair follicle,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Epithelial cell,stem cell,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Epithelial hair follicle stem cell
+Erythrocyte,,HBA1,Human,Skin,Skin,Normal,Normal cell,Erythrocyte
+Esophageal squamous cell,,SOX2,Human,Skin,Skin,Esophageal Squamous Cell Carcinoma,Cancer cell,Esophageal squamous cell
+T cell,Exausted,CTLA4,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,BTLA,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,PDCD1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,LAG3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,ENTPD1,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,CTLA4,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,BATF,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,CD8+,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,CD8+,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,Progenitor,TCF-1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,CD8+,TCF-1,Human,Skin,Skin,Melanoma,Cancer cell,Exhausted CD8+ T progenitor cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,CTLA4,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,EOMES,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Tex,PDCD1,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Tex,LAG3,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Tex,CTLA4,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Tex,HAVCR2,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Tex,EOMES,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+Fibroblast,,CFD,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,APOD,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ICAM1,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,IL6,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,PDPN,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,CD34,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,COCH,Human,Skin,Epidermis,Normal,Normal cell,Fibroblast
+Fibroblast,,MMP2,Human,Skin,Epidermis,Normal,Normal cell,Fibroblast
+Fibroblast,,ACTA2,Human,Skin,Epidermis,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Epidermis,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,LYVE1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CD26,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CD36,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FAP,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,KRT14,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CD90,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,VIM,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,Vimentin,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL14,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PLA2G2A,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SFPR4,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,TRIL,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,APCDD1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PAX1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FN1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL6A2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FB,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PLPP3,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SDC2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PCOLCE,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,MXRA8,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FBLN1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SMA,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINH1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CCL19,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,APOD,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL6A5,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,MEG3,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,Col1a1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CFD,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,APOE,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL12,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL2A2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,MMP2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,DPP4,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CFB,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SMN1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+T cell,Gamma delta (γδ),TCRgd,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Gamma delta(γδ) T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TCRgd,Human,Skin,Skin,Melanoma,Cancer cell,Gamma delta(γδ) T cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TCRD,Human,Skin,Skin,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TCRG,Human,Skin,Skin,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRD,Human,Skin,Skin,Normal,Normal cell,Gamma delta(γδ) T cell
+T cell,Gamma delta(γδ),TRG,Human,Skin,Skin,Normal,Normal cell,Gamma delta(γδ) T cell
+neuron,Glutamatergic,CTIP2,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,OTX1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,TBR1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,NMDAR1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,BCL11B,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+neuron,Glutamatergic,GRIN1,Human,Skin,Skin,Normal,Normal cell,Glutamatergic neuron
+Granule cell,,FLG,Human,Skin,Skin,Normal,Normal cell,Granule cell
+Hair follicle cell,,RUNX1,Human,Skin,Hair follicle,Normal,Normal cell,Hair follicle cell
+Hair follicle cell,,CD34,Human,Skin,Hair follicle,Normal,Normal cell,Hair follicle cell
+Hair follicle cell,,SOX9,Human,Skin,Skin,Normal,Normal cell,Hair follicle cell
+Fibroblast,Healing,PLA2G2A,Human,Skin,Skin,Normal,Normal cell,Healing Enriched-Fibroblast
+Hematopoietic cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD69,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CST7,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic origin cell,,CD45,Human,Skin,Skin,Normal,Normal cell,Hematopoietic origin cell
+Immune cell,,CD45,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Immune cell
+Immune cell,,PTPRC,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Immune cell
+Immune cell,,LIN,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD45,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,IC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Fibroblast,Inflammatory,CHI3L1,Human,Skin,Skin,Normal,Normal cell,Inflammatory fibroblast
+Fibroblast,,TIMP1,Human,Skin,Skin,Normal,Normal cell,Inflammatory fibroblast
+Basal layer cell,Infundibulum,Troy,Human,Skin,Hair follicle,Normal,Normal cell,Infundibulum basal layer cell
+Infundibulum basal layer cell,,Troy,Human,Skin,Interfollicular epidermis,Normal,Normal cell,Infundibulum basal layer cell
+Innate lymphoid cell,,ID2,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,,IL1R1,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,,KIT,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,,ZBTB16,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+keratinocyte,,KRT1,Human,Skin,Skin,Normal,Normal cell,Intermediate keratinocyte
+Keratinocyte,Progenitor,CD34,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell
+Keratinocyte,Progenitor,P63,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell
+Keratinocyte,Progenitor,ABCG2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte progenitor cell
+Keratinocyte,,KRT7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte
+Keratinocyte,,KRT15,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte
+Keratinocyte,,K10,Human,Skin,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT10,Human,Skin,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Keratinocyte
+Keratinocyte,,SPRR2A,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,CK14,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,Integrin alpha-6,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,CD71,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,ALDH,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,CD44,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,Integrin beta-1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,K5,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,K19,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,K8,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT5,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT14,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,GJB2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,UBE2C,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,FASN,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT15,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,Krt5,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,DEFB1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,TFRC,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT19,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,HOXB2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Langerhans cell,,Langerin,Human,Skin,Skin,Melanoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD1a,Human,Skin,Skin,Melanoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD207,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD1A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Langerhans cell,,S100B,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Dendritic cell,Langerhans,CD1,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Dendritic cell,Langerhans,CD1a,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Dendritic cell,Langerhans,CD207,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Dendritic cell,Langerhans,CD1A,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Dendritic cell,Langerhans,CD207,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Leukocyte,,CD45RO,Human,Skin,Skin,Normal,Normal cell,Leukocyte
+Endothelial cell,Lymphatic,LYVE1,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell
+Endothelial cell,Lymphatic,CCL21,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,c-Kit,Human,Skin,Lymphoid tissue,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD31,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+Lymphocyte,,CD7,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+Lymphocyte,,Cd3d,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+Lymphocyte,,PECAM1,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+macrophage,M1,MHCII,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CXCL10,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CXCL9,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,IL1B,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+Macrophage,M2,CD163,Human,Skin,Skin,Melanoma,Cancer cell,M2 macrophage
+Macrophage,M2,CD163,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD206,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,M2,CD204,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,,H2-M2,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Ly6c1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Itgax,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Csf1r,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Ly6g6c,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,Cx3cr1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Macrophage
+Macrophage,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,HLA-DR,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,Lysozyme,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,PD-L1,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,SIGLEC1,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD274,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Skin,Scalp,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,AIF1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD15,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CXCR4,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,MS4A4A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,F13A1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CCL2,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD88,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD1C,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD1A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,ALF1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,FUT4,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,C5AR1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,F13A1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,CTSC,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Macrophage,,SPP1,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,Macrophage
+Mast cell,,tryptase,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Mast cell
+Mast cell,,TPSAB1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Mast cell
+Mast cell,,cKit,Human,Skin,Scalp,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,IL1RL1,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Melanocytes,,MLANA,Human,Skin,Skin,Normal,Normal cell,Melanocytes and Schwann cell
+Schwann cell,,CDH19,Human,Skin,Skin,Normal,Normal cell,Melanocytes and Schwann cell
+Melanocyte,,MiTF,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,NKI/C3,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,Melan-A,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,HMB-45,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Melanocyte
+Melanocyte,,MiTF,Human,Skin,Skin,Malignant melanoma,Cancer cell,Melanocyte
+Melanocyte,,Melan-A,Human,Skin,Skin,Malignant melanoma,Cancer cell,Melanocyte
+Melanocyte,,HMB45,Human,Skin,Skin,Malignant melanoma,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Malignant melanoma,Cancer cell,Melanocyte
+Melanocyte,,S-100,Human,Skin,Skin,Melanoma,Cancer cell,Melanocyte
+Melanocyte,,Melan A,Human,Skin,Skin,Melanoma,Cancer cell,Melanocyte
+Melanocyte,,S100 protein,Human,Skin,Skin,Spitz nevi,Cancer cell,Melanocyte
+Melanocyte,,HMB45,Human,Skin,Skin,Spitz nevi,Cancer cell,Melanocyte
+Melanocyte,,Melan-A,Human,Skin,Skin,Spitz nevi,Cancer cell,Melanocyte
+Melanocyte,,SOX10,Human,Skin,Skin,Spitz nevi,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Spitz nevi,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Lymphoid tissue,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MITF,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ME,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYR,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,APOD,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP2,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,cKit,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TRP-1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,HMB45,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MMP12,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanoma cell,,POT1,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+Melanoma cell,,RAP1,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+Melanoma cell,,TPP1,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+Melanoma cell,,MLANA,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+Melanoma cell,,RAP1A,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+B cell,Memory,CD27,Human,Skin,Epidermis,Normal,Normal cell,Memory B cell
+B cell,Memory,MS4A1,Human,Skin,Skin,Normal,Normal cell,Memory B cell
+B cell,,DSAP,Human,Skin,Skin,Normal,Normal cell,Memory B cell
+T cell,Memory,SELL,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,Memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD4+ T cell
+T cell,Memory,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Normal,Normal cell,Memory CD4+ T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Memory CD4+ T cell
+T Cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell
+T Cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell
+T Cell,Memory,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Memory CD8+ T Cell
+T cell,Memory,CXCR6,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,ITGAE,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,,KLRB1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,CD39,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,ENTPD1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T cell
+T cell,Memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,Memory,SELL,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,Memory,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,CCR7,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,LEF1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory-like,TCF-1,Human,Skin,Skin,Melanoma,Cancer cell,Memory-like CD8+ T cell
+T cell,CD8+,TCF-1,Human,Skin,Skin,Melanoma,Cancer cell,Memory-like CD8+ T cell
+T cell,,HNF1A,Human,Skin,Skin,Melanoma,Cancer cell,Memory-like CD8+ T cell
+Merkel cell,,Cytokeratin-20,Human,Skin,Hair follicle,Normal,Normal cell,Merkel cell
+Merkel cell,,Cytokeratin-18,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,Cytokeratin-20,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,NCAM,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,ATOH1,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,ISL1,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT20,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT8,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT18,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,SOX2,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,NCAM1,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Mesenchymal cell,,TWIST2,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,LUM,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL1A1,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal stem cell,Adhesion and Migration,CD44,Human,Skin,Foreskin,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stem Cell Marker,CD90,Human,Skin,Foreskin,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Immunosuppressive Function,CD73,Human,Skin,Foreskin,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,Stem Cell Marker,CD105,Human,Skin,Foreskin,Normal,Normal cell,Mesenchymal stem cell
+Dendritic cell,Migrating,CCL19,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Migrating dendritic cell
+Dendritic cell,Migrating,CCR7,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Migrating dendritic cell
+Langerhans cell,Migratory,CCR7,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,Migratory,CD83,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,BIRC3,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IRF4,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CLPTM1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IL7R,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CD40,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IDO1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,NUB1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CCL22,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+cell,Mitotic,MC MKI67,Human,Skin,Skin,Normal,Normal cell,Mitotic cell
+Macrophage,Mono,CSF1R,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,C1QA,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Monocyte,,CD14,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Monocyte
+Monocyte,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD11C,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD38,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CD163,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,AIF1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CSF1R,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,ITGAM,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCGR1A,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,HLA-DRA,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,EREG,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CD88,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,THBS1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,C5AR1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Mononuclear phagocyte,,LYZ,Human,Skin,Skin,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CD1C,Human,Skin,Skin,Normal,Normal cell,Mononuclear phagocyte
+T cell,Mucosa-associated invariant,TCRVa72,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD4+ T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD4+ T cell
+T cell,,CD161,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD4+ T cell
+T cell,,KLRB1,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD4+ T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD8+ T cell
+T cell,Mucosa-associated invariant,CD161,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD8+ T cell
+T cell,Mucosa-associated invariant,KLRB1,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Mucosa-associated invariant CD8+ T cell
+T cell,MAIT,CD161,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell
+T cell,,CD28,Human,Skin,Skin,Melanoma,Cancer cell,Mucosa-associated invariant T (MAIT) cell
+Myeloid cell,,Itgam,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,Cd200r1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,TBX21,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,NR4A2,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,AREG,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC10A,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,PSAP,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DRB1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DQB2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DRA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CTSS,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,Lyz2,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CXCL8,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,IL1B,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid dendritic cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD80,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD86,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD40,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD83,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD209,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD207,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD197,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD205,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD304,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD273,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD11b,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD11c,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD1a,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD1b,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD1c,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CD49d,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,F4/80,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,HLA-DR,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,MHC Class II,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,CCR7,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,LY75,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,NRP1,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid dendritic cell,,PDCD1LG2,Human,Skin,Skin,Normal,Normal cell,Myeloid dendritic cell
+Myeloid cell,Derived suppressor,Stat3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Il4ra,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,S100a8,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Cebpb,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Il10,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Arg1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,Tgfb1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+Myeloid cell,Derived suppressor,S100a9,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Myeloid derived suppressor cell
+myeloid cell,suppressor,CD33,Human,Skin,Skin,Melanoma,Cancer cell,myeloid-derived suppressor cell
+Myeloid-derived suppressor cell,suppressor function,TREM1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid-derived suppressor cell
+Myeloid-derived suppressor cell,suppressor function,S100A9,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid-derived suppressor cell
+Myeloid-derived suppressor cell,suppressor function,S100A8,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid-derived suppressor cell
+Myofibroblast,,ACTA2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,PDPN,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,COL1A2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,COL1A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,FAP,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,COL3A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,POSTN,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,ACTA2,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,MMP14,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,Col1a1,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,FNDC1,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,SFRP4,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+T cell,Naive,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,Naive,CD45RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,,CD3,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD4+ T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD8+ T cell
+T cell,Naive,CD27,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD8+ T cell
+T cell,Naive,CD45RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Naive CD8+ T cell
+T cell,Naive,TCF7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,LEF1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,IL7R,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Skin,Skin,Melanoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CD27,Human,Skin,Skin,Melanoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CD45RA,Human,Skin,Skin,Melanoma,Cancer cell,Naive T(Th0) cell
+T cell,Natural killer,CD161,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD4+ T cell
+T cell,Natural killer,KLRB1,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD4+ T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD4+ T cell
+T cell,Natural killer,CD161,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD8+ T cell
+T cell,Natural killer,KLRB1,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD8+ T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Natural killer CD8+ T cell
+Natural killer cell,,Klrb1c,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,Cd3e,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD8,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD56,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CCL5,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,FASLG,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,GZMA,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,IL15,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,FLT3LG,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD3G,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD8B,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD4,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD45,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD45RA,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,PTPRC,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD56,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD8,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD4,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FASLG,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,RAX,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,LTB,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Skin,Scalp,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD56,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCR7,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL19,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRK1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCR2,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD74,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD14,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD163,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GZMB,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GNLY,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRDC,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRB1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,XCL1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCER1G,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,XCL2,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TNFRSF18,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,FCGRN3A,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TCRG,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TCRD,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,STYK1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD94,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,EOMES,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CCL4,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRG,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,TRD,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,CD161,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell
+T cell,T,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell
+T cell,T,CD28,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer T(NKT) cell
+T cell,Natural killer,CD355,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,CRTAM,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+Neural crest stem cell,Stemness,CD271,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Stemness,NGFR,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,CD49d,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,HNK1,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest stem cell,Migration,B3GAT1,Human,Skin,Hair follicle,Normal,Normal cell,Neural crest stem cell
+Neural crest cell,stemlike,GFRA2,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell
+Neural crest cell,stemlike,NGFR,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell
+Neural crest cell,stemlike,GDNF,Human,Skin,Skin,Melanoma,Cancer cell,Neural crest stemlike cell
+Neural crest-like cell,neural crest-like,MLANA,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural crest-like cell,neural crest-like,SOX10,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural crest-like cell,neural crest-like,S100B,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural stem cell,,SOX10,Human,Skin,Skin,Normal,Normal cell,Neural stem cell
+Neural stem cell,,nestin,Human,Skin,Skin,Normal,Normal cell,Neural stem cell
+Neuroectoderm cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,OTX1,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,HES5,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,PAX3,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuron,,TUJ1,Human,Skin,Skin,Normal,Normal cell,Neuron
+Neuron,,PGP9.5,Human,Skin,Skin,Normal,Normal cell,Neuron
+Neuron,,UCHL1,Human,Skin,Skin,Normal,Normal cell,Neuron
+Neutrophil,,VNN2,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil
+Neutrophil,,FCGR3B,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil
+Neutrophil,,CD16,Human,Skin,Skin,Melanoma,Cancer cell,Neutrophil
+Neutrophil,,CD66B,Human,Skin,Skin,Melanoma,Cancer cell,Neutrophil
+Neutrophil,,FCGR3A,Human,Skin,Skin,Melanoma,Cancer cell,Neutrophil
+Neutrophil,,CD16b,Human,Skin,Skin,Normal,Normal cell,Neutrophil
+Neutrophil,,CMTM2,Human,Skin,Skin,Normal,Normal cell,Neutrophil
+Neutrophil,,FCGR3B,Human,Skin,Skin,Normal,Normal cell,Neutrophil
+Neutrophil,,CD10,Human,Skin,Skin,Normal,Normal cell,Neutrophil
+Neutrophil,,MME,Human,Skin,Skin,Normal,Normal cell,Neutrophil
+NK cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+NK cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+T cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+ectoderm cell,,HAND1,Human,Skin,Skin,Normal,Normal cell,Non-neural ectoderm cell
+Normal cell,,TNPO3,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,IRF5,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,FLG,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,FLG2,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,HRNR,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,IGHM,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Osteogenic cell,Precursor-like,BMPRIB,Human,Skin,Dermis,Normal,Normal cell,Osteogenic precursor-like cell
+fibroblast,,FAP,Human,Skin,Skin,Normal,Normal cell,Pan-fibroblast
+Leukocyte,,CD45,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Pan-leukocyte
+Leukocyte,,PTPRC,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Pan-leukocyte
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Pan–T-cell
+T cell,,CD19,Human,Skin,Skin,Melanoma,Cancer cell,Pan–T-cell
+Fibroblast,Papillary,CD26,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,Papillary,PDPN,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,Papillary,DPP4,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+B cell,PD-L1+,CD20,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,PD-L1+,MS4A1,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,Regulatory,CD20,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+B cell,Regulatory,MS4A1,Human,Skin,Skin,Melanoma,Cancer cell,PD-L1+ Regulatory B cell
+Pericyte,,RGS5,Human,Skin,Epidermis,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Skin,Lymphoid tissue,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,JAG1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,FB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMA,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TINAGL1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CFB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMN1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+keratinocyte,,KRT4,Human,Skin,Skin,Normal,Normal cell,Peridermal keratinocyte
+Pharyngeal arch cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch  cell
+Mesenchyme cell,Pharyngeal arch 1,PITX1,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch 1 mesenchyme cell
+Mesenchyme cell,Pharyngeal arch,DLX4,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch mesenchyme cell
+Mesenchyme cell,Pharyngeal arch,POSTN,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch mesenchyme cell
+Placode cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX3,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Plasma cell,,CD38,Human,Skin,Skin,Melanoma,Cancer cell,Plasma cell
+Plasma cell,,CD27,Human,Skin,Skin,Melanoma,Cancer cell,Plasma cell
+Plasma cell,,CD19,Human,Skin,Skin,Melanoma,Cancer cell,Plasma cell
+Plasma cell,,CD79A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGJ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,MS4A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGLL5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,SDC1,Human,Skin,Epidermis,Normal,Normal cell,Plasma cell
+Plasma cell,,IGHG1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Plasma cell,,PRDM1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,HLA-DR,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,NRP1,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Skin,Melanoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Melanoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,LILRA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Scalp,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Scalp,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,IL3RA,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,CD123,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,CD303,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,CLEC4C,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Stem cell,Pluripotent,TRA-1-60,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,CD13,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,SSEA-4,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,ANPEP,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Posterior cell,,GBX2,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+Posterior cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+Posterior cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+placode cell,Posterior,GBX2,Human,Skin,Skin,Normal,Normal cell,Posterior placode cell
+Progenitor cell,,EpCAM,Human,Skin,Skin,Normal,Normal cell,Progenitor cell
+Progenitor cell,,PROM1,Human,Skin,Skin,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NCAM2,Human,Skin,Skin,Normal,Normal cell,Progenitor cell
+T cell,Progenitor-like,TCF-1,Human,Skin,Skin,Melanoma,Cancer cell,Progenitor-like CD8+ T cell
+T cell,CD8+,HNF1A,Human,Skin,Skin,Melanoma,Cancer cell,Progenitor-like CD8+ T cell
+Proliferating cell,Proliferating,DUT,Human,Skin,Skin,Normal,Normal cell,Proliferating cell
+Proliferating cell,Proliferating,TYMS,Human,Skin,Skin,Normal,Normal cell,Proliferating cell
+T cell,Quiescent,S1PR1,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Quiescent,KLF2,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Quiescent,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,CD27,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,IL7R,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,LEF1,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+T cell,Stem,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Quiescent T stem cell
+Red blood cell,,CD235ab,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,HBA2,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,HBB,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,HBA1,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,CTLA-4,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,CCR4,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,CD25,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,,CD4,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL-10,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,TGF-beta,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,CD73,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,NRP1,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,HELIOS,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,CD223,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IL10,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,NT5E,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,IKZF2,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,LAG3,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,LAG3,Human,Skin,Skin,Normal,Normal cell,Regulatory T cell 1
+T cell,,CD49b,Human,Skin,Skin,Normal,Normal cell,Regulatory T cell 1
+T cell,Regulatory,CD25,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CD25,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Skin,Skin,Head And Neck Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Skin,Skin,Melanoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,ICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,PDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,ICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,TNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,PDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TGFB3,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,TGFB1,Human,Skin,Scalp,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD8B,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+Basal cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Resident basal cell
+T cell,Resident memory,MRC1,Human,Skin,Skin,Normal,Normal cell,Resident memory T cell
+T cell,Resident memory,LYVE1,Human,Skin,Skin,Normal,Normal cell,Resident memory T cell
+T cell,Resting,SELL,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Resting T cell
+T cell,,TCF7,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Resting T cell
+fibroblast,,CNN1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,COL11A1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,CD36,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,PPARγ,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MGP,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MFAP5,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,ELN,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+fibroblast,,MGP35,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Schwann cell,precursor,MPZ,Human,Skin,Skin,Normal,Normal cell,Schwann cell precursor cell
+Schwann cell,Myelination,PLP1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,Myelination,SOX10,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,Nerve Growth,NGFR,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,PDGDRA,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,Fab7,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,SCN7A,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,S100B,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,Plp1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,NES,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,LUM,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,DCN,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Skin,Skin,Normal,Normal cell,Schwann cell 
+Secretory cell,glandular,SCGB1B2P,Human,Skin,Lymphoid tissue,Normal,Normal cell,Secretory (glandular) cell
+Secretory cell,Secretory,DCD,Human,Skin,Skin,Normal,Normal cell,Secretory cell
+T cell,Skin resident,CD69,Human,Skin,Skin,Normal,Normal cell,Skin resident T cell
+Smooth muscle cell,Smooth muscle actin,SMA,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,Muscle cell,desmin,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,Smooth muscle contraction,calponin,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,SMN1,Human,Skin,Skin,Cutaneous perivascular epithelioid cell tumor,Cancer cell,Smooth muscle cell
+Smooth muscle cell,,MMP2,Human,Skin,Epidermis,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Skin,Epidermis,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,DES,Human,Skin,Lymphoid tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SMTN,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,DES,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TPM2,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Spinous cell,,KRT10,Human,Skin,Skin,Normal,Normal cell,Spinous cell
+Stem cell,,ABCB5,Human,Skin,Skin,Melanoma (circulating),Cancer cell,Stem cell
+Stem cell,,FOS,Human,Skin,Skin,Melanoma,Cancer cell,Stem cell
+Stem cell,,SLAMF6,Human,Skin,Skin,Melanoma,Cancer cell,Stem cell
+Stem cell,,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Stem cell
+Stem cell,,EZH2,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,Np63,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,C-MYC,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,OCT4,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,SOX2,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,H3K27me3,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,POU5F1,Human,Skin,Skin,Squamous Cell Carcinomas,Cancer cell,Stem cell
+Stem cell,,K15,Human,Skin,Epidermis,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Epidermis,Normal,Normal cell,Stem cell
+Stem cell,,Cytokeratin-19,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,CD200,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,Cytokeratin-15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,Beta-catenin,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,SOX9,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,LRIG1,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,K15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,CD44,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,p63,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,CD29,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,CD49f,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,NFATC1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LHX2,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LGR6,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,CD90,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,PLET1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,BLIMP1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,GLI1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LRIG1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,Procr,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,RPE65,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,ITGB1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,ITGA6,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,THY1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,PRDM1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Surface ectoderm cell,,TFAP2A,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Surface ectoderm cell,,HAND1,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Surface ectoderm cell,,WNT6,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Gland cell,Sweat,DCD,Human,Skin,Skin,Normal,Normal cell,Sweat and sebaceous gland cell
+Sweat gland cell,,DCD,Human,Skin,Skin,Normal,Normal cell,Sweat gland cell
+Sweat gland cell,,AQP5,Human,Skin,Skin,Normal,Normal cell,Sweat gland cell
+T cell,,Cd3e,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,Klrb1c,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD4,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD3,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD2,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD25,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,FoxP3,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD5,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD7,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,IL2RA,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,T cell
+T cell,,CD2,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,T cell
+T cell,CD8+,CD8,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,CD8+,CD8B,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CD25,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CTLA-4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Effector,CD69,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Effector,KLRG1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,TIM-3,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,TIGIT,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD7,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Skin,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,IL-2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD44,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD25,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,IL13,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,HAVCR2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TIGIT,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,LAG3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA-4,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PDCD1,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,IL2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,IL2RA,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,T cell
+T cell,,FOS,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,T cell
+T cell,,TCF7,Human,Skin,Subcutaneous adipose tissue,Normal,Normal cell,T cell
+T cell,follicular helper,CXCL13,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,PD1,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,CXCR5,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,follicular helper,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,,AADACL2,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,KIAA0319,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,FLG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,NCAPG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,ABO,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,LMAN1,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,RELN,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,,COL5A1,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,T helper,CD4,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CCR4,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CXCR3,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper,CCR6,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,CD3,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,CD11C,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,T helper(Th) cell
+T cell,T helper(Th),CXCL13,Human,Skin,Skin,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,T helper(Th),PD1,Human,Skin,Skin,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,T helper(Th),BCL6,Human,Skin,Skin,Peripheral T-cell lymphoma,Cancer cell,T helper(Th) cell
+T cell,T helper, CXCL9,Human,Skin,Scalp,Normal,Normal cell,T helper(Th) cell
+T cell,T helper, CXCL10,Human,Skin,Scalp,Normal,Normal cell,T helper(Th) cell
+T cell,T helper, IFNG,Human,Skin,Scalp,Normal,Normal cell,T helper(Th) cell
+T cell,T helper, CXCL11,Human,Skin,Scalp,Normal,Normal cell,T helper(Th) cell
+T cell,T helper, IL12B,Human,Skin,Scalp,Normal,Normal cell,T helper(Th) cell
+B cell,T2-MZP,CD21,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,T2-MZP,CD23,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,T2-MZP,CR2,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,Regulatory,FCER2,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,B220,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,IgM,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+B cell,,PTPRC,Human,Skin,Skin,Melanoma,Cancer cell,T2-MZP Regulatory B cell
+T cell,Tissue resident memory,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory CD4+ T cell
+T cell,Tissue resident memory,CXCR6,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory CD4+ T cell
+T cell,CD4+,RUNX3,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory CD4+ T cell
+T cell,Tissue resident memory,CD103,Human,Skin,Skin,Melanoma,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Skin,Skin,Melanoma,Cancer cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD103,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD49a,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CXCR6,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGA1,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,TRM,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue-resident memory T (TRM) cell
+Tumor cell,,CD4,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Tumor cell
+T cell,CD8+,CD39,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,CD8+,Tim3,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,CD8+,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,Tumor-infiltrating,CD39,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,Tumor-infiltrating,Tim3,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,Tumor-infiltrating,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,Tumor-infiltrating,ENTPD1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+T cell,Tumor-infiltrating,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-infiltrating CD8+ T cell
+stem cell,,CD34,Human,Skin,Skin,Squamous cell carcinoma(SCC),Cancer cell,Tumor-initiating stem cell(tSC)
+T cell,Tumor-reactive,CD137,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,TNFRSF9,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-reactive T cell
+T cell,Tumor-reactive,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,Tumor-reactive T cell
+macrophage,Tumor‐associated,CD163,Human,Skin,Skin,Melanoma,Cancer cell,Tumor‐associated macrophage (TAM)
+Vascular cell,,CD34,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,CD31,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,ERG,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,PECAM1,Human,Skin,Skin,Cutaneous epithelioid angiomatous nodule,Cancer cell,Vascular cell
+Vascular cell,,ERG,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell
+Vascular cell,,CD31,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell
+Vascular cell,,PECAM1,Human,Skin,Skin,Epithelioid sarcoma-like (pseudomyogenic) hemangioendothelioma,Cancer cell,Vascular cell
+Vascular endothelial cell,,ACKR1,Human,Skin,Skin,Normal,Normal cell,Vascular endothelial cell
+Vascular smooth muscle cell,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vasculature cell,,CD31,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Vasculature cell
+Vasculature cell,,PECAM1,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Vasculature cell
+Hair follicle cell,Vellus,KRT6B,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Hair follicle cell,Vellus,SOX9,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Hair follicle cell,Vellus,VHF,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Hair follicle cell,Vellus,SFRP1,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Endothelial cell,Venular,SELE,Human,Skin,Skin,Normal,Normal cell,Venular endothelial cell
+Endothelial cell,Venular,CD93,Human,Skin,Skin,Normal,Normal cell,Venular endothelial cell
+Langerhans cell,Activated,CD83,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,Activated,MMP9,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,PIM3,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,PXDC1,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,LMNA,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,STK17B,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,ARL4C,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+Langerhans cell,,C15orf48,Human,Skin,Skin,Normal,Normal cell,Activated langerhans cell
+T cell,Activated,ICOS,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD69,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,IL2RA,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,CD28,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF9,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,Activated,TNFRSF4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,TNF,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD8B,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,IL2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD27,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+T cell,,IFNG,Human,Skin,Skin,Normal,Normal cell,Activated T cell
+Adipocyte,,CFD,Human,Skin,Skin,Normal,Normal cell,Adipocyte
+Adipocyte,,APOE,Human,Skin,Skin,Normal,Normal cell,Adipocyte
+Anterior cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+Anterior cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+Anterior cell,,DLX5,Human,Skin,Skin,Normal,Normal cell,Anterior cell
+placode cell,Anterior,OTX1,Human,Skin,Skin,Normal,Normal cell,Anterior placode cell
+Antigen-presenting cell,Antigen-presenting,HLA-DPB1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DRA,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+Antigen-presenting cell,Antigen-presenting,HLA-DQA1,Human,Skin,Skin,Normal,Normal cell,Antigen-presenting cell
+B cell,,CD79A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MZB1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGLL1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGHG2,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,IGHG1,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,CD19,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,LAG3,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,CD38,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,VCAM1,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,CD27,Human,Skin,Skin,Melanoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGJ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,CD79A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,IGLL5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,JCHAIN,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,B cell
+B cell,,MS4A1,Human,Skin,Lymphoid tissue,Normal,Normal cell,B cell
+B cell,,CD19,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,MS4A1,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD79A,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IGHG1,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,FCER2,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,TBX21,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IGHD,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,ITGAX,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD27,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,MS4A1A,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,CD23,Human,Skin,Skin,Normal,Normal cell,B cell
+B cell,,IL4R,Human,Skin,Skin,Normal,Normal cell,B cell
+Basal cell,,CDH3,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT2,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,TGM3,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,DSC1,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,IVL,Human,Skin,Skin,Normal,Normal cell,Basal cell
+Basal cell,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal cell
+epithelial cell,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGB1,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+epithelial cell,,ITGA6,Human,Skin,Skin,Normal,Normal cell,Basal epithelial cell
+Keratinocyte,,CXCL14,Human,Skin,Skin,Normal,Normal cell,Basal keratinocyte
+Keratinocyte,,KRT14,Human,Skin,Skin,Normal,Normal cell,Basal keratinocyte
+Keratinocyte,,KRT5,Human,Skin,Skin,Normal,Normal cell,Basal keratinocyte
+Cancer cell,,MLANA,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,SOX10,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,HMB45,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TRP1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TYR,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,MITF,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,TRP2,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,PMEL,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,PRSS1,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Cancer cell,,RANBP2,Human,Skin,Skin,Melanoma,Cancer cell,Cancer cell
+Fibroblast,Cancer-associated,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,PDGFRB,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL6A3,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,,OLFML2B,Human,Skin,Skin,Melanoma,Cancer cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,FAP,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,COL11A1,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+Fibroblast,Cancer-associated,DPP4,Human,Skin,Skin,Normal,Normal cell,Cancer-associated fibroblast
+T cell,CD4+,CD4,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,GIPR,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,SYTL2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ABCG2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,LNPEP,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ANXA7,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,FYCO1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ZNF816A,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,STAT3,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,CCDC66,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,AFF3,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,HERC5,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,UBLCP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,IFIH1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,LEKR1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,GJB2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ERAP2,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,METTL1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,RASGRP1,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,,ZNF816,Human,Skin,Skin,Normal,Normal cell,CD4+ T cell
+T cell,CD8+,ITGAE,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GNLY,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,ITGA1,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,PRF1,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CXCR6,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Skin,Epithelium,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8A,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD8B,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,CD39,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,CX3CR1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,NKG2D,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,GZMK,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,NKG7,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,ENTPD1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,,KLRK1,Human,Skin,Skin,Normal,Normal cell,CD8+ T cell
+T cell,Central memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,SELL,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,Central memory,CD45RO,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+T cell,,CD69,Human,Skin,Skin,Normal,Normal cell,Central memory T cell
+Dendritic cell,Conventional,CD1C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CLEC10A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,CD1C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,CLEC10A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,WDFY4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,IRF8,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,Conventional,CLEC9A,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,WDFY4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,IRF8,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+Dendritic cell,1,CLEC9A,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 1(cDC1)
+dendritic cell,Conventional,CD1E,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,Conventional,CD1B,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,Conventional,IRF4,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,,SOCS2,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+dendritic cell,,SLCO5A1,Human,Skin,Skin,Normal,Normal cell,Conventional dendritic cell 2(cDC2)
+neural crest cell,Cranial,POSTN,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+neural crest cell,Cranial,TFAP2A,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+neural crest cell,Cranial,PAX3,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+neural crest cell,Cranial,SOX10,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest cell
+Mesenchymal cell,Cranial neural crest-derived,TWIST1,Human,Skin,Skin,Normal,Normal cell,Cranial neural crest-derived mesenchymal cell
+Carcinoma cell,Cutaneous squamous cell carcinoma (cSCC),KRT6A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cutaneous squamous cell carcinoma (cSCC)cell
+Carcinoma cell,Cutaneous squamous cell carcinoma (cSCC),CDKN2A,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cutaneous squamous cell carcinoma (cSCC)cell
+cell,Cycling,MKI67,Human,Skin,Skin,Normal,Normal cell,Cycling cell
+T cell,Cytotoxic,GZMH,Human,Skin,Skin,Melanoma,Cancer cell,Cytotoxic effector T cell
+T cell,Cytotoxic,PRF1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,IFN-γ,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,CD355,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CRTAM,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell
+Dendritic cell,,RGS1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,,TYROBP,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Dendritic cell
+Dendritic cell,Antigen presentation,CD205,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune regulation,SIRPA,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen recognition,CD209,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Activation,CD40,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Co-stimulation,CD80,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,AIF1,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD11c,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Co-stimulation,CD86,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD14,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune checkpoint,PD1-L2,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Maturation,LAMP3,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen presentation,CIITA,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune checkpoint,PD1-L1,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen uptake,LY75,Human,Skin,Epithelium,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD1C,Human,Skin,Lymphoid tissue,Normal,Normal cell,Dendritic cell
+Dendritic cell,,Itgax,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,MHCII,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,Cd209d,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,Cd209a,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Response,Mgl2,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CD1A,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Antigen Presentation,CD1C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Immune Cell Guidance,NRP1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Plasmacytoid,LILRA4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Coagulation and Inflammation,THBD,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Pathogen Recognition,CLE4C,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,IL3RA,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Cross-Presentation,XCR1,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,Development,IRF8,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dendritic cell,,GZMB,Human,Skin,Skin,Normal,Normal cell,Dendritic cell
+Dermal cell,,Col1a1,Human,Skin,Skin,Melanoma,Cancer cell,Dermal cell
+Dermal cell,,SFRP2,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,TCF4,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,WIF1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,APCDD1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+keratinocyte,Differentiated,KRT10,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte
+keratinocyte,Differentiated,KRT1,Human,Skin,Skin,Normal,Normal cell,Differentiated keratinocyte
+T cell,Effector,GZMK,Human,Skin,Skin,Melanoma,Cancer cell,Effector CD8 T cell
+Endocrine cell,,Pecam1,Human,Skin,Skin,Normal,Normal cell,Endocrine cell
+Endothelial cell,,Arhgef17,Human,Skin,Skin,Basal cell carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,TFF3,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Lymphoid tissue,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD31,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VE-cadheri,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EC,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,VWF,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLDN5,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD74,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,EGFL7,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SERPINE1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CSF3,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CD34,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CDH5,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,SLC12A2,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Endothelial cell,,CLEC14A,Human,Skin,Skin,Normal,Normal cell,Endothelial cell
+Epidermal cell,,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,LEF1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,KRT10,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,KRT1,Human,Skin,Skin,Normal,Normal cell,Epidermal cell
+Epidermal cell,,TP63,Human,Skin,Skin,Normal,Normal cell,Epidermal posterior cell
+Epidermal cell,Progenitor,TP63,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell
+Epidermal cell,Progenitor,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermal progenitor cell
+Epidermis cell,,KRT19,Human,Skin,Skin,Normal,Normal cell,Epidermis cell
+Epidermis cell,,WNT6,Human,Skin,Skin,Normal,Normal cell,Epidermis cell
+Epithelial cell,,KRT14,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,,KRT10,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Epithelial cell
+Epithelial cell,Secretory,SCGB2A2,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Antimicrobial,DCD,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Secretory,PIP,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Mucous secretion,MUCL1,Human,Skin,Epidermis,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial adhesion,EPCAM,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratocyte differentiation,IVL,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial development,TP63,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cornified envelope formation,TGM1,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Epithelial cell,Cytokeratin presence,pan-Cytokeratin,Human,Skin,Skin,Normal,Normal cell,Epithelial cell
+Erythrocyte,,HBA1,Human,Skin,Skin,Normal,Normal cell,Erythrocyte
+T cell,Exausted,CTLA4,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,BTLA,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,PDCD1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exausted,LAG3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Exausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,CTLA4,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR1,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,CD8A,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,CD8B,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,KIR3DL1,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,BTLA,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+T cell,,ADORA2A,Human,Skin,Skin,Normal,Normal cell,Exhausted T(Tex) cell
+Fibroblast,,CFD,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,APOD,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Fibroblast
+Fibroblast,,ICAM1,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,IL6,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,PDPN,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,CD34,Human,Skin,Dermis,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Epidermis,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Fibroblast
+Fibroblast,,CD26,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FAP,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CD90,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL14,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,FN1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,DCN,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL6A2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,PDGFRA,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SMA,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,LUM,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,SERPINH1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL6A5,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,COL1A2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,CXCL12,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,MMP2,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,DPP4,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Fibroblast,,THY1,Human,Skin,Skin,Normal,Normal cell,Fibroblast
+Granule cell,,FLG,Human,Skin,Skin,Normal,Normal cell,Granule cell
+Hair follicle cell,,SOX9,Human,Skin,Skin,Normal,Normal cell,Hair follicle cell
+Fibroblast,Healing Enriched,PLA2G2A,Human,Skin,Skin,Normal,Normal cell,Healing Enriched-Fibroblast
+Hematopoietic cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CD69,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,CST7,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Hematopoietic cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Hematopoietic cell
+Immune cell,,IC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD45,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Skin,Skin,Normal,Normal cell,Immune cell
+fibroblast,Inflammatory,CHI3L1,Human,Skin,Skin,Normal,Normal cell,Inflammatory fibroblast
+fibroblast,Inflammatory,TIMP1,Human,Skin,Skin,Normal,Normal cell,Inflammatory fibroblast
+Innate lymphoid cell,ILCs,ID2,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,IL1R1,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,KIT,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Innate lymphoid cell,ILCs,ZBTB16,Human,Skin,Skin,Normal,Normal cell,Innate lymphoid cell (ILCs)
+Keratinocyte,Intermediate,KRT1,Human,Skin,Skin,Normal,Normal cell,Intermediate keratinocyte
+Keratinocyte,,KRT7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte
+Keratinocyte,,KRT15,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Keratinocyte
+Keratinocyte,,K10 KRT10,Human,Skin,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT5,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT14,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,GJB2,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,UBE2C,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,FASN,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT15,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,Krt5,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Keratinocyte,,DEFB1,Human,Skin,Skin,Normal,Normal cell,Keratinocyte
+Langerhans cell,,CD207,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD1A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Langerhans cell,,S100B,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Langerhans cell
+Langerhans cell,,CD1A,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Langerhans cell,,CD207,Human,Skin,Skin,Normal,Normal cell,Langerhans cell
+Leukocyte,,CD45RO,Human,Skin,Skin,Normal,Normal cell,Leukocyte
+endothelial cell,Lymphatic,LYVE1,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell
+endothelial cell,Lymphatic,CCL21,Human,Skin,Skin,Normal,Normal cell,Lymphatic endothelial cell
+Lymphocyte,,CD7,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+Lymphocyte,,Cd3d,Human,Skin,Skin,Normal,Normal cell,Lymphocyte
+macrophage,M1,CXCL10,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CXCL9,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,IFI27,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,CD169,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,FOS,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,S100A8,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,IL1B,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M1,SIGLEC1,Human,Skin,Skin,Normal,Normal cell,M1 macrophage
+macrophage,M2,MRC1,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD163,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,CD204,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,DAB2,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+macrophage,M2,MSR1,Human,Skin,Skin,Normal,Normal cell,M2 macrophage
+Macrophage,,CD14,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Macrophage
+Macrophage,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,SIGLEC1,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Macrophage
+Macrophage,,AIF1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Macrophage
+Macrophage,,CD15,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD68,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CXCR4,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,MS4A4A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD14,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,F13A1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CCL2,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD1C,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,CD1A,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,ALF1,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Macrophage,,FUT4,Human,Skin,Skin,Normal,Normal cell,Macrophage
+Mast cell,,TPSAB1,Human,Skin,Lymphoid tissue,Normal,Normal cell,Mast cell
+Mast cell,,TPSAB1,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,IL1RL1,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,CPA3,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Mast cell,,TPSB2,Human,Skin,Skin,Normal,Normal cell,Mast cell
+Melanocytes,,MLANA,Human,Skin,Skin,Normal,Normal cell,Melanocytes and Schwann cell
+Schwann cell,,CDH19,Human,Skin,Skin,Normal,Normal cell,Melanocytes and Schwann cell
+Melanocyte,,PMEL,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Lymphoid tissue,Normal,Normal cell,Melanocyte
+Melanocyte,,PMEL,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MLANA,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,DCT,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ME,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYR,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,APOD,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,ATP1B1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,TYRP1,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanocyte,,MMP12,Human,Skin,Skin,Normal,Normal cell,Melanocyte
+Melanoma cell,,MLANA,Human,Skin,Skin,Melanoma,Cancer cell,Melanoma cell
+B cell,Memory,DSAP,Human,Skin,Skin,Normal,Normal cell,Memory B cell
+B cell,,MS4A1,Human,Skin,Skin,Normal,Normal cell,Memory B cell
+T cell,Memory,CD28,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,Memory,SELL,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,Memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,CD4,CD28,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,CD4,SELL,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,CD4,CCR7,Human,Skin,Skin,Normal,Normal cell,Memory CD4 T cell
+T cell,CD4+,CD4,Human,Skin,Skin,Normal,Normal cell,Memory CD4+ T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Memory CD4+ T cell
+T cell,Memory,CCR7,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,Memory,SELL,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,,CD28,Human,Skin,Skin,Normal,Normal cell,Memory T cell
+T cell,Memory,SELL,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,CCR7,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,TCF7,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+T cell,Memory,LEF1,Human,Skin,Skin,Melanoma,Cancer cell,Memory T(Tm) cell
+Merkel cell,,ATOH1,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,ISL1,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT20,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT8,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,KRT18,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Merkel cell,,SOX2,Human,Skin,Skin,Normal,Normal cell,Merkel cell
+Mesenchymal cell,,TWIST2,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,LUM,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL1A1,Human,Skin,Skin,Normal,Normal cell,Mesenchymal cell
+Dendritic cell,Migrating,CCL19,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Migrating dendritic cell
+Dendritic cell,Migrating,CCR7,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Migrating dendritic cell
+Langerhans cell,Migratory,CCR7,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,BIRC3,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IRF4,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CD83,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CLPTM1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IL7R,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CD40,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,IDO1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,NUB1,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Langerhans cell,,CCL22,Human,Skin,Skin,Normal,Normal cell,Migratory langerhans cell
+Mitotic cell,,MC,Human,Skin,Skin,Normal,Normal cell,Mitotic cell
+Mitotic cell,,MKI67,Human,Skin,Skin,Normal,Normal cell,Mitotic cell
+Macrophage,Mono,CSF1R,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Macrophage,Mono,C1QA,Human,Skin,Skin,Normal,Normal cell,Mono-macrophage
+Monocyte,,FCER1G,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,VCAN,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,LYZ,Human,Skin,Skin,Melanoma,Cancer cell,Monocyte
+Monocyte,,CD14,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CSF1R,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,ITGAM,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCGR1A,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,HLA-DRA,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,S100A9,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,EREG,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,S100A8,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCN1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,THBS1,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,CD16,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Monocyte,,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Monocyte
+Mononuclear phagocyte,,LYZ,Human,Skin,Skin,Normal,Normal cell,Mononuclear phagocyte
+Mononuclear phagocyte,,CD1C,Human,Skin,Skin,Normal,Normal cell,Mononuclear phagocyte
+Myeloid cell,,TBX21,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,ITGAX,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,NR4A2,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,AREG,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CD1C,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,CLEC10A,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,PSAP,Human,Skin,Skin,Melanoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DRB1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DQB2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,HLA-DRA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid cell
+Myeloid cell,,CTSS,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CD68,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,Lyz2,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,CXCL8,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,LYZ,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,,IL1B,Human,Skin,Skin,Normal,Normal cell,Myeloid cell
+Myeloid cell,suppressor,S100A9,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid-derived suppressor cell
+Myeloid cell,suppressor,S100A8,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Myeloid-derived suppressor cell
+Fibroblast,Contractile,ACTA2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Activation,PDPN,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL1A2,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL1A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Extracellular Matrix,COL3A1,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Activation,FAP,Human,Skin,Dermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,POSTN,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast
+Myofibroblast,,ACTA2,Human,Skin,Epidermis,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,MMP14,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,ENG,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,Col1a1,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,ACTA2,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,Myo,SFRP4,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+T cell,Naive,TCF7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,LEF1,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,IL7R,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+Natural killer cell,,CD56,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,NCAM1,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CD45,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,PTPRC,Human,Skin,Skin,Melanoma,Cancer cell,Natural killer cell
+Natural killer cell,,CX3CR1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Natural killer cell
+Natural killer cell,Activation,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Activation,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,GZMB,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,GNLY,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic Function,FCGR3A,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,XCL1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,XCL2,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,CCL5,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Chemokine Function,CCL4,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Receptor Complex,KLRB1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Receptor Complex,CD94,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,Development,EOMES,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+Natural killer cell,General NK Cell Marker,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer cell
+T cell,Natural killer,CD355,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NKG7,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCAM1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCR1,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,CRTAM,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Natural killer T(NKT) cell
+Neural cell,crest-like,MLANA,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural cell,crest-like,SOX10,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neural cell,,S100B,Human,Skin,Skin,Normal,Normal cell,Neural crest-like cell
+Neuroectoderm cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,OTX1,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,HES5,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuroectoderm cell,,PAX3,Human,Skin,Skin,Normal,Normal cell,Neuroectoderm cell
+Neuron,,PGP9.5 UCHL1,Human,Skin,Skin,Normal,Normal cell,Neuron
+Neutrophil,,VNN2,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil
+Neutrophil,,FCGR3B,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Neutrophil
+NK cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+T cell,,CCL5,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,NK and T cell
+ectoderm cell,,HAND1,Human,Skin,Skin,Normal,Normal cell,Non-neural ectoderm cell
+Normal cell,,TNPO3,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,IRF5,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,FLG,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,FLG2,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,HRNR,Human,Skin,Skin,Normal,Normal cell,Normal cell
+Normal cell,,IGHM,Human,Skin,Skin,Normal,Normal cell,Normal cell
+fibroblast,,FAP,Human,Skin,Skin,Normal,Normal cell,Pan-fibroblast
+Fibroblast,Papillary,NTN1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,Papillary,APCDD1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,CD26,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,PDPN,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL6A1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL23A1,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,COL23A13,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,PTGDS,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Fibroblast,,DPP4,Human,Skin,Skin,Normal,Normal cell,Papillary fibroblast
+Pericyte,,RGS5,Human,Skin,Epidermis,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Skin,Lymphoid tissue,Normal,Normal cell,Pericyte
+Pericyte,,MCAM,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CD146,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,JAG1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,RGS5,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PDGFRB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,FB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMA,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TINAGL1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,PHLDA1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,CFB,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Pericyte,,SMN1,Human,Skin,Skin,Normal,Normal cell,Pericyte
+Keratinocyte,Peridermal,KRT4,Human,Skin,Skin,Normal,Normal cell,Peridermal keratinocyte
+Pharyngeal arch cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch  cell
+Mesenchyme cell,Pharyngeal arch 1,PITX1,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch 1 mesenchyme cell
+Pharyngeal arch mesenchyme cell,,DLX4,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch mesenchyme cell
+Pharyngeal arch mesenchyme cell,,POSTN,Human,Skin,Skin,Normal,Normal cell,Pharyngeal arch mesenchyme cell
+Placode cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX3,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Placode cell,,PAX6,Human,Skin,Skin,Normal,Normal cell,Placode cell
+Plasma cell,,CD79A,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGJ,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,MS4A1,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGLL5,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,JCHAIN,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasma cell
+Plasma cell,,IGHG1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Plasma cell,,PRDM1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Plasma cell,,MZB1,Human,Skin,Skin,Normal,Normal cell,Plasma cell
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,,NRP1,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,CLEC4C,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Plasmacytoid dendritic cell,pDC,LILRA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,IL3RA,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD123,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CD303,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Dendritic cell,Plasmacytoid,CLEC4C,Human,Skin,Skin,Normal,Normal cell,Plasmacytoid dendritic cell(pDC)
+Posterior cell,,GBX2,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+Posterior cell,,PAX8,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+Posterior cell,,SIX1,Human,Skin,Skin,Normal,Normal cell,Posterior cell
+Posterior placode cell,,GBX2,Human,Skin,Skin,Normal,Normal cell,Posterior placode cell
+Proliferating cell,Proliferating,DUT,Human,Skin,Skin,Normal,Normal cell,Proliferating cell
+Proliferating cell,Proliferating,TYMS,Human,Skin,Skin,Normal,Normal cell,Proliferating cell
+Red blood cell,erythrocyte,HBA2,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBB,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,HBA1,Human,Skin,Skin,Normal,Normal cell,Red blood cell (erythrocyte)
+T cell,Treg,FOXP3,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory,TNFRSF4,Human,Skin,Skin,Cutaneous Squamous Cell Carcinoma,Cancer cell,Regulatory T (Treg) cell
+T cell,Regulatory (Treg),FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T (Treg) cell
+T cell,Regulatory,markerTNFRSF18,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerICOS,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerTIGIT,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerTNFRSF4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerPDCD1,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,markerCTLA4,Human,Skin,Skin,Primary cutaneous B cell lymphoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,IL2RA,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Regulatory,CTLA4,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,Treg,CTLA4,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD4,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,Regulatory T(Treg) cell
+Basal cell,,KRT14,Human,Skin,Skin,Normal,Normal cell,Resident basal cell
+T cell,Resident,F13A1,Human,Skin,Skin,Normal,Normal cell,Resident memory T cell
+T cell,Resident,LYVE1,Human,Skin,Skin,Normal,Normal cell,Resident memory T cell
+T cell,Resting,SELL,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Resting T cell
+T cell,,TCF7,Human,Skin,Skin,Cutaneous T cell lymphoma,Cancer cell,Resting T cell
+Fibroblast,Reticular,CNN1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,ACTA2,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,COL11A1,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,CD36,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,PPARγ,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,MGP,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,MFAP5,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,ELN,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Fibroblast,Reticular,MGP35,Human,Skin,Skin,Normal,Normal cell,Reticular fibroblast
+Schwann cell,,MPZ,Human,Skin,Skin,Normal,Normal cell,Schwann cell precursor cell
+Schwann cell,myelination,PLP1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,myelination,Plp1,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,cell adhesion,CDH19,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,calcium-binding,S100B,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,development,SOX10,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,nerve growth,NGFR,Human,Skin,Skin,Normal,Normal cell,Schwann cell
+Schwann cell,,CDH19,Human,Skin,Skin,Normal,Normal cell,Schwann cell 
+Secretory cell,glandular,SCGB1B2P,Human,Skin,Lymphoid tissue,Normal,Normal cell,Secretory (glandular) cell
+Secretory cell,Secretory,DCD,Human,Skin,Skin,Normal,Normal cell,Secretory cell
+Smooth muscle cell,,DES,Human,Skin,Lymphoid tissue,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,ACTA2,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,SMTN,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,DES,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TAGLN,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Smooth muscle cell,,TPM2,Human,Skin,Skin,Normal,Normal cell,Smooth muscle cell
+Spinous cell,,KRT10,Human,Skin,Skin,Normal,Normal cell,Spinous cell
+Stem cell,,ABCB5,Human,Skin,Skin,Melanoma (circulating),Cancer cell,Stem cell
+Stem cell,,K15,Human,Skin,Epidermis,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Epidermis,Normal,Normal cell,Stem cell
+Stem cell,,K15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Hair follicle,Normal,Normal cell,Stem cell
+Stem cell,,NFATC1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LHX2,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,KRT15,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LGR5,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,PLET1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,BLIMP1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,GLI1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LRIG1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,LGR6,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Stem cell,,PRDM1,Human,Skin,Skin,Normal,Normal cell,Stem cell
+Surface ectoderm cell,,TFAP2A,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Surface ectoderm cell,,HAND1,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Surface ectoderm cell,,WNT6,Human,Skin,Skin,Normal,Normal cell,Surface ectoderm cell
+Sweat and sebaceous gland cell,Sweat,DCD,Human,Skin,Skin,Normal,Normal cell,Sweat and sebaceous gland cell
+Sweat gland cell,,DCD,Human,Skin,Skin,Normal,Normal cell,Sweat gland cell
+Sweat gland cell,,AQP5,Human,Skin,Skin,Normal,Normal cell,Sweat gland cell
+T cell,,CD2,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Langerhans cell histiocytosis,Cancer cell,T cell
+T cell,,ITGAE,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD8B,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,ENTPD1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD8A,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD3G,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD3D,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,KLRG1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD2,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CTLA-4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,TIM-3,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,TIGIT,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,PD-1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CTLA4,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,PDCD1,Human,Skin,Skin,Melanoma,Cancer cell,T cell
+T cell,,CD2,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD7,Human,Skin,Skin,Squamous Cell Carcinoma,Cancer cell,T cell
+T cell,,CD3D,Human,Skin,Lymphoid tissue,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,IL13,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,HAVCR2,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,TIGIT,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,LAG3,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA-4,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PDCD1,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,PTPRC,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,,CTLA4,Human,Skin,Skin,Normal,Normal cell,T cell
+T cell,Follicular helper (Tfh),CXCL13,Human,Skin,Skin,Melanoma,Cancer cell,T follicular helper(Tfh) cell
+T cell,Th2,AADACL2,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,FLG,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,ABO,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Th2,RELN,Human,Skin,Skin,Normal,Normal cell,T helper 2(Th2) cell
+T cell,Tissue resident memory,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,ITGAE,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,Tissue resident memory,CXCR6,Human,Skin,Skin,Normal,Normal cell,Tissue resident memory T(TRM) cell
+T cell,TRM,CD69,Human,Skin,Skin,Normal,Normal cell,Tissue-resident memory T (TRM) cell
+stem cell,,CD34,Human,Skin,Skin,Squamous cell carcinoma(SCC),Cancer cell,Tumor-initiating stem cell(tSC)
+Endothelial cell,Vascular,ACKR1,Human,Skin,Skin,Normal,Normal cell,Vascular endothelial cell
+Vascular smooth muscle cell,VSMC,TAGLN,Human,Skin,Skin,Normal,Normal cell,Vascular smooth muscle cell(VSMC)
+Vellus hair follicle cell,hair follicle,KRT6B,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,hair follicle,SOX9,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,Vellus,VHF,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Vellus hair follicle cell,hair follicle,SFRP1,Human,Skin,Skin,Normal,Normal cell,Vellus hair follicle cell
+Venular endothelial cell,,SELE,Human,Skin,Skin,Normal,Normal cell,Venular endothelial cell
+Venular endothelial cell,,CD93,Human,Skin,Skin,Normal,Normal cell,Venular endothelial cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial progenitor cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Epithelial progenitor cell,,CD24,CD24

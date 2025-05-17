@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Glial cell,CL_0000125,MBP,MBP
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Glial cell,CL_0000125,CLDN5,CLDN5
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Glial cell,CL_0000125,SLC1A2,SLC1A2

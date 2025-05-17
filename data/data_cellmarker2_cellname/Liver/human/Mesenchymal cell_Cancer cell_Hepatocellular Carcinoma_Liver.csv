@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mesenchymal cell,CL_0008019,SNAI3,SNAI3
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mesenchymal cell,CL_0008019,SNAI1,SNAI1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Mesenchymal cell,CL_0008019,COL3A1,COL3A1

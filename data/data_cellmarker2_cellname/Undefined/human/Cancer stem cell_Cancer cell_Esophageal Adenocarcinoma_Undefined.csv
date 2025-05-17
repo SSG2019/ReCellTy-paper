@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Esophageal Adenocarcinoma,Cancer cell,Cancer stem cell,,ALDH1,ALDH1A1
+Human,Undefined,Undefined,,Esophageal Adenocarcinoma,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Esophageal Adenocarcinoma,Cancer cell,Cancer stem cell,,CD44,CD44

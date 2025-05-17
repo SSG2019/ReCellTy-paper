@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,Mantle cell lymphoma (MCL) cell,,mTORC1,
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,Mantle cell lymphoma (MCL) cell,,OXPHOS,
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,Mantle cell lymphoma (MCL) cell,,MYC,MYC
+Human,Undefined,Undefined,,Lymphoma,Cancer cell,Mantle cell lymphoma (MCL) cell,,BCR,BCR

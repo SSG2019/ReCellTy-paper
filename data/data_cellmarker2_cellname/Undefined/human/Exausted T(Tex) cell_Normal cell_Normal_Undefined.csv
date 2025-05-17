@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,TOX,TOX
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,TOX2,TOX2
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,LAG3,LAG3
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,GZMB,GZMB
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,ITGAE,ITGAE
+Human,Undefined,Undefined,,Normal,Normal cell,Exausted T(Tex) cell,,ENTPD1,ENTPD1

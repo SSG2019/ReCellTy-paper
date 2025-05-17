@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Airway,Epithelium,UBERON_0000483,Normal,Normal cell,Ciliated cell,CL_0000064,FOXJ1,FOXJ1

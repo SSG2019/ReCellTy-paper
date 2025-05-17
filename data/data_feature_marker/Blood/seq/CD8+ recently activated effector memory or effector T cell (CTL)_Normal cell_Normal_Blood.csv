@@ -1,0 +1,13 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,CD8A,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CD8+,CD8B,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,Recently activated,KLRG1,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector memory or effector,GZMH,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector memory or effector,PRF1,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector memory or effector,EOMES,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,Effector memory or effector,TBX21,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,PRF1,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,GZMH,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,EOMES,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,TBX21,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)
+T cell,CTL,CX3CR1,Human,Blood,Blood,Normal,Normal cell,CD8+ recently activated effector memory or effector T cell (CTL)

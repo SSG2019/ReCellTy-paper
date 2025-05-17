@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stromal cell,,RGS5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,IGFBP5,Human,Testis,Testis,Normal,Normal cell,Stromal cell
+Stromal cell,,TPM2,Human,Testis,Testis,Normal,Normal cell,Stromal cell

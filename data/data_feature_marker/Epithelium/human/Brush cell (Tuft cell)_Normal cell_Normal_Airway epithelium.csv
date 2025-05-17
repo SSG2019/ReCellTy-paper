@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Brush cell,Tuft cell,DCLK1,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,POU2F3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,GNAT3,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)
+Brush cell,Tuft cell,TRPM5,Human,Epithelium,Airway epithelium,Normal,Normal cell,Brush cell (Tuft cell)

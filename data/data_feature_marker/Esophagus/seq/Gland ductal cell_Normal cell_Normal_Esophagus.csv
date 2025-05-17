@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Gland cell,ductal,KRT7,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell
+Gland cell,,KRT23,Human,Esophagus,Esophagus,Normal,Normal cell,Gland ductal cell

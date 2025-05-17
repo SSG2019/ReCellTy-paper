@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Natural killer,KLRB1,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRC1,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRC2,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRF1,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,FGFBP2,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,TYROBP,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,NCR3,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRC3,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,ZBTB16,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,CD96,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,FCGR3A,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,S1PR5,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell
+T cell,Natural killer,KLRD1,Human,Brain,Brain,Normal,Normal cell,Natural killer T(NKT) cell

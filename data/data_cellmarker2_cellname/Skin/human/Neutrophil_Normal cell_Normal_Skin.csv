@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neutrophil,CL_0000775,CD16b,FCGR3B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neutrophil,CL_0000775,CMTM2,CMTM2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neutrophil,CL_0000775,FCGR3B,FCGR3B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Neutrophil,CL_0000775,CD10,MME

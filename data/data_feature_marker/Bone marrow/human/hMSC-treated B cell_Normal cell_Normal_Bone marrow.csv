@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,hMSC-treated,CD40,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD27,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD5,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD23,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD1d,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD24,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD38,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD43,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,IgM,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CD21,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,FCER2,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,SPN,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell
+B cell,hMSC-treated,CR2,Human,Bone marrow,Bone marrow,Normal,Normal cell,hMSC-treated B cell

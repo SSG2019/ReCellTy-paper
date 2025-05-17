@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Intermediate progenitor cell,,PPP1R17,PPP1R17
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Intermediate progenitor cell,,EOMES,EOMES
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Intermediate progenitor cell,,NEUROD4,NEUROD4

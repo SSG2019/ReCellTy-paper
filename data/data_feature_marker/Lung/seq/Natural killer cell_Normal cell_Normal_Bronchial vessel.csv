@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,,TYROBP,Human,Lung,Bronchial vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,NKG7,Human,Lung,Bronchial vessel,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRD1,Human,Lung,Bronchial vessel,Normal,Normal cell,Natural killer cell

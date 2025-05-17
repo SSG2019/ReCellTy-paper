@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Macrophage,CL_0000235,CD206,MRC1
+Human,Nasal,Nasal mucosa,UBERON_0002306,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163

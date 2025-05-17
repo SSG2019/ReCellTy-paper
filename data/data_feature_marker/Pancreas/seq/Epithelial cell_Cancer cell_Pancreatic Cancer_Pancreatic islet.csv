@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Epcam,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt7,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell
+Epithelial cell,,Krt19,Human,Pancreas,Pancreatic islet,Pancreatic Cancer,Cancer cell,Epithelial cell

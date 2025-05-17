@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,Foxp3,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,PD1,PDCD1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,CCR8,CCR8
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TGFB1,TGFB1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,TGFβ,
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,STAT5B,STAT5B
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3

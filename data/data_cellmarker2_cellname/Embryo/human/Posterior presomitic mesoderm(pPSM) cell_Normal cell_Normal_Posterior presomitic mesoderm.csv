@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Posterior presomitic mesoderm,,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell,,TBX6,TBX6
+Human,Embryo,Posterior presomitic mesoderm,,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell,,RSPO3,RSPO3
+Human,Embryo,Posterior presomitic mesoderm,,Normal,Normal cell,Posterior presomitic mesoderm(pPSM) cell,,MSGN1,MSGN1

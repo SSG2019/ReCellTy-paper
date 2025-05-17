@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrioventricular canal cell,,MEIS1,MEIS1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrioventricular canal cell,,TGFB2,TGFB2
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrioventricular canal cell,,JUN,JUN
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Atrioventricular canal cell,,ISL1,ISL1

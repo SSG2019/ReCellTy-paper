@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Thyroid,Thyroid,UBERON_0002046,Anaplastic thyroid cancer,Cancer cell,Stem cell,CL_0000034,ALDH,

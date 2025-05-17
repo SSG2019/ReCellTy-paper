@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+chief cell,Zymogenic,CD13,Human,Stomach,Gastric epithelium,Normal,Normal cell,Zymogenic chief cell
+chief cell,,ANPEP,Human,Stomach,Gastric epithelium,Normal,Normal cell,Zymogenic chief cell

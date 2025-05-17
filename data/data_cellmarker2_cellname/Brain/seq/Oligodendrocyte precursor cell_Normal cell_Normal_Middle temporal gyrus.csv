@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PDGFRA,PDGFRA
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,OLIG2,OLIG2
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,COL20A1,COL20A1
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PRRX1,PRRX1

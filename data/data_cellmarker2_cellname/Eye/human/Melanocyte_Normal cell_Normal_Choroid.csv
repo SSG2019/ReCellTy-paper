@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Melanocyte,CL_0000148,DCT,DCT
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Melanocyte,CL_0000148,MLANA,MLANA
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Melanocyte,CL_0000148,PMEL,PMEL
+Human,Eye,Choroid,UBERON_0001776,Normal,Normal cell,Melanocyte,CL_0000148,TYRP1,TYRP1

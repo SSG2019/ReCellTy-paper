@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Pericyte,CL_0000669,PDGFRB,PDGFRB
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Pericyte,CL_0000669,CD90,THY1
+Human,Heart,Heart,UBERON_0000948,Normal,Normal cell,Pericyte,CL_0000669,NG2,CSPG4

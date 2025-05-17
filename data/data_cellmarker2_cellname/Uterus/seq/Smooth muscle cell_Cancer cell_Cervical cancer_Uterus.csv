@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Smooth muscle cell,CL_0000192,PRLR,PRLR
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Smooth muscle cell,CL_0000192,SFRP4,SFRP4
+Human,Uterus,Uterus,UBERON_0000995,Cervical cancer,Cancer cell,Smooth muscle cell,CL_0000192,ACTG2,ACTG2

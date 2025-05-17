@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,,Aquaporin-0,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,,ISLET-1,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,,Go-alpha,
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,OTX2,OTX2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,VSX2,VSX2
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,TMEM215,TMEM215
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,TRPM1,TRPM1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,CAMK2B,CAMK2B
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,GRM6,GRM6
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,VSX1,VSX1
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,RCVRN,RCVRN
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,GRM6,GRM6
+Human,Eye,Retina,UBERON_0000966,Normal,Normal cell,Bipolar cell,CL_0000752,OTX2,OTX2

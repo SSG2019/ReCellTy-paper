@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,,CD14,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD16,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD19,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD56,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,CD3,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,FCGR3A,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell
+Dendritic cell,,NCAM1,Human,Uterus,Uterus,Cervical cancer,Cancer cell,Dendritic cell

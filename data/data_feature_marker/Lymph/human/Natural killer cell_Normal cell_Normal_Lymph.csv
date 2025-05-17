@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,cytotoxic,NKG7,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,cytotoxic,CD57,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,apoptosis,TRAIL,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,apoptosis,TNFSF10,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,MHC recognition,KIR,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,immune regulation,TIM3,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,immune regulation,HAVCR2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,CD2,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell
+Natural killer cell,,GEM,Human,Lymph,Lymph,Normal,Normal cell,Natural killer cell

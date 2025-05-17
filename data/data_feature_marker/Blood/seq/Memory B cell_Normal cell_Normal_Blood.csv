@@ -1,0 +1,15 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+B cell,Memory,CD27,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD70,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD95,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD38,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD21,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD22,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD19,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,MS4A1,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD20,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD11c,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CD86,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,IgD,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,CR2,Human,Blood,Blood,Normal,Normal cell,Memory B cell
+B cell,Memory,FAS,Human,Blood,Blood,Normal,Normal cell,Memory B cell

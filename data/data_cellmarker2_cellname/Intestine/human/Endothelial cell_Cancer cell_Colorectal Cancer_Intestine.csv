@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,ENG,ENG
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,GNG11,GNG11
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,FLI1,FLI1
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,VEGFA,VEGFA
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,Endothelial cell,CL_0000115,VE-cadherin,

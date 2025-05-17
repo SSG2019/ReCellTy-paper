@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,ITGAM,ITGAM
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,CAMP,CAMP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,S100A9,S100A9
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,S100A8,S100A8
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,MMP8,MMP8
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,LOX1,OLR1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,OLR1,OLR1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,ARG1,ARG1
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Polymorphonuclear myeloid-derived suppressor(PMN-MDSC) cell,,LCN2,LCN2

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alveolar cell,ATII,SFTPC,Human,Lung,Lung,Normal,Normal cell,Alveolar type II (ATII) cell
+Alveolar cell,ATII,MUC1,Human,Lung,Lung,Normal,Normal cell,Alveolar type II (ATII) cell
+Alveolar cell,ATII,ABCA3,Human,Lung,Lung,Normal,Normal cell,Alveolar type II (ATII) cell
+Alveolar cell,ATII,SFTPB,Human,Lung,Lung,Normal,Normal cell,Alveolar type II (ATII) cell

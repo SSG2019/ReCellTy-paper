@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Intracranial Aneurysm,Cancer cell,Regulatory T (Treg) cell,CL_0000815,CD25,IL2RA
+Human,Brain,Brain,UBERON_0000955,Intracranial Aneurysm,Cancer cell,Regulatory T (Treg) cell,CL_0000815,CD4,CD4

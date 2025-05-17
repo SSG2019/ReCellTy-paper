@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Schwann cell,CL_0002573,Glial fibrillary acidic protein,
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Schwann cell,CL_0002573,GFAP,GFAP

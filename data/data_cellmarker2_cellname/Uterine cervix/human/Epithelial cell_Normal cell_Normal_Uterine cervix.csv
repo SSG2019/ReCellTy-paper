@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Epithelial cell,CL_0000066,GATA3,GATA3
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Epithelial cell,CL_0000066,ERBB2,ERBB2
+Human,Uterine cervix,Uterine cervix,UBERON_0000002,Normal,Normal cell,Epithelial cell,CL_0000066,CDH1,CDH1

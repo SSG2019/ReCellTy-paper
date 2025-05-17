@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,,HBB,Human,Blood,Blood,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,SPI1,Human,Blood,Blood,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,,ALAS2,Human,Blood,Blood,Normal,Normal cell,Red blood cell (erythrocyte)

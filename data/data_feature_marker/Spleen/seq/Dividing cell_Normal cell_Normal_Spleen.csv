@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dividing cell,cell division,H2AFZ,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,TUBB,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,MKI67,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,CDK1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell
+Dividing cell,cell division,H2AZ1,Human,Spleen,Spleen,Normal,Normal cell,Dividing cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Venous blood,UBERON_0013756,Normal,Normal cell,Natural killer cell,CL_0000623,NCR3,NCR3
+Human,Blood,Venous blood,UBERON_0013756,Normal,Normal cell,Natural killer cell,CL_0000623,NKG7,NKG7
+Human,Blood,Venous blood,UBERON_0013756,Normal,Normal cell,Natural killer cell,CL_0000623,KLRD1,KLRD1
+Human,Blood,Venous blood,UBERON_0013756,Normal,Normal cell,Natural killer cell,CL_0000623,CD56,NCAM1

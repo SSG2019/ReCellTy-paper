@@ -1,0 +1,2 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Fetal pancreas,UBERON_0003922,Normal,Normal cell,Neuroendocrine cell,CL_0000165,Neuron-specific enolase,

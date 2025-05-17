@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,S100A9,S100A9
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,S100A8,S100A8
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD163,CD163
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,FCGR3A,FCGR3A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,PTPRC,PTPRC
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,LYZ,LYZ
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Stomach,Stomach,UBERON_0000945,Gastric Adenocarcinoma,Cancer cell,Myeloid cell,CL_0000763,ITGAX,ITGAX

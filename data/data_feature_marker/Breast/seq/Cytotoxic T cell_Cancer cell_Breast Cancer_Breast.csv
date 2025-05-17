@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,PRF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMB,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,NKG7,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD25,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3E,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD2,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,VIM,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3D,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,LAPTM5,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,PTPRC,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD3G,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD28,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,CD8A,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell
+T cell,,IL2RA,Human,Breast,Breast,Breast Cancer,Cancer cell,Cytotoxic T cell

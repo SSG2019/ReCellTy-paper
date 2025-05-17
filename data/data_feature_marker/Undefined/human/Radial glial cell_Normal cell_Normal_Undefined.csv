@@ -1,0 +1,14 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Radial glial cell,Glial,GFAP,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,BLBP,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,GLAST,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,SLC1A3,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,Vimentin,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,Nestin,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Progenitor,PAX6,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Progenitor,SOX2,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Progenitor,HES1,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Progenitor,HES5,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,TNC,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,N-cadherin,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell
+Radial glial cell,Glial,FABP7,Human,Undefined,Undefined,Normal,Normal cell,Radial glial cell

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Cancer cell,,ALK,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,CD30,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell
+Cancer cell,,TNFRSF8,Human,Lymph node,Lymphoid tissue,Anaplastic large cell lymphoma,Cancer cell,Cancer cell

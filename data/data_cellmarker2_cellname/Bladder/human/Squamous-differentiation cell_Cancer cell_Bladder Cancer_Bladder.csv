@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,DSC3,DSC3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,DSG3,DSG3
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,DSC1,DSC1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,DSG1,DSG1
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,DSC2,DSC2
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,S100A7,S100A7
+Human,Bladder,Bladder,UBERON_0001255,Bladder Cancer,Cancer cell,Squamous-differentiation cell,,S100A8,S100A8

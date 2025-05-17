@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Memory,TNFRSF4,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell
+T cell,Memory,IL7R,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell
+T cell,Effector,LTB,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell
+T cell,,TIMP1,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell
+T cell,,CD52,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell
+T cell,,AQP3,Human,Liver,Liver,Normal,Normal cell,Effector memory T cell

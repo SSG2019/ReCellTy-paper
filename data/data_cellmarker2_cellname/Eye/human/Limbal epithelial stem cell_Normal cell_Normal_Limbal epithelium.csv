@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Eye,Limbal epithelium,UBERON_0001772,Normal,Normal cell,Limbal epithelial stem cell,CL_0000034,CD166,ALCAM
+Human,Eye,Limbal epithelium,UBERON_0001772,Normal,Normal cell,Limbal epithelial stem cell,CL_0000034,CD146,MCAM
+Human,Eye,Limbal epithelium,UBERON_0001772,Normal,Normal cell,Limbal epithelial stem cell,CL_0000034,CXCR4,CXCR4
+Human,Eye,Limbal epithelium,UBERON_0001772,Normal,Normal cell,Limbal epithelial stem cell,CL_0000034,CD117,KIT
+Human,Eye,Limbal epithelium,UBERON_0001772,Normal,Normal cell,Limbal epithelial stem cell,CL_0000034,CD144,CDH5

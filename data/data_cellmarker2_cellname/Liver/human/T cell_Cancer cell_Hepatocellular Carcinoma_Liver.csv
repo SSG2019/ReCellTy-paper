@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,CD2,CD2
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,CD3D,CD3D
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,TRAT1,TRAT1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,IFNγ,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,IFNα,
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,T cell,CL_0000084,MYC,MYC

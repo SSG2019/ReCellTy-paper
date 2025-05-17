@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Chondrocyte,Fibrocartilage,S100A6,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,SH3BGRL3,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,IGFBP5,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,LMCD1,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte
+Chondrocyte,,MYL9,Human,Bone,Cartilage,Normal,Normal cell,Fibrocartilage chondrocyte

@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Embryonic,NANOG,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell
+Stem cell,Embryonic,CDH1,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell
+Stem cell,Embryonic,POU5F1,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell
+Stem cell,Embryonic,ITGA6,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell
+Stem cell,Embryonic,DPPA5,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell
+Stem cell,Embryonic,SOX2,Human,Embryo,Embryoid body,Normal,Normal cell,Embryonic stem cell

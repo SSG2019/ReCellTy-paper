@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Natural killer cell,Cytotoxic function,CD160,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMH,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMB,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,GZMA,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition and activation,NCR3,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Cytotoxic function,ZNF683,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell
+Natural killer cell,Recognition and activation,CD96,Human,Nose,Nasal polyp,Normal,Normal cell,Natural killer cell

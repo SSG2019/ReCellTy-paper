@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Stemness,CD133,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD49f,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CD44,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,CXCR4,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,Nanog,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,PROM1,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell
+Stem cell,Stemness,ITGA6,Human,Prostate,Prostate,Prostate Cancer,Cancer cell,Stem cell

@@ -1,0 +1,24 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Leukocyte,,TREM1,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CX3CR1,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD48,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD14,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD69,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD40,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD80,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,HLA-DR,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD64,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD25,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,TLR4,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,Mac-1,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,LFA-1,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CD11a-d,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,FCGR3B,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,CTSS,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,FCGR3A,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,PTPRC,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,GNLY,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,TRBC2,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,FCGR1A,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,IL2RA,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte
+Leukocyte,,ITGAL,Human,Undefined,Undefined,Normal,Normal cell,Leukocyte

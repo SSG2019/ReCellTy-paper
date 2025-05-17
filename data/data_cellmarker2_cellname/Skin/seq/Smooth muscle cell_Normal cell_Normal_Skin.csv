@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,SMTN,SMTN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,DES,DES
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,TAGLN,TAGLN
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,ACTA2,ACTA2
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Smooth muscle cell,CL_0000192,TPM2,TPM2

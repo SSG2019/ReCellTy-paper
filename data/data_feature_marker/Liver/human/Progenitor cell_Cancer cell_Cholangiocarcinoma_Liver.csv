@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Progenitor cell,,NCAM,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Progenitor cell
+Progenitor cell,,NCAM1,Human,Liver,Liver,Cholangiocarcinoma,Cancer cell,Progenitor cell

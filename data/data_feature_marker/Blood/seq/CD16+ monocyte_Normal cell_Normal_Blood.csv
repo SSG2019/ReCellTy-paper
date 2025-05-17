@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,CD16+,CD16,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,CD16+,FCGR3A,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CD61,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CD36,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,Slan,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CD9,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CCR2,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CD14,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,HES4,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,TCF7L2,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,LYN,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,CX3CR1,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,MTSS1,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte
+Monocyte,,ITGB3,Human,Blood,Blood,Normal,Normal cell,CD16+ monocyte

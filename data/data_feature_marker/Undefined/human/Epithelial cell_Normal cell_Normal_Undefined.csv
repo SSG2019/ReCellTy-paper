@@ -1,0 +1,68 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Adhesion molecules,ICAM1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion molecules,CD106,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion molecules,VCAM1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion molecules,LFA1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Adhesion molecules,LFA2,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,E-cadherin,CDH1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,E-cadherin,E-cadherin,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial Sodium Channels,Epithelial Sodium Channels alpha,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial Sodium Channels,Epithelial Sodium Channels beta,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial Sodium Channels,Epithelial Sodium Channels gamma,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Epithelial Sodium Channels,Epithelial Sodium Channels delta,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT18,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT14,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT8,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT5,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT7,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT19,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT13,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT6,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT3,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT2,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT10,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT15,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT16,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Keratin,KRT18,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Surfactant protein,Surfactant protein A,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Surfactant protein,Surfactant protein B,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Surfactant protein,Surfactant protein C,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Surfactant protein,Surfactant protein D,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,EpCAM,EPCAM,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,EpCAM,EpCAM,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,Prostate specific antigen,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,Survivin,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,EGFR,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,HER2,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,SOX9,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,VDR,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,EHF,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,KLF4,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,TP63,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,WNT7A,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,PLCG1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,TGFBR2,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,CBX4,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,NGFR,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,PAX6,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,PRSS8,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ITGA6,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,HR,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,CDSN,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ELF3,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,PRDM1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,KLF5,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,GRHL3,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,SCNNA1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,RNF186,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ANPEP,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,DDR1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ETFA,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,IL6R,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,IL6ST,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ITGAE,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ITGB4,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,THBD,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,PROM1,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell
+Epithelial cell,Others,ERBB2,Human,Undefined,Undefined,Normal,Normal cell,Epithelial cell

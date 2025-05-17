@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Immune cell,,PTPRC,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD11B,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,HLA-DR,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD3,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,ITGAM,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell
+Immune cell,,CD8A,Human,Pancreas,Pancreas,Normal,Normal cell,Immune cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Recurrent renal cell carcinoma,Cancer cell,Profiling cell,,MKI67,MKI67
+Human,Kidney,Kidney,UBERON_0002113,Recurrent renal cell carcinoma,Cancer cell,Profiling cell,,TOP2A,TOP2A

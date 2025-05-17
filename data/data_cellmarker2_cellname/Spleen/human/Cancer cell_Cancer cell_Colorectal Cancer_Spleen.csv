@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,EPCAM,EPCAM
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CD133,PROM1
+Human,Spleen,Spleen,UBERON_0002106,Colorectal Cancer,Cancer cell,Cancer cell,CL_0001064,CD24,CD24

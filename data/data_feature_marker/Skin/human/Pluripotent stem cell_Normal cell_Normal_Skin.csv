@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,Pluripotent,TRA-1-60,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,CD13,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,SSEA-4,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell
+Stem cell,Pluripotent,ANPEP,Human,Skin,Skin,Normal,Normal cell,Pluripotent stem cell

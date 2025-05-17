@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Primitive endoderm cell,CL_0000223,SOX17,SOX17
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Primitive endoderm cell,CL_0000223,CPN1,CPN1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Primitive endoderm cell,CL_0000223,APOA1,APOA1
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Primitive endoderm cell,CL_0000223,GATA4,GATA4
+Human,Embryo,Embryo,UBERON_0000922,Normal,Normal cell,Primitive endoderm cell,CL_0000223,OTX2,OTX2

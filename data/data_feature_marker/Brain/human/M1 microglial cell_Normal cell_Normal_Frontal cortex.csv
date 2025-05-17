@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Microglial cell,M1,TYROBP,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell
+Microglial cell,,CSF1R,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell
+Microglial cell,,TREM2,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell
+Microglial cell,,CX3CR1,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell
+Microglial cell,,P2RY13,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell
+Microglial cell,,P2RY12,Human,Brain,Frontal cortex,Normal,Normal cell,M1 microglial cell

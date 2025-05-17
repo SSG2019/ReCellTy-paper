@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Follicular T helper-like,PD-1,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell
+T cell,Follicular T helper-like,CXCR5,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell
+T cell,Follicular T helper-like,PDCD1,Human,Tonsil,Tonsil,Normal,Normal cell,Follicular T helper-like memory cell

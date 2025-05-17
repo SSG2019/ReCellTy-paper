@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,COL1A1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,FN1,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,LUM,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast
+Fibroblast,,COL1A2,Human,Nasopharynx,Nasopharynx,Nasopharyngeal Cancer,Cancer cell,Fibroblast

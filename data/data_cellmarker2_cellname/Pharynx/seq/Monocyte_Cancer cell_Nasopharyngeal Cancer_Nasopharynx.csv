@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,APOBEC3A,APOBEC3A
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,G0S2,G0S2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,TIMP1,TIMP1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,APOBEC3B,APOBEC3B
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,SOD2,SOD2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,C15orf48,C15orf48
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,S100A4,S100A4
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,CCL20,CCL20
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,IL1RN,IL1RN
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,S100A8,S100A8
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,S100A12,S100A12
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,FPR1,FPR1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,VCAN,VCAN
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,IL8,CXCL8
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,CCL2,CCL2
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,FCN1,FCN1
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,IL1B,IL1B
+Human,Pharynx,Nasopharynx,UBERON_0001728,Nasopharyngeal Cancer,Cancer cell,Monocyte,CL_0000576,EREG,EREG

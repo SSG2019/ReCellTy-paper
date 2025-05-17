@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Terminally differentiated,CD45RA,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Terminally differentiated effector memory T cell
+T cell,memory,CD45RA,Human,Liver,Liver,Hepatocellular Cancer,Cancer cell,Terminally differentiated effector memory T cell

@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,IGKC,IGKC
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,IGL,IGL
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,MME,MME
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,BLK,BLK
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD79A,CD79A
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,TERF2,TERF2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,IGHA1,IGHA1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,TCL18,
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,TCL1A,TCL1A
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,BLNK,BLNK
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,IGHG1,IGHG1
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,AL713998.1,
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,ARPP21,ARPP21
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,RPS4Y2,RPS4Y2
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD19,CD19
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,PAX5,PAX5
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD72,CD72
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,CD24,CD24
+Human,Bone marrow,Bone marrow,UBERON_0002371,B-Acute Lymphoblastic Leukemia,Cancer cell,B cell,CL_0000236,VPREB3,VPREB3

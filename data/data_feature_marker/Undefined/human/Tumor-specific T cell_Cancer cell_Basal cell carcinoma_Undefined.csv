@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Tumor-specific,CD103,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-specific T cell
+T cell,Tumor-specific,CD39,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-specific T cell
+T cell,Tumor-specific,ITGAE,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-specific T cell
+T cell,Tumor-specific,ENTPD1,Human,Undefined,Undefined,Basal cell carcinoma,Cancer cell,Tumor-specific T cell

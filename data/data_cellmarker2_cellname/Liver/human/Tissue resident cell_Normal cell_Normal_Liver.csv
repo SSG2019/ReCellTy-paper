@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Tissue resident cell,,CXCR6,CXCR6
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Tissue resident cell,,CD69,CD69
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Tissue resident cell,,CXCR3,CXCR3
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,Tissue resident cell,,CD103,ITGAE

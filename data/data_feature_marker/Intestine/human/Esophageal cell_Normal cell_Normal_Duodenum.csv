@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Esophageal cell,,KRT4,Human,Intestine,Duodenum,Normal,Normal cell,Esophageal cell
+Esophageal cell,,KRT13,Human,Intestine,Duodenum,Normal,Normal cell,Esophageal cell
+Esophageal cell,,KRT14,Human,Intestine,Duodenum,Normal,Normal cell,Esophageal cell

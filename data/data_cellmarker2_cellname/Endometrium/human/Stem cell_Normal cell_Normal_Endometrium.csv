@@ -1,0 +1,20 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,SSEA-4,
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD117,KIT
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD34,CD34
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD31,PECAM1
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD144,CDH5
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,Musashi-1,
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,SOX2,SOX2
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,KIF4,KIF4A
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD166,ALCAM
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD105,
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,HLA-ABC,
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD90,THY1
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,CD73,NT5E
+Human,Endometrium,Endometrium,UBERON_0001295,Normal,Normal cell,Stem cell,CL_0000034,LGR5,LGR5

@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,SLC25A12,SLC25A12
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,DDX50,DDX50
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,FAM111A,FAM111A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,CD28,CD28
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,UBE2L3,UBE2L3
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,LRBA,LRBA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,PPP2R5C,PPP2R5C
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,FRYL,FRYL
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,RPA1,RPA1
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,NUP107,NUP107
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,C13orf34,BORA
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,ATF2,ATF2
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,FUSIP1,SRSF10
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,ICOS,ICOS
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,ASF1A,ASF1A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,NAP1L4,NAP1L4
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,PHF10,PHF10
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,SEC24C,SEC24C
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,BATF,BATF
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,ANP32B,ANP32B
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,GOLGA8A,GOLGA8A
+Human,Stomach,Stomach,UBERON_0000945,Gastric Cancer,Cancer cell,T helper(Th) cell,,ITM2A,ITM2A

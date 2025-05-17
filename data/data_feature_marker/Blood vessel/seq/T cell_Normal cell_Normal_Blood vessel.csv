@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,Cd28,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3g,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell
+T cell,,Cd3d,Human,Blood vessel,Blood vessel,Normal,Normal cell,T cell

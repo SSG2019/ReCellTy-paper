@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,CD206,MRC1
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,UBE2C,UBE2C
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,LAMP3,LAMP3
+Human,Limb,Skin,UBERON_0002097,Normal,Normal cell,Dendritic cell,CL_0000451,TOP2A,TOP2A

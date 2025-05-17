@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT5,KRT5
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT14,KRT14
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Basal epithelial cell,CL_0002327,KRT17,KRT17

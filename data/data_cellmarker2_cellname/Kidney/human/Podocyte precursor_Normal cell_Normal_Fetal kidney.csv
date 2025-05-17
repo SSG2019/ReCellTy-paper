@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte precursor,,C17orf58,C17orf58
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte precursor,,PPIB,PPIB
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte precursor,,OLFM3,OLFM3
+Human,Kidney,Fetal kidney,UBERON_0002120,Normal,Normal cell,Podocyte precursor,,IL1R1,IL1R1

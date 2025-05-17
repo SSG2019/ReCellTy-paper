@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,TRAC,TRAC
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,TRBC2,TRBC2
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,TRBC1,TRBC1
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,CD3D,CD3D
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,CD8,CD8A
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Brain,Brain,UBERON_0000955,Glioma,Cancer cell,T cell,CL_0000084,CD3,

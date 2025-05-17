@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,CD25,IL2RA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,HLADR,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,CD3,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,CD45RO,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,CCR4,CCR4
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Activated regulatory T cell,,CD4,CD4

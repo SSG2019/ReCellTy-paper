@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,Corneal,CK3,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Corneal,KRT3,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,SSEA-4,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,P63,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,CK14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell
+Epithelial cell,Stem,KRT14,Human,Eye,Eye,Normal,Normal cell,Corneal epithelial stem cell

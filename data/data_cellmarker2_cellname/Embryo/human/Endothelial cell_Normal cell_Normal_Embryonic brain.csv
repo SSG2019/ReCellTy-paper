@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Embryo,Embryonic brain,UBERON_6001060,Normal,Normal cell,Endothelial cell,CL_0000115,CD31,PECAM1
+Human,Embryo,Embryonic brain,UBERON_6001060,Normal,Normal cell,Endothelial cell,CL_0000115,VE-Cadherin,
+Human,Embryo,Embryonic brain,UBERON_0006238,Normal,Normal cell,Endothelial cell,CL_0000115,IGFBP7,IGFBP7

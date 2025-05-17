@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Conventional dendritic cell,cDC2a,CCR6,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)
+Conventional dendritic cell,cDC2a,SUSD3,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)
+Conventional dendritic cell,cDC2a,NDRG2,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)
+Conventional dendritic cell,cDC2a,CD1E,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)
+Conventional dendritic cell,cDC2a,CD1A,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)
+Conventional dendritic cell,cDC2a,FCER1A,Human,Brain,Brain,Glioblastoma,Cancer cell,Conventional dendritic cell 2a(cDC2a)

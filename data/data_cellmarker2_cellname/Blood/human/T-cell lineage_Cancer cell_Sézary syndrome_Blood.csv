@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD26,DPP4
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD2,CD2
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD5,CD5
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD7,CD7
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD4,CD4
+Human,Blood,Blood,UBERON_0000178,Sézary syndrome,Cancer cell,T-cell lineage,,CD3,

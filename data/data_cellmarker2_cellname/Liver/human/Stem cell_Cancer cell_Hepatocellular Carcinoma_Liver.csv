@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,CD44,CD44
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,HNF1B,HNF1B
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,LGR5,LGR5
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,OCT4,POU5F1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,IHH,IHH
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,IGFBP5,IGFBP5
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,CD90,THY1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,HAPLN1,HAPLN1
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,NANOG,NANOG
+Human,Liver,Liver,UBERON_0002107,Hepatocellular Carcinoma,Cancer cell,Stem cell,CL_0000034,LFNG,LFNG

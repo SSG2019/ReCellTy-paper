@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Effector,GZMK,Human,Blood,Blood,Normal,Normal cell,Effector memory T cell
+T cell,Effector,IFNγ,Human,Blood,Blood,Normal,Normal cell,Effector memory T cell
+T cell,Effector,CD8A,Human,Blood,Blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,CD45RO,Human,Blood,Blood,Normal,Normal cell,Effector memory T cell
+T cell,Memory,IL7R,Human,Blood,Blood,Normal,Normal cell,Effector memory T cell

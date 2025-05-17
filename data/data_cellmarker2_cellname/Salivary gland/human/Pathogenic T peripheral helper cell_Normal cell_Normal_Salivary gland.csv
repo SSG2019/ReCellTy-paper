@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Salivary gland,Salivary gland,UBERON_0001044,Normal,Normal cell,Pathogenic T peripheral helper cell,,CD4,CD4
+Human,Salivary gland,Salivary gland,UBERON_0001044,Normal,Normal cell,Pathogenic T peripheral helper cell,,ICOS,ICOS
+Human,Salivary gland,Salivary gland,UBERON_0001044,Normal,Normal cell,Pathogenic T peripheral helper cell,,PD-1,PDCD1

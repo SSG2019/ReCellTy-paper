@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,FCGR1B,
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,MMP12,MMP12
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,CCL7,CCL7
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,CNR2,CNR2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,CCL2,CCL2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,CCL8,CCL8
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,MPEG1,MPEG1
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,AIM2,AIM2
+Human,Nose,Nasal polyp,,Normal,Normal cell,Macrophage,CL_0000235,CCR1,CCR1

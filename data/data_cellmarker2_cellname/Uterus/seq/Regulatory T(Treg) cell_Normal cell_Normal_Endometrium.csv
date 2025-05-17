@@ -1,0 +1,9 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD127,IL7R
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CXCR6,CXCR6
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,ICOS,ICOS
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFSRF4,
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFSRF9,
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TNFSRF18,
+Human,Uterus,Endometrium,UBERON_0001295,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FoxP3,

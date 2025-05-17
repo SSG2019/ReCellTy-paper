@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+cell,Perivascular,THY1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,CAV1,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,ACTA2,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,TAGLN,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,PDGFRB,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,RGS5,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell
+cell,Perivascular,MYH11,Human,Breast,Breast,Breast Cancer,Cancer cell,Perivascular cell

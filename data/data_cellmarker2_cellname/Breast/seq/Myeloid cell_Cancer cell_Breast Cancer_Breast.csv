@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD16,FCGR3A
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD1C,CD1C
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD86,CD86
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD68,CD68
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD127,IL7R
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD49f,ITGA6
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,PD-L1,CD274
+Human,Breast,Breast,UBERON_0000310,Breast Cancer,Cancer cell,Myeloid cell,CL_0000763,CD141,THBD

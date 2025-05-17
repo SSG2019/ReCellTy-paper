@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,CXCL11,Human,Lung,Lung,Normal,Normal cell,Interstitial macrophage
+Macrophage,,CXCL10,Human,Lung,Lung,Normal,Normal cell,Interstitial macrophage
+Macrophage,,CCL4,Human,Lung,Lung,Normal,Normal cell,Interstitial macrophage
+Macrophage,,ISG20,Human,Lung,Lung,Normal,Normal cell,Interstitial macrophage
+Macrophage,,ISG15,Human,Lung,Lung,Normal,Normal cell,Interstitial macrophage

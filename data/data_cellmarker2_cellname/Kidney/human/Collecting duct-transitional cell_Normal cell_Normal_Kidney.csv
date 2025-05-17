@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Parm1,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Rhbg,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Atp6v1g3,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Sec23b,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Hsd11b2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Atp6v0d2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Insr,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Aqp2,
+Human,Kidney,Kidney,UBERON_0002113,Normal,Normal cell,Collecting duct-transitional cell,,Atp6v1b1,

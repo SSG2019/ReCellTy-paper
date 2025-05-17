@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,CD4+ T cell,CL_0000624,CD4,CD4
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,CD4+ T cell,CL_0000624,CD40LG,CD40LG
+Human,Breast,Breast,UBERON_0000310,Triple-negative breast cancer,Cancer cell,CD4+ T cell,CL_0000624,IL7R,IL7R

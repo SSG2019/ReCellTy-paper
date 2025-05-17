@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,,Glucagon,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,Insulin,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,E-Cadherin,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CK19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,EpCAM,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,CDH1,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell
+Epithelial cell,,KRT19,Human,Pancreas,Pancreas,Normal,Normal cell,Epithelial cell

@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,Intermediate,S100A8,Human,Lung,Bronchial vessel,Normal,Normal cell,Intermediate monocyte
+Monocyte,Intermediate,CD16,Human,Lung,Bronchial vessel,Normal,Normal cell,Intermediate monocyte
+Monocyte,Intermediate,FCGR3A,Human,Lung,Bronchial vessel,Normal,Normal cell,Intermediate monocyte
+Monocyte,,CD14,Human,Lung,Bronchial vessel,Normal,Normal cell,Intermediate monocyte

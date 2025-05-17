@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,MEGF11,MEGF11
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PCDH15,PCDH15
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,SOX10,SOX10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PMP2,PMP2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PDGFRA,PDGFRA
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PDGFRA,PDGFRA
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,SOX10,SOX10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,VCAN,VCAN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Oligodendrocyte precursor cell,CL_0002453,PDGFR α,

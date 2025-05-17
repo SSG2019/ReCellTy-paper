@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germinal Centre-like cell,GC,BCL6,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell
+Germinal Centre-like cell,GC,MKI67,Human,Uterus,Endometrium,Endometrial Cancer,Cancer cell,Germinal Centre (GC)-like cell

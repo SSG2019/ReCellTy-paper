@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,,CD8,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,T cell
+T cell,,CD8A,Human,Undefined,Undefined,Hepatocellular Cancer,Cancer cell,T cell

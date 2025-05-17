@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,FCGR2A,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD68,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage
+Macrophage,,CD33,Human,Spleen,Spleen,Colorectal Cancer,Cancer cell,Macrophage

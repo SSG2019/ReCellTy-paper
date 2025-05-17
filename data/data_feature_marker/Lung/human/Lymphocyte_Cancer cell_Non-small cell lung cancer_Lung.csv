@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Lymphocyte,Cytotoxic T cell,CD8,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,Cytotoxic T cell,CD8A,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,B cell,CD20,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,B cell,MS4A1,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,Memory T cell,CD45RO,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,Regulatory T cell,FOXP3,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,Helper T cell,CD4,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte
+Lymphocyte,T cell,CD3,Human,Lung,Lung,Non-small cell lung cancer,Cancer cell,Lymphocyte

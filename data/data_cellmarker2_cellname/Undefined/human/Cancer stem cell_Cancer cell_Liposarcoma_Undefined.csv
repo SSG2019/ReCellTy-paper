@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,CD271,NGFR
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,ALDH,
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,Nanog,
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,Klf4,
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,CD133,PROM1
+Human,Undefined,Undefined,,Liposarcoma,Cancer cell,Cancer stem cell,,Sox2,

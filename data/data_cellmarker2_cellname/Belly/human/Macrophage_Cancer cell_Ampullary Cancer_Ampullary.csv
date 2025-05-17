@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Belly,Ampullary,,Ampullary Cancer,Cancer cell,Macrophage,CL_0000235,MARCO,MARCO
+Human,Belly,Ampullary,,Ampullary Cancer,Cancer cell,Macrophage,CL_0000235,CD11c,
+Human,Belly,Ampullary,,Ampullary Cancer,Cancer cell,Macrophage,CL_0000235,CD169,SIGLEC1

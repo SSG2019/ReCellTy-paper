@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mast cell,CL_0000097,KIT,KIT
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mast cell,CL_0000097,tryptase,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Mast cell,CL_0000097,CD117,KIT

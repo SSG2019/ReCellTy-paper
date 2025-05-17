@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Monocyte,CL_0000576,CD14,CD14
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Monocyte,CL_0000576,S100A9,S100A9
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Monocyte,CL_0000576,CD16,FCGR3A
+Human,Kidney,Kidney,UBERON_0002113,Renal Clear Cell Carcinoma,Cancer cell,Monocyte,CL_0000576,S100A8,S100A8

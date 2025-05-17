@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,EN1,EN1
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,IKZF2,IKZF2
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,SOX,
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,SOHLH2,SOHLH2
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,FOX,
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,rs75712673,
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,DLA-CTC,
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,CDR1,CDR1
+Human,Blood,Blood,UBERON_0000178,Normal,Cancer cell,CD4+ T cell,CL_0000624,CDR2,CDR2

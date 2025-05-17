@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Satellite cell,CL_0000514,APOC1,APOC1
+Human,Muscle,Skeletal muscle,UBERON_0014892,Normal,Normal cell,Satellite cell,CL_0000514,APOE,APOE

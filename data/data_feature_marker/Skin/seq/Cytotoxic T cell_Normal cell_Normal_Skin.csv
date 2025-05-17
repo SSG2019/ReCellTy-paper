@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Cytotoxic,CD355,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell
+T cell,Cytotoxic,CRTAM,Human,Skin,Skin,Normal,Normal cell,Cytotoxic T cell

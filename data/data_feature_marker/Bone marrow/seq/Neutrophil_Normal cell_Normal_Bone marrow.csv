@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neutrophil,,GDA,Human,Bone marrow,Bone marrow,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A6,Human,Bone marrow,Bone marrow,Normal,Normal cell,Neutrophil
+Neutrophil,,S100A8,Human,Bone marrow,Bone marrow,Normal,Normal cell,Neutrophil
+Neutrophil,,LY6G,Human,Bone marrow,Bone marrow,Normal,Normal cell,Neutrophil
+Neutrophil,,NGP,Human,Bone marrow,Bone marrow,Normal,Normal cell,Neutrophil

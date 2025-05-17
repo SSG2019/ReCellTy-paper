@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+fibroblast,Cancer-associated,αSMA,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer-associated fibroblast
+fibroblast,Cancer-associated,PDGFRβ,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer-associated fibroblast
+fibroblast,Cancer-associated,S100A4,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer-associated fibroblast
+fibroblast,Cancer-associated,ACTA2,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer-associated fibroblast
+fibroblast,Cancer-associated,PDGFRB,Human,Brain,Brain,Glioblastoma,Cancer cell,Cancer-associated fibroblast

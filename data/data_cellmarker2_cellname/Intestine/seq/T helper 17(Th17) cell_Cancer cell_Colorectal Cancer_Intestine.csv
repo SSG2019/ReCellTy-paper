@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T helper 17(Th17) cell,CL_0000899,RORC,RORC
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T helper 17(Th17) cell,CL_0000899,IL17,IL17A
+Human,Intestine,Intestine,UBERON_0000160,Colorectal Cancer,Cancer cell,T helper 17(Th17) cell,CL_0000899,FOXP3,FOXP3

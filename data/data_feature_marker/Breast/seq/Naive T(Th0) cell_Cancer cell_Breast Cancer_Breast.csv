@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,CCR7,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell
+T cell,Th0,LEF1,Human,Breast,Breast,Breast Cancer,Cancer cell,Naive T(Th0) cell

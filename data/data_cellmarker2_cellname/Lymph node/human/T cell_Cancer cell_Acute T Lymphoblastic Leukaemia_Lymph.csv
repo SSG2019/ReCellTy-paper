@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,MYC,MYC
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,TAL2,TAL2
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,LMO2,LMO2
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,USP7,USP7
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,TAL1,TAL1
+Human,Lymph node,Lymph,UBERON_0002391,Acute T Lymphoblastic Leukaemia,Cancer cell,T cell,CL_0000084,LMO1,LMO1

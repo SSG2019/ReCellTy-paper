@@ -1,0 +1,8 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,FOPX3,
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,CD5A,
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,MO57,
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,PDCD1,PDCD1
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,CO3D,
+Human,Liver,Liver,UBERON_0002107,Cholangiocarcinoma,Cancer cell,T cell,CL_0000084,CD2,CD2

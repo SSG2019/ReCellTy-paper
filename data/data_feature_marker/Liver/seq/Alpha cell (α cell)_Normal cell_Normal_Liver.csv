@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Alpha cell,glucagon production,ARX,Human,Liver,Liver,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,glucagon production,GCG,Human,Liver,Liver,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FAP,Human,Liver,Liver,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,FEV,Human,Liver,Liver,Normal,Normal cell,Alpha cell (α cell)
+Alpha cell,,TM4SF4,Human,Liver,Liver,Normal,Normal cell,Alpha cell (α cell)

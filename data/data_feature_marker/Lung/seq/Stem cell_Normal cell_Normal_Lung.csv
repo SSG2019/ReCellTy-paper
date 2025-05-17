@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Stem cell,,OCT4,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,,OCT3,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,,Sox2,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,,POU5F1,Human,Lung,Lung,Normal,Normal cell,Stem cell
+Stem cell,,SLC22A3,Human,Lung,Lung,Normal,Normal cell,Stem cell

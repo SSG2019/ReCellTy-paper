@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,EMX1,EMX1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,NKX2-1,NKX2-1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,VIM,VIM
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,EOMES,EOMES
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,PAX6,PAX6
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,FOXG1,FOXG1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,SOX10,SOX10
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,CD271,NGFR
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,SOX2,SOX2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Progenitor cell,CL_0011026,RPLP0,RPLP0

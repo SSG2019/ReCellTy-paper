@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Natural killer cell,CL_0000623,NKG2D,KLRK1
+Human,Undefined,Undefined,,Liver Cancer,Cancer cell,Natural killer cell,CL_0000623,DNAM-1,CD226

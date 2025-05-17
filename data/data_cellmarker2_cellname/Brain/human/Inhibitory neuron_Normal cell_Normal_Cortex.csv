@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD1,GAD1
+Human,Brain,Cortex,UBERON_0000956,Normal,Normal cell,Inhibitory neuron,CL_0008029,GAD2,GAD2

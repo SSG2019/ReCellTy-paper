@@ -1,0 +1,16 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD34,CD34
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD115,CSF1R
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD45RA,
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD135,FLT3
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD116,CSF2RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD117,KIT
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD33,CD33
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD169,SIGLEC1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CX3CR1,CX3CR1
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD303,CLEC4C
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD22,CD22
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,AXL,AXL
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,CD123,IL3RA
+Human,Bone marrow,Bone marrow,UBERON_0002371,Normal,Normal cell,Dendritic cell progenitor,CL_0002009,SIGLEC6,SIGLEC6

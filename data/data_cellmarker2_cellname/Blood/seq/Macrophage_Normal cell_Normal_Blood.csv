@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,LYS,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,LGALS3,LGALS3
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,TREM2,TREM2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD9,CD9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,SPP1,SPP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CTSB,CTSB
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,ADGRE1,ADGRE1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,ITGAM,ITGAM
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,MARCO,MARCO
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,GBP1,GBP1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD33,CD33
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,LIN28B,LIN28B
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD83,CD83
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,DHRS9,DHRS9
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD16,FCGR3A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD11b,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD86,CD86
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD68,CD68
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD163,CD163
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Macrophage,CL_0000235,CD14,CD14

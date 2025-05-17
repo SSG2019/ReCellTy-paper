@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Exhausted,CTLA4,Human,Brain,Brain,Glioma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Brain,Brain,Glioma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Brain,Brain,Glioma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Brain,Brain,Glioma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIM-3,Human,Brain,Brain,Glioma,Cancer cell,Exhausted T(Tex) cell

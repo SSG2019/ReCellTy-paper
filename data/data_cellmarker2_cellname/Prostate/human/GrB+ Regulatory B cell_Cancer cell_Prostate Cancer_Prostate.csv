@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell,,IgM,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell,,CD19,CD19
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell,,CD1d,
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell,,CD147,BSG
+Human,Prostate,Prostate,UBERON_0002367,Prostate Cancer,Cancer cell,GrB+ Regulatory B cell,,CD38,CD38

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,T cell & Natural killer cell,,TRAC,TRAC
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,T cell & Natural killer cell,,KLRB1,KLRB1
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,T cell & Natural killer cell,,CD3E,CD3E
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,T cell & Natural killer cell,,GZMA,GZMA
+Human,Sputum,Sputum,UBERON_0007311,Normal,Normal cell,T cell & Natural killer cell,,CD2,CD2

@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,Derived suppressor,CD33,Human,Belly,Ascites,Unspecified Epithelial Ovarian Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,Derived suppressor,CD11b,Human,Belly,Ascites,Unspecified Epithelial Ovarian Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC)
+Myeloid cell,,CD34,Human,Belly,Ascites,Unspecified Epithelial Ovarian Cancer,Cancer cell,Myeloid derived suppressor cell (MDSC)

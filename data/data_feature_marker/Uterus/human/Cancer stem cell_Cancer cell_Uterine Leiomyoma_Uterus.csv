@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+stem cell,Cancer,CD34,Human,Uterus,Uterus,Uterine Leiomyoma,Cancer cell,Cancer stem cell
+stem cell,Cancer,CD49b,Human,Uterus,Uterus,Uterine Leiomyoma,Cancer cell,Cancer stem cell

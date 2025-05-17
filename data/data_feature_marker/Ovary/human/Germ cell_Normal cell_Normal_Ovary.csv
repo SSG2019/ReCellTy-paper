@@ -1,0 +1,16 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Germ cell,Germ cell marker,VASA,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DAZL,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,DDX4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,c-Kit,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Germ cell marker,SALL4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,BMP15,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,GDF9,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Oocyte development,ZP4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Maternal effect gene,MATER,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Maternal effect gene,NLRP5,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,OCT4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,OCT3/4,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Pluripotency,POU5F1,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Meiosis,SCP3,Human,Ovary,Ovary,Normal,Normal cell,Germ cell
+Germ cell,Zygote arrest,ZAR1,Human,Ovary,Ovary,Normal,Normal cell,Germ cell

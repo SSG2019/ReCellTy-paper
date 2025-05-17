@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Macrophage,,SPP1,Human,Lung,Alveolus,COVID-19,Cancer cell,Macrophage
+Macrophage,,ILRN,Human,Lung,Alveolus,COVID-19,Cancer cell,Macrophage
+Macrophage,,MMP9,Human,Lung,Alveolus,COVID-19,Cancer cell,Macrophage
+Macrophage,,CHI3L1,Human,Lung,Alveolus,COVID-19,Cancer cell,Macrophage

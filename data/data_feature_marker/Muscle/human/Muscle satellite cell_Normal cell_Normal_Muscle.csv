@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Muscle cell,Satellite,PAX7,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,Pax7,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,NCAM,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,Satellite,NCAM1,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CD82,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CD318,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,CDCP1,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell
+Muscle cell,,SOX8,Human,Muscle,Muscle,Normal,Normal cell,Muscle satellite cell

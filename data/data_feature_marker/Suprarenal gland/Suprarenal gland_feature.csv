@@ -1,0 +1,221 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Adrenal medulla cell,,CHGA,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,DBH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,TH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGB,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,TH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,DBH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,PNMT,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGB,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGA,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+B cell,,MS4A1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell
+B cell,,IGHM,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell
+Cancer cell,,NTRK3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Cancer cell
+Chromaffin cell,,CHRNB4,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,NPY,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,CHRNA3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,CHRNA3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Chromaffin cell
+Endothelial cell,,SOX18,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,TEK,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,SOX17,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,SOX18,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEK,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Macrophage,,CD14,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD300A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD84,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD84,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD300A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Mesenchymal cell,,COL1A2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,YAP1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL12A1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL6A3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CXCL12,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,DCN,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL6A3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL12A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Progenitor cell,,POU6F2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ERBB3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,BCL11A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,NF1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,LGR5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX6,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ERBB3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NF1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,POU6F2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASXL3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX5,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,LGR5,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,RTTN,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX6,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,BCL11A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Sympathoadrenal cell,,PHOX2A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,GATA3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,PHOX2B,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,ISL1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,CARTPT,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,HAND1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,STMN2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal,,CARTPT,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,,STMN2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,,HAND1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,GATA3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,PHOX2B,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal,sympathoadrenal,PHOX2A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoblast cell,,PRPH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoblast cell
+Sympathoblast cell,,PRPH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoblast cell
+T cell,,TRBC2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,TRBC1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,TRAC,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,IL32,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,CD69,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,HCST,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+Zona fasciculata cell,glucocorticoid production,CYP11B1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona fasciculata cell
+Zona fasciculata cell,glucocorticoid production,STAR,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,CYP11B1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,CYP11A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,CYP17A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal Cortex Cell,Zona fasciculata,STAR,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Zona glomerulosa cell,,CYP11B2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona glomerulosa cell
+Zona glomerulosa cell,,DAB2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona glomerulosa cell,,CYP11B2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona glomerulosa cell,,AGTR1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona reticularis cell,,STAR,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona reticularis cell
+Zona reticularis cell,,AKR1B1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,STAR,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,CYP17A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,TSPAN12,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,SULT2A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Adrenal medulla cell,,CHGA,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,DBH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,TH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGB,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Adrenal medulla cell
+Adrenal medulla cell,,TH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,DBH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,PNMT,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGB,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+Adrenal medulla cell,,CHGA,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Adrenal medulla cell
+B cell,,MS4A1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell
+B cell,,IGHM,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,B cell
+Cancer cell,,NTRK3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Cancer cell
+Chromaffin cell,,CHRNB4,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,NPY,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,CHRNA3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Chromaffin cell
+Chromaffin cell,,CHRNA3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Chromaffin cell
+Endothelial cell,,SOX18,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,TEK,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,SOX17,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Endothelial cell
+Endothelial cell,,SOX18,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TIE1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,TEK,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Endothelial cell,,PECAM1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Endothelial cell
+Macrophage,,CD14,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD300A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD163,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD86,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD84,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CSF1R,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Macrophage
+Macrophage,,CD14,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CSF1R,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD86,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD84,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD300A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Macrophage,,CD163,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Macrophage
+Mesenchymal cell,,COL1A2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,YAP1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL12A1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL6A3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Mesenchymal cell
+Mesenchymal cell,,COL1A2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,CXCL12,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,DCN,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL6A3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRA,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PRRX1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,PDGFRB,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Mesenchymal cell,,COL12A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Mesenchymal cell
+Progenitor cell,,POU6F2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ERBB3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,BCL11A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,NF1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ASXL3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,RTTN,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,LGR5,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,SOX6,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Progenitor cell
+Progenitor cell,,ERBB3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,NF1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,POU6F2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,ASXL3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX5,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,LGR5,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,RTTN,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,SOX6,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Progenitor cell,,BCL11A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Progenitor cell
+Sympathoadrenal cell,,PHOX2A,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,GATA3,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,PHOX2B,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,ISL1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,CARTPT,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,HAND1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,STMN2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoadrenal cell
+Sympathoadrenal cell,,GATA3,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal cell,,CARTPT,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal cell,,PHOX2B,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal cell,,STMN2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal cell,,HAND1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoadrenal cell,,PHOX2A,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoadrenal cell
+Sympathoblast cell,,PRPH,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Sympathoblast cell
+Sympathoblast cell,,PRPH,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Sympathoblast cell
+T cell,,TRBC2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,TRBC1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,TRAC,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,IL32,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,CD69,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,T cell
+T cell,,HCST,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRBC2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,TRAC,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+T cell,,CD3E,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,T cell
+Zona fasciculata cell,glucocorticoid production,CYP11B1,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona fasciculata cell
+Zona fasciculata cell,steroid hormone biosynthesis,STAR,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona fasciculata cell
+Adrenal cortex cell,Zona fasciculata,CYP11B1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal cortex cell,Zona fasciculata,CYP11A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal cortex cell,Zona fasciculata,CYP17A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Adrenal cortex cell,Zona fasciculata,STAR,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona fasciculata cell
+Zona glomerulosa cell,,CYP11B2,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona glomerulosa cell
+Zona glomerulosa cell,,DAB2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona glomerulosa cell,,CYP11B2,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona glomerulosa cell,,AGTR1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona glomerulosa cell
+Zona reticularis cell,steroidogenesis,STAR,Human,Suprarenal gland,Adrenal gland,Neuroblastoma,Cancer cell,Zona reticularis cell
+Zona reticularis cell,,AKR1B1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,STAR,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,CYP17A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,TSPAN12,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell
+Zona reticularis cell,,SULT2A1,Human,Suprarenal gland,Adrenal gland,Normal,Normal cell,Zona reticularis cell

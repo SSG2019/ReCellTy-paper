@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Naive,IL7R,Human,Bone marrow,Bone marrow,Normal,Normal cell,Naive T(Th0) cell
+T cell,,CD3E,Human,Bone marrow,Bone marrow,Normal,Normal cell,Naive T(Th0) cell
+T cell,,JUNB,Human,Bone marrow,Bone marrow,Normal,Normal cell,Naive T(Th0) cell
+T cell,,IL32,Human,Bone marrow,Bone marrow,Normal,Normal cell,Naive T(Th0) cell

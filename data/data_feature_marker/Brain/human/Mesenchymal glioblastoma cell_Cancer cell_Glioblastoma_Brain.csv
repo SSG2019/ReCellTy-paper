@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glioblastoma cell,Mesenchymal,COL1A2,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,Mesenchymal,COL1A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,Mesenchymal,TGFB1,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,Mesenchymal,THBS1,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,Mesenchymal,CD44,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,,S100A,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,,DAB2,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,,CHI3L1,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell
+Glioblastoma cell,,S100A1,Human,Brain,Brain,Glioblastoma,Cancer cell,Mesenchymal glioblastoma cell

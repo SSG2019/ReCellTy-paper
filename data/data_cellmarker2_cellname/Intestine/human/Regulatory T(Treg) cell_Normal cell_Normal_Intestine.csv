@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD3,
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TIGIT,TIGIT
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,FOXP3,FOXP3
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,ICOS,ICOS
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,OX40,TNFRSF4
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CTLA4,CTLA4
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,TIM3,HAVCR2
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD27,CD27
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,BATF,BATF
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD62L,SELL
+Human,Intestine,Intestine,UBERON_0000160,Normal,Normal cell,Regulatory T(Treg) cell,CL_0000815,CD25,IL2RA

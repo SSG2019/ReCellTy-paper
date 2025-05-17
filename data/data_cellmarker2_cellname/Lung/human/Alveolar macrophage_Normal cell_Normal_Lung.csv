@@ -1,0 +1,11 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,CD68,CD68
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,FBP1,FBP1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,MSR1,MSR1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,MARCO,MARCO
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,APOE,APOE
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,GPNMB,GPNMB
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,INHBA,INHBA
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,APOC1,APOC1
+Human,Lung,Lung,UBERON_0002048,Normal,Normal cell,Alveolar macrophage,CL_0000583,ALOX5AP,ALOX5AP

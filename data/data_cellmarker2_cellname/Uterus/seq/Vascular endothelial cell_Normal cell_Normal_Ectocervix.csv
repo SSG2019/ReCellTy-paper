@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Vascular endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Uterus,Ectocervix,UBERON_0012249,Normal,Normal cell,Vascular endothelial cell,CL_0002139,PECAM1,PECAM1

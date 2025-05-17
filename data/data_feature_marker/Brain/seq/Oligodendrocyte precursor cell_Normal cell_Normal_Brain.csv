@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Oligodendrocyte,Precursor,PDGFRA,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,Precursor,PDGFR α,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,MEGF11,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,PCDH15,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,SOX10,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,PMP2,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell
+Oligodendrocyte,,VCAN,Human,Brain,Brain,Normal,Normal cell,Oligodendrocyte precursor cell

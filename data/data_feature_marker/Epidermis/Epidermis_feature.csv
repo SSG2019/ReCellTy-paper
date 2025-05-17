@@ -1,0 +1,41 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Keratinocyte,,KRT5,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT2,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+dendritic cell,Langerin-positive,CD207,Human,Epidermis,Epidermis,Normal,Normal cell,Langerin-positive dendritic cell
+dendritic cell,,CD1A,Human,Epidermis,Epidermis,Normal,Normal cell,Langerin-positive dendritic cell
+Lymphocyte,,CD3,Human,Epidermis,Epidermis,Normal,Normal cell,Lymphocyte
+Lymphocyte,,TRAC,Human,Epidermis,Epidermis,Normal,Normal cell,Lymphocyte
+Macrophage,,CSF1R,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD87,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD83,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,PLAUR,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Melanocyte,,KIT,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Melanocyte,,TYR,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Melanocyte,,DCT,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Natural killer cell,,KIR2DL4,Human,Epidermis,Epidermis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Epidermis,Epidermis,Normal,Normal cell,Natural killer cell
+T cell,,CD3D,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,,CD5,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,CD4+,CD4,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+Keratinocyte,,KRT5,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT1,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+Keratinocyte,,KRT2,Human,Epidermis,Epidermis,Normal,Normal cell,Keratinocyte
+dendritic cell,Langerin-positive,CD207,Human,Epidermis,Epidermis,Normal,Normal cell,Langerin-positive dendritic cell
+dendritic cell,,CD1A,Human,Epidermis,Epidermis,Normal,Normal cell,Langerin-positive dendritic cell
+Lymphocyte,,CD3,Human,Epidermis,Epidermis,Normal,Normal cell,Lymphocyte
+Lymphocyte,,TRAC,Human,Epidermis,Epidermis,Normal,Normal cell,Lymphocyte
+Macrophage,,CSF1R,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD87,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,CD83,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Macrophage,,PLAUR,Human,Epidermis,Epidermis,Normal,Normal cell,Macrophage
+Melanocyte,,KIT,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Melanocyte,,TYR,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Melanocyte,,DCT,Human,Epidermis,Epidermis,Normal,Normal cell,Melanocyte
+Natural killer cell,,KIR2DL4,Human,Epidermis,Epidermis,Normal,Normal cell,Natural killer cell
+Natural killer cell,,KLRC1,Human,Epidermis,Epidermis,Normal,Normal cell,Natural killer cell
+T cell,CD4+,CD4,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,,CD3D,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,,CD5,Human,Epidermis,Epidermis,Normal,Normal cell,T cell
+T cell,,CD3G,Human,Epidermis,Epidermis,Normal,Normal cell,T cell

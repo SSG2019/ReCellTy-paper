@@ -1,0 +1,10 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dental pulp cell,Stemness,CD105,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Stemness,CD166,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Stemness,CD90,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Stemness,CD73,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Stemness,STRO-1,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Regeneration,CD105,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Differentiation potential,CD90,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Differentiation potential,THY1,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell
+Dental pulp cell,Immunomodulatory,CD73,Human,Tooth,Dental pulp,Normal,Normal cell,Dental pulp cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Dendritic cell,CL_0000451,IL5RA,IL5RA
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Dendritic cell,CL_0000451,MS4A3,MS4A3
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Dendritic cell,CL_0000451,FCER1A,FCER1A
+Human,Blood,Peripheral blood,UBERON_0005408,Acute Myeloid Leukemia,Cancer cell,Dendritic cell,CL_0000451,HPGD,HPGD

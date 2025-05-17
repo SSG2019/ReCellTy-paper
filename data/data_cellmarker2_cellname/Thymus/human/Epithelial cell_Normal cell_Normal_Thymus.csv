@@ -1,0 +1,21 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,EpCAM,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,FZ4,
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,WNT4,WNT4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,K8,HOXB2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,NEUROD1,NEUROD1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,DLK2,DLK2
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,FOXN1,FOXN1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,CHGA,CHGA
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,PSMB11,PSMB11
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,FOXI1,FOXI1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,CHRNA1,CHRNA1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,AIRE,AIRE
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,KRT1,KRT1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,KRT14,KRT14
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,MYOD1,MYOD1
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,CD104,ITGB4
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,PDPN,PDPN
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,EPCAM,EPCAM
+Human,Thymus,Thymus,UBERON_0002370,Normal,Normal cell,Epithelial cell,CL_0000066,PAN-CK,

@@ -1,0 +1,9 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endothelial cell,Progenitor,CD34,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,CD31,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Inflammation,CD62E,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,CD106,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Angiogenesis,CD105,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,PECAM1,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Inflammation,SELE,Human,Germ,Germ,Normal,Normal cell,Endothelial cell
+Endothelial cell,Adhesion,VCAM1,Human,Germ,Germ,Normal,Normal cell,Endothelial cell

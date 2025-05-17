@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endocrine cell,,CHGA,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,CHGB,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,IAPP,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell
+Endocrine cell,,INS,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Endocrine cell

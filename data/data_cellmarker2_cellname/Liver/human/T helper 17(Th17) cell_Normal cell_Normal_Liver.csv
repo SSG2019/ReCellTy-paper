@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,RORC,RORC
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,RORA,RORA
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,CCR6,CCR6
+Human,Liver,Liver,UBERON_0002107,Normal,Normal cell,T helper 17(Th17) cell,CL_0000899,IL23R,IL23R

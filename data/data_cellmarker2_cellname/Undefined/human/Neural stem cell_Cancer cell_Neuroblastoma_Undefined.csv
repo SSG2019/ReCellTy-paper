@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Neuroblastoma,Cancer cell,Neural stem cell,CL_0000047,CD200,CD200
+Human,Undefined,Undefined,,Neuroblastoma,Cancer cell,Neural stem cell,CL_0000047,CD49f,ITGA6

@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Myeloid cell,CL_0000763,CDw32,FCGR2A
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Myeloid cell,CL_0000763,CD14,CD14
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Myeloid cell,CL_0000763,CD16,FCGR3A
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Myeloid cell,CL_0000763,CD11,
+Human,Tonsil,Tonsil,UBERON_0002372,Normal,Normal cell,Myeloid cell,CL_0000763,CD35,CR1

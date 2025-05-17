@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,,S100A4,Human,Liver,Liver,Normal,Normal cell,Fibroblast
+Fibroblast,,FSP‐1,Human,Liver,Liver,Normal,Normal cell,Fibroblast
+Fibroblast,,NDUFA4L2,Human,Liver,Liver,Normal,Normal cell,Fibroblast
+Fibroblast,,RGS5,Human,Liver,Liver,Normal,Normal cell,Fibroblast

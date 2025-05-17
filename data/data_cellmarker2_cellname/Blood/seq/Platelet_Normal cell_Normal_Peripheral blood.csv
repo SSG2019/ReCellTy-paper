@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,PPBP,PPBP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,PPBP,PPBP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,GATA2,GATA2
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,PPBP,PPBP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,PPBP,PPBP
+Human,Blood,Peripheral blood,UBERON_0005408,Normal,Normal cell,Platelet,CL_0000233,GP9,GP9

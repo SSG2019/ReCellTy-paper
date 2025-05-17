@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Oesophageal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CD8,CD8A
+Human,Blood,Blood,UBERON_0000178,Oesophageal Cancer,Cancer cell,Cytotoxic T cell,CL_0000910,CD11b,

@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Fibroblast,Myo,ACTA2,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,MMP14,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,Col1a1,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,FNDC1,Human,Skin,Skin,Normal,Normal cell,Myofibroblast
+Fibroblast,,SFRP4,Human,Skin,Skin,Normal,Normal cell,Myofibroblast

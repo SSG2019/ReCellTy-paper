@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Foreskin,UBERON_0001471,Normal,Normal cell,Epidermal stem cell,CL_1000428,MCSP,CSPG4
+Human,Skin,Foreskin,UBERON_0001471,Normal,Normal cell,Epidermal stem cell,CL_1000428,CD46,CD46

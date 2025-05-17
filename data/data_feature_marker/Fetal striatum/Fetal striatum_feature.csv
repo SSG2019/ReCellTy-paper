@@ -1,0 +1,32 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Neuron,medium spiny,TAC1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,Medium Spiny,GRIK3,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+Neuron,Medium Spiny,SP9,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+Early progenitor cell,,GSX2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Early progenitor cell
+GABAergic neuron,,GAD2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,GABAergic neuron
+Intermediate progenitor cell,,ASCL1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Intermediate progenitor cell
+LGE-lineage cell,LGE-lineage,MEIS2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,LGE-lineage cell (lateral ganglionic eminence)
+Neuron,Medium Spiny,CTIP2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)
+Neuron,Medium Spiny,BCL11B,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)
+Medium spiny neuron,,FOXP1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Medium spiny neuron(MSN)
+Neuron,,DCX,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Neuron
+Neuron,pre-MSN,OCT6,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,pre-MSN(medium spiny neuron)
+Neuron,,SLC22A16,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,pre-MSN(medium spiny neuron)
+Neuron,medium spiny,TAC1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,ISL1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,EBF1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+Neuron,,hfb_G_000352,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D1-MSN(medium spiny neuron)
+medium spiny neuron,D2,GRIK3,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,D2,SIX3-AS1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,MSN,SIX3,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+medium spiny neuron,MSN,SP9,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,D2-MSN(medium spiny neuron)
+Early progenitor cell,,GSX2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Early progenitor cell
+neuron,GABAergic,GAD2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,GABAergic neuron
+Progenitor cell,Intermediate,ASCL1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Intermediate progenitor cell
+LGE-lineage cell,LGE-lineage,MEIS2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,LGE-lineage cell (lateral ganglionic eminence)
+neuron,medium spiny,CTIP2,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)
+neuron,medium spiny,BCL11B,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Mature MSN(medium spiny neuron)
+Medium spiny neuron,,FOXP1,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Medium spiny neuron(MSN)
+Neuron,,DCX,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,Neuron
+Neuron,pre-MSN,OCT6,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,pre-MSN(medium spiny neuron)
+Neuron,,SLC22A16,Human,Fetal striatum,Lateral ganglionic eminence,Normal,Normal cell,pre-MSN(medium spiny neuron)

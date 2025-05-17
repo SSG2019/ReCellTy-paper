@@ -1,0 +1,12 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD33,CD33
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD13,ANPEP
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD32,FCGR2A
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD15,FUT4
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD11b,
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,S100A8,S100A8
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,LILRA5,LILRA5
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,S100A1210,
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,AZU1,AZU1
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,PRNT3,
+Human,Undefined,Undefined,,Normal,Normal cell,Granulocyte,CL_0000094,CD15,FUT4

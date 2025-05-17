@@ -1,0 +1,6 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T helper cell,,CCR6,CCR6
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T helper cell,,CD3,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T helper cell,,CD4,CD4
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T helper cell,,CD45RO,
+Human,Pancreas,Pancreas,UBERON_0001264,Normal,Normal cell,T helper cell,,CXCR3,CXCR3

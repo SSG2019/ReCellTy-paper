@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Blood cell,CL_0000081,MPO,MPO
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Blood cell,CL_0000081,PRPRC,
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Blood cell,CL_0000081,CD74,CD74
+Human,Intervertebral disc,Intervertebral disc,UBERON_0001066,Normal,Normal cell,Blood cell,CL_0000081,LYZ,LYZ

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid cell,,CD15,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Myeloid cell
+Myeloid cell,,FUT4,Human,Lymph node,Lymph node,Hodgkin Lymphoma,Cancer cell,Myeloid cell

@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Red blood cell,erythrocyte,CD235a,Human,Blood,Plasma,Normal,Normal cell,Red blood cell (erythrocyte)
+Red blood cell,erythrocyte,GYPA,Human,Blood,Plasma,Normal,Normal cell,Red blood cell (erythrocyte)

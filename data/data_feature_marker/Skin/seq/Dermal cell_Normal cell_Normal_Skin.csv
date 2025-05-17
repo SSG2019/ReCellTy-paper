@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dermal cell,,SFRP2,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,TCF4,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,WIF1,Human,Skin,Skin,Normal,Normal cell,Dermal cell
+Dermal cell,,APCDD1,Human,Skin,Skin,Normal,Normal cell,Dermal cell

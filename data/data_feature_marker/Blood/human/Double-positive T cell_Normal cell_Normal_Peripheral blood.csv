@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,Double-positive,CD4,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell
+T cell,Double-positive,CD8,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell
+T cell,Double-positive,CD8A,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell
+T cell,,CD3,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell
+T cell,,CD45,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell
+T cell,,PTPRC,Human,Blood,Peripheral blood,Normal,Normal cell,Double-positive T cell

@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Fibroblast,CL_0000057,MYH7,MYH7
+Human,Muscle,Muscle,UBERON_0001630,Normal,Normal cell,Fibroblast,CL_0000057,MYH1,MYH1

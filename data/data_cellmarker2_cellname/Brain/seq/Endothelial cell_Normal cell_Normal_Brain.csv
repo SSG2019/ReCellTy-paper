@@ -1,0 +1,26 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,ITM2A,ITM2A
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,ADGRL4,ADGRL4
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,VTN,VTN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CDH5,CDH5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CD34,CD34
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,ERG,ERG
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,DCN,DCN
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,PECAM1,PECAM1
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,CLDN5,CLDN5
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,GFRB,
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Endothelial cell,CL_0000115,FLT1,FLT1

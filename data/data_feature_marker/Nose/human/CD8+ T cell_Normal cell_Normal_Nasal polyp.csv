@@ -1,0 +1,8 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+T cell,CD8+,NCR3,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD160,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,ZNF683,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMA,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,CD96,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMB,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell
+T cell,CD8+,GZMH,Human,Nose,Nasal polyp,Normal,Normal cell,CD8+ T cell

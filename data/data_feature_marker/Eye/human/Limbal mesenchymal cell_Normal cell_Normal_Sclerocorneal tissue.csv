@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Limbal mesenchymal cell,Mesenchymal,CD105,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Mesenchymal,Vimentin,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Stem/Progenitor,CD34,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell
+Limbal mesenchymal cell,Cell adhesion,N-cadherin,Human,Eye,Sclerocorneal tissue,Normal,Normal cell,Limbal mesenchymal cell

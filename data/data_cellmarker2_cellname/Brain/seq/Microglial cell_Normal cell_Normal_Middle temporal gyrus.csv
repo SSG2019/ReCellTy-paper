@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Microglial cell,CL_0000129,TYROBP,TYROBP
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Microglial cell,CL_0000129,C3,C3
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Microglial cell,CL_0000129,CX3CR1,CX3CR1
+Human,Brain,Middle temporal gyrus,,Normal,Normal cell,Microglial cell,CL_0000129,CSF1R,CSF1R

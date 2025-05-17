@@ -1,0 +1,3 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In1,CL_0000540,SDK2,SDK2
+Human,Brain,Brain,UBERON_0000955,Normal,Normal cell,Lake et al.Science.In1,CL_0000540,CNR1,CNR1

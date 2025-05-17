@@ -1,0 +1,7 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,CD83,CD83
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,CCRL2,CCRL2
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,TNFRSF9,TNFRSF9
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,TIGIT,TIGIT
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,CCR8,CCR8
+Human,Lung,Lung,UBERON_0002048,Non-small Cell Lung Cancer,Cancer cell,Tumor-infiltrating regulatory T cell,,ICOS,ICOS

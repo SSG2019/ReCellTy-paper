@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Limb cell,Descending thin,Pax8,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb cell
+Limb cell,,ITGB6,Human,Kidney,Kidney,Normal,Normal cell,Descending thin limb cell

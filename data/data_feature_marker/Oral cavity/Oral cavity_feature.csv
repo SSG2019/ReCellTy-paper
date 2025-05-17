@@ -1,0 +1,55 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Epithelial cell,stem,P63,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Buccal epithelial stem cell
+stem cell,Cancer,SOX2,Human,Oral cavity,Oral cavity,Oral squamous cell carcinoma,Cancer cell,Cancer stem cell
+stem cell,stem,SOX2,Human,Oral cavity,Oral cavity,Oral squamous cell carcinoma,Cancer cell,Cancer stem cell
+Cancer cell,Stem-like,SSEA-4,Human,Oral cavity,Oral cavity,Oral Cancer,Cancer cell,Cancer stem-like cell
+Cancer cell,Stem-like,CD44,Human,Oral cavity,Oral cavity,Oral Cancer,Cancer cell,Cancer stem-like cell
+T cell,Cytotoxic,CD8A,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Memory,CD44,Human,Oral cavity,Oral cavity,Normal,Normal cell,Effector memory T cell
+Epithelial cell,,E-cadherin,Human,Oral cavity,Oral cavity,Normal,Normal cell,Epithelial cell
+T cell,Exhausted,CTLA4,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAYN,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIGIT,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Memory,CD103,Human,Oral cavity,Oral cavity,Oropharyngeal cancer,Cancer cell,Memory T cell
+T cell,Memory,ITGAE,Human,Oral cavity,Oral cavity,Oropharyngeal cancer,Cancer cell,Memory T cell
+T cell,Memory,CD44,Human,Oral cavity,Oral cavity,Normal,Normal cell,Memory T cell
+T cell,Memory,CD62L,Human,Oral cavity,Oral cavity,Normal,Normal cell,Memory T cell
+T cell,Memory,SELL,Human,Oral cavity,Oral cavity,Normal,Normal cell,Memory T cell
+Mesenchymal stem cell,,CD105,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD90,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,STRO-1,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,CD34,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Mesenchymal stem cell
+Mesenchymal stem cell,,THY1,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Mesenchymal stem cell
+Myeloid derived suppressor cell,Myeloid derived,Gr1,Human,Oral cavity,Oral cavity,Normal,Normal cell,Myeloid derived suppressor cell (MDSC)
+Myeloid derived suppressor cell,suppressor,CD11b,Human,Oral cavity,Oral cavity,Normal,Normal cell,Myeloid derived suppressor cell (MDSC)
+T cell,Naive,TCF7,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,SELL,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+keratinocyte,Stem cell,CD71,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Oral keratinocyte stem cell
+keratinocyte,Stem cell,TFRC,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Oral keratinocyte stem cell
+keratinocyte,,Integrin alpha6beta4,Human,Oral cavity,Oral mucosa,Normal,Normal cell,Oral keratinocyte stem cell
+T cell,CD4+,Cd4,Human,Oral cavity,Oral cavity,Normal,Normal cell,Regulatory CD4+ T cell
+T cell,Regulatory,Foxp3,Human,Oral cavity,Oral cavity,Normal,Normal cell,Regulatory CD4+ T cell
+T cell,Regulatory,CTLA4,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,FOXP3,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Cytotoxic,CD8A,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMA,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Cytotoxic,GZMK,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Cytotoxic T cell
+T cell,Exhausted,CTLA4,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,PDCD1,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAYN,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,LAG3,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,HAVCR2,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Exhausted,TIGIT,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Exhausted T(Tex) cell
+T cell,Naive,TCF7,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,CCR7,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Naive,SELL,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Naive T(Th0) cell
+T cell,Regulatory,CTLA4,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Treg,IL2RA,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell
+T cell,Regulatory,FOXP3,Human,Oral cavity,Oral cavity,Oral Squamous Cell Carcinoma,Cancer cell,Regulatory T(Treg) cell

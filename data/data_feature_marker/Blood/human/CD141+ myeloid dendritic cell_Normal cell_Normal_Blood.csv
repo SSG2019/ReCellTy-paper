@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Myeloid dendritic cell,CD141+,CD141,Human,Blood,Blood,Normal,Normal cell,CD141+ myeloid dendritic cell
+Myeloid dendritic cell,,CD11c,Human,Blood,Blood,Normal,Normal cell,CD141+ myeloid dendritic cell
+Myeloid dendritic cell,,HLA-DR,Human,Blood,Blood,Normal,Normal cell,CD141+ myeloid dendritic cell
+Myeloid dendritic cell,,THBD,Human,Blood,Blood,Normal,Normal cell,CD141+ myeloid dendritic cell

@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Lymphocyte,CL_0000542,sTIL,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Lymphocyte,CL_0000542,PD-L1,CD274
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Lymphocyte,CL_0000542,CD8,CD8A

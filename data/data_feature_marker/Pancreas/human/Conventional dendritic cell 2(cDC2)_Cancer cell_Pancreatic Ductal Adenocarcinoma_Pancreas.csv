@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Conventional,ITGAX,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,Conventional,ITGAM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,ITGAX,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)
+Dendritic cell,2,ITGAM,Human,Pancreas,Pancreas,Pancreatic Ductal Adenocarcinoma,Cancer cell,Conventional dendritic cell 2(cDC2)

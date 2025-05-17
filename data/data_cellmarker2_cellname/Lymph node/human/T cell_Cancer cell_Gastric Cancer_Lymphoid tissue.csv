@@ -1,0 +1,4 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Gastric Cancer,Cancer cell,T cell,CL_0000084,CD4,CD4
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Gastric Cancer,Cancer cell,T cell,CL_0000084,CD8A,CD8A
+Human,Lymph node,Lymphoid tissue,UBERON_0001744,Gastric Cancer,Cancer cell,T cell,CL_0000084,CD3D,CD3D

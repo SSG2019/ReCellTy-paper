@@ -1,0 +1,6 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Goblet cell,mucus production,MUC2,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Goblet cell
+Goblet cell,mucosal protection and repair,TFF3,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Goblet cell
+Goblet cell,regulation of protease activity,SPINK4,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Goblet cell
+Goblet cell,innate immunity,ITLN1,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Goblet cell
+Goblet cell,,HES6,Human,Stomach,Stomach,Gastric Cancer,Cancer cell,Goblet cell

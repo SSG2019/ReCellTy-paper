@@ -1,0 +1,3 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Monocyte,,CD163,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Monocyte
+Monocyte,,CD68,Human,Bone marrow,Bone marrow,Colorectal Cancer,Cancer cell,Monocyte

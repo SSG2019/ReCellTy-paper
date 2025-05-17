@@ -1,0 +1,7 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Dendritic cell,Inflammatory,SIRPα,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell
+Dendritic cell,Inflammatory,DC-SIGN,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell
+Dendritic cell,Inflammatory,FcRγ,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell
+Dendritic cell,Inflammatory,CD64,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell
+Dendritic cell,Inflammatory,CD14,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell
+Dendritic cell,Inflammatory,CD209,Human,Kidney,Kidney,Normal,Normal cell,Inflammatory dendritic cell

@@ -1,0 +1,13 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD29,ITGB1
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD49f,ITGA6
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,P63,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD44,CD44
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD49f,ITGA6
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,EpCAM,
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD24,CD24
+Human,Breast,Breast,UBERON_0000310,Normal,Normal cell,Progenitor cell,,CD49f,ITGA6

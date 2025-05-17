@@ -1,0 +1,4 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Endodermal cell,,PAF1,Human,Embryo,Embryo,Normal,Normal cell,Endodermal cell
+Endodermal cell,,SOX17,Human,Embryo,Embryo,Normal,Normal cell,Endodermal cell
+Endodermal cell,,FOXA2,Human,Embryo,Embryo,Normal,Normal cell,Endodermal cell

@@ -1,0 +1,5 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Glutamatergic neuron,CL_0000679,CTIP2,BCL11B
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Glutamatergic neuron,CL_0000679,OTX1,OTX1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Glutamatergic neuron,CL_0000679,TBR1,TBR1
+Human,Skin,Skin,UBERON_0002097,Normal,Normal cell,Glutamatergic neuron,CL_0000679,NMDAR1,GRIN1

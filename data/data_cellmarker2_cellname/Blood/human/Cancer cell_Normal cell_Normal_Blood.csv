@@ -1,0 +1,14 @@
+species,tissue_class,tissue_type,uberonongology_id,cancer_type,cell_type,cell_name,cellontology_id,marker,Symbol
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,TSHR,TSHR
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,Bfl-1,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,Bcl-2,BCL2
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,Mcl-1,MCL1
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,Bcl-xL,
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,CDKN2A,CDKN2A
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,PIK3CA,PIK3CA
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,TP53,TP53
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,MYC,MYC
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,FBXW7,FBXW7
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,CD163,CD163
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,CD147,BSG
+Human,Blood,Blood,UBERON_0000178,Normal,Normal cell,Cancer cell,CL_0001064,CD68,CD68

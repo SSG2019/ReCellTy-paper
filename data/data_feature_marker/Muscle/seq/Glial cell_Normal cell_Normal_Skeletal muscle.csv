@@ -1,0 +1,5 @@
+broad_cell_types,feature&function,marker,species,tissue_class,tissue_type,cancer_type,cell_type,cell_name
+Glial cell,,Mbp,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,S100b,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Kcna1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
+Glial cell,,Plp1,Human,Muscle,Skeletal muscle,Normal,Normal cell,Glial cell
